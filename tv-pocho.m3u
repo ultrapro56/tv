@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello en la legion extranjera (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sTLCpmqd6gWWbZ4cps9UkTKiN.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello en la legion extranjera (1950)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Vuelven los reclutas (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSp2sMdtEq3bVp2sU5FSOaGZPDG.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello: Vuelven los reclutas (1947)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Los cabezudos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9UqzbJFpQyvo34CdDOAZtuudLO.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello: Los cabezudos (1945)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Dos locos tras un fantasma (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYI4gJvYt0zPdALsFcLxFMhuUBk.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello: Dos locos tras un fantasma (1941)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más vivo que muerto (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="→ VOD CLÁSICAS ←",Más vivo que muerto (1954)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tú, mi conejo y yo (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPAFgEl0GFeLg7mNWRNhOD4t9JS.jpg" group-title="→ VOD CLÁSICAS ←",Tú, mi conejo y yo (1958)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Bocon (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3I4kcAH8colH2eEzziKCtXOsknC.jpg" group-title="→ VOD CLÁSICAS ←",El Bocon (1967)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Artistas y Modelos (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jx2gS2xCmxgERLcefhOFayqYTR.jpg" group-title="→ VOD CLÁSICAS ←",Artistas y Modelos (1955)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zeta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="→ VOD ESTRENOS 2026 ←",Zeta (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: El hombre inmortal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="→ VOD ESTRENOS 2026 ←",Peaky Blinders: El hombre inmortal (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280424.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Terror En Shelby Oaks (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wsPyClttMEpQhAskpfMiaCSin.jpg" group-title=" → VOD ESTRENOS 2025 ←",Terror En Shelby Oaks (2025)
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Gran George Foreman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg" group-title="→ VOD DRAMA ←",El Gran George Foreman
@@ -26910,7 +26930,7 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="TVN 14 | CR" tvg-logo="https://cdn.m3u.cl/logo/1050_TVN_14.png" group-title="→ GEO CHILE (REGIONAL) ←",TVN 14 | CR
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Camara de Diputados | CL" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="→ GEO CHILE (REGIONAL) ←",Camara de Diputados | CL
-https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CEAC TV | CL" tvg-logo="https://cdn.m3u.cl/logo/442_CEAC_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",CEAC TV | CL
 https://videostream.chileservidores.com:8081/ceactv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Corcubio TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1515_Corcubio_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Corcubio TV | CL
@@ -66105,84 +66125,58 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/246116.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/246117.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! Los ases del vóley S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR9y6L64r2xBHhFDsZbz7dy0kSE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Haikyuu!! Los ases del vóley S04 E25
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/246118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKFX6cHu7RZTCLXDICeRHenU8qO.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGeVJ7MENXPKs0GNu4fKit9iA57.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RV9xB6Y8hSZuMT8uPk7zj6TKKv.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTBzXbO88oYEzWL3KFjMWsGewRg.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Wu00trPZep0Tm7xpG0fDpgbqN5.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Z02rShIcjIgpmYAIvk8UwoibxP.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280528.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEStyNQfX2wOHTqI4YaO6EdMxQ5.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235333.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280529.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msL3q7bcc14vLiC16eE5XnM2BVg.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235334.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280530.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyLwrAYbNgPCmwe46AlZqGICi2U.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAEm2TFFpWfPYtBJyWb8Iqaq4rJ.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijfxNhofd31bEWN2ebuiDZh9xl1.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf0E1EPeGL1I6W9SdNyhTcoOVac.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR2jvkZiiP9TQANfAuspADMAO63.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BfNno3zpPDwBgVqYgdR0Caf2ea.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DpyQcNaAHZIFA73CioNst7ANh8.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sK9eHALiYki3hPfaxkAIWMDP2ag.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVaUf3eTFH3ax2qIhTXDENMHpfh.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235246.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae1XuoT1aonit4Vp2Rn5ReJY9Lc.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lFn3zp4oZVFxtzXGO8WFLiqJX4.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/briMo1Z4UTtZxtr6ZYy4dmgKy0h.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UD1lkdColnnTJj4WpFbmbBLlw8.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtDoQXkyWekMSKRRucoIAJmkKwQ.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWJh0I29IpMvX2UApE6J6JZ7cqD.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH4LSdPGtttJy1IUYOmDN5aDJ5O.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S01 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3NlwVAkJlHgzx7kNZAVNv4QQDK.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280539.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFqJ887LBX6ZbQEMxE13XYNBYFb.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235247.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAMG3j1HtPhmQ9t1agp9RVSB7qL.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCvJydodAo5ztJhO7mzLf6D9jo9.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235249.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1TcNMdDyJ9xno9kjw8nU7eVoOw.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280542.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iOlxshi7yjQ1WYu8hbRuyioyjZ.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235250.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280543.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkcKOXRC7Gt3sDb8dTr45ByZJL6.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxBoMDitotslzxVv7sW69E3OfqM.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235252.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPIBhLfEuBOHAFi71QfO80BcI4R.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280545.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLdSl33cCLbs1h29gJuTGwdF4LG.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5VYtC2Q8FiHr65lFaSHOMHM2Ri.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235254.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygPoSFE0EseTNcYgiXADyWJJBGA.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280547.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6li2Yp91Xiit9o1H7j0UFNcITMG.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235255.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYiKeU5y3uGzqqiyaoim8Jk6lHy.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsO5cXmjJGYUZWVDocBI3CIM6.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCUIr5qi53vwxZCB0mN73BSUhfZ.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebVGlE5oI4hSG7p1kr3rJXzjqKn.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFVeL4NRixEffG1DqxDG6gnngHb.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZm7AZN8kwpYcU3vNPkwOkTL2eA.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB0vkLn46v46kwtSJhN78hY3tmN.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a30Y5Np6m7N4GRhfzi85UwWVWc2.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emFD7mlPGL0ehsNSjqDt5erQeFm.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opMOuIhTgH7TtyNfNlCUi0PHI6C.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKni6yy4Apmocz03ydS1mnaU9GD.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVUqkB0ndeS6YssdOQz5v8oS5J0.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcA3O9qUfnL50bl37Jp2ABDhekm.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ElfdLFOhw8bQAYQnnQ887QDpjS.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BMzW9ah37EtpMA4cmMxel19PRy.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/X4WND6NGPSWkUc7RoFBow0JgJg.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S03 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/235271.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SHSA00Tam1B6NQvV6QRCTvCyPX.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjHLN4e9jEPC3iwjZnLefSQd0hk.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal S02 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280551.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr8OEa0GzjZ0qmD9NuuMj6TRWxF.jpg" group-title="→ SERIES STAR WARS ←",The Mandalorian S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/28817.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8y9qAq2ZdU27Ua1lJxyNQbmzQE.jpg" group-title="→ SERIES STAR WARS ←",The Mandalorian S01 E02
@@ -70461,6 +70455,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/268383.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280240.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8h9zWfuKmVOXjWu7ouhjk5PHEhj.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E02
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fXYG11V3Bjh9ARLt163OfUUcm41.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280459.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -128987,6 +128983,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280192.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280266.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/oBucYNits0Gfcj7woacTXAEwJFq.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E10
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/8mcAB06OxqbOabiDWGXQ8sqJnxn.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280460.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -135121,12 +135119,20 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280391.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280392.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1oUWBp9C19nBVOVAmx40e8x3Ud.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E03
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rzHsW0sJpDwTNjlyopZJf1fW1AQ.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280473.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGj7VEHhYjPjdFqGmRWMc4JjbQc.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E03
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL3g0vCLPUb5JHpmcpI1RnzXoWA.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysEoZIOZqmHdAgv13pIVXjKlr0w.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ct9GmO8Bg0SHxdxgCLqla69TmS.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mentes Extraordinarias S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIBKMyNQMNu4YTROtQZrnzq0l0Q.jpg" group-title="→ SERIES DRAMA ←",Mentes Extraordinarias S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mentes Extraordinarias S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Sp41kTEH5L6GTgGX6VlC0038E.jpg" group-title="→ SERIES DRAMA ←",Mentes Extraordinarias S01 E02
@@ -135181,3 +135187,191 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280421.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mentes Extraordinarias S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6GV8AGEu9tz7yzWQTRe9TEOwZn.jpg" group-title="→ SERIES DRAMA ←",Mentes Extraordinarias S02 E14
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMVghz4Iz8AvwvNsSoDfhRrSsrF.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH6vVMcNJOKvm4KQ6ZSUpvGvlmx.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDbHD6Jcaw53Nk0Z3MdHeIC9CNJ.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pq24k6T9yvX8HlmxW6OuGQNbnVf.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0hBRGv0CBhAGzZ5PR6f8GKaE9W.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3ZlUJ4mwyvkSXj99GVADLr5E9m.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PtDy48CtxaIKv962wPyBemjuht.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9o5JfIOdumwRo2kOIMUHAn2q2a.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah9pZ3A4aSbPfkp4hgX5YS8p5ja.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lv2RcFtcjGFONJPIAopwRTH0l2i.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tF5HzBaVQBnlEz0M9hfBoCM1XjZ.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geWwcBlYPuz7LtCKjTTzvd2LaLT.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxOFIQpsuNBzd9tO6mr2pAwVjLT.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gq4OXX2fxmvJz1OJ8xJXMZ4SOe.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7NAAJ7VoGty6dN1dwKv2x7kpV.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E15
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpH2FzVwMKia0KL8CdMHn6vsZJD.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E16
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5JBMok0D9xiEdzJ0iUBUhLzUg.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E17
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mqXfFtuhivgoeh7oEI9wRApmWc.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E18
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te06WxJfkrvrUsn8q0IleTm3tZw.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E19
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O11CE: Nueva generacion S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47pkUo39KbRJGE4uvEsetOMZgUC.jpg" group-title="→ SERIES DRAMA ←",O11CE: Nueva generacion S01 E20
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY82MnqyJESqY6fj946XUvELVM1.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quNBz7OuhSa8fSpQ1qJGU92kcFa.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJsw73NWYg6OqYJIKvA7u6G6YSb.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Mz1dPauQVl8bnah03EcLD9hc2.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0cKneKf4BjXq22sYdlKfF9vYme.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fJvsucEPBYJIvrTdiSDOarFvoc.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czSqlgAnsPxfBgHAF3YfiDeQ5pA.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQFHvqKR5YwXkAioh28l93NHYOR.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vpHh2AQkLpExps02IaWi9QCskW.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIz8tmp4NTVH374G0XZ7B9WJhAM.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6g535eaNAnXtXblivTjJJcY8Tk.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMEj4JnaLsmCZMbxFzyEFj9E64A.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPhzsVwhXWB6ItIKYnKPu1Vnche.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn0wxa3SM4CkZDSM9tx6JSV329s.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAhsShxHcSuTJGasrAY8cZcv1W8.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tARoaEmon0NA9yLHkzcIgIn2Nyr.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh75suatKoUV4BvzyRaj5Zjwluw.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euAiancCJQ95BsyiE7i5yfk8ksh.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klpe5lfPvjviZndJCpnVgMycb7v.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating Naked UK S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oKVnqpuMJMfCgliNcMbgNOAKHx.jpg" group-title="→ SERIES REALLITY ←",Dating Naked UK S02 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sGXisgm3rp408yz2NOdNpoQxVC.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHEj8sZpFfUTBlJQyuHnyWvL96.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0971p5oRLzFpjhMj3c0EcMJUc.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XuzOKmv7VHwOmcLXMAozueZvae.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tsdQXVrMW1nnsD4WG1SADNouBw.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FViPsOStVgn05Thor7bmP0KR2M.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ICMwhmLzod7nb5ruBqt8g0Pcuv.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyIDHNybdj2XTrcHBEOlY71jrRx.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddnGrgyU22w0AbHkFYSTVO2WTsQ.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG1sDUfDGaJBCjIU1TVzeBaEBly.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AgB2jcdZI6jxe4BYjq2LLwZQOd.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5uxv8utLw8HJzRpVQjDiCWHru5.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S01 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3hlbFcGXmPxZ0Og1XbmlWupKmr.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82CuoVT18TVwbwvbHLMehJObfwX.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyx41nlPhqgnbyeAY5mVjAMtBkJ.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elOUVqfbticgjYJ2VCQfCTvnUz9.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p8bvkEJUQzCuFxYJuoW7k2mJrK.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/px3Xsdyzv0NWnwvCLYpnNziYbRv.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcH7kYUcpdsfC1zIbFhb8B3u1Er.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/908bAZ0q2qQn19fHk7fppjPqzyz.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aam2hLDjSerDF4l2uEgTLoQGy2j.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vounLuU8ouZAEQo1Fh0E3xs71vy.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qItpJNVdbKbthGGpjsEp8l0jqXe.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n4CW6wO9RXdP8qBZZo7ty7rJgH.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZoGEhwIQzAIZeJ7XlgjV9LAuRO.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qicUJJUptke2GqvPsCIPpkhGeQJ.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suZyi1yu114HKx2eCinpzEtM53i.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTBNrHmbHXlysKVAJiYjRPX6knE.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXywA762FppJeWv79Qe76rSL6vm.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8IVuhQcCN82EboDCnyqUZLRgMV.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qB63VJo6mCIMxW7851leAyudi7A.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv8Jm3xvY48gDE4KAQvp3uXaxRG.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6219S4pTsDqSqRcQIn1Uwrw79Bd.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBiakNOh6EQlcCfdfx5R7vlip6c.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk67a926ZNqi5zA1Q8ZaLrVhwhZ.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBpf6v0DlZhiLAQnmIOVuecmM8i.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Animal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g858dgA1toDfTKC5J8bMr6CJbeA.jpg" group-title="→ SERIES DRAMA ←",Amor Animal S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caza S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TKpydZl4po4UzTTMMY5dJu3Gka.jpg" group-title="→ SERIES MISTERIO ←",La Caza S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caza S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI1HLe7s1LhMrizlN7EfaTTaYbQ.jpg" group-title="→ SERIES MISTERIO ←",La Caza S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caza S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YccVPtyTKaOnjgoJUtrdG5oktT.jpg" group-title="→ SERIES MISTERIO ←",La Caza S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caza S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3JOM4Z3u741XyYZSi2ijpGD8Tm.jpg" group-title="→ SERIES MISTERIO ←",La Caza S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caza S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YoIsjwOTBZZXPKY9iejFZIBBJl.jpg" group-title="→ SERIES MISTERIO ←",La Caza S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj0jUDKN0mh7nmiuDuz2S49gbb5.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v81pc1xofTsh0obnDlDSlwzmCFE.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDlphbAh5rkqBOpE324dDJDfyWB.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suUqJT48eyZVlzVqPpBzYfiWfMB.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5QutY5PKV1x83mIU1ozwD9dyHC.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day One S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQVP2bZWKN8W5BtWlBC9bvP8OQN.jpg" group-title="→ SERIES MISTERIO ←",Day One S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3odfD6gJ2kUdtibBDW24zAXH3QA.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDbbOED1fhvynLkskmNbIRQ2bSJ.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tys7UadpsWphYYNu61vKYVaIHaP.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0E10UD6lg0AITUd2Lt0WUFbS7Z.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poqSulGK91f2xZ19BqRHZMAWXnp.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fc3m2rr0CrWAvVIYKhbrHTW1co.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280525.mkv
