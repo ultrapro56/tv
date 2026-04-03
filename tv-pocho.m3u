@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La Empleada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Empleada (2025)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Gates " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title=" → VOD ESTRENOS 2024 ←",The Gates 
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GOAT: La cabra que cambio el juego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg" group-title="→ VOD ESTRENOS 2026 ←",GOAT: La cabra que cambio el juego (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoppers: Operacion castor (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="→ VOD CAM 2026 ←",Hoppers: Operacion castor (2026) CAM
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La película (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLQQMO77ohibggTKV6wmFs5LHYf.jpg" group-title="→ VOD CAM 2026 ←",Super Mario Galaxy: La película (2026) CAM
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La línea Roja (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jZkzmwSLaWO7GTWVjUsmv2SR9F.jpg" group-title="→ VOD ESTRENOS 2026 ←",La línea Roja (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Familia en Renta (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title=" → VOD ESTRENOS 2025 ←",Familia en Renta (2025)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280629.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello en la legion extranjera (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sTLCpmqd6gWWbZ4cps9UkTKiN.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello en la legion extranjera (1950)
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Vuelven los reclutas (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSp2sMdtEq3bVp2sU5FSOaGZPDG.jpg" group-title="→ VOD CLÁSICAS ←",Abbott y Costello: Vuelven los reclutas (1947)
@@ -70457,6 +70471,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280240.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280327.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fXYG11V3Bjh9ARLt163OfUUcm41.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E03
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E04" tvg-logo="https://image.tmdb.org/t/p/w300/705EXv85CfCSzlpRRqpfJj3haL5.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -128571,6 +128587,14 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280082.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9QoOxChrNBAZJmVXzDRIO6sxBn.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E03
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUP9sQh2QjuRMgirHjlT1bwrcMs.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMnJk4u9bWv1wod1uxfavauIISC.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h77tf4UGMJ2YtHCc1tsYlOJ5TP.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFpe4QW3WSZ28BzJdZSIlAH1xpx.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280626.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como sobrevivimos a la caida de los Black Hawk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDIO9Q6MeRd05gt4JhnRvuUxoL8.jpg" group-title="→ SERIES DOCUMENTALES ←",Como sobrevivimos a la caida de los Black Hawk S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/269738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como sobrevivimos a la caida de los Black Hawk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezmW0AGvTsfKiZd0sPYGgzDDkVz.jpg" group-title="→ SERIES DOCUMENTALES ←",Como sobrevivimos a la caida de los Black Hawk S01 E02
@@ -128797,6 +128821,22 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270316.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270481.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de David S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/udPfaAUmwWq9qsKvPzOfWEggNqT.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S01 E08
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujcDC7heYVkfZQeVDFji1Die1Gf.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVDKSvwPxijPz4r73IDVOsDwaXm.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A8aBMeWMl9mqiPTstRRP3xHKEK.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iodxOU5SrSn40OuAIXG9EOdFNJC.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qHL4nKf0SkCChtJIJ9eQIf76KU.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ernzv98sMufj0H0DqUs9bneTsf.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQethU8a1X4RQTaB1yvbPb1NB8q.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de David S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJBqDF1nlcGyxqd2n2GdpphnMHC.jpg" group-title="→ SERIES DRAMA ←",La Casa de David S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280654.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ciudad Toxica S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugrzNwG59m461v9z3iHvD8aNRHw.jpg" group-title="→ SERIES DRAMA ←",Ciudad Toxica S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ciudad Toxica S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gljH8SCAABPu6ipr5yF1GaGBrIj.jpg" group-title="→ SERIES DRAMA ←",Ciudad Toxica S01 E02
@@ -128849,6 +128889,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270558.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/271035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/eHXQQHgvw4aW39BfXQnnIMLxzVS.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S01 E09
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/271036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hxZQi3iq4IC8K7EBd4ez2W0OQPO.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280630.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -128985,6 +129027,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280266.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280340.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/8mcAB06OxqbOabiDWGXQ8sqJnxn.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E11
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/1OPE9Cx6ZX2bAYBkuX6m7xz7JOv.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -134905,6 +134949,10 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280038.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Memoria de un Asesino S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qNihVzNnjqpdBXmZpGCpoKLzWly.jpg" group-title="→ SERIES CRIMEN ←",Memoria de un Asesino S01 E04
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memoria de un Asesino S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mBDiqOENawZqjcwWCHUhNxkqGLH.jpg" group-title="→ SERIES CRIMEN ←",Memoria de un Asesino S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memoria de un Asesino S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1z9rVR3iQ0I1SoNaEyiW1ATQTRH.jpg" group-title="→ SERIES CRIMEN ←",Memoria de un Asesino S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="B Franklin S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyHTAPQqGJEOjuqHHDiqxDw56hO.jpg" group-title="→ SERIES DOCUMENTALES ←",B Franklin S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280140.mkv
 #EXTINF:-1 tvg-id="" tvg-name="B Franklin S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDXrjmwWrRrwVx0W3H2k3Klozua.jpg" group-title="→ SERIES DOCUMENTALES ←",B Franklin S01 E02
@@ -135121,6 +135169,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280392.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280393.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rzHsW0sJpDwTNjlyopZJf1fW1AQ.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E04
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280627.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135375,3 +135425,171 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280523.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280524.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Señuelo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fc3m2rr0CrWAvVIYKhbrHTW1co.jpg" group-title="→ SERIES COMEDIA ←",El Señuelo S01 E06
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zZDHQh6akGxNFz02nMIZatpMm6.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckzEnRO7TSlWwLtxnJCtXtj6S8v.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYeYLNYPwK5DtcwoNLbCz9VrbWH.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEbx8d1Pla6of5w3Vqcj8VkLYdE.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tutBDVo87Vj33WnDpoqvqAfJ4lJ.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpTU97YPaJ2JW3ah2PLzwyxIxPx.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fi8idajQ7BZgECBFnjQLKBvZeH.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0pooFhjQrlw4MN5utBmWOYBWhV.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpbD03BDkgoFLDE3Xw5PngwcYTx.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8viWOfQkQGmLbCo0UBRLelxib0.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWg0eQfP8iITWTOhrP8MbQA61Jx.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfw2rY7TJ2pPk830VGwMN10cagA.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLRm3gzKdLpYObV10NzxnAgpT6L.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY5sxKkSPK4LRDN34kBqmxhRg77.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0NiNiwwfjSjty4rdnaMUlmIpNG.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TNW5NlXhAOBH6ILi26W3qpqojO.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0UX8UxYJ4XJzFTymc9EzYhIVfM.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epvKfi3AriNC88W4uJdKH5vDPmX.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifV6V4Dudd2z0SOol1oSDKu7EFa.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctPbGNoBTJOxW0Ki81TmwLV4UYz.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S02 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1zze6DwsofZj9PrF0mxIkIyUD3.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWnij4w9fEStcHc0whuE8qVzTni.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJYCfGG6zx3mrnRBiQSgvBfPprj.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk5JFV31dlNPzvHtAsPRkygoG6z.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBX8WDQ50Kce2Gs5qoCtop9pdK1.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OLrC8uES0zHsHYzy3vg7ajvJos.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxLCy7ZeudPBGtcjffDrZ4wXMaJ.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfxm69ptnBnXNA2Xzi0YQVLliuO.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qio1BC7pfLiT9oH4AsaKHxhs9s8.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlZG0aoGhHZBxJw64KnAtczYej6.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBgaGwBArZfSi6UrCOj20ypKpdR.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUaoXngc10IyhDCbvFPkoaqiApv.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj9UrlbAHUZBOVL03M6DdNx2Vr7.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pplol4TLz9bTt0a7lF2K1vYkef5.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8SCzCmPvRqO3PWpK2jhzrpQZtu.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S03 E15
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXsyMn1P8LUmdL6Z3HNSZ7wzSS1.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntvezwAfE3CyCzwAvOrR8FALvkH.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4D9W2ozSns3EuJUF3UfXsbXK3s.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26ZFlJW5URVTT836ykMHk7jelRB.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nSCkj7oGxBByLDNI2UoZcS4j94.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TiBSU4jACBXGh2NslGUuNNpiMz.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pt3S7qEXMjdaxBAi3qSh6MCwuw.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwx8EO0gJp158MUJXsKlifeN2Ec.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZv5bsgCqcVLiHdJppqu18QkPJy.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcptCsbdYCRHcWkRNGvVuypDPxd.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv4YnKi1S7b7JueC1H8Y8aFqMj.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpZmr0ewMfTztyXsKyy46ETOK4r.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMt4WLTGGvrU0OUQSClHzqxdIiV.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrz2RjiXvbO5ENo5ZcxB57JKW1B.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S04 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7tTbDsTK4UGYP4XXPc68F4BUXd.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/katv3R9tLUugQ1emgJgmLVPwOEX.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiT6kLYQi31BzlMYEzHHhHoDdUs.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g136EgjDFbZffM2D5EB2hJw2Uuh.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnJgrQbSQ6kZgN5rmFKWwWIneSz.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9fokk0VU0JAtQoq26ZTcw5opyM.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng2CXR8Ks3o3e30umOYa7CMwlTx.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejmiu6z4ByJrnL3Eww6dI8C09E.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NNMNZDTvyWn9C2btraxeceyjKE.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBiSKSkdPsv9RXCKmx9OwRRnlsn.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDhPEugk0cMQH0XPjkUGbddBjnH.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGAI9PKukSJ3aj844SsQ27oOghO.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz de Luna S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mOuK7qSq7og28fzcISTpflpMaA.jpg" group-title="→ SERIES RETRO ←",Luz de Luna S05 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2533cnUAaL8kG6nkEDuRx9GxRwu.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2533cnUAaL8kG6nkEDuRx9GxRwu.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5FFNrsTla7ELj6nmkX6HLNfJyO.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5FFNrsTla7ELj6nmkX6HLNfJyO.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HMuBO9STesYoDizRWZu6vv27gn.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HMuBO9STesYoDizRWZu6vv27gn.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DHCTYU31D5RZlz1CnNsu0IuJyb.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DHCTYU31D5RZlz1CnNsu0IuJyb.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4KfdlG9FkV4CW87zan6xGqbOr.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4KfdlG9FkV4CW87zan6xGqbOr.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIkuAWlEY9tC8QAFFcATecSotYH.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIkuAWlEY9tC8QAFFcATecSotYH.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPn6hDx51YHUUDpvRLl2ZMhL7dm.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPn6hDx51YHUUDpvRLl2ZMhL7dm.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPAiz3wS3b7F8B4xe2V52MPjHrg.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E15
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo terrible esta a punto de suceder S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPAiz3wS3b7F8B4xe2V52MPjHrg.jpg" group-title="→ SERIES MISTERIO ←",Algo terrible esta a punto de suceder S01 E16
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSVYQYsKbXjLIsoWasKhByyVw1Q.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1FFrSKNiwx9UK6v1PuSYQxZqxY.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAhgSOlZQrYjGWV4r60EtHEXDHR.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUfutgl5WOX8RTnSrTsR3sxgYng.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0NAoDEXIxyWIgx1IWTAongFMWh.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyrmfyNvpL9KmDU080f420843CD.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280668.mkv
