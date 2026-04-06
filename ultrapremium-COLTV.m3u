@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="COL• CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »1«
+#EXTINF:-1 tvg-id="001" tvg-name="001-COL• CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »1«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/331
-#EXTINF:-1 tvg-id="" tvg-name="COL• CARACOL (HD) »3«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »3«
+#EXTINF:-1 tvg-id="002" tvg-name="002-COL• CARACOL (HD) »3«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »3«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/333
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="CANALES",COL• RCN (HD) »1«
