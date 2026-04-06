@@ -22,7 +22,7 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/326
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/330
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELECARIBE (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="CANALES",COL• TELECARIBE (HD) »2«
 
-#EXTINF:-1 tvg-id="" tvg-name="NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
+#EXTINF:-1 tvg-id="" tvg-name="NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="CANALES",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/680
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• PASIONES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANALES",COL• PASIONES (HD) »1«
@@ -105,24 +105,24 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/363
 
 
 
-#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",La Hermandad Salsera (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Reyali.co" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="CANALES",Reyali (614p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="CANALES",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="CANALES",Salsa Gorda Television (480p) [Not 24/7]
 https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
-#EXTINF:-1 tvg-id="TVSanJorge.co" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="CANALES",TV San Jorge (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="CANALES",TV San Jorge (1080p) [Not 24/7]
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="CANALES",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
-#EXTINF:-1 tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="CANALES",Vive TV Colombia (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="CANALES",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="CANALES" http-referrer="https://canalzoom.org/senal-en-vivo",Zoom (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="CANALES" http-referrer="https://canalzoom.org/senal-en-vivo",Zoom (1080p)
 #EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
