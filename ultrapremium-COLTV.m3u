@@ -108,7 +108,8 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/363
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",La Hermandad Salsera (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="100" tvg-name="100-COL• La Hermandad Salsera (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",COL• CARACOL (HD) »1«
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="CANALES",Reyali (614p)
