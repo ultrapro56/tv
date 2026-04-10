@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Problemista " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title=" → VOD ESTRENOS 2024 ←",Problemista 
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Mortales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd9GIxZHndapUwZgxV2uwVYGn0O.jpg" group-title=" → VOD ESTRENOS 2024 ←",Recuerdos Mortales
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280721.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Empleada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title=" → VOD ESTRENOS 2025 ←",La Empleada (2025)
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280661.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Gates " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title=" → VOD ESTRENOS 2024 ←",The Gates 
@@ -70473,6 +70477,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280327.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280459.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E04" tvg-logo="https://image.tmdb.org/t/p/w300/705EXv85CfCSzlpRRqpfJj3haL5.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E04
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E05" tvg-logo="https://image.tmdb.org/t/p/w300/z1KyJfST4TjcWpM31c7y7zQ4MEb.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280688.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -81615,6 +81621,32 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/276461.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/276462.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyxHtmFR7Bv79grEDnuhhGdtvgm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S02 E12
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/276463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNVvSRMAwd3KqLnV9K4RFg8RCs.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF220JVf5fJVejUy88g67KMsfII.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kT86t9LsczC8mfOTCpYSOOrzgGb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHjCxRMjb107qgl5kOySM0rBs09.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHZWjlqnRHn5j8NPVy0DIYeKUdG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu1XsRFFwbsKMBEJFA3qS21Oqq0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMG8Q4qOW9mylprtObh1CdAU8RN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l5HcKhM5FSfsbWK3VuuPdRXzcR.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnUsOYgRvFoT4S9ECnzmbjt6dbD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7salXWEvI0qNNIrhhfpooYycOzG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4eE6Jb9iH9XnY4Fab3pJhm0FFE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3WtCM3IZMZZaPWQQIb4xpoQWKX.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY x FAMILY S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cvQvY5xhTP25KTEVFXVa53VsBT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",SPY x FAMILY S03 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLES7sRpy7Ih6Kr6XCaYj1GyfTw.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Stranger Things S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/273968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Stranger Things S01 E02
@@ -128595,6 +128627,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280624.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280625.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFpe4QW3WSZ28BzJdZSIlAH1xpx.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E07
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/6V2EnynbNcRDqJ7X8l7ye9SJYZ6.jpg" group-title="→ SERIES CRIMEN ←",Paradise S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280689.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como sobrevivimos a la caida de los Black Hawk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDIO9Q6MeRd05gt4JhnRvuUxoL8.jpg" group-title="→ SERIES DOCUMENTALES ←",Como sobrevivimos a la caida de los Black Hawk S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/269738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como sobrevivimos a la caida de los Black Hawk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezmW0AGvTsfKiZd0sPYGgzDDkVz.jpg" group-title="→ SERIES DOCUMENTALES ←",Como sobrevivimos a la caida de los Black Hawk S01 E02
@@ -128891,6 +128925,10 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/271035.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/271036.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hxZQi3iq4IC8K7EBd4ez2W0OQPO.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kbpZdUUA54SKeuJDXMLZJWr5qtF.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vdlYtcgS1x3JURs39cxDD8MtT65.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -129029,6 +129067,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280340.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280460.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/1OPE9Cx6ZX2bAYBkuX6m7xz7JOv.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E12
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rfabON5bw4tlS5w2wZFzC80GrSd.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280690.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -135593,3 +135633,67 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280666.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280667.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Pasion S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyrmfyNvpL9KmDU080f420843CD.jpg" group-title="→ SERIES DRAMA ←",La Pasion S01 E06
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E01" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E02" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E03" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E04" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E05" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toriko x One Piece x Dragon Ball Z Collaboration  S01 E06" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d9/Day9TorikoGokuLuffy.jpg/revision/latest?cb=20130328155749&path-prefix=es" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Toriko x One Piece x Dragon Ball Z Collaboration  S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP1j1ut04szf7Tgm4aiBk2nzTom.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WPwmvH6d6smfEgzrUGyWedShbG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7Umz0R80mLV4ClTPzG78PgKsT6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umiSys9Wg6UtZ2r0D8APOctTfk8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztP73lyxw6nDO7oAH2Gh3sMH6xa.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKUQDKrhpsbaw5msr6K8z5kDEyB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fddNo67ebbwZ7B3sY21krMXjh9E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A64swirY8PqYCa4DKdQCv3z0n7D.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUTAz8M3EhMDexH0nCzs8hbbkIw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svFE3H5yhdU2hkzAAMuDsUzd5OS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSGk1tBCcA2mOF714Tqkeu5EAjG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj6yOD0YV7mTHDcTXsjWRJ75AuS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uze67s60xU7GMUdeKVDm6dFOvY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyPad1Eaqr8SE0hiwCjjZFemzVb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DdjfmLYmpuTXUAkiPTooAs4ECS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E15
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRLsbRDYxjR9xiPmlAlxG8Ca7ML.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E16
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4u3Cfuux7JKTlwfiA3jD9Hnxqo.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E17
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCXWJiv2SKv25jynlVz0SySULAb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E18
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dT7BAkdX2DA166StbWa5r6DbGS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E19
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UijWrgiaoPYcI5aj8aaOlJHukw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E20
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUcJ7m1vlNoO2MMGECaOALoCvs2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E21
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R5NlW5ofRm0c6vEDCyRngTVs2P.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E22
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGaGOPHX5ZDGzDbxxmaWSVYe2Yf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E23
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieqeq5CZPlPxfPGfocW1i6ET0RP.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E24
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/912oMMIqzJn151olBsSc5WNfiip.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E25
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqe9FcPttiskXSRm49GGFxFt3Lk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E26
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280720.mkv
