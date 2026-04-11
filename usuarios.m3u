@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="JorgeGalindo" tvg-name="JorgeGalindo• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",JorgeGalindo• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/956308869tv/rki0ls3/48
 
+#EXTINF:-1 tvg-id="COLTV" tvg-name="COLTV• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",COLTV• CANAL 13 (HD) »3«
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/48
+
 #EXTINF:-1 tvg-id="TV-POCHO" tvg-name="TV-POCHO• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-POCHO• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/995431461tv/7ct525/48
 
