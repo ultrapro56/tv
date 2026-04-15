@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sobran las palabras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobran las palabras (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZO1nzANssYCyPph8w2ocwq2Bfb.jpg" group-title="→ VOD ESTRENOS 2026 ←",Embestida (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280773.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡La novia! (2026)
 http://ultrapremium.cloud:8080/movie/83468289/24092021/280730.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="→ VOD ESTRENOS 2026 ←",Outcome (2026)
-http://ultrapremium.cloud:8080/movie/83468289/24092021/280731.mp4
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280731.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Problemista " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title=" → VOD ESTRENOS 2024 ←",Problemista 
 http://ultrapremium.cloud:8080/movie/83468289/24092021/280722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Recuerdos Mortales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd9GIxZHndapUwZgxV2uwVYGn0O.jpg" group-title=" → VOD ESTRENOS 2024 ←",Recuerdos Mortales
@@ -36705,118 +36709,70 @@ http://ultrapremium.cloud:8080/83468289/24092021/279301
 http://ultrapremium.cloud:8080/83468289/24092021/279302
 #EXTINF:-1 tvg-id="" tvg-name="LIGA ENDESA 5" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 5
 http://ultrapremium.cloud:8080/83468289/24092021/279303
-#EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
-http://ultrapremium.cloud:8080/83468289/24092021/279649
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Atlanta Hawks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Atlanta Hawks
-http://ultrapremium.cloud:8080/83468289/24092021/279650
+http://ultrapremium.cloud:8080/83468289/24092021/280732
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Boston Celtics" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Boston Celtics
-http://ultrapremium.cloud:8080/83468289/24092021/279651
+http://ultrapremium.cloud:8080/83468289/24092021/280733
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Brooklyn Nets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Brooklyn Nets
-http://ultrapremium.cloud:8080/83468289/24092021/279652
+http://ultrapremium.cloud:8080/83468289/24092021/280734
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Charlotte Hornets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Charlotte Hornets
-http://ultrapremium.cloud:8080/83468289/24092021/279653
+http://ultrapremium.cloud:8080/83468289/24092021/280735
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Chicago Bulls" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Chicago Bulls
-http://ultrapremium.cloud:8080/83468289/24092021/279654
+http://ultrapremium.cloud:8080/83468289/24092021/280736
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Cleveland Cavaliers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Cleveland Cavaliers
-http://ultrapremium.cloud:8080/83468289/24092021/279655
+http://ultrapremium.cloud:8080/83468289/24092021/280737
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Dallas Mavericks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Dallas Mavericks
-http://ultrapremium.cloud:8080/83468289/24092021/279656
+http://ultrapremium.cloud:8080/83468289/24092021/280738
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Denver Nuggets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Denver Nuggets
-http://ultrapremium.cloud:8080/83468289/24092021/279657
+http://ultrapremium.cloud:8080/83468289/24092021/280739
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Detroit Pistons" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Detroit Pistons
-http://ultrapremium.cloud:8080/83468289/24092021/279658
+http://ultrapremium.cloud:8080/83468289/24092021/280740
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Golden State Warriors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Golden State Warriors
-http://ultrapremium.cloud:8080/83468289/24092021/279659
+http://ultrapremium.cloud:8080/83468289/24092021/280741
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Houston Rockets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Houston Rockets
-http://ultrapremium.cloud:8080/83468289/24092021/279660
+http://ultrapremium.cloud:8080/83468289/24092021/280742
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Indiana Pacers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Indiana Pacers
-http://ultrapremium.cloud:8080/83468289/24092021/279661
+http://ultrapremium.cloud:8080/83468289/24092021/280743
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Clippers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Clippers
-http://ultrapremium.cloud:8080/83468289/24092021/279662
+http://ultrapremium.cloud:8080/83468289/24092021/280744
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Lakers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Lakers
-http://ultrapremium.cloud:8080/83468289/24092021/279663
+http://ultrapremium.cloud:8080/83468289/24092021/280745
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Memphis Grizzlies" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Memphis Grizzlies
-http://ultrapremium.cloud:8080/83468289/24092021/279664
+http://ultrapremium.cloud:8080/83468289/24092021/280746
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Miami Heat" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Miami Heat
-http://ultrapremium.cloud:8080/83468289/24092021/279665
+http://ultrapremium.cloud:8080/83468289/24092021/280747
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Milwaukee Bucks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Milwaukee Bucks
-http://ultrapremium.cloud:8080/83468289/24092021/279666
+http://ultrapremium.cloud:8080/83468289/24092021/280748
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Minnesota Timberwolves" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Minnesota Timberwolves
-http://ultrapremium.cloud:8080/83468289/24092021/279667
+http://ultrapremium.cloud:8080/83468289/24092021/280749
 #EXTINF:-1 tvg-id="" tvg-name="NBA | New Orleans Pelicans" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New Orleans Pelicans
-http://ultrapremium.cloud:8080/83468289/24092021/279668
+http://ultrapremium.cloud:8080/83468289/24092021/280750
 #EXTINF:-1 tvg-id="" tvg-name="NBA | New York Knicks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New York Knicks
-http://ultrapremium.cloud:8080/83468289/24092021/279669
+http://ultrapremium.cloud:8080/83468289/24092021/280751
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Oklahoma City Thunder" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Oklahoma City Thunder
-http://ultrapremium.cloud:8080/83468289/24092021/279670
+http://ultrapremium.cloud:8080/83468289/24092021/280752
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Orlando Magic" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Orlando Magic
-http://ultrapremium.cloud:8080/83468289/24092021/279671
+http://ultrapremium.cloud:8080/83468289/24092021/280753
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Philadelphia 76ers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Philadelphia 76ers
-http://ultrapremium.cloud:8080/83468289/24092021/279672
+http://ultrapremium.cloud:8080/83468289/24092021/280754
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Phoenix Suns" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Phoenix Suns
-http://ultrapremium.cloud:8080/83468289/24092021/279673
+http://ultrapremium.cloud:8080/83468289/24092021/280755
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Portland Trail Blazers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Portland Trail Blazers
-http://ultrapremium.cloud:8080/83468289/24092021/279674
+http://ultrapremium.cloud:8080/83468289/24092021/280756
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Sacramento Kings" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Sacramento Kings
-http://ultrapremium.cloud:8080/83468289/24092021/279675
+http://ultrapremium.cloud:8080/83468289/24092021/280757
 #EXTINF:-1 tvg-id="" tvg-name="NBA | San Antonio Spurs" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | San Antonio Spurs
-http://ultrapremium.cloud:8080/83468289/24092021/279676
+http://ultrapremium.cloud:8080/83468289/24092021/280758
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Toronto Raptors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Toronto Raptors
-http://ultrapremium.cloud:8080/83468289/24092021/279677
+http://ultrapremium.cloud:8080/83468289/24092021/280759
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Utah Jazz" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Utah Jazz
-http://ultrapremium.cloud:8080/83468289/24092021/279678
+http://ultrapremium.cloud:8080/83468289/24092021/280760
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Washington Wizards" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Washington Wizards
-http://ultrapremium.cloud:8080/83468289/24092021/279679
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 01" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 01
-http://ultrapremium.cloud:8080/83468289/24092021/279680
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 02" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 02
-http://ultrapremium.cloud:8080/83468289/24092021/279681
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 03" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 03
-http://ultrapremium.cloud:8080/83468289/24092021/279682
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 04" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 04
-http://ultrapremium.cloud:8080/83468289/24092021/279683
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 05" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 05
-http://ultrapremium.cloud:8080/83468289/24092021/279684
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 06" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 06
-http://ultrapremium.cloud:8080/83468289/24092021/279685
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 07" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 07
-http://ultrapremium.cloud:8080/83468289/24092021/279686
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 08" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 08
-http://ultrapremium.cloud:8080/83468289/24092021/279687
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 09" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 09
-http://ultrapremium.cloud:8080/83468289/24092021/279688
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 10
-http://ultrapremium.cloud:8080/83468289/24092021/279689
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 ESPN" tvg-logo="https://i.ibb.co/6cSHp3y/nba-on-espn-us.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 ESPN
-http://ultrapremium.cloud:8080/83468289/24092021/279690
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 NBA TV" tvg-logo="https://i.ibb.co/9TB9Q0D/nba-tv-us.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 NBA TV
-http://ultrapremium.cloud:8080/83468289/24092021/279691
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 TNT" tvg-logo="https://i.ibb.co/pQP0QQk/nba-on-tnt.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 TNT
-http://ultrapremium.cloud:8080/83468289/24092021/279692
-#EXTINF:-1 tvg-id="" tvg-name="NBA | NBA TV" tvg-logo="http://51.15.10.148/logos-fussion-nuevos/nba-tv.png" group-title="→ NBA (EVENTOS) ←",NBA | NBA TV
-http://ultrapremium.cloud:8080/83468289/24092021/279693
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:00 Los Angeles Lakers vs Cleveland Cavaliers
-http://ultrapremium.cloud:8080/83468289/24092021/279694
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Chicago Bulls vs Indiana Pacers" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:00 Chicago Bulls vs Indiana Pacers
-http://ultrapremium.cloud:8080/83468289/24092021/279695
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Atlanta Hawks vs Boston Celtics" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 Atlanta Hawks vs Boston Celtics
-http://ultrapremium.cloud:8080/83468289/24092021/279696
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Orlando Magic vs Miami Heat" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 Orlando Magic vs Miami Heat
-http://ultrapremium.cloud:8080/83468289/24092021/279697
-#EXTINF:-1 tvg-id="" tvg-name="18:30 New York Knicks vs Toronto Raptors" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 New York Knicks vs Toronto Raptors
-http://ultrapremium.cloud:8080/83468289/24092021/279698
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Charlotte Hornets vs Memphis Grizzlies" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",19:00 Charlotte Hornets vs Memphis Grizzlies
-http://ultrapremium.cloud:8080/83468289/24092021/279699
-#EXTINF:-1 tvg-id="" tvg-name="19:15 Estudiantes de La Plata vs Boca Juniors" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="→ NBA (EVENTOS) ←",19:15 Estudiantes de La Plata vs Boca Juniors
-http://ultrapremium.cloud:8080/83468289/24092021/279700
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Deportivo Pasto vs Millonarios" tvg-logo="https://i.imgur.com/tl6d5iI.png" group-title="→ NBA (EVENTOS) ←",19:30 Deportivo Pasto vs Millonarios
-http://ultrapremium.cloud:8080/83468289/24092021/279701
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Minnesota Timberwolves vs Dallas Mavericks" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",19:30 Minnesota Timberwolves vs Dallas Mavericks
-http://ultrapremium.cloud:8080/83468289/24092021/279702
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Golden State Warriors vs Utah Jazz" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",20:00 Golden State Warriors vs Utah Jazz
-http://ultrapremium.cloud:8080/83468289/24092021/279703
-#EXTINF:-1 tvg-id="" tvg-name="20:30 San Antonio Spurs vs Houston Rockets" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",20:30 San Antonio Spurs vs Houston Rockets
-http://ultrapremium.cloud:8080/83468289/24092021/279704
+http://ultrapremium.cloud:8080/83468289/24092021/280761
+#EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
+http://ultrapremium.cloud:8080/83468289/24092021/280762
+#EXTINF:-1 tvg-id="" tvg-name="CA | NBA TV" tvg-logo="/logos/ENG_Canada/nba.png" group-title="→ NBA (EVENTOS) ←",CA | NBA TV
+http://ultrapremium.cloud:8080/83468289/24092021/280763
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
 http://ultrapremium.cloud:8080/83468289/24092021/14087
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
@@ -70189,6 +70145,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280459.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E05" tvg-logo="https://image.tmdb.org/t/p/w300/z1KyJfST4TjcWpM31c7y7zQ4MEb.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E05
 http://ultrapremium.cloud:8080/series/83468289/24092021/280688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E06" tvg-logo="https://image.tmdb.org/t/p/w300/s9ZWGIHAGlbc5vp2pUsGNzo47an.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -128653,6 +128611,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280630.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vdlYtcgS1x3JURs39cxDD8MtT65.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E03
 http://ultrapremium.cloud:8080/series/83468289/24092021/280692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -128793,6 +128753,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280460.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rfabON5bw4tlS5w2wZFzC80GrSd.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E13
 http://ultrapremium.cloud:8080/series/83468289/24092021/280690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E14
+http://ultrapremium.cloud:8080/series/83468289/24092021/280767.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -134935,6 +134897,10 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280393.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280473.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E05
 http://ultrapremium.cloud:8080/series/83468289/24092021/280627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iPjkJYLASNerXgLXwqOB5xoAy4y.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5EjKBI1GKMGRWe5muZVy6TlwQTE.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135421,3 +135387,11 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280718.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280719.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqe9FcPttiskXSRm49GGFxFt3Lk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E26
 http://ultrapremium.cloud:8080/series/83468289/24092021/280720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euQUHCCiaTM7DZyULE4AIYsYVcD.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLSBftIQaBOWTMXWjnqRmrqMe5f.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBrq6XJD8AqcS1bzFB7SEkLJ84b.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p81euZyFRN2VwogyyX8VZfBjMAk.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280772.mkv
