@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sobran las palabras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobran las palabras (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZO1nzANssYCyPph8w2ocwq2Bfb.jpg" group-title="→ VOD ESTRENOS 2026 ←",Embestida (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡La novia! (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="→ VOD ESTRENOS 2026 ←",Outcome (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280731.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Problemista " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title=" → VOD ESTRENOS 2024 ←",Problemista 
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Recuerdos Mortales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd9GIxZHndapUwZgxV2uwVYGn0O.jpg" group-title=" → VOD ESTRENOS 2024 ←",Recuerdos Mortales
@@ -19079,96 +19087,18 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/415
 http://ultrapremium.cloud:8080/995431461tv/7ct525/416
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »4«
 http://ultrapremium.cloud:8080/995431461tv/7ct525/417
-#EXTINF:-1 tvg-id="" tvg-name="24/7: BOB ESPONJA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BOB ESPONJA
-http://ultrapremium.cloud:8080/995431461tv/7ct525/690
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CHESPIRITO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHESPIRITO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/691
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CORAJE EL PERRO COBARDE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CORAJE EL PERRO COBARDE
-http://ultrapremium.cloud:8080/995431461tv/7ct525/692
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DINOSAURIOS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DINOSAURIOS
-http://ultrapremium.cloud:8080/995431461tv/7ct525/693
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HEY ARNOLD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: HEY ARNOLD
-http://ultrapremium.cloud:8080/995431461tv/7ct525/694
-#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PAJARO LOCO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PAJARO LOCO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/695
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL GT" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL GT
-http://ultrapremium.cloud:8080/995431461tv/7ct525/696
 #EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DRAGON BALL
 http://ultrapremium.cloud:8080/995431461tv/7ct525/697
-#EXTINF:-1 tvg-id="" tvg-name="24/7: GAMES OF THRONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: GAMES OF THRONES
-http://ultrapremium.cloud:8080/995431461tv/7ct525/698
-#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY GUY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: FAMILY GUY
-http://ultrapremium.cloud:8080/995431461tv/7ct525/699
-#EXTINF:-1 tvg-id="" tvg-name="24/7: RANMA ½" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: RANMA ½
-http://ultrapremium.cloud:8080/995431461tv/7ct525/700
-#EXTINF:-1 tvg-id="" tvg-name="24/7: TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TWO AND A HALF
-http://ultrapremium.cloud:8080/995431461tv/7ct525/701
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAKURA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAKURA
-http://ultrapremium.cloud:8080/995431461tv/7ct525/702
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MR BEAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MR BEAN
 http://ultrapremium.cloud:8080/995431461tv/7ct525/703
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CHAPULIN COLORADO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/704
-#EXTINF:-1 tvg-id="" tvg-name="24/7: EL CHAVO DEL 8" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL CHAVO DEL 8
-http://ultrapremium.cloud:8080/995431461tv/7ct525/705
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ALF
-http://ultrapremium.cloud:8080/995431461tv/7ct525/706
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON
-http://ultrapremium.cloud:8080/995431461tv/7ct525/769
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CANTINFLAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CANTINFLAS
-http://ultrapremium.cloud:8080/995431461tv/7ct525/771
-#EXTINF:-1 tvg-id="" tvg-name="24/7: CABALLEROS DEL ZODIACO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: CABALLEROS DEL ZODIACO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/773
-#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM & JERRY" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TOM & JERRY
-http://ultrapremium.cloud:8080/995431461tv/7ct525/774
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SOUTH PARK
-http://ultrapremium.cloud:8080/995431461tv/7ct525/775
-#EXTINF:-1 tvg-id="" tvg-name="24/7: DORAEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: DORAEMON
-http://ultrapremium.cloud:8080/995431461tv/7ct525/776
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SMALLVILLELA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SMALLVILLELA
-http://ultrapremium.cloud:8080/995431461tv/7ct525/777
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SUPERCAMPEONES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SUPERCAMPEONES
-http://ultrapremium.cloud:8080/995431461tv/7ct525/778
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SCOOBY DOO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SCOOBY DOO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/779
-#EXTINF:-1 tvg-id="" tvg-name="24/7: SAMURAI" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: SAMURAI
-http://ultrapremium.cloud:8080/995431461tv/7ct525/780
-#EXTINF:-1 tvg-id="" tvg-name="24/7: POKEMON" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: POKEMON
-http://ultrapremium.cloud:8080/995431461tv/7ct525/781
-#EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
-http://ultrapremium.cloud:8080/995431461tv/7ct525/782
-#EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
-http://ultrapremium.cloud:8080/995431461tv/7ct525/783
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
-http://ultrapremium.cloud:8080/995431461tv/7ct525/784
-#EXTINF:-1 tvg-id="" tvg-name="24/7: NARUTO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: NARUTO
-http://ultrapremium.cloud:8080/995431461tv/7ct525/785
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOONEY TUNES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOONEY TUNES
-http://ultrapremium.cloud:8080/995431461tv/7ct525/786
-#EXTINF:-1 tvg-id="" tvg-name="24/7: EL PRINCIPE DEL RAP" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL PRINCIPE DEL RAP
-http://ultrapremium.cloud:8080/995431461tv/7ct525/787
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (1-5)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (1-5)
-http://ultrapremium.cloud:8080/995431461tv/7ct525/789
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (12-17)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (12-17)
-http://ultrapremium.cloud:8080/995431461tv/7ct525/790
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (18-21)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (18-21)
-http://ultrapremium.cloud:8080/995431461tv/7ct525/791
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (22-26)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (22-26)
-http://ultrapremium.cloud:8080/995431461tv/7ct525/792
-#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSON (27-30)" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS SIMPSON (27-30)
-http://ultrapremium.cloud:8080/995431461tv/7ct525/793
 #EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
 http://ultrapremium.cloud:8080/995431461tv/7ct525/794
 #EXTINF:-1 tvg-id="" tvg-name="24/7: ANIMANIACS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ANIMANIACS
 http://ultrapremium.cloud:8080/995431461tv/7ct525/795
-#EXTINF:-1 tvg-id="" tvg-name="24/7: BREAKING BAD" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: BREAKING BAD
-http://ultrapremium.cloud:8080/995431461tv/7ct525/796
 #EXTINF:-1 tvg-id="" tvg-name="24/7: EL GALLO CLAUDIO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: EL GALLO CLAUDIO
 http://ultrapremium.cloud:8080/995431461tv/7ct525/798
 #EXTINF:-1 tvg-id="" tvg-name="24/7: LOS PICAPIEDRAS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: LOS PICAPIEDRAS
 http://ultrapremium.cloud:8080/995431461tv/7ct525/805
-#EXTINF:-1 tvg-id="" tvg-name="24/7: MALCOLM" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: MALCOLM
-http://ultrapremium.cloud:8080/995431461tv/7ct525/806
 #EXTINF:-1 tvg-id="" tvg-name="24/7: ONE PUNCH MAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: ONE PUNCH MAN
 http://ultrapremium.cloud:8080/995431461tv/7ct525/807
 #EXTINF:-1 tvg-id="" tvg-name="24/7: PINKY & CEREBRO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: PINKY & CEREBRO
@@ -19177,8 +19107,6 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/808
 http://ultrapremium.cloud:8080/995431461tv/7ct525/810
 #EXTINF:-1 tvg-id="" tvg-name="24/7: YU-GI-OH" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: YU-GI-OH
 http://ultrapremium.cloud:8080/995431461tv/7ct525/811
-#EXTINF:-1 tvg-id="" tvg-name="24/7: COMEDIA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: COMEDIA
-http://ultrapremium.cloud:8080/995431461tv/7ct525/812
 #EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV USA ←",US_HD:Cinema 01 PPV
 http://ultrapremium.cloud:8080/995431461tv/7ct525/12024
 #EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 02 PPV" tvg-logo="" group-title="→ CINEMA PPV USA ←",US_HD:Cinema 02 PPV
@@ -23147,8 +23075,6 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/55317
 http://ultrapremium.cloud:8080/995431461tv/7ct525/57051
 #EXTINF:-1 tvg-id="" tvg-name="TENIS• WIMBLEDON (HD) »4«" tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←",TENIS• WIMBLEDON (HD) »4«
 http://ultrapremium.cloud:8080/995431461tv/7ct525/57052
-#EXTINF:-1 tvg-id="" tvg-name="24/7: EL CHAVO DEL 8 op2" tvg-logo="" group-title="→ 24/7 ←",24/7: EL CHAVO DEL 8 op2
-http://ultrapremium.cloud:8080/995431461tv/7ct525/57372
 #EXTINF:-1 tvg-id="" tvg-name="MLB: NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKEVDGjOwb7HbhCRDK9KW3B77oNMk79GXqu0ZZl5nCmguUI6Y" group-title="→ MLB (EVENTOS) ←",MLB: NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)
 http://ultrapremium.cloud:8080/995431461tv/7ct525/59061
 #EXTINF:-1 tvg-id="" tvg-name="MLB Game of the Week" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="→ MLB (EVENTOS) ←",MLB Game of the Week
@@ -25517,216 +25443,6 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/248469
 http://ultrapremium.cloud:8080/995431461tv/7ct525/248470
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »8«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »8«
 http://ultrapremium.cloud:8080/995431461tv/7ct525/248471
-#EXTINF:-1 tvg-id="" tvg-name="24/7*DR House" tvg-logo="" group-title="→ 24/7 ←",24/7*DR House
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250477
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Chavo del 8" tvg-logo="" group-title="→ 24/7 ←",24/7*Chavo del 8
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250478
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Chispirito" tvg-logo="" group-title="→ 24/7 ←",24/7*Chispirito
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250479
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Alf" tvg-logo="" group-title="→ 24/7 ←",24/7*Alf
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250480
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Animaciones" tvg-logo="" group-title="→ 24/7 ←",24/7*Animaciones
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250481
-#EXTINF:-1 tvg-id="" tvg-name="24/7*AstroBoy" tvg-logo="" group-title="→ 24/7 ←",24/7*AstroBoy
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250482
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Blech" tvg-logo="" group-title="→ 24/7 ←",24/7*Blech
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250483
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Bob Esponja" tvg-logo="" group-title="→ 24/7 ←",24/7*Bob Esponja
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250484
-#EXTINF:-1 tvg-id="" tvg-name="24/7*BreakingBed" tvg-logo="" group-title="→ 24/7 ←",24/7*BreakingBed
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250485
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Coraje Perro Cobarde" tvg-logo="" group-title="→ 24/7 ←",24/7*Coraje Perro Cobarde
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250486
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Dinosaurios" tvg-logo="" group-title="→ 24/7 ←",24/7*Dinosaurios
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250487
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Daremound" tvg-logo="" group-title="→ 24/7 ←",24/7*Daremound
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250488
-#EXTINF:-1 tvg-id="" tvg-name="24/7*DraginBall" tvg-logo="" group-title="→ 24/7 ←",24/7*DraginBall
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250489
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Dragon BallGT" tvg-logo="" group-title="→ 24/7 ←",24/7*Dragon BallGT
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250490
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Dragon Ball Super" tvg-logo="" group-title="→ 24/7 ←",24/7*Dragon Ball Super
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250491
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Dragin Ball Z" tvg-logo="" group-title="→ 24/7 ←",24/7*Dragin Ball Z
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250492
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Chapulin Colorado" tvg-logo="" group-title="→ 24/7 ←",24/7*Chapulin Colorado
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250493
-#EXTINF:-1 tvg-id="" tvg-name="24/7*CorreCamino" tvg-logo="" group-title="→ 24/7 ←",24/7*CorreCamino
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250494
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Principe de Bel-air" tvg-logo="" group-title="→ 24/7 ←",24/7*Principe de Bel-air
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250495
-#EXTINF:-1 tvg-id="" tvg-name="24/7*One Punch Man" tvg-logo="" group-title="→ 24/7 ←",24/7*One Punch Man
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250496
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Elfen Lied" tvg-logo="" group-title="→ 24/7 ←",24/7*Elfen Lied
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250497
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Family Guy" tvg-logo="" group-title="→ 24/7 ←",24/7*Family Guy
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250498
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Game of Thrones HD" tvg-logo="" group-title="→ 24/7 ←",24/7*Game of Thrones HD
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250499
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Hey Arnold!" tvg-logo="" group-title="→ 24/7 ←",24/7*Hey Arnold!
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250500
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Hora de Aventura" tvg-logo="" group-title="→ 24/7 ←",24/7*Hora de Aventura
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250501
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Kenan & Kel" tvg-logo="" group-title="→ 24/7 ←",24/7*Kenan & Kel
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250502
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La casa de papel" tvg-logo="" group-title="→ 24/7 ←",24/7*La casa de papel
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250503
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La Familia Addams" tvg-logo="" group-title="→ 24/7 ←",24/7*La Familia Addams
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250504
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Las aventuras de Tom Sawyer" tvg-logo="" group-title="→ 24/7 ←",24/7*Las aventuras de Tom Sawyer
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250505
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Looney Tunes" tvg-logo="" group-title="→ 24/7 ←",24/7*Looney Tunes
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250506
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Pablo Escobar" tvg-logo="" group-title="→ 24/7 ←",24/7*Pablo Escobar
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250507
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los Picapiedra" tvg-logo="" group-title="→ 24/7 ←",24/7*Los Picapiedra
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250508
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los Simpsons" tvg-logo="" group-title="→ 24/7 ←",24/7*Los Simpsons
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250509
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Naruto" tvg-logo="" group-title="→ 24/7 ←",24/7*Naruto
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250510
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Naruto Shippuden" tvg-logo="" group-title="→ 24/7 ←",24/7*Naruto Shippuden
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250511
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Pasion de Gavilanes" tvg-logo="" group-title="→ 24/7 ←",24/7*Pasion de Gavilanes
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250512
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Batman" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Batman
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250513
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Crepusculo" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Crepusculo
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250514
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas El Conjuro" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas El Conjuro
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250515
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Harry Potter" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Harry Potter
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250516
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Inframundo" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Inframundo
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250517
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas John Wick" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas John Wick
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250518
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Marvel Cronologia" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Marvel Cronologia
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250519
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Matrix" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Matrix
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250520
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Rapidos y Furiosos" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Rapidos y Furiosos
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250521
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Resident Evil" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Resident Evil
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250522
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Scary Movie" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Scary Movie
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250523
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Tarantino" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Tarantino
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250524
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Universo DC" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Universo DC
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250525
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas X-Men" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas X-Men
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250526
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Penny Dreadful" tvg-logo="" group-title="→ 24/7 ←",24/7*Penny Dreadful
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250527
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Pinky y Cerebro" tvg-logo="" group-title="→ 24/7 ←",24/7*Pinky y Cerebro
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250528
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Pokémon" tvg-logo="" group-title="→ 24/7 ←",24/7*Pokémon
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250529
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Ranma ½ HD" tvg-logo="" group-title="→ 24/7 ←",24/7*Ranma ½ HD
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250530
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Sakura Card Captor" tvg-logo="" group-title="→ 24/7 ←",24/7*Sakura Card Captor
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250531
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Súper Campeones" tvg-logo="" group-title="→ 24/7 ←",24/7*Súper Campeones
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250532
-#EXTINF:-1 tvg-id="" tvg-name="24/7*The Big Bang Theory" tvg-logo="" group-title="→ 24/7 ←",24/7*The Big Bang Theory
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250533
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Un Show Más" tvg-logo="" group-title="→ 24/7 ←",24/7*Un Show Más
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250534
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Animaniacs [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*Animaniacs [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250535
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Barón Rojo" tvg-logo="" group-title="→ 24/7 ←",24/7*Barón Rojo
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250536
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Breaking Bad [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*Breaking Bad [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250537
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Cantinflas Show" tvg-logo="" group-title="→ 24/7 ←",24/7*Cantinflas Show
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250538
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Dinosaurios [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*Dinosaurios [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250539
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Doug" tvg-logo="" group-title="→ 24/7 ←",24/7*Doug
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250540
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Duelo Xiaolin" tvg-logo="" group-title="→ 24/7 ←",24/7*Duelo Xiaolin
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250541
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Ed, Edd y Eddy" tvg-logo="" group-title="→ 24/7 ←",24/7*Ed, Edd y Eddy
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250542
-#EXTINF:-1 tvg-id="" tvg-name="24/7*El Coyote y el Correcaminos [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*El Coyote y el Correcaminos [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250543
-#EXTINF:-1 tvg-id="" tvg-name="24/7*El Laboratorio de Dexter [1 - 4T]" tvg-logo="" group-title="→ 24/7 ←",24/7*El Laboratorio de Dexter [1 - 4T]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250544
-#EXTINF:-1 tvg-id="" tvg-name="24/7*El mentalista" tvg-logo="" group-title="→ 24/7 ←",24/7*El mentalista
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250545
-#EXTINF:-1 tvg-id="" tvg-name="24/7*El Pato Darkwing" tvg-logo="" group-title="→ 24/7 ←",24/7*El Pato Darkwing
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250546
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Elementary" tvg-logo="" group-title="→ 24/7 ←",24/7*Elementary
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250547
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Friends" tvg-logo="" group-title="→ 24/7 ←",24/7*Friends
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250548
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Game of Thrones SD" tvg-logo="" group-title="→ 24/7 ←",24/7*Game of Thrones SD
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250549
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Garfield y sus amigos" tvg-logo="" group-title="→ 24/7 ←",24/7*Garfield y sus amigos
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250550
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Happy Tree Friends" tvg-logo="" group-title="→ 24/7 ←",24/7*Happy Tree Friends
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250551
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Hey Arnold! [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*Hey Arnold! [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250552
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Hora de aventura" tvg-logo="" group-title="→ 24/7 ←",24/7*Hora de aventura
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250553
-#EXTINF:-1 tvg-id="" tvg-name="24/7*House of Cards" tvg-logo="" group-title="→ 24/7 ←",24/7*House of Cards
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250554
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Hunter x Hunter" tvg-logo="" group-title="→ 24/7 ←",24/7*Hunter x Hunter
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250555
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Johnny Bravo" tvg-logo="" group-title="→ 24/7 ←",24/7*Johnny Bravo
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250556
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La familia Addams" tvg-logo="" group-title="→ 24/7 ←",24/7*La familia Addams
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250557
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La pantera rosa Show" tvg-logo="" group-title="→ 24/7 ←",24/7*La pantera rosa Show
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250558
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La pantera rosa y sus hijos" tvg-logo="" group-title="→ 24/7 ←",24/7*La pantera rosa y sus hijos
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250559
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La pantera rosa [Completo]" tvg-logo="" group-title="→ 24/7 ←",24/7*La pantera rosa [Completo]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250560
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La Pequeña Lulú" tvg-logo="" group-title="→ 24/7 ←",24/7*La Pequeña Lulú
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250561
-#EXTINF:-1 tvg-id="" tvg-name="24/7*La vaca y el pollito" tvg-logo="" group-title="→ 24/7 ←",24/7*La vaca y el pollito
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250562
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Las aventuras de Jackie Chan" tvg-logo="" group-title="→ 24/7 ←",24/7*Las aventuras de Jackie Chan
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250563
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Las chicas superpoderosas" tvg-logo="" group-title="→ 24/7 ←",24/7*Las chicas superpoderosas
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250564
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Las nuevas aventuras de Batman" tvg-logo="" group-title="→ 24/7 ←",24/7*Las nuevas aventuras de Batman
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250565
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Las sombrías aventuras de Billy y Mandy" tvg-logo="" group-title="→ 24/7 ←",24/7*Las sombrías aventuras de Billy y Mandy
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250566
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Liga De La Justicia Ilimitada" tvg-logo="" group-title="→ 24/7 ←",24/7*Liga De La Justicia Ilimitada
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250567
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Linterna Verde" tvg-logo="" group-title="→ 24/7 ←",24/7*Linterna Verde
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250568
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Loonatics" tvg-logo="" group-title="→ 24/7 ←",24/7*Loonatics
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250569
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los autos locos" tvg-logo="" group-title="→ 24/7 ←",24/7*Los autos locos
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250570
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los años maravillosos" tvg-logo="" group-title="→ 24/7 ←",24/7*Los años maravillosos
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250571
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los Centuriones" tvg-logo="" group-title="→ 24/7 ←",24/7*Los Centuriones
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250572
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los chicos del barrio" tvg-logo="" group-title="→ 24/7 ←",24/7*Los chicos del barrio
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250573
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Calabozos y dragones" tvg-logo="" group-title="→ 24/7 ←",24/7*Calabozos y dragones
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250574
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Los Cuentos de los Hermanos Grimm" tvg-logo="" group-title="→ 24/7 ←",24/7*Los Cuentos de los Hermanos Grimm
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250575
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Peliculas Marvel Orden Estreno" tvg-logo="" group-title="→ 24/7 ←",24/7*Peliculas Marvel Orden Estreno
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250576
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Pasion de Gavilanes 2" tvg-logo="" group-title="→ 24/7 ←",24/7*Pasion de Gavilanes 2
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250577
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Malcolm el de en Medio" tvg-logo="" group-title="→ 24/7 ←",24/7*Malcolm el de en Medio
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250578
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Two and a Half Men [SUB]" tvg-logo="" group-title="→ 24/7 ←",24/7*Two and a Half Men [SUB]
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250579
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Sin Senos no hay Paraíso" tvg-logo="" group-title="→ 24/7 ←",24/7*Sin Senos no hay Paraíso
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250580
-#EXTINF:-1 tvg-id="" tvg-name="24/7*Sin senos sí hay paraíso" tvg-logo="" group-title="→ 24/7 ←",24/7*Sin senos sí hay paraíso
-http://ultrapremium.cloud:8080/995431461tv/7ct525/250581
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | ATB" tvg-logo="https://logo.iptveditor.com/atb.png" group-title="→ BOLIVIA II ←",BOLIVIA | ATB
 http://ultrapremium.cloud:8080/995431461tv/7ct525/250758
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIA TV" tvg-logo="https://logo.iptveditor.com/tv.png" group-title="→ BOLIVIA II ←",BOLIVIA | BOLIVIA TV
@@ -25909,8 +25625,6 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/251013
 http://ultrapremium.cloud:8080/995431461tv/7ct525/252707
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Padre de Familia" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2E5B143307E5B3F08D2577198DF5467A4990AD70A8DA9C7EE7E799A018A4F307/scale?width=506&aspectRatio=2.00&format=webp" group-title="→ 24/7 ←",24/7 Padre de Familia
 http://ultrapremium.cloud:8080/995431461tv/7ct525/253528
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Family Guy" tvg-logo="http://tv4k.me:80/images/li1kRWQT9q4JCWyKMJcnx2VDhC6DKlEYQxT2rYoHrEUb4MVmfWkhMu9Wby2IgW2H.png" group-title="→ 24/7 ←",24/7: Family Guy
-http://ultrapremium.cloud:8080/995431461tv/7ct525/253529
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy" tvg-logo="https://funkymonkeybox.com:443/images/jgFekHaQI2YMFRStGgu4vrOsH_5uLDKw_V0_x6TJ_0plx426RDABMGROERcgtedV4JzuWofXAsuSwxk_QrS9UA.jpg" group-title="→ 24/7 ←",24/7 Family Guy
 http://ultrapremium.cloud:8080/995431461tv/7ct525/253530
 #EXTINF:-1 tvg-id="" tvg-name="ZCL• TIGO SPORTS (HD)" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/tigo_sports_logo_2.jpg" group-title="→ ZAPPING CHILE ←",ZCL• TIGO SPORTS (HD)
@@ -36995,118 +36709,70 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/279301
 http://ultrapremium.cloud:8080/995431461tv/7ct525/279302
 #EXTINF:-1 tvg-id="" tvg-name="LIGA ENDESA 5" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 5
 http://ultrapremium.cloud:8080/995431461tv/7ct525/279303
-#EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279649
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Atlanta Hawks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Atlanta Hawks
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279650
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280732
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Boston Celtics" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Boston Celtics
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279651
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280733
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Brooklyn Nets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Brooklyn Nets
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279652
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280734
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Charlotte Hornets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Charlotte Hornets
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279653
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280735
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Chicago Bulls" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Chicago Bulls
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279654
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280736
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Cleveland Cavaliers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Cleveland Cavaliers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279655
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280737
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Dallas Mavericks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Dallas Mavericks
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279656
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280738
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Denver Nuggets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Denver Nuggets
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279657
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280739
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Detroit Pistons" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Detroit Pistons
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279658
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280740
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Golden State Warriors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Golden State Warriors
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279659
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280741
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Houston Rockets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Houston Rockets
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279660
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280742
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Indiana Pacers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Indiana Pacers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279661
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280743
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Clippers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Clippers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279662
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280744
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Lakers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Lakers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279663
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280745
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Memphis Grizzlies" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Memphis Grizzlies
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279664
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280746
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Miami Heat" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Miami Heat
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279665
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280747
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Milwaukee Bucks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Milwaukee Bucks
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279666
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280748
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Minnesota Timberwolves" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Minnesota Timberwolves
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279667
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280749
 #EXTINF:-1 tvg-id="" tvg-name="NBA | New Orleans Pelicans" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New Orleans Pelicans
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279668
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280750
 #EXTINF:-1 tvg-id="" tvg-name="NBA | New York Knicks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New York Knicks
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279669
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280751
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Oklahoma City Thunder" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Oklahoma City Thunder
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279670
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280752
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Orlando Magic" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Orlando Magic
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279671
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280753
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Philadelphia 76ers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Philadelphia 76ers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279672
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280754
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Phoenix Suns" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Phoenix Suns
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279673
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280755
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Portland Trail Blazers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Portland Trail Blazers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279674
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280756
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Sacramento Kings" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Sacramento Kings
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279675
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280757
 #EXTINF:-1 tvg-id="" tvg-name="NBA | San Antonio Spurs" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | San Antonio Spurs
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279676
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280758
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Toronto Raptors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Toronto Raptors
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279677
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280759
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Utah Jazz" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Utah Jazz
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279678
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280760
 #EXTINF:-1 tvg-id="" tvg-name="NBA | Washington Wizards" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Washington Wizards
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279679
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 01" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 01
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279680
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 02" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 02
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279681
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 03" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 03
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279682
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 04" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 04
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279683
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 05" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 05
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279684
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 06" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 06
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279685
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 07" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 07
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279686
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 08" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 08
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279687
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 09" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 09
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279688
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="http://213.145.87.11/Logos/nbaleaguepass.png" group-title="→ NBA (EVENTOS) ←",NBA League Pass 10
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279689
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 ESPN" tvg-logo="https://i.ibb.co/6cSHp3y/nba-on-espn-us.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 ESPN
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279690
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 NBA TV" tvg-logo="https://i.ibb.co/9TB9Q0D/nba-tv-us.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 NBA TV
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279691
-#EXTINF:-1 tvg-id="" tvg-name="NBA | 00 TNT" tvg-logo="https://i.ibb.co/pQP0QQk/nba-on-tnt.png" group-title="→ NBA (EVENTOS) ←",NBA | 00 TNT
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279692
-#EXTINF:-1 tvg-id="" tvg-name="NBA | NBA TV" tvg-logo="http://51.15.10.148/logos-fussion-nuevos/nba-tv.png" group-title="→ NBA (EVENTOS) ←",NBA | NBA TV
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279693
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Los Angeles Lakers vs Cleveland Cavaliers" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:00 Los Angeles Lakers vs Cleveland Cavaliers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279694
-#EXTINF:-1 tvg-id="" tvg-name="18:00 Chicago Bulls vs Indiana Pacers" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:00 Chicago Bulls vs Indiana Pacers
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279695
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Atlanta Hawks vs Boston Celtics" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 Atlanta Hawks vs Boston Celtics
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279696
-#EXTINF:-1 tvg-id="" tvg-name="18:30 Orlando Magic vs Miami Heat" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 Orlando Magic vs Miami Heat
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279697
-#EXTINF:-1 tvg-id="" tvg-name="18:30 New York Knicks vs Toronto Raptors" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 New York Knicks vs Toronto Raptors
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279698
-#EXTINF:-1 tvg-id="" tvg-name="19:00 Charlotte Hornets vs Memphis Grizzlies" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",19:00 Charlotte Hornets vs Memphis Grizzlies
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279699
-#EXTINF:-1 tvg-id="" tvg-name="19:15 Estudiantes de La Plata vs Boca Juniors" tvg-logo="https://i.imgur.com/MukTXpS.png" group-title="→ NBA (EVENTOS) ←",19:15 Estudiantes de La Plata vs Boca Juniors
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279700
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Deportivo Pasto vs Millonarios" tvg-logo="https://i.imgur.com/tl6d5iI.png" group-title="→ NBA (EVENTOS) ←",19:30 Deportivo Pasto vs Millonarios
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279701
-#EXTINF:-1 tvg-id="" tvg-name="19:30 Minnesota Timberwolves vs Dallas Mavericks" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",19:30 Minnesota Timberwolves vs Dallas Mavericks
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279702
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Golden State Warriors vs Utah Jazz" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",20:00 Golden State Warriors vs Utah Jazz
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279703
-#EXTINF:-1 tvg-id="" tvg-name="20:30 San Antonio Spurs vs Houston Rockets" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",20:30 San Antonio Spurs vs Houston Rockets
-http://ultrapremium.cloud:8080/995431461tv/7ct525/279704
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280761
+#EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280762
+#EXTINF:-1 tvg-id="" tvg-name="CA | NBA TV" tvg-logo="/logos/ENG_Canada/nba.png" group-title="→ NBA (EVENTOS) ←",CA | NBA TV
+http://ultrapremium.cloud:8080/995431461tv/7ct525/280763
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
 http://ultrapremium.cloud:8080/995431461tv/7ct525/14087
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
@@ -70479,6 +70145,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280459.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E05" tvg-logo="https://image.tmdb.org/t/p/w300/z1KyJfST4TjcWpM31c7y7zQ4MEb.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E05
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E06" tvg-logo="https://image.tmdb.org/t/p/w300/s9ZWGIHAGlbc5vp2pUsGNzo47an.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -119367,6 +119035,20 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249691.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249692.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sabuesos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNMEVcCht0zxJwzIw5qlH8iL8Gj.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S01 E08
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lokNOvT5HQ6mDUBVthrKGo86Ud2.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sjOyC3abVs2SyPWmhb0EP4D8Ti.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7TaPqhKBJgPMxgWZQ3yHMy2epx.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVsOwcNlxeadJcQXcXRzXSgsL0i.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1ZPtaqvnHucV09tTAuO7EUd6t6.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grraQLA95pSs0WpVp7t3trCUNEk.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sabuesos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uilzOs1nsNpIQ0DDiptxdH6Vwa2.jpg" group-title="→ SERIES ACCIÓN ←",Sabuesos S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280729.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wC9rQY3InuSOrOVR2bb6cygHCZ6.jpg" group-title="→ SERIES INFANTILES ←",Los Picapiedra S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249724.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41DBW0v5PVhOfvhrb60I4kX7h8W.jpg" group-title="→ SERIES INFANTILES ←",Los Picapiedra S01 E02
@@ -128929,6 +128611,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280630.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vdlYtcgS1x3JURs39cxDD8MtT65.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E03
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -129069,6 +128753,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280460.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rfabON5bw4tlS5w2wZFzC80GrSd.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E13
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E14
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280767.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -135211,6 +134897,10 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280393.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280473.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E05
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iPjkJYLASNerXgLXwqOB5xoAy4y.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5EjKBI1GKMGRWe5muZVy6TlwQTE.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135697,3 +135387,11 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280718.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280719.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure Tri S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqe9FcPttiskXSRm49GGFxFt3Lk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri S01 E26
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euQUHCCiaTM7DZyULE4AIYsYVcD.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLSBftIQaBOWTMXWjnqRmrqMe5f.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBrq6XJD8AqcS1bzFB7SEkLJ84b.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p81euZyFRN2VwogyyX8VZfBjMAk.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280772.mkv
