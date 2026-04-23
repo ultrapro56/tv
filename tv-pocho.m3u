@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Michael (2026) SUB
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="180 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="→ VOD ESTRENOS 2026 ←",180 (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Compañeras de cuarto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Compañeras de cuarto (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280813.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sobran las palabras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobran las palabras (2026)
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280774.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZO1nzANssYCyPph8w2ocwq2Bfb.jpg" group-title="→ VOD ESTRENOS 2026 ←",Embestida (2026)
@@ -23889,7 +23895,7 @@ http://ultrapremium.cloud:8080/995431461tv/7ct525/61582
 http://ultrapremium.cloud:8080/995431461tv/7ct525/61583
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG: Cronica TV HD
 http://ultrapremium.cloud:8080/995431461tv/7ct525/61584
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←",ES | DAZN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN GP" tvg-logo="https://channelstore.roku.com/es-gt/details/93ea4813b18fadf50246f47009ffb0be:4968f5a5f89cbb8306d467cc85915eb8/motogp" group-title="→ ESPAÑA DAZN ←",ES | DAZN GP
 http://ultrapremium.cloud:8080/995431461tv/7ct525/12361
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←",ES | DAZN 2 FHD
 http://ultrapremium.cloud:8080/995431461tv/7ct525/12362
@@ -70147,6 +70153,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280622.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280688.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E06" tvg-logo="https://image.tmdb.org/t/p/w300/s9ZWGIHAGlbc5vp2pUsGNzo47an.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E06
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dG5Rw5cuyLqF8nhQMdbjR9YIBf.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -88175,6 +88183,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/265961.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/267402.mp4
 #EXTINF:-1 tvg-id="" tvg-name="From S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/91QkMMvQen7ADfGZQhyxWttPccJ.jpg" group-title="→ SERIES MISTERIO ←",From S03 E10
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/267403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg" group-title="→ SERIES MISTERIO ←",From S04 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -128613,6 +128623,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280691.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E04
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -134901,6 +134913,8 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280627.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5EjKBI1GKMGRWe5muZVy6TlwQTE.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E07
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/AnwY7IBZYIlBuzn5sQD21IjD226.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280786.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135395,3 +135409,71 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280770.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm in the Middle: La vida sigue siendo injusta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p81euZyFRN2VwogyyX8VZfBjMAk.jpg" group-title="→ SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta S01 E04
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldinho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf57UFuVC7P783ZUpAML89gCcpG.jpg" group-title="→ SERIES DOCUMENTALES ←",Ronaldinho S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldinho S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GhSNvjWFXaWRQ8vDrtQIVnAfNU.jpg" group-title="→ SERIES DOCUMENTALES ←",Ronaldinho S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldinho S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr60DEuUdEnw65st6Wf7KvBIeVc.jpg" group-title="→ SERIES DOCUMENTALES ←",Ronaldinho S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m2MIABwEurYDhk1RZo5LORmfmL.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1s5ql4ZJ7yasNimqcpmuxgdpE.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtbtNZ08ytPm4d5jS6VA6Jr6oeD.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CReHRThLEOrELrgd5fxCfoYAh2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oECXRVunr2oUFs1EYNcgv8Z26Wa.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIoQfJQEuluVqnH6MRRX20NlHJe.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCbxMF8mKpKbCyeFPRi1YDY3wK4.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QHt6k6GrChkxbjZX3SXIfawWXJ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrS8DOmZSv8guLQwBjJCdTBXAv6.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2UGB9XdD70Z0tUFPPEzxih9jdW.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUNT2ovMtP5SRcbNbZDBUyZJIIY.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MebrOO8O381F8ZAgIG0iC5LAZ2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyJtol6R0zKfEUnUgVbGTEnXzsg.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zeK6CgTNK2FELNVB7cDEs7FvqK.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Mam0UMqkQbJw7pqezh28RaAG9V.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f178Xi2tsCQQkosnYqR1AaNfAPj.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db9YZfN6EChAfACd9Qa6lJ29FCM.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYFd8wHrntOZF0xaVU12qq9Ppa2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN6PABxuPY0jAEvLDEP3KnCDhjr.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nthYy9EjyRWNMH1RpbcBradWT97.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yd2Z76AiP23GXWMj7U3x4bh8dws.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfZ9apTXI8NCSKKiMFc6qujJXHP.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBW5sPvlSEcgztzJvegXziKc7u8.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280812.mkv
