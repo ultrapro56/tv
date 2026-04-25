@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apex (2026)
+http://ultrapremium.cloud:8080/movie/965897722tv/e0tar0hy/280852.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
 http://ultrapremium.cloud:8080/movie/965897722tv/e0tar0hy/280850.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pedro Ruminot: Una Noche en la Arena" tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
@@ -135203,3 +135205,23 @@ http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280847.mkv
 http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Cw50xfevKRthjcH198O7kQQ7p.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E13
 http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E01
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E02
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E03
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E04
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E05
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E06
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SMLCJpvNt29JvshWfKNexZnlaw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E07
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseeZyacfmdOhihOYOJRK7xXpI4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E08
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFPesk4OybE3zDAF3lv76lY2nfd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E09
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E10
+http://ultrapremium.cloud:8080/series/965897722tv/e0tar0hy/280862.mkv
