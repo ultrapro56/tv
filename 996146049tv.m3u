@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apex (2026)
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Ruminot: Una Noche en la Arena" tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Michael (2026) SUB
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="180 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="→ VOD ESTRENOS 2026 ←",180 (2026)
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Compañeras de cuarto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Compañeras de cuarto (2026)
+http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280813.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sobran las palabras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobran las palabras (2026)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/280774.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZO1nzANssYCyPph8w2ocwq2Bfb.jpg" group-title="→ VOD ESTRENOS 2026 ←",Embestida (2026)
@@ -2165,8 +2177,7 @@ http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/265342.mp4
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/265343.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1922 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg" group-title="→ VOD CRIMEN ←",1922 
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/265344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Adulto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK1TMsGRwMj1f3z5YLdIFhNL5Z0.jpg" group-title="→ VOD SUSPENSO ←",Amor Adulto
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/265345.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Lo Que Ignoramos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiCUrxdZBYtbvkojp4SXrFhKsEZ.jpg" group-title=" → VOD ESTRENOS 2024 ←",Lo Que Ignoramos (2024)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/265331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Complice en Fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2aWiFgOO2Dzh6K6URImCG3wYp.jpg" group-title=" → VOD ESTRENOS 2024 ←",Complice en Fuga (2024)
@@ -5677,8 +5688,8 @@ http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/1957.mkv
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/1958.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Killer in the Guest House (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUiiYWAB8ibeC5dqzEsO5NkrQjx.jpg" group-title="→ VOD ESTRENOS 2020 ←",Killer in the Guest House (2020)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/1959.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El arte de ser adulto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QG3MG4HkOrJPJFtIlwL6NLhVOS.jpg" group-title="→ VOD ESTRENOS 2020 ←",El arte de ser adulto (2020)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/1960.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El stand de los besos 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYxGxxFMpS0VKLAh1ObSgjnT1tx.jpg" group-title="→ VOD ESTRENOS 2020 ←",El stand de los besos 2 (2020)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/1961.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Isla Larva: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="→ VOD ESTRENOS 2020 ←",Isla Larva: La película (2020)
@@ -6357,8 +6368,8 @@ http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/68034.mp4
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/68035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vida perra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FLIPmNE9SihcD0ui5yqmS6kKjV.jpg" group-title="→ VOD ESTRENOS 2023 ←",Vida perra (2023)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/68129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vida adulta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn77J4IsECDqdPUALpLNFJzJxa.jpg" group-title="→ VOD ESTRENOS 2023 ←",Vida adulta (2023)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/68130.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Pandorum (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3wRjKk9IhztDnvc8e94Kw8tLBK.jpg" group-title="→ VOD TERROR ←",Pandorum (2009)
 http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/68456.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¿A quién ama Gilbert Grape? (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W9WHcWBD08V3SxpDpxESODDpde.jpg" group-title="→ VOD DRAMA ←",¿A quién ama Gilbert Grape? (1993)
@@ -23889,7 +23900,7 @@ http://ultrapremium.cloud:8080/998703288tv/gltwfqx/61582
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/61583
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG: Cronica TV HD
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/61584
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←",ES | DAZN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN GP" tvg-logo="https://channelstore.roku.com/es-gt/details/93ea4813b18fadf50246f47009ffb0be:4968f5a5f89cbb8306d467cc85915eb8/motogp" group-title="→ ESPAÑA DAZN ←",ES | DAZN GP
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/12361
 #EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←",ES | DAZN 2 FHD
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/12362
@@ -36772,723 +36783,20 @@ http://ultrapremium.cloud:8080/998703288tv/gltwfqx/280761
 #EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/280762
 #EXTINF:-1 tvg-id="" tvg-name="CA | NBA TV" tvg-logo="/logos/ENG_Canada/nba.png" group-title="→ NBA (EVENTOS) ←",CA | NBA TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/280763
 
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14087
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14107
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14108
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14109
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14110
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14111
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14112
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14113
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14114
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14115
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14116
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14117
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14120
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14121
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14122
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14123
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA7
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14124
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA8
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14125
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA10
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14127
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14130
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14131
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14133
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14134
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14135
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14136
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14137
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14138
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14141
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14142
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14143
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14144
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14145
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14146
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14147
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14148
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14149
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14150
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_3 LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14151
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14152
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14153
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14154
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14155
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14156
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14157
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14158
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14159
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14160
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14161
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14162
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14163
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14164
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14166
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14167
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14168
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14169
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA7
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14170
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA9
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14179
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA10
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14187
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14190
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14191
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14192
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14193
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14194
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14195
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA7
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14196
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA8
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14197
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA9
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14198
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA10
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14199
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA11
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14200
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA12
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14201
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA14
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14203
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14204
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14205
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14206
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14207
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14208
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14209
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B1
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14210
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14211
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14212
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14213
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B5
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14214
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/14215
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Anal 2 HD" tvg-logo="https://ei.phncdn.com/videos/202407/05/454752391/thumbs_13/(m=eaSaaTbaAaaaa)(mh=B-Ue4I_skIAsTe5K)2.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Anal 2 HD
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Arab Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQi3cZ257Uv9yUk78cf3VkuRphBZjiUCB_Ow&s" group-title="→ ADULTOS DS ←",[+18⭕️] Arab Girls HD
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Asian HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlP-HtEGaSnsVDd-gW_o1CYRSEOcvS5sqcRw&s" group-title="→ ADULTOS DS ←",[+18⭕️] Asian HD
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Asian Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmZh8tfxFpTtRF6j6TiBt50hx4Z18bltJfg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Asian Girls HD
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Bazzers FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Bazzers FHD
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Ass HD" tvg-logo="https://c4.ttcache.com/thumbnail/2GlVKGbZZIB/288x162/1.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Ass HD
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Ass Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcFcR2sA9SSxsxTChzMXGs_LyjNh0Qt994g&s" group-title="→ ADULTOS DS ←",[+18⭕️] Big Ass Girls HD
-http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Dick HD" tvg-logo="https://ei.phncdn.com/videos/202308/04/436776791/original/(m=eGNdHgaaaa)(mh=JFSY12UeQt1E405n)15.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Dick HD
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Tits HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTAQynvhpSm2oUqpxX8b5_WHO3HneFO-TijQ&s" group-title="→ ADULTOS DS ←",[+18⭕️] Big Tits HD
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Big Tits Girls HD" tvg-logo="https://ei.phncdn.com/videos/202307/19/435776821/original/(m=q3RKWRYbeGNdHgaaaa)(mh=yitfHFgw8oTTwcDW)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Big Tits Girls HD
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blonde HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvBDV_fG_CV5Ivwiot_gg1m87WYNuo971dQ&s" group-title="→ ADULTOS DS ←",[+18⭕️] Blonde HD
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blonde Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVf8JAZ91W487n27eus0Vm-YgLDs5j7E97Q&s" group-title="→ ADULTOS DS ←",[+18⭕️] Blonde Girls HD
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blowjob HD" tvg-logo="https://ei.phncdn.com/videos/202311/12/442883281/original/(m=qMUHJ1YbeGNdHgaaaa)(mh=T6F1MXaOUNeDG0RZ)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Blowjob HD
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Blowjob 2 HD" tvg-logo="https://cdni.pornpics.com/460/7/551/14914867/14914867_074_9cbc.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Blowjob 2 HD
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brasileiras CAM 2" tvg-logo="https://snapshots.xcdnpro.com/thumbnails/Casal__hot_sexy?s=LIcrskGOVJofJqcQnq29ruyHItzxjcKhpSAJ/bvw3Yw=" group-title="→ ADULTOS DS ←",[+18⭕️] Brasileiras CAM 2
-https://cam4-hls.xcdnpro.com/320/cam4-origin-live/vivi298-320-2eb692e5-5442-424a-b6dc-4793d993f71e_aac/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brunette HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhilSF9KTdyjcDUPLla4m5ulgbe1Rd-TlwPA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Brunette HD
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brunette Girls HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaAziM3LFHz0JWwEmfktxoC_kHm9kabX47ZA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Brunette Girls HD
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Compilation HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXkdwwtb5yWcCIbVL0JOzbxEiNRv4aoT5aHg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Compilation HD
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Cuckold HD" tvg-logo="https://pcom77.st-content.com/content/contentthumbs/501086.jpg?secure=DSh47i9R8HYToh03Do5hkA==,1726530690" group-title="→ ADULTOS DS ←",[+18⭕️] Cuckold HD
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Desire TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLSjPMP6yxXHLWywiypHwk-ROr0FXxkS09A&s" group-title="→ ADULTOS DS ←",[+18⭕️] Desire TV FHD
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Dorcel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpIyrm4C_nzwi4-Jp_PDiMQ8q2RTPseWczg&s" group-title="→ ADULTOS DS ←",[+18⭕️] Dorcel TV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Dorcel TV FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png" group-title="→ ADULTOS DS ←",[+18⭕️] Dorcel TV FHD
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Jovenes XXX" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Jovenes XXX
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252038
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Ebony Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Ebony Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252039
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] EuroXXX FHD" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] EuroXXX FHD
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252040
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Fetish" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Fetish
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252041
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Gangbang" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Gangbang
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252042
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Gay HD" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Gay HD
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252043
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Girls Squirt" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Girls Squirt
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252044
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Hardcore" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Hardcore
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252045
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] VIVIDRED" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] VIVIDRED
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252046
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Hustler" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/HUSTLER-HD.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Hustler
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252047
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Interracial" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Interracial
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252048
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Latina" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Latina
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252049
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Latina Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Latina Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252050
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Lesbian" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Lesbian
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252051
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Live Cams" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Live Cams
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252052
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Mature" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Mature
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252053
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Medium Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Medium Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252054
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] MILF" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] MILF
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252055
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Milf TV" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Milf TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252056
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] BABES TV" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/Babes-TV.png" group-title="→ ADULTOS DS ←",[+18⭕️] BABES TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252057
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Playboy 2" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Playboy 2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252058
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Pornstar" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Pornstar
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252059
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Pov" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Pov
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252060
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] PRIVATE" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/Private-TV.png" group-title="→ ADULTOS DS ←",[+18⭕️] PRIVATE
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252061
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Red FHD" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Red FHD
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252062
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Rough" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Rough
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252063
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Russian" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Russian
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252064
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Skinny Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Skinny Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252065
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Teen Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Teen Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252066
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Teen TV" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Teen TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252067
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Threesome" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Threesome
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252068
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Venus" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Venus
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252069
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Vixen" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Vixen
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252070
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] White Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] White Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252071
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] XY Plus HD" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/XY-Plus.png" group-title="→ ADULTOS DS ←",[+18⭕️] XY Plus HD
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252072
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Young Girls" tvg-logo="" group-title="→ ADULTOS DS ←",[+18⭕️] Young Girls
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252073
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Barely legal" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/Barely-Legal-min.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Barely legal
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252074
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Brazzers TV" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/BRAZZERS-TV.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Brazzers TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252075
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Candy" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/Candy-TV.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Candy
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252076
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] DUSK" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/DUSK.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] DUSK
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252077
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️]  Kaloopy TV" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/KALOOPY-TV-1024x197.jpg" group-title="→ ADULTOS DS ←",[+18⭕️]  Kaloopy TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252078
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️]  O LA LA" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/O-la-la.jpg" group-title="→ ADULTOS DS ←",[+18⭕️]  O LA LA
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252079
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Penthouse" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/Penthouse-Quickies.png" group-title="→ ADULTOS DS ←",[+18⭕️] Penthouse
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252080
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Playboy TV" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2022/07/Playboy-TV-min.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Playboy TV
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252081
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] RED LIPS" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/Red-Lips.png" group-title="→ ADULTOS DS ←",[+18⭕️] RED LIPS
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252082
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️]  KINOXXX" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/KinoXXX.png" group-title="→ ADULTOS DS ←",[+18⭕️]  KINOXXX
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252083
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] XXL" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/XXL.png" group-title="→ ADULTOS DS ←",[+18⭕️] XXL
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252084
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV 2" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-2.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV 2
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252085
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV 3" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-3.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV 3
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252086
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV 4" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-4.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV 4
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252087
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV PARODY" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-Parody.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV PARODY
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252088
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV Compilation" tvg-logo="https://okteve.com/wp-content/uploads/media/59eb09001a388f2d691a9b1c83c0f088.jpeg" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV Compilation
-https://s.oxax.tv/3Pe0jpJM6TBvqH1sdPdx_Q/34/1727737300/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV Anal" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-Anal.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV Anal
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252090
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV Teens" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-Teens.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV Teens
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252091
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAT LESBIAN" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-Lesbian.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAT LESBIAN
-http://ultrapremium.cloud:8080/998703288tv/gltwfqx/252092
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] FAP TV BBW" tvg-logo="https://www.venusescort.ovh/wp-content/uploads/2023/03/FAP-TV-Anal.png" group-title="→ ADULTOS DS ←",[+18⭕️] FAP TV BBW
-https://line.cucodash.xyz:443/uLKTARaDUKTO/QmsUdEfC79/57881
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Gay 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaF-zz0oBfNZXyrsIcNBbAnaBvBkGGhsn0NA&s" group-title="→ ADULTOS DS ←",[+18⭕️] Gay 2 HD
-http://d029dcec.kazmazpaz.ru/iptv/N6RW2X3HSTZFDP/6215/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Anal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU59ZDQwg6ZTCwLmx7QIqJzbHGEK2_4rZHnw&s" group-title="→ ADULTOS DS ←",[+18⭕️] Anal HD
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] X4 FHD" tvg-logo="http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215464.m3u8" group-title="→ ADULTOS DS ←",[+18⭕️] X4 FHD
-http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Htb беларусь FHD" tvg-logo="https://ei.phncdn.com/videos/202404/18/451259211/original/(m=qWLWJIZbeGNdHgaaaa)(mh=1b_tq5yAn8kdoU5t)0.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Htb беларусь FHD
-http://206.212.244.71:8080/live/pcox5852@gmail.com/pcox5852@2023/215726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] ргвк дагестан Fhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdOrGjZd5AaM90imvRPCHwfKJhIkXH3FdKA&s" group-title="→ ADULTOS DS ←",[+18⭕️] ргвк дагестан Fhd
-http://206.212.244.71:8080/4wVQA7/625159/159952
-#EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Poccия HD" tvg-logo="https://img.pvvstream.pro/preview/xP1k1Kgg0RUSICX4Yy9pxw/-165120769_456243881/i.mycdn.me/getVideoPreview?id=1573049731821&idx=6&type=39&tkn=mI-U2VODj5PYjWH4Ol1D01KerB0&fn=vid_x&c_uniq_tag=TQmeBztA-q7f9WkOAxmGfBurE3-nWfQteESCovRlyOo" group-title="→ ADULTOS DS ←",[+18⭕️] Poccия HD
-https://cv-h.phncdn.com/hls/videos/202204/28/407168431/720P_4000K_407168431.mp4/index-v1-a1.m3u8?uBcdoNi6nQpFgwr7KnbX7UTGeFMEnoEfIovGXeKe0IjWuGGjlHEJ5MlGkbAE7vozjbejRPk3nL2zu7o7bGLuFg988sku-QYxge_C10JnVUtXs1K1ISJlCVIesWTtXaYYIbpXjaGTtwXXm-9YZx3UjS71XhrADf_pzmOrruw7I2FLcpaWZ3z94MmSgLnveMqasl5Y4EXG-Q
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Tht International FHD" tvg-logo="https://th.bing.com/th/id/OIP.wwuPHRmX_1aXJv3CqL9HZAAAAA?rs=1&pid=ImgDetMain" group-title="→ ADULTOS DS ←",RUS: Tht International FHD
-http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6170/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEGALPORNO,COM (центральное тв Ru) FHD" tvg-logo="" group-title="→ ADULTOS DS ←",LEGALPORNO,COM (центральное тв Ru) FHD
-http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="" tvg-name="XMO X-RATED MEN ONLY FHD" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169lll/bb/db/22/bbdb225b3c633c2add8acc5a8e1a72ef/bbdb225b3c633c2add8acc5a8e1a72ef.29.jpg" group-title="→ ADULTOS DS ←",XMO X-RATED MEN ONLY FHD
-http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6285/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Tht International HD" tvg-logo="https://th.bing.com/th/id/OIP.wwuPHRmX_1aXJv3CqL9HZAAAAA?rs=1&pid=ImgDetMain" group-title="→ ADULTOS DS ←",RUS: Tht International HD
-http://d029dcec.kazmazpaz.ru/iptv/ADVVD9FFGESS9C/6170/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORNSTARLOVEGIRLS.COM FHD" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ ADULTOS DS ←",PORNSTARLOVEGIRLS.COM FHD
-http://206.212.244.71:8080/4wVQA7/625159/159952
-#EXTINF:-1 tvg-id="" tvg-name="9 Songs (2004)" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",9 Songs (2004)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Dirty Shame (2004)" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",A Dirty Shame (2004)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268794.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ah-ga-ssi.2016.1080p-cast" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Ah-ga-ssi.2016.1080p-cast
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aisha Crowd Bondage" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aisha Crowd Bondage
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alba DeSilva - Private" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alba DeSilva - Private
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alexa Tomas - Anal Euphoria 3" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alexa Tomas - Anal Euphoria 3
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alexa Tomas - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Alexa Tomas - Dorcel Club
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A los 18 años me volví una zorra" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",A los 18 años me volví una zorra
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amas de casa desmelenadas" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Amas de casa desmelenadas
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amber Nevada - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Amber Nevada - Dorcel Club
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amber Nevada - Hustler" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Amber Nevada - Hustler
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anal Lektion von der älteren Schwester" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Anal Lektion von der älteren Schwester
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anal trio with 2 petite babes" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Anal trio with 2 petite babes
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ana Marco & Francesca DiCaprio - XTime TV" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Ana Marco & Francesca DiCaprio - XTime TV
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apolonia & Alexa - MatureNL" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia & Alexa - MatureNL
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apolonia - Club Seventeen" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia - Club Seventeen
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apolonia - Dorcel Club" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Apolonia - Dorcel Club
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ariana Grand - My Sister The Schoolgirl" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Ariana Grand - My Sister The Schoolgirl
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aysha & Norma - Old Young Lesbian" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aysha & Norma - Old Young Lesbian
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aysha - Box TruckSex" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aysha - Box TruckSex
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aysha - Grandpas Fuck Teens" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Aysha - Grandpas Fuck Teens
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Azafatas De Primera" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Azafatas De Primera
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Baise-moi[Violame][SubsEspañol][RinconCinefilo.com]" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Baise-moi[Violame][SubsEspañol][RinconCinefilo.com]
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Below Her Mouth (2017)" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Below Her Mouth (2017)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Betty Foxxx & Mia Milan - Legal Porno" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Betty Foxxx & Mia Milan - Legal Porno
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Betty Foxxx - Legal Porno" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Betty Foxxx - Legal Porno
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BF Says It's so life likel" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",BF Says It's so life likel
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bitter Moon (1992)" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Bitter Moon (1992)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blondie Fesser - Crow Bondage" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Blondie Fesser - Crow Bondage
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blondie Fesser - Private" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Blondie Fesser - Private
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad Parodia XXX" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Breaking Bad Parodia XXX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BridgetteB - Fantasy Massage" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",BridgetteB - Fantasy Massage
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CandelaX - GGG" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",CandelaX - GGG
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caomei Bala - XXX Shades" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Caomei Bala - XXX Shades
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carolina & Natty - ESP RK" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Carolina & Natty - ESP RK
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chroniques sexuelles d'une famille d'aujourd'hui (2012)" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Chroniques sexuelles d'une famille d'aujourd'hui (2012)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Claire Castel deseos de sumisión" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Claire Castel deseos de sumisión
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Claudia Bavel - Fake Hostel" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Claudia Bavel - Fake Hostel
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Claudia Bavel - Fitness Rooms" tvg-logo="https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/4d/66/8e/4d668e963159e3be8dd5b88106856088-1/4d668e963159e3be8dd5b88106856088.13.jpg" group-title="→ VOD ADULTOS XXX ←",Claudia Bavel - Fitness Rooms
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como una novia sin sexo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jXWUKcLWG0kybMtJw78CxRo0v1.jpg" group-title="→ VOD ADULTOS XXX ←",Como una novia sin sexo (2016)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Concussion (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Concussion (2013)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268833.avi
-#EXTINF:-1 tvg-id="" tvg-name="Daniela Evans & Paola Guerra - Mature" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Daniela Evans & Paola Guerra - Mature
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Das Zimmermädchen Lynn (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Das Zimmermädchen Lynn (2015)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Adriana Chechik gets tied, suspended and fucked hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Adriana Chechik gets tied, suspended and fucked hard
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Catalina shares her GF Paris in hot threesome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Catalina shares her GF Paris in hot threesome
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Diana Grace Challenges her Boyfriend to Fuck a Whore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Diana Grace Challenges her Boyfriend to Fuck a Whore
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Filthy Adriana Furiously Drains 8 Cocks for Reward" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Filthy Adriana Furiously Drains 8 Cocks for Reward
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Gabbie & Nia have passionate threesome with Mick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Gabbie & Nia have passionate threesome with Mick
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Maitland & Adriana partake in a twisted foursome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Maitland & Adriana partake in a twisted foursome
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Maitland trains secretary Riley to serve her boss" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Maitland trains secretary Riley to serve her boss
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Scarlit shares her boyfriend with classmate Gianna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Scarlit shares her boyfriend with classmate Gianna
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Seductress Lena Paul gets spanked & fucked intensely" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Seductress Lena Paul gets spanked & fucked intensely
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Sexy married brunette has threesome at hubby's request" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Sexy married brunette has threesome at hubby's request
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deeper - Voluptuous September & Sofi have twisted threesome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uib2Khi2wynz9BEAoUBIvEE64vB.jpg" group-title="→ VOD ADULTOS XXX ←",Deeper - Voluptuous September & Sofi have twisted threesome
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desearás al hombre de tu hermana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvsP9EKaCGNkipRpyCKCuUkLEC.jpg" group-title="→ VOD ADULTOS XXX ←",Desearás al hombre de tu hermana (2017)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diary of a Sex Addict (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgvsP9EKaCGNkipRpyCKCuUkLEC.jpg" group-title="→ VOD ADULTOS XXX ←",Diary of a Sex Addict (2001)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diet of Sex (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDp5T9FoH17101Si2T5rJbJd84.jpg" group-title="→ VOD ADULTOS XXX ←",Diet of Sex (2014)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DIYSEX (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",DIYSEX (2019)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dominancia y Sumisión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",Dominancia y Sumisión
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dreier in Yogahosen und weißen Socken" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",Dreier in Yogahosen und weißen Socken
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Einen Raum mit der Stieschwester teilen -  Gabriela Lopez - Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",Einen Raum mit der Stieschwester teilen -  Gabriela Lopez - Family Therapy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El extraño del lago.mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10bNZbHsujMJnnXYh3oLQhxbIu.jpg" group-title="→ VOD ADULTOS XXX ←",El extraño del lago.mp4
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El sexo de los ángeles (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",El sexo de los ángeles (2012)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Especial - Maravillas Amateur del Creampie 1 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Especial - Maravillas Amateur del Creampie 1 vol. VI
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Especial - Maravillas Amateur del Creampie 2 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Especial - Maravillas Amateur del Creampie 2 vol. VI
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Especial - Maravillas Amateur del Creampie 3 vol. VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Especial - Maravillas Amateur del Creampie 3 vol. VI
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eva Angelina und Sativa Rose Trio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Eva Angelina und Sativa Rose Trio
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Expedientes X (Parodia XXX)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Expedientes X (Parodia XXX)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Family Anal Amateur" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Family Anal Amateur
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasías en París - Princesas parisinas preciosas y muy guarrillas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Fantasías en París - Princesas parisinas preciosas y muy guarrillas
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fucking My Step Daughter in her Ass for the First Time - Molly Jane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Fucking My Step Daughter in her Ass for the First Time - Molly Jane
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gala Brown - Butt Formation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Gala Brown - Butt Formation
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Club SeveTeen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Club SeveTeen
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Legal Porno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Legal Porno
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gina Ferocious - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Gina Ferocious - Private
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Instructora sexual para matrimonios en crisis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Instructora sexual para matrimonios en crisis
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I picked her up and fucked her hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",I picked her up and fucked her hard
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irina Vega - Box Truck Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Irina Vega - Box Truck Sex
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irina Vega - MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Irina Vega - MariskaX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jade Presley - Only Blowjob (4k)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jade Presley - Only Blowjob (4k)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jimena Lago  & Alyssia Kent - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jimena Lago  & Alyssia Kent - Private
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jimena Lago - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jimena Lago - Brazzers
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jordi & Aubrey Black - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jordi & Aubrey Black - Brazzers
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jordi & Reagan Foxx - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jordi & Reagan Foxx - Brazzers
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jordi & Ryan Keely - Brazzers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQMir1x7xDk3nP59aQyKj67Wsmj.jpg" group-title="→ VOD ADULTOS XXX ←",Jordi & Ryan Keely - Brazzers
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Joven y alocada (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv51QIOoTftngJK9MUaP6pEHIyO.jpg" group-title="→ VOD ADULTOS XXX ←",Joven y alocada (2012)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Julia De Lucia & Venus Afrodita - Sindrive" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv51QIOoTftngJK9MUaP6pEHIyO.jpg" group-title="→ VOD ADULTOS XXX ←",Julia De Lucia & Venus Afrodita - Sindrive
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Julia Roca & Lara West - VivThomas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv51QIOoTftngJK9MUaP6pEHIyO.jpg" group-title="→ VOD ADULTOS XXX ←",Julia Roca & Lara West - VivThomas
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kamasutra 3D (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Kamasutra 3D (2013)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Katana - WCX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Katana - WCX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Katrina Moreno - Public Agent" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Katrina Moreno - Public Agent
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kendra Sunderland & Nia Nacci - Vixen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Kendra Sunderland & Nia Nacci - Vixen
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kendra Sunderland - Blacked Raw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Kendra Sunderland - Blacked Raw
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ken Park (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Ken Park (2002)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kesha Ortega - EA MCG1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Kesha Ortega - EA MCG1
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Klip (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",Klip (2012)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K S Ortega - Family Strokes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq7jaJr3rbcsr8Aj4g2yaMXPQeP.jpg" group-title="→ VOD ADULTOS XXX ←",K S Ortega - Family Strokes
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La bella durmiente (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg" group-title="→ VOD ADULTOS XXX ←",La bella durmiente (1959)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La infiltrada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",La infiltrada (2024)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - UNF" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",Lara Duro - UNF
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - Verso Cinema" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",Lara Duro - Verso Cinema
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - WCX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",Lara Duro - WCX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lara Duro - Zoliboy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",Lara Duro - Zoliboy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Vie d'Adèle - Chapitres 1 et 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="→ VOD ADULTOS XXX ←",La Vie d'Adèle - Chapitres 1 et 2
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Viuda Negra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",La Viuda Negra (2019)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Le notti porno nel mondo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Le notti porno nel mondo (1977)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Les rencontres d'après minuit (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Les rencontres d'après minuit (2013)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lilyan Red & Pascals - SubSluts" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Lilyan Red & Pascals - SubSluts
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LilyanRed - Fake Taxi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",LilyanRed - Fake Taxi
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Beauty And The Senior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Beauty And The Senior
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Heavy On Hotties" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Heavy On Hotties
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liz Rainbow - Magma Film" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg" group-title="→ VOD ADULTOS XXX ←",Liz Rainbow - Magma Film
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lolita (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg" group-title="→ VOD ADULTOS XXX ←",Lolita (1997)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons parodia XXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg" group-title="→ VOD ADULTOS XXX ←",Los Simpsons parodia XXX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="→ VOD ADULTOS XXX ←",Love (2015)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Marriage & Other Bad Ideas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="→ VOD ADULTOS XXX ←",Love Marriage & Other Bad Ideas
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loving Pablo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Loving Pablo (2017)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lucia Fernandez - Box Truck Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Lucia Fernandez - Box Truck Sex
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucia Fernandez - Oye Loca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Lucia Fernandez - Oye Loca
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marta La Croft - Bang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Marta La Croft - Bang
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Me follarias por dinero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Me follarias por dinero
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mein Stiefbruder will nicht gehen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mein Stiefbruder will nicht gehen
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mia Navarro - Cum For Cover" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mia Navarro - Cum For Cover
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mia Navarro - Mature NL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mia Navarro - Mature NL
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi Jefe Abusa De Mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mi Jefe Abusa De Mi
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MILF Step Mom Fucks Son" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",MILF Step Mom Fucks Son
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padrastro abusa de mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mi padrastro abusa de mi
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi Profe Se Aprovecha de Mi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Mi Profe Se Aprovecha de Mi
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Montse Swinger - Luke Hardy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Montse Swinger - Luke Hardy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Montse Swinger - MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Montse Swinger - MariskaX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Awkward Sexual Adventure (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",My Awkward Sexual Adventure (2012)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Médico de urgencia (Pronto Soccorso)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Médico de urgencia (Pronto Soccorso)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nekane - Anal Tempation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Nekane - Anal Tempation
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nekane - KarupsPC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",Nekane - KarupsPC
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Erotic Stories" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Erotic Stories
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Friends Sex in House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Friends Sex in House
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Loba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Loba
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Passions" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Passions
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Romance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Romance
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Romance 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Romance 2
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensations Infidelidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensations Infidelidad
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation Tales From The Heart" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation Tales From The Heart
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New Sensation The Wedding Day" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg" group-title="→ VOD ADULTOS XXX ←",New Sensation The Wedding Day
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nymphomaniac. Volumen 1 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftFePuoNijuKP16yGkCbLSlXwT3.jpg" group-title="→ VOD ADULTOS XXX ←",Nymphomaniac. Volumen 1 (2013)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nymphomaniac. Volumen 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxsV36TqzDwKoQnoocwEID71TMk.jpg" group-title="→ VOD ADULTOS XXX ←",Nymphomaniac. Volumen 2 (2013)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One More Time For Sarah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxsV36TqzDwKoQnoocwEID71TMk.jpg" group-title="→ VOD ADULTOS XXX ←",One More Time For Sarah
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Papá Mi coñito Es Mejor Que El De Mamá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxsV36TqzDwKoQnoocwEID71TMk.jpg" group-title="→ VOD ADULTOS XXX ←",Papá Mi coñito Es Mejor Que El De Mamá
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="pretty-blonde-blu-ray_index.html" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxsV36TqzDwKoQnoocwEID71TMk.jpg" group-title="→ VOD ADULTOS XXX ←",pretty-blonde-blu-ray_index.html
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Prison (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9tgYEUtkMa6cyk0vObzdXDZBpq.jpg" group-title="→ VOD ADULTOS XXX ←",Prison (1965)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Private Casting X - Paris White - Tightest pussy ever" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9tgYEUtkMa6cyk0vObzdXDZBpq.jpg" group-title="→ VOD ADULTOS XXX ←",Private Casting X - Paris White - Tightest pussy ever
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Profesor  por un 10 me la dejo meter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9tgYEUtkMa6cyk0vObzdXDZBpq.jpg" group-title="→ VOD ADULTOS XXX ←",Profesor  por un 10 me la dejo meter
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Q (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Q (2014)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Riding Cock is my Mastery Daddy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Riding Cock is my Mastery Daddy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salma De Nora & Carolina Abril -MariskaX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Salma De Nora & Carolina Abril -MariskaX
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Samia Duarte - Dorcel Club" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Samia Duarte - Dorcel Club
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Schritt Mama Öffentlichkeit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Schritt Mama Öffentlichkeit
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sensual Suite Cherie DeVille & Laz Fyre Passionate Oiled Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="→ VOD ADULTOS XXX ←",Sensual Suite Cherie DeVille & Laz Fyre Passionate Oiled Sex
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sex and Zen 2 (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oB3pT7pfCZJz2xYxagZQFPEZke.jpg" group-title="→ VOD ADULTOS XXX ←",Sex and Zen 2 (1996)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268950.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sexo, amor y otras perversiones (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suaPJQKRY7PhHJtn9AYH2iCwgVC.jpg" group-title="→ VOD ADULTOS XXX ←",Sexo, amor y otras perversiones (2006)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268951.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sexo fácil, películas tristes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIj1pPOifipNLqqNQfGRHs7DBcO.jpg" group-title="→ VOD ADULTOS XXX ←",Sexo fácil, películas tristes (2014)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268952.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sex Swing Rimming For Horny Lesbians" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIj1pPOifipNLqqNQfGRHs7DBcO.jpg" group-title="→ VOD ADULTOS XXX ←",Sex Swing Rimming For Horny Lesbians
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shame (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg" group-title="→ VOD ADULTOS XXX ←",Shame (2011)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268954.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shortbus (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Shortbus (2006)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Silvia Rubi - Aussie Fellatio Queens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Silvia Rubi - Aussie Fellatio Queens
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Step Sisters BFF You think it's hot that your step brother" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Step Sisters BFF You think it's hot that your step brother
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stiefschwester soll ich in dir abspritzen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Stiefschwester soll ich in dir abspritzen
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Susy Gala - Dorcel Club (4k)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Susy Gala - Dorcel Club (4k)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Teenikini & Amarna Miller-Valentina Nappi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Teenikini & Amarna Miller-Valentina Nappi
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tetas Culo dolorosa underwood la Grande Negro Horseshit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Tetas Culo dolorosa underwood la Grande Negro Horseshit
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Postman Always Rings Twice (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Postman Always Rings Twice (1981)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Sexual Liberation of Anna Lee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Sexual Liberation of Anna Lee
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Submission Of Emma Marx #3 - Exposed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Submission Of Emma Marx #3 - Exposed
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Submission Of Emma Marx - Boundaries" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Submission Of Emma Marx - Boundaries
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiefer -  Streitendes Paar hat harten und intensiven Sex nach dem Streit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Tiefer -  Streitendes Paar hat harten und intensiven Sex nach dem Streit
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tina Kay - Shane Diesel's Black Bull For Hire #3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Tina Kay - Shane Diesel's Black Bull For Hire #3
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trois: The Escort (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Trois: The Escort (2004)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Une vraie jeune fille (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Une vraie jeune fille (1976)
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268970.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vacation With Step Mom - Dava Foxx - Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Vacation With Step Mom - Dava Foxx - Family Therapy
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Violación En Grupo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Violación En Grupo
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wet Pussy Contest At School" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Wet Pussy Contest At School
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XTime - AlexaTomas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",XTime - AlexaTomas
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yemaya Gonzalez - Chicas Loca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Yemaya Gonzalez - Chicas Loca
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zoe Doll - Dorcel Club" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Zoe Doll - Dorcel Club
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zoe Doll - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Zoe Doll - Private
-http://ultrapremium.cloud:8080/movie/998703288tv/gltwfqx/268977.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E01" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/1199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E02" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E02
@@ -70149,6 +69457,8 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280622.mkv
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280688.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E06" tvg-logo="https://image.tmdb.org/t/p/w300/s9ZWGIHAGlbc5vp2pUsGNzo47an.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E06
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dG5Rw5cuyLqF8nhQMdbjR9YIBf.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E07
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -88177,6 +87487,8 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/265961.mp4
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/267402.mp4
 #EXTINF:-1 tvg-id="" tvg-name="From S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/91QkMMvQen7ADfGZQhyxWttPccJ.jpg" group-title="→ SERIES MISTERIO ←",From S03 E10
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/267403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg" group-title="→ SERIES MISTERIO ←",From S04 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -108509,352 +107821,48 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/249503.mp4
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/249504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K2Y0sBiJkLvkHbU6W4qahrUQT6.jpg" group-title="→ SERIES RETRO ←",MacGyver S07 E14
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/249505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n798Lp6UuVy99fVoI4gSazxebHt.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2oONZzNXAUoxHNMDsMHcZ8ne.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280816.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9Vfgl5oUeSnx5z4m7uTlfzTCmW.jpg" group-title="→ SERIES DC ←",Smallville S01 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gieenixNjvQzQxEQQRblIgS9znX.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUcfmdDWa5YgywzeiAZMW1y3a7j.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232112.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqpZjRcI9iZrsGPVq7ywU9EDQYR.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZ2nrQRoZ7q0HCUcQ7GVNrxxhjS.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47hiZkQKYOPCCi9F4bN3OTT7K7y.jpg" group-title="→ SERIES DC ←",Smallville S01 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EMav7jZIMnYO4fM87PmTzVZb4q.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232114.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vChmtl4bra7PvB6TFdZfzSNkOY7.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/785UseKOE3fTNqsia6IRUwARAc3.jpg" group-title="→ SERIES DC ←",Smallville S01 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232115.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylf4LDYAHy2JkQPQbEnH8xLcaqw.jpg" group-title="→ SERIES DC ←",Smallville S01 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232116.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280823.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og5FIxtqBsgu7hUgpen7T4zj25j.jpg" group-title="→ SERIES DC ←",Smallville S01 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232117.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280824.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OprUAuMqvpcIYuaOQRBeY9tfcG.jpg" group-title="→ SERIES DC ←",Smallville S01 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232118.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XjPXIzhiHbUH6lNRdsmMCiGNOA.jpg" group-title="→ SERIES DC ←",Smallville S01 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232119.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHmwuLZylLPNItojK6ODSoFsbM.jpg" group-title="→ SERIES DC ←",Smallville S01 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232120.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFuHB2RttYgAdzaIMmc7b0ha1NO.jpg" group-title="→ SERIES DC ←",Smallville S01 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232121.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC2sFxAkrjvnWRDSKrsixQfoIVe.jpg" group-title="→ SERIES DC ←",Smallville S01 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232122.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeSy5hjENExq7du00Dx6HpnQ6rv.jpg" group-title="→ SERIES DC ←",Smallville S01 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232123.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280830.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvKMLWOmXxjQNMqotaFdyR3HYRv.jpg" group-title="→ SERIES DC ←",Smallville S01 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232124.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280831.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYdKFfzgpvxzpk2SXvaF5RAaK6Y.jpg" group-title="→ SERIES DC ←",Smallville S01 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232125.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yz62dswA06KdkLHyhLbAszhU9X.jpg" group-title="→ SERIES DC ←",Smallville S01 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232126.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280833.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sE4lnHew1dhBpvCRxFPzjNfAJ6.jpg" group-title="→ SERIES DC ←",Smallville S01 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232127.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280834.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wcm7vY2UpACDjEM6irw7NgU9zN.jpg" group-title="→ SERIES DC ←",Smallville S01 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232128.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efIwNsN4bV8zMJeI6h0X0nBd3PZ.jpg" group-title="→ SERIES DC ←",Smallville S01 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xd1Sa262IbmQLN0pHq8YzfSrwvV.jpg" group-title="→ SERIES DC ←",Smallville S02 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7eaniTwsqfqbqTW6KYeyJz1Ipr.jpg" group-title="→ SERIES DC ←",Smallville S02 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvL6NrdMm8Z4YPtrfofWeDd1UZG.jpg" group-title="→ SERIES DC ←",Smallville S02 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EOdconLaaebq2FevF5dFLOjPN6.jpg" group-title="→ SERIES DC ←",Smallville S02 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h25I4dW6W05M63ol8EPrvpmoCWD.jpg" group-title="→ SERIES DC ←",Smallville S02 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3m9xjPyfJhpcjzJ6ucgPRvDJJXJ.jpg" group-title="→ SERIES DC ←",Smallville S02 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcGug0g2gN18UWhMStNrbBeyhJR.jpg" group-title="→ SERIES DC ←",Smallville S02 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSMUceIZ48hJWkG38Ujnc75wFFr.jpg" group-title="→ SERIES DC ←",Smallville S02 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKGlJVwdw0qm7cqCVfykMecUfq.jpg" group-title="→ SERIES DC ←",Smallville S02 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZLoiDuXYC0rzMtO4PbXL78I1d.jpg" group-title="→ SERIES DC ←",Smallville S02 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqwTEvOunsxhODXA525Xfxp2cA.jpg" group-title="→ SERIES DC ←",Smallville S02 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMhioyVw8FcfNc9L9sU6bqFASPM.jpg" group-title="→ SERIES DC ←",Smallville S02 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhxsx8gzULQKDy87XFlqU9Io0x4.jpg" group-title="→ SERIES DC ←",Smallville S02 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpbmzyDqms2Glu5YTC97IUhkm2Q.jpg" group-title="→ SERIES DC ←",Smallville S02 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7wGATv4wBcF3SJkLW0Omeimoi1.jpg" group-title="→ SERIES DC ←",Smallville S02 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuHxPTzYvbJc4MjesxWEGk7alXi.jpg" group-title="→ SERIES DC ←",Smallville S02 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g56d3woWOeW5XUaK9yRD7qZLsnR.jpg" group-title="→ SERIES DC ←",Smallville S02 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcGnWArGAIs2Z3v6KUE6NfK4akC.jpg" group-title="→ SERIES DC ←",Smallville S02 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtouXtpShWJTAze56WwamvZahem.jpg" group-title="→ SERIES DC ←",Smallville S02 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxqC25BFaqQAe4fJBvRVS1Eu1ba.jpg" group-title="→ SERIES DC ←",Smallville S02 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOssv8dWs7gfaSdOQlfEoIOwL1B.jpg" group-title="→ SERIES DC ←",Smallville S02 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4g52aGkeSg9LFZ5jqBp07TLYf.jpg" group-title="→ SERIES DC ←",Smallville S02 E22
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdsNM5JF0DakYgUdG1O6Kysj8UO.jpg" group-title="→ SERIES DC ←",Smallville S02 E23
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HjB28zdXVsVybkmD0u8pOPjSTv.jpg" group-title="→ SERIES DC ←",Smallville S03 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWfYCvCCExY09RBboKB3ENOTWST.jpg" group-title="→ SERIES DC ←",Smallville S03 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJTTDZBfgjR8RCvnjA76ZgP1f.jpg" group-title="→ SERIES DC ←",Smallville S03 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBolOLItBFW9NGrLyd9TpY787C.jpg" group-title="→ SERIES DC ←",Smallville S03 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkn0rrOdfAGqBuvOnM7z4EBy6vk.jpg" group-title="→ SERIES DC ←",Smallville S03 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goyzGo1MWCCTbO3vJ5vd98z6i0L.jpg" group-title="→ SERIES DC ←",Smallville S03 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJmoixxTp4O7FEi2nLl6cl0vRYc.jpg" group-title="→ SERIES DC ←",Smallville S03 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNU4vlSwrRUu5BJc2NhgBYWVuOm.jpg" group-title="→ SERIES DC ←",Smallville S03 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2tuq3XDqTb3e4TghPccL2Hz8WL.jpg" group-title="→ SERIES DC ←",Smallville S03 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pgJxsenX7um75PpmLKgfFl019y.jpg" group-title="→ SERIES DC ←",Smallville S03 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaLFmBJs9McZrs3u7ayuVxJNrNF.jpg" group-title="→ SERIES DC ←",Smallville S03 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzObr6mlsG6DDBMsU6PzVwvwoIh.jpg" group-title="→ SERIES DC ←",Smallville S03 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS0T8Cvk3gpBxutgpIYmpZs3BVO.jpg" group-title="→ SERIES DC ←",Smallville S03 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhh6BAXp0Dd7BmCEOBnUPyXgrJ4.jpg" group-title="→ SERIES DC ←",Smallville S03 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO5wYBpgtP6Bs9p1TopwtRzDQj1.jpg" group-title="→ SERIES DC ←",Smallville S03 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ATzdYKws9NynDzMHyVwRX4EyK.jpg" group-title="→ SERIES DC ←",Smallville S03 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wszMaPugz0oISB60cvW1V3Fi8gc.jpg" group-title="→ SERIES DC ←",Smallville S03 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf2RDbgvRy99deBlDnhwRSIAokF.jpg" group-title="→ SERIES DC ←",Smallville S03 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQs1A4CwFQNpCu7cQPrgoJvjYrB.jpg" group-title="→ SERIES DC ←",Smallville S03 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53OGaA3qZboMGE73LtmetX1dLhM.jpg" group-title="→ SERIES DC ←",Smallville S03 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8tBdTWidSH4452BqhXtYQsxA2k.jpg" group-title="→ SERIES DC ←",Smallville S03 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFVOpndnLWcESIiASQwSSjMm4X9.jpg" group-title="→ SERIES DC ←",Smallville S03 E22
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8vrx435b40ci34GeVtEvHA1hnj.jpg" group-title="→ SERIES DC ←",Smallville S04 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWLk9TwJDsyfn054O8QOfnYqGhJ.jpg" group-title="→ SERIES DC ←",Smallville S04 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl9VlMMI5xQlz1Vt02E4CpATnpS.jpg" group-title="→ SERIES DC ←",Smallville S04 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9xlDgHD5YViZQZVYA4YZMShvAp.jpg" group-title="→ SERIES DC ←",Smallville S04 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDtnhtR6ildo8pPjc3TSClpLOT.jpg" group-title="→ SERIES DC ←",Smallville S04 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg" group-title="→ SERIES DC ←",Smallville S04 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5nUTb5InawJzBNbwcXUENeqCyz.jpg" group-title="→ SERIES DC ←",Smallville S04 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOEbdvEriBgMC66pN3BXWj17LMd.jpg" group-title="→ SERIES DC ←",Smallville S04 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NGc4bCOxG6ubTplQKgtStglM46.jpg" group-title="→ SERIES DC ←",Smallville S04 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atoNwOLS5sODHJ1Sls5cqh6UGCs.jpg" group-title="→ SERIES DC ←",Smallville S04 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHgvKngP4DTD8XcnPovts8XB5mM.jpg" group-title="→ SERIES DC ←",Smallville S04 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg" group-title="→ SERIES DC ←",Smallville S04 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hk8UATVXYIprI75rVS2KxzpDfA.jpg" group-title="→ SERIES DC ←",Smallville S04 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWhFSYR1IrSbUJfkFmRSHWz89zv.jpg" group-title="→ SERIES DC ←",Smallville S04 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1auMqqMRMffJbEA52ZCCfbhXnu.jpg" group-title="→ SERIES DC ←",Smallville S04 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TIRVwvHBXvNE9StP9ODVS6wCvv.jpg" group-title="→ SERIES DC ←",Smallville S04 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eoJHx8sNVQjJeQw4uErdJ6ICrv.jpg" group-title="→ SERIES DC ←",Smallville S04 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zM2n8okmpKg2FWPtgLQCFdpXQ4.jpg" group-title="→ SERIES DC ←",Smallville S04 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcqA2pRWE6OWWLPGeC8sc2O01gb.jpg" group-title="→ SERIES DC ←",Smallville S04 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vv8p7LW65yBQrcMNjUUsmBfddl.jpg" group-title="→ SERIES DC ←",Smallville S04 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2wApJr59JMjXG5UzX1eP2a2A1.jpg" group-title="→ SERIES DC ←",Smallville S04 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJatujpAwNGqzTyxAnjYMMquBD.jpg" group-title="→ SERIES DC ←",Smallville S04 E22
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpkE0EGG9JprSGKv2wPFb2hLQqj.jpg" group-title="→ SERIES DC ←",Smallville S05 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntMrI2PjqTF8QidhiGAiTn6d5tm.jpg" group-title="→ SERIES DC ←",Smallville S05 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdsLBmWjVXOZTwQcSj9lYSlaV2.jpg" group-title="→ SERIES DC ←",Smallville S05 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZWBz7ygNurPMUQClf6U3YZiogl.jpg" group-title="→ SERIES DC ←",Smallville S05 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqtUsjCeCVs6pBbW9e3QAEfpezm.jpg" group-title="→ SERIES DC ←",Smallville S05 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7a7M1EiSnTDXxpm5OScG7l6a7.jpg" group-title="→ SERIES DC ←",Smallville S05 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar8D8alZxxWjmRGPw7qj61OMOaM.jpg" group-title="→ SERIES DC ←",Smallville S05 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szxHsWybJXPpqW3eAYmBikUCpaO.jpg" group-title="→ SERIES DC ←",Smallville S05 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nSRbYR7UtDlzioOJ3ywvT9xlJQ.jpg" group-title="→ SERIES DC ←",Smallville S05 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxbvYKKxnwZQ3NrruM7WLYe9PP9.jpg" group-title="→ SERIES DC ←",Smallville S05 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVx5MT94LBeuGOyBIKBxmjPYtK6.jpg" group-title="→ SERIES DC ←",Smallville S05 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232209.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lq55IwxzBGrmhgpDnLNVpPFnaS.jpg" group-title="→ SERIES DC ←",Smallville S05 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulX6o2yxkmFTAzWxio95ck7ntHF.jpg" group-title="→ SERIES DC ←",Smallville S05 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdL57trQZjGIsUhqbSVKTvmjxWs.jpg" group-title="→ SERIES DC ←",Smallville S05 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adTztTM3MLxZ0m1SpVu4arZaopp.jpg" group-title="→ SERIES DC ←",Smallville S05 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1zuF3WMJU4Ik1tAe5fbrsEDPWG.jpg" group-title="→ SERIES DC ←",Smallville S05 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awCoP3ioZSYmKvUhTP4oiJO1iOb.jpg" group-title="→ SERIES DC ←",Smallville S05 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVp9MXjTaB73ZRWhNJMAY5BwT3E.jpg" group-title="→ SERIES DC ←",Smallville S05 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18b0Hxo9trxLCUc8jjtv98bLyEp.jpg" group-title="→ SERIES DC ←",Smallville S05 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nW5UwaY1czCuKFyBuaRxmWA1i.jpg" group-title="→ SERIES DC ←",Smallville S05 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k9NAcaNyT6b2dNuLpQR7Pc4I3w.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke97OyYIIe1EJSmnmMr8BIEQ2sx.jpg" group-title="→ SERIES DC ←",Smallville S06 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56yoMzahUkWywYB9hmQkvyOL6RU.jpg" group-title="→ SERIES DC ←",Smallville S06 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TxjrWgyw1I4dRR0dJHf04aqMLM.jpg" group-title="→ SERIES DC ←",Smallville S06 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhC9YTmRkg5o5NkpdzKlBe1S8Ye.jpg" group-title="→ SERIES DC ←",Smallville S06 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXn1mVCsOTS2D7aIpqkIzasmAzy.jpg" group-title="→ SERIES DC ←",Smallville S06 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKgJnk2vvzHmCbbhiqTGXBmv49Z.jpg" group-title="→ SERIES DC ←",Smallville S06 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzLy9mcpo9FQTBrHpDyIo2IKP4.jpg" group-title="→ SERIES DC ←",Smallville S06 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pvb6hQAGl2u9ElZOcwFtJ0wYGE.jpg" group-title="→ SERIES DC ←",Smallville S06 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdQvBzjQ4We3JsQOdpnJZcDrvOH.jpg" group-title="→ SERIES DC ←",Smallville S06 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLpZVl1Xn2J7c7IY5vszntm3us.jpg" group-title="→ SERIES DC ←",Smallville S06 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urfMRDWGB6mdweFh4AaJYoYMuCw.jpg" group-title="→ SERIES DC ←",Smallville S06 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOR6Grie9KMDr6tCDXynCrwxF2T.jpg" group-title="→ SERIES DC ←",Smallville S06 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG6UdaXQFc73n5EnOqMskLn0y2K.jpg" group-title="→ SERIES DC ←",Smallville S06 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhrtC83oKqPOLSeWR65cd0juWto.jpg" group-title="→ SERIES DC ←",Smallville S06 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ogPjxBI7bcJlOIXdzroR0cToA6.jpg" group-title="→ SERIES DC ←",Smallville S06 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYqQ6I3X6xa4HfNdfYpQq3yR989.jpg" group-title="→ SERIES DC ←",Smallville S06 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlWbjqDuTMBCByRmbHahBQK7mma.jpg" group-title="→ SERIES DC ←",Smallville S06 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPs6KIWgHdNIEaFF5JrDH6QrD1I.jpg" group-title="→ SERIES DC ←",Smallville S06 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v4uyoHMWTGq2wbYNDpYTfEl4Ar.jpg" group-title="→ SERIES DC ←",Smallville S06 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTMygxVPEws4Q8as3iXw9nRLyII.jpg" group-title="→ SERIES DC ←",Smallville S06 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTy20V1s3KV9L1gxGKjwkqVEZYK.jpg" group-title="→ SERIES DC ←",Smallville S06 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqVt9dYB10lwwC7gfnBl8vWetlX.jpg" group-title="→ SERIES DC ←",Smallville S06 E22
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jClWDCg213IlN7HfGlBA5DHKOuS.jpg" group-title="→ SERIES DC ←",Smallville S07 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqoHLr9aVo9a1OUM06ASOrSoL0z.jpg" group-title="→ SERIES DC ←",Smallville S07 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oevX1DTZjbCx7hFolLGAH2xzul.jpg" group-title="→ SERIES DC ←",Smallville S07 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHpOZl03a0Mb0ayk9AHcYljhYAV.jpg" group-title="→ SERIES DC ←",Smallville S07 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyZjvGvJCmIlA0NI19yW0x91HJ.jpg" group-title="→ SERIES DC ←",Smallville S07 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmDCnSAB5Lkmk17HgOQ8FOdd7YZ.jpg" group-title="→ SERIES DC ←",Smallville S07 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA6ZgjWL2obBwxq8QTsNfrq85bN.jpg" group-title="→ SERIES DC ←",Smallville S07 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOSdt4Axw7KIfM6DjrjwyCMNkC9.jpg" group-title="→ SERIES DC ←",Smallville S07 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwK1sI4VI3qfulpHbMmTl5S9w8Q.jpg" group-title="→ SERIES DC ←",Smallville S07 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L59V40P7bTXErEO5rdtcLN7n28.jpg" group-title="→ SERIES DC ←",Smallville S07 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fE47244Nip9p1XTucDdldbtRlJn.jpg" group-title="→ SERIES DC ←",Smallville S07 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9czTfCg76bGeFHAqMD4OJPYJUoR.jpg" group-title="→ SERIES DC ←",Smallville S07 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46NKWrJ8R8sbrzZa4JgBMrpHUq0.jpg" group-title="→ SERIES DC ←",Smallville S07 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fisau6gftk2WhSxErUglf2aI5MB.jpg" group-title="→ SERIES DC ←",Smallville S07 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ4JfFGXO1WrKTQEZwZr4IBy3mN.jpg" group-title="→ SERIES DC ←",Smallville S07 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p1fPXd0VQWpJ2aKyMj2OZP7HrL.jpg" group-title="→ SERIES DC ←",Smallville S07 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43iIvUinGGIDJms4C2ky54RXg2Z.jpg" group-title="→ SERIES DC ←",Smallville S07 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A90R1qbK706OeNyZll2nVqIVC8A.jpg" group-title="→ SERIES DC ←",Smallville S07 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvGocNcVCBm6tUvU0dYjWvX3Fzk.jpg" group-title="→ SERIES DC ←",Smallville S07 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl2zAVQ0mF8MxLZzs6Qh4H279e6.jpg" group-title="→ SERIES DC ←",Smallville S07 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5bGA9qLdIsaucrQrdSiek4Oqmw.jpg" group-title="→ SERIES DC ←",Smallville S08 E01
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suo5eySDxram13IQLXQQHNDxjXM.jpg" group-title="→ SERIES DC ←",Smallville S08 E02
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l2JgnKbuVOZ1z5k4AzO0il6OoD.jpg" group-title="→ SERIES DC ←",Smallville S08 E03
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5SCxvz9CEJV8D6YMxfsDUQBpJu.jpg" group-title="→ SERIES DC ←",Smallville S08 E04
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMddIxenizRuwhEwkjp7TuDS9sq.jpg" group-title="→ SERIES DC ←",Smallville S08 E05
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcgdZBsoUGFcnqxh7uqvS6BM4dq.jpg" group-title="→ SERIES DC ←",Smallville S08 E06
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB0RXF6CGZUZiNbg8bvP8Ntew10.jpg" group-title="→ SERIES DC ←",Smallville S08 E07
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4z69AZz62wihAyHFRn6ZCDFsT5.jpg" group-title="→ SERIES DC ←",Smallville S08 E08
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8bX6TDYjclLKQt9PceOY8mRirG.jpg" group-title="→ SERIES DC ←",Smallville S08 E09
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnRiEEMhJHvha0x6prPNUgLN5v7.jpg" group-title="→ SERIES DC ←",Smallville S08 E10
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzyBWDFFXUCB0JtrHH3isVGjYFy.jpg" group-title="→ SERIES DC ←",Smallville S08 E11
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFzoJsVlLQLRdZdSLZFAy91ln6t.jpg" group-title="→ SERIES DC ←",Smallville S08 E12
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs0nfIwaq0oJDKKhD835uMsYnUp.jpg" group-title="→ SERIES DC ←",Smallville S08 E13
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFZEOlg6uELygrCCCa2j8zqFNQ1.jpg" group-title="→ SERIES DC ←",Smallville S08 E14
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3517rKSh8sonFSjkG6ueaOxglJ.jpg" group-title="→ SERIES DC ←",Smallville S08 E15
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztaS8CGDWw5BKy33v83lQqlGOIq.jpg" group-title="→ SERIES DC ←",Smallville S08 E16
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfGCoUy4je5UdoH4lzLq5DE5IGY.jpg" group-title="→ SERIES DC ←",Smallville S08 E17
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nl1qJRuzY92RTkNZD2zhDXUG1J.jpg" group-title="→ SERIES DC ←",Smallville S08 E18
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahe7kT3utyQNVvcBL0jYbqTluc5.jpg" group-title="→ SERIES DC ←",Smallville S08 E19
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IGaMcsrFmSaFS8zuYSmEYqk61w.jpg" group-title="→ SERIES DC ←",Smallville S08 E20
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzBPktZCWkBwKXqZzgFXsEAPGGi.jpg" group-title="→ SERIES DC ←",Smallville S08 E21
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgLmrdqtoikzTBaZrn6Cize7Eqq.jpg" group-title="→ SERIES DC ←",Smallville S08 E22
-http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/232283.mkv
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280836.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -128615,6 +127623,8 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280691.mkv
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E04
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E05
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -134903,6 +133913,8 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280627.mkv
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5EjKBI1GKMGRWe5muZVy6TlwQTE.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E07
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/AnwY7IBZYIlBuzn5sQD21IjD226.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E08
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280786.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135419,3 +134431,95 @@ http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280783.mkv
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alguien tiene que saber S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg" group-title="→ SERIES CRIMEN ←",Alguien tiene que saber S01 E08
 http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m2MIABwEurYDhk1RZo5LORmfmL.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1s5ql4ZJ7yasNimqcpmuxgdpE.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E02
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtbtNZ08ytPm4d5jS6VA6Jr6oeD.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E03
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CReHRThLEOrELrgd5fxCfoYAh2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E04
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oECXRVunr2oUFs1EYNcgv8Z26Wa.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E05
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIoQfJQEuluVqnH6MRRX20NlHJe.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E06
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCbxMF8mKpKbCyeFPRi1YDY3wK4.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E07
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QHt6k6GrChkxbjZX3SXIfawWXJ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E08
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrS8DOmZSv8guLQwBjJCdTBXAv6.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E09
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2UGB9XdD70Z0tUFPPEzxih9jdW.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S01 E10
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUNT2ovMtP5SRcbNbZDBUyZJIIY.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MebrOO8O381F8ZAgIG0iC5LAZ2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E02
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyJtol6R0zKfEUnUgVbGTEnXzsg.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E03
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zeK6CgTNK2FELNVB7cDEs7FvqK.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E04
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Mam0UMqkQbJw7pqezh28RaAG9V.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E05
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f178Xi2tsCQQkosnYqR1AaNfAPj.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E06
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db9YZfN6EChAfACd9Qa6lJ29FCM.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E07
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYFd8wHrntOZF0xaVU12qq9Ppa2.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E08
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN6PABxuPY0jAEvLDEP3KnCDhjr.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E09
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nthYy9EjyRWNMH1RpbcBradWT97.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E10
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yd2Z76AiP23GXWMj7U3x4bh8dws.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E11
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfZ9apTXI8NCSKKiMFc6qujJXHP.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E12
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBW5sPvlSEcgztzJvegXziKc7u8.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E13
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktyk9zQKUB4cT0pn6IfgrwXUhzC.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVwiVUZn8EQRzx4xfH07WIb7gXZ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E02
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBfi9DkrYgAS2aWoSebAUb4RHln.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E03
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60NfeTv9ggxgEF1VSbTYa0gJgGg.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E04
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaJMwE4RJ2XW9sCHJDTQvEAVaPf.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E05
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsImrgB70KKnqQEZIemX9kvR4aI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E06
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpo2RgYW66ACcNISjdjyalsc6KV.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E07
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m26sspJcaZ4fv8YxBKeo9knfmj0.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E08
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVv5UgaGAC5dq0yG5Rft0VjMDdJ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E09
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEqjYNSQVfyh1qKWvfztZFqTwx.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E10
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t5XRwD4atAjIs9CQXW5UWL5Qt3.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E11
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sTKJfVzey6pBkIxcCXlRaXIgvI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E12
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Cw50xfevKRthjcH198O7kQQ7p.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E13
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E01
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E02
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E03
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E04
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E05
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E06
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SMLCJpvNt29JvshWfKNexZnlaw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E07
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseeZyacfmdOhihOYOJRK7xXpI4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E08
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFPesk4OybE3zDAF3lv76lY2nfd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E09
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E10
+http://ultrapremium.cloud:8080/series/998703288tv/gltwfqx/280862.mkv
