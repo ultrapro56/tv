@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apex (2026)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Ruminot: Una Noche en la Arena" tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
+http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280851.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Michael (2026) SUB
 http://ultrapremium.cloud:8080/movie/995431461tv/7ct525/280815.mp4
 #EXTINF:-1 tvg-id="" tvg-name="180 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="→ VOD ESTRENOS 2026 ←",180 (2026)
@@ -108517,352 +108523,48 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249503.mp4
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K2Y0sBiJkLvkHbU6W4qahrUQT6.jpg" group-title="→ SERIES RETRO ←",MacGyver S07 E14
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/249505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n798Lp6UuVy99fVoI4gSazxebHt.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2oONZzNXAUoxHNMDsMHcZ8ne.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280816.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9Vfgl5oUeSnx5z4m7uTlfzTCmW.jpg" group-title="→ SERIES DC ←",Smallville S01 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gieenixNjvQzQxEQQRblIgS9znX.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUcfmdDWa5YgywzeiAZMW1y3a7j.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232112.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqpZjRcI9iZrsGPVq7ywU9EDQYR.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZ2nrQRoZ7q0HCUcQ7GVNrxxhjS.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47hiZkQKYOPCCi9F4bN3OTT7K7y.jpg" group-title="→ SERIES DC ←",Smallville S01 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EMav7jZIMnYO4fM87PmTzVZb4q.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232114.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vChmtl4bra7PvB6TFdZfzSNkOY7.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/785UseKOE3fTNqsia6IRUwARAc3.jpg" group-title="→ SERIES DC ←",Smallville S01 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232115.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylf4LDYAHy2JkQPQbEnH8xLcaqw.jpg" group-title="→ SERIES DC ←",Smallville S01 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232116.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280823.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og5FIxtqBsgu7hUgpen7T4zj25j.jpg" group-title="→ SERIES DC ←",Smallville S01 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232117.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280824.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OprUAuMqvpcIYuaOQRBeY9tfcG.jpg" group-title="→ SERIES DC ←",Smallville S01 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232118.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XjPXIzhiHbUH6lNRdsmMCiGNOA.jpg" group-title="→ SERIES DC ←",Smallville S01 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232119.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHmwuLZylLPNItojK6ODSoFsbM.jpg" group-title="→ SERIES DC ←",Smallville S01 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232120.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFuHB2RttYgAdzaIMmc7b0ha1NO.jpg" group-title="→ SERIES DC ←",Smallville S01 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232121.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC2sFxAkrjvnWRDSKrsixQfoIVe.jpg" group-title="→ SERIES DC ←",Smallville S01 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232122.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeSy5hjENExq7du00Dx6HpnQ6rv.jpg" group-title="→ SERIES DC ←",Smallville S01 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232123.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280830.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvKMLWOmXxjQNMqotaFdyR3HYRv.jpg" group-title="→ SERIES DC ←",Smallville S01 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232124.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280831.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYdKFfzgpvxzpk2SXvaF5RAaK6Y.jpg" group-title="→ SERIES DC ←",Smallville S01 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232125.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yz62dswA06KdkLHyhLbAszhU9X.jpg" group-title="→ SERIES DC ←",Smallville S01 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232126.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280833.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sE4lnHew1dhBpvCRxFPzjNfAJ6.jpg" group-title="→ SERIES DC ←",Smallville S01 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232127.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280834.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wcm7vY2UpACDjEM6irw7NgU9zN.jpg" group-title="→ SERIES DC ←",Smallville S01 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232128.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efIwNsN4bV8zMJeI6h0X0nBd3PZ.jpg" group-title="→ SERIES DC ←",Smallville S01 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xd1Sa262IbmQLN0pHq8YzfSrwvV.jpg" group-title="→ SERIES DC ←",Smallville S02 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7eaniTwsqfqbqTW6KYeyJz1Ipr.jpg" group-title="→ SERIES DC ←",Smallville S02 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvL6NrdMm8Z4YPtrfofWeDd1UZG.jpg" group-title="→ SERIES DC ←",Smallville S02 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EOdconLaaebq2FevF5dFLOjPN6.jpg" group-title="→ SERIES DC ←",Smallville S02 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h25I4dW6W05M63ol8EPrvpmoCWD.jpg" group-title="→ SERIES DC ←",Smallville S02 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3m9xjPyfJhpcjzJ6ucgPRvDJJXJ.jpg" group-title="→ SERIES DC ←",Smallville S02 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcGug0g2gN18UWhMStNrbBeyhJR.jpg" group-title="→ SERIES DC ←",Smallville S02 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSMUceIZ48hJWkG38Ujnc75wFFr.jpg" group-title="→ SERIES DC ←",Smallville S02 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKGlJVwdw0qm7cqCVfykMecUfq.jpg" group-title="→ SERIES DC ←",Smallville S02 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZLoiDuXYC0rzMtO4PbXL78I1d.jpg" group-title="→ SERIES DC ←",Smallville S02 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqwTEvOunsxhODXA525Xfxp2cA.jpg" group-title="→ SERIES DC ←",Smallville S02 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMhioyVw8FcfNc9L9sU6bqFASPM.jpg" group-title="→ SERIES DC ←",Smallville S02 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhxsx8gzULQKDy87XFlqU9Io0x4.jpg" group-title="→ SERIES DC ←",Smallville S02 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpbmzyDqms2Glu5YTC97IUhkm2Q.jpg" group-title="→ SERIES DC ←",Smallville S02 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7wGATv4wBcF3SJkLW0Omeimoi1.jpg" group-title="→ SERIES DC ←",Smallville S02 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuHxPTzYvbJc4MjesxWEGk7alXi.jpg" group-title="→ SERIES DC ←",Smallville S02 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g56d3woWOeW5XUaK9yRD7qZLsnR.jpg" group-title="→ SERIES DC ←",Smallville S02 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcGnWArGAIs2Z3v6KUE6NfK4akC.jpg" group-title="→ SERIES DC ←",Smallville S02 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtouXtpShWJTAze56WwamvZahem.jpg" group-title="→ SERIES DC ←",Smallville S02 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxqC25BFaqQAe4fJBvRVS1Eu1ba.jpg" group-title="→ SERIES DC ←",Smallville S02 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOssv8dWs7gfaSdOQlfEoIOwL1B.jpg" group-title="→ SERIES DC ←",Smallville S02 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4g52aGkeSg9LFZ5jqBp07TLYf.jpg" group-title="→ SERIES DC ←",Smallville S02 E22
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdsNM5JF0DakYgUdG1O6Kysj8UO.jpg" group-title="→ SERIES DC ←",Smallville S02 E23
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HjB28zdXVsVybkmD0u8pOPjSTv.jpg" group-title="→ SERIES DC ←",Smallville S03 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWfYCvCCExY09RBboKB3ENOTWST.jpg" group-title="→ SERIES DC ←",Smallville S03 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJTTDZBfgjR8RCvnjA76ZgP1f.jpg" group-title="→ SERIES DC ←",Smallville S03 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBolOLItBFW9NGrLyd9TpY787C.jpg" group-title="→ SERIES DC ←",Smallville S03 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkn0rrOdfAGqBuvOnM7z4EBy6vk.jpg" group-title="→ SERIES DC ←",Smallville S03 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goyzGo1MWCCTbO3vJ5vd98z6i0L.jpg" group-title="→ SERIES DC ←",Smallville S03 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJmoixxTp4O7FEi2nLl6cl0vRYc.jpg" group-title="→ SERIES DC ←",Smallville S03 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNU4vlSwrRUu5BJc2NhgBYWVuOm.jpg" group-title="→ SERIES DC ←",Smallville S03 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2tuq3XDqTb3e4TghPccL2Hz8WL.jpg" group-title="→ SERIES DC ←",Smallville S03 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pgJxsenX7um75PpmLKgfFl019y.jpg" group-title="→ SERIES DC ←",Smallville S03 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaLFmBJs9McZrs3u7ayuVxJNrNF.jpg" group-title="→ SERIES DC ←",Smallville S03 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzObr6mlsG6DDBMsU6PzVwvwoIh.jpg" group-title="→ SERIES DC ←",Smallville S03 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS0T8Cvk3gpBxutgpIYmpZs3BVO.jpg" group-title="→ SERIES DC ←",Smallville S03 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhh6BAXp0Dd7BmCEOBnUPyXgrJ4.jpg" group-title="→ SERIES DC ←",Smallville S03 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO5wYBpgtP6Bs9p1TopwtRzDQj1.jpg" group-title="→ SERIES DC ←",Smallville S03 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ATzdYKws9NynDzMHyVwRX4EyK.jpg" group-title="→ SERIES DC ←",Smallville S03 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wszMaPugz0oISB60cvW1V3Fi8gc.jpg" group-title="→ SERIES DC ←",Smallville S03 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf2RDbgvRy99deBlDnhwRSIAokF.jpg" group-title="→ SERIES DC ←",Smallville S03 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQs1A4CwFQNpCu7cQPrgoJvjYrB.jpg" group-title="→ SERIES DC ←",Smallville S03 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53OGaA3qZboMGE73LtmetX1dLhM.jpg" group-title="→ SERIES DC ←",Smallville S03 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8tBdTWidSH4452BqhXtYQsxA2k.jpg" group-title="→ SERIES DC ←",Smallville S03 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFVOpndnLWcESIiASQwSSjMm4X9.jpg" group-title="→ SERIES DC ←",Smallville S03 E22
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8vrx435b40ci34GeVtEvHA1hnj.jpg" group-title="→ SERIES DC ←",Smallville S04 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWLk9TwJDsyfn054O8QOfnYqGhJ.jpg" group-title="→ SERIES DC ←",Smallville S04 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl9VlMMI5xQlz1Vt02E4CpATnpS.jpg" group-title="→ SERIES DC ←",Smallville S04 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9xlDgHD5YViZQZVYA4YZMShvAp.jpg" group-title="→ SERIES DC ←",Smallville S04 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDtnhtR6ildo8pPjc3TSClpLOT.jpg" group-title="→ SERIES DC ←",Smallville S04 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg" group-title="→ SERIES DC ←",Smallville S04 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5nUTb5InawJzBNbwcXUENeqCyz.jpg" group-title="→ SERIES DC ←",Smallville S04 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOEbdvEriBgMC66pN3BXWj17LMd.jpg" group-title="→ SERIES DC ←",Smallville S04 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NGc4bCOxG6ubTplQKgtStglM46.jpg" group-title="→ SERIES DC ←",Smallville S04 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atoNwOLS5sODHJ1Sls5cqh6UGCs.jpg" group-title="→ SERIES DC ←",Smallville S04 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHgvKngP4DTD8XcnPovts8XB5mM.jpg" group-title="→ SERIES DC ←",Smallville S04 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg" group-title="→ SERIES DC ←",Smallville S04 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hk8UATVXYIprI75rVS2KxzpDfA.jpg" group-title="→ SERIES DC ←",Smallville S04 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWhFSYR1IrSbUJfkFmRSHWz89zv.jpg" group-title="→ SERIES DC ←",Smallville S04 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1auMqqMRMffJbEA52ZCCfbhXnu.jpg" group-title="→ SERIES DC ←",Smallville S04 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TIRVwvHBXvNE9StP9ODVS6wCvv.jpg" group-title="→ SERIES DC ←",Smallville S04 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eoJHx8sNVQjJeQw4uErdJ6ICrv.jpg" group-title="→ SERIES DC ←",Smallville S04 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zM2n8okmpKg2FWPtgLQCFdpXQ4.jpg" group-title="→ SERIES DC ←",Smallville S04 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcqA2pRWE6OWWLPGeC8sc2O01gb.jpg" group-title="→ SERIES DC ←",Smallville S04 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vv8p7LW65yBQrcMNjUUsmBfddl.jpg" group-title="→ SERIES DC ←",Smallville S04 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2wApJr59JMjXG5UzX1eP2a2A1.jpg" group-title="→ SERIES DC ←",Smallville S04 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJatujpAwNGqzTyxAnjYMMquBD.jpg" group-title="→ SERIES DC ←",Smallville S04 E22
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpkE0EGG9JprSGKv2wPFb2hLQqj.jpg" group-title="→ SERIES DC ←",Smallville S05 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntMrI2PjqTF8QidhiGAiTn6d5tm.jpg" group-title="→ SERIES DC ←",Smallville S05 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdsLBmWjVXOZTwQcSj9lYSlaV2.jpg" group-title="→ SERIES DC ←",Smallville S05 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZWBz7ygNurPMUQClf6U3YZiogl.jpg" group-title="→ SERIES DC ←",Smallville S05 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqtUsjCeCVs6pBbW9e3QAEfpezm.jpg" group-title="→ SERIES DC ←",Smallville S05 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7a7M1EiSnTDXxpm5OScG7l6a7.jpg" group-title="→ SERIES DC ←",Smallville S05 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar8D8alZxxWjmRGPw7qj61OMOaM.jpg" group-title="→ SERIES DC ←",Smallville S05 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szxHsWybJXPpqW3eAYmBikUCpaO.jpg" group-title="→ SERIES DC ←",Smallville S05 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nSRbYR7UtDlzioOJ3ywvT9xlJQ.jpg" group-title="→ SERIES DC ←",Smallville S05 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxbvYKKxnwZQ3NrruM7WLYe9PP9.jpg" group-title="→ SERIES DC ←",Smallville S05 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVx5MT94LBeuGOyBIKBxmjPYtK6.jpg" group-title="→ SERIES DC ←",Smallville S05 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232209.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lq55IwxzBGrmhgpDnLNVpPFnaS.jpg" group-title="→ SERIES DC ←",Smallville S05 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulX6o2yxkmFTAzWxio95ck7ntHF.jpg" group-title="→ SERIES DC ←",Smallville S05 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdL57trQZjGIsUhqbSVKTvmjxWs.jpg" group-title="→ SERIES DC ←",Smallville S05 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adTztTM3MLxZ0m1SpVu4arZaopp.jpg" group-title="→ SERIES DC ←",Smallville S05 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1zuF3WMJU4Ik1tAe5fbrsEDPWG.jpg" group-title="→ SERIES DC ←",Smallville S05 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awCoP3ioZSYmKvUhTP4oiJO1iOb.jpg" group-title="→ SERIES DC ←",Smallville S05 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVp9MXjTaB73ZRWhNJMAY5BwT3E.jpg" group-title="→ SERIES DC ←",Smallville S05 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18b0Hxo9trxLCUc8jjtv98bLyEp.jpg" group-title="→ SERIES DC ←",Smallville S05 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nW5UwaY1czCuKFyBuaRxmWA1i.jpg" group-title="→ SERIES DC ←",Smallville S05 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k9NAcaNyT6b2dNuLpQR7Pc4I3w.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke97OyYIIe1EJSmnmMr8BIEQ2sx.jpg" group-title="→ SERIES DC ←",Smallville S06 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56yoMzahUkWywYB9hmQkvyOL6RU.jpg" group-title="→ SERIES DC ←",Smallville S06 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TxjrWgyw1I4dRR0dJHf04aqMLM.jpg" group-title="→ SERIES DC ←",Smallville S06 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhC9YTmRkg5o5NkpdzKlBe1S8Ye.jpg" group-title="→ SERIES DC ←",Smallville S06 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXn1mVCsOTS2D7aIpqkIzasmAzy.jpg" group-title="→ SERIES DC ←",Smallville S06 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKgJnk2vvzHmCbbhiqTGXBmv49Z.jpg" group-title="→ SERIES DC ←",Smallville S06 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzLy9mcpo9FQTBrHpDyIo2IKP4.jpg" group-title="→ SERIES DC ←",Smallville S06 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pvb6hQAGl2u9ElZOcwFtJ0wYGE.jpg" group-title="→ SERIES DC ←",Smallville S06 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdQvBzjQ4We3JsQOdpnJZcDrvOH.jpg" group-title="→ SERIES DC ←",Smallville S06 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLpZVl1Xn2J7c7IY5vszntm3us.jpg" group-title="→ SERIES DC ←",Smallville S06 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urfMRDWGB6mdweFh4AaJYoYMuCw.jpg" group-title="→ SERIES DC ←",Smallville S06 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOR6Grie9KMDr6tCDXynCrwxF2T.jpg" group-title="→ SERIES DC ←",Smallville S06 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG6UdaXQFc73n5EnOqMskLn0y2K.jpg" group-title="→ SERIES DC ←",Smallville S06 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhrtC83oKqPOLSeWR65cd0juWto.jpg" group-title="→ SERIES DC ←",Smallville S06 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ogPjxBI7bcJlOIXdzroR0cToA6.jpg" group-title="→ SERIES DC ←",Smallville S06 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYqQ6I3X6xa4HfNdfYpQq3yR989.jpg" group-title="→ SERIES DC ←",Smallville S06 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlWbjqDuTMBCByRmbHahBQK7mma.jpg" group-title="→ SERIES DC ←",Smallville S06 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPs6KIWgHdNIEaFF5JrDH6QrD1I.jpg" group-title="→ SERIES DC ←",Smallville S06 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v4uyoHMWTGq2wbYNDpYTfEl4Ar.jpg" group-title="→ SERIES DC ←",Smallville S06 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTMygxVPEws4Q8as3iXw9nRLyII.jpg" group-title="→ SERIES DC ←",Smallville S06 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTy20V1s3KV9L1gxGKjwkqVEZYK.jpg" group-title="→ SERIES DC ←",Smallville S06 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqVt9dYB10lwwC7gfnBl8vWetlX.jpg" group-title="→ SERIES DC ←",Smallville S06 E22
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jClWDCg213IlN7HfGlBA5DHKOuS.jpg" group-title="→ SERIES DC ←",Smallville S07 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqoHLr9aVo9a1OUM06ASOrSoL0z.jpg" group-title="→ SERIES DC ←",Smallville S07 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oevX1DTZjbCx7hFolLGAH2xzul.jpg" group-title="→ SERIES DC ←",Smallville S07 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHpOZl03a0Mb0ayk9AHcYljhYAV.jpg" group-title="→ SERIES DC ←",Smallville S07 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyZjvGvJCmIlA0NI19yW0x91HJ.jpg" group-title="→ SERIES DC ←",Smallville S07 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmDCnSAB5Lkmk17HgOQ8FOdd7YZ.jpg" group-title="→ SERIES DC ←",Smallville S07 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA6ZgjWL2obBwxq8QTsNfrq85bN.jpg" group-title="→ SERIES DC ←",Smallville S07 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOSdt4Axw7KIfM6DjrjwyCMNkC9.jpg" group-title="→ SERIES DC ←",Smallville S07 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwK1sI4VI3qfulpHbMmTl5S9w8Q.jpg" group-title="→ SERIES DC ←",Smallville S07 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L59V40P7bTXErEO5rdtcLN7n28.jpg" group-title="→ SERIES DC ←",Smallville S07 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fE47244Nip9p1XTucDdldbtRlJn.jpg" group-title="→ SERIES DC ←",Smallville S07 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9czTfCg76bGeFHAqMD4OJPYJUoR.jpg" group-title="→ SERIES DC ←",Smallville S07 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46NKWrJ8R8sbrzZa4JgBMrpHUq0.jpg" group-title="→ SERIES DC ←",Smallville S07 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fisau6gftk2WhSxErUglf2aI5MB.jpg" group-title="→ SERIES DC ←",Smallville S07 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ4JfFGXO1WrKTQEZwZr4IBy3mN.jpg" group-title="→ SERIES DC ←",Smallville S07 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p1fPXd0VQWpJ2aKyMj2OZP7HrL.jpg" group-title="→ SERIES DC ←",Smallville S07 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43iIvUinGGIDJms4C2ky54RXg2Z.jpg" group-title="→ SERIES DC ←",Smallville S07 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A90R1qbK706OeNyZll2nVqIVC8A.jpg" group-title="→ SERIES DC ←",Smallville S07 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvGocNcVCBm6tUvU0dYjWvX3Fzk.jpg" group-title="→ SERIES DC ←",Smallville S07 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl2zAVQ0mF8MxLZzs6Qh4H279e6.jpg" group-title="→ SERIES DC ←",Smallville S07 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5bGA9qLdIsaucrQrdSiek4Oqmw.jpg" group-title="→ SERIES DC ←",Smallville S08 E01
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suo5eySDxram13IQLXQQHNDxjXM.jpg" group-title="→ SERIES DC ←",Smallville S08 E02
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l2JgnKbuVOZ1z5k4AzO0il6OoD.jpg" group-title="→ SERIES DC ←",Smallville S08 E03
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5SCxvz9CEJV8D6YMxfsDUQBpJu.jpg" group-title="→ SERIES DC ←",Smallville S08 E04
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMddIxenizRuwhEwkjp7TuDS9sq.jpg" group-title="→ SERIES DC ←",Smallville S08 E05
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcgdZBsoUGFcnqxh7uqvS6BM4dq.jpg" group-title="→ SERIES DC ←",Smallville S08 E06
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB0RXF6CGZUZiNbg8bvP8Ntew10.jpg" group-title="→ SERIES DC ←",Smallville S08 E07
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4z69AZz62wihAyHFRn6ZCDFsT5.jpg" group-title="→ SERIES DC ←",Smallville S08 E08
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8bX6TDYjclLKQt9PceOY8mRirG.jpg" group-title="→ SERIES DC ←",Smallville S08 E09
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnRiEEMhJHvha0x6prPNUgLN5v7.jpg" group-title="→ SERIES DC ←",Smallville S08 E10
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzyBWDFFXUCB0JtrHH3isVGjYFy.jpg" group-title="→ SERIES DC ←",Smallville S08 E11
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFzoJsVlLQLRdZdSLZFAy91ln6t.jpg" group-title="→ SERIES DC ←",Smallville S08 E12
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs0nfIwaq0oJDKKhD835uMsYnUp.jpg" group-title="→ SERIES DC ←",Smallville S08 E13
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFZEOlg6uELygrCCCa2j8zqFNQ1.jpg" group-title="→ SERIES DC ←",Smallville S08 E14
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3517rKSh8sonFSjkG6ueaOxglJ.jpg" group-title="→ SERIES DC ←",Smallville S08 E15
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztaS8CGDWw5BKy33v83lQqlGOIq.jpg" group-title="→ SERIES DC ←",Smallville S08 E16
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfGCoUy4je5UdoH4lzLq5DE5IGY.jpg" group-title="→ SERIES DC ←",Smallville S08 E17
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nl1qJRuzY92RTkNZD2zhDXUG1J.jpg" group-title="→ SERIES DC ←",Smallville S08 E18
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahe7kT3utyQNVvcBL0jYbqTluc5.jpg" group-title="→ SERIES DC ←",Smallville S08 E19
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IGaMcsrFmSaFS8zuYSmEYqk61w.jpg" group-title="→ SERIES DC ←",Smallville S08 E20
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzBPktZCWkBwKXqZzgFXsEAPGGi.jpg" group-title="→ SERIES DC ←",Smallville S08 E21
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgLmrdqtoikzTBaZrn6Cize7Eqq.jpg" group-title="→ SERIES DC ←",Smallville S08 E22
-http://ultrapremium.cloud:8080/series/995431461tv/7ct525/232283.mkv
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280836.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -135477,3 +135179,49 @@ http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280810.mkv
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280811.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBW5sPvlSEcgztzJvegXziKc7u8.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E13
 http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktyk9zQKUB4cT0pn6IfgrwXUhzC.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVwiVUZn8EQRzx4xfH07WIb7gXZ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBfi9DkrYgAS2aWoSebAUb4RHln.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60NfeTv9ggxgEF1VSbTYa0gJgGg.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaJMwE4RJ2XW9sCHJDTQvEAVaPf.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsImrgB70KKnqQEZIemX9kvR4aI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpo2RgYW66ACcNISjdjyalsc6KV.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m26sspJcaZ4fv8YxBKeo9knfmj0.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVv5UgaGAC5dq0yG5Rft0VjMDdJ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEqjYNSQVfyh1qKWvfztZFqTwx.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t5XRwD4atAjIs9CQXW5UWL5Qt3.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E11
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sTKJfVzey6pBkIxcCXlRaXIgvI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E12
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Cw50xfevKRthjcH198O7kQQ7p.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E13
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E01
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E02
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E03
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E04
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E05
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E06
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SMLCJpvNt29JvshWfKNexZnlaw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E07
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseeZyacfmdOhihOYOJRK7xXpI4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E08
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFPesk4OybE3zDAF3lv76lY2nfd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E09
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E10
+http://ultrapremium.cloud:8080/series/995431461tv/7ct525/280862.mkv
