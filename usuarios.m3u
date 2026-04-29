@@ -1,29 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JorgeGalindo" tvg-name="JorgeGalindo• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",JorgeGalindo• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="JorgeGalindo" tvg-name="JorgeGalindo 20Jun/26  CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",JorgeGalindo 20Jun/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/956308869tv/rki0ls3/48
 
-#EXTINF:-1 tvg-id="COLTV" tvg-name="COLTV• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",COLTV• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="COLTV" tvg-name="COLTV 12Oct/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",COLTV 12Oct/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/48
 
-#EXTINF:-1 tvg-id="TV-POCHO" tvg-name="TV-POCHO• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-POCHO• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="TV-POCHO" tvg-name="TV-POCHO 21Oct/26  • CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-POCHO 21Oct/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/995431461tv/7ct525/48
 
-#EXTINF:-1 tvg-id="TV-JAVI" tvg-name="TV-JAVI• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-JAVI• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="TV-JAVI" tvg-name="TV-JAVI 02Jul/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-JAVI 02Jul/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/935917692tv/a4gqcz4/48
 
-#EXTINF:-1 tvg-id="TV-LEO" tvg-name="TV-LEO• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-LEO• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="TV-LEO" tvg-name="TV-LEO 30Ene/27• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",TV-LEO 30Ene/27• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/998703288tv/gltwfqx/48
 
 
-#EXTINF:-1 tvg-id="user9750" tvg-name="user9750• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9750• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="user9750" tvg-name="user9750 07May/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9750 07May/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/977605802tv/2k0mdjk34/48
 
-#EXTINF:-1 tvg-id="user9521" tvg-name="user9521• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9521• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="user9521" tvg-name="user9521 10May/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9521 10May/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/83468289/24092021/48
 
-#EXTINF:-1 tvg-id="user9658" tvg-name="user9658• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9658• CANAL 13 (HD) »3«
+#EXTINF:-1 tvg-id="user9658" tvg-name="user9658 20Jun/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",user9658 20Jun/26• CANAL 13 (HD) »3«
 http://ultrapremium.cloud:8080/965897722tv/e0tar0hy/48
+
+#EXTINF:-1 tvg-id="user9327d" tvg-name="user9327d 27Ago/26 COL-Caracol (L)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="usuarios",user9327d 27Ago/26 COL-Caracol (L)(720)
+http://tv.diablotv.net:8080/Henry26/atwEgnaaWU/8480
+
 
 
 
