@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Cumbres Borrascosas (2026) (Version Modificada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="→ VOD ESTRENOS 2026 ←",Cumbres Borrascosas (2026) (Version Modificada)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caja Azul (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Caja Azul (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bolas Arriba (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Bolas Arriba (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill: Regreso al infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg" group-title="→ VOD ESTRENOS 2026 ←",Terror en Silent Hill: Regreso al infierno (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intercambiados (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg" group-title="→ VOD ESTRENOS 2026 ←",Intercambiados (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Implacable (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awvlydvag364audeksfRFldVslq.jpg" group-title="→ VOD ESTRENOS 2026 ←",Instinto Implacable (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Arturo: La Leyenda de la Espada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl2LLrxuCRoAP1TDOz8Et8exwsx.jpg" group-title="→ VOD ACCIÓN ←",El Rey Arturo: La Leyenda de la Espada (2017)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/281018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey, no (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title=" → VOD ESTRENOS 2025 ←",Honey, no (2025)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Quieres Ser Mi Novia? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="→ VOD ESTRENOS 2026 ←",¿Quieres Ser Mi Novia? (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VypPpIvtHfYCeA4iwshnd35vbm.jpg" group-title="→ VOD ESTRENOS 2026 ←",Venganza (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apex (2026)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Ruminot: Una Noche en la Arena" tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
+http://ultrapremium.cloud:8080/movie/83468289/24092021/280851.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Michael (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Michael (2026) SUB
 http://ultrapremium.cloud:8080/movie/83468289/24092021/280815.mp4
 #EXTINF:-1 tvg-id="" tvg-name="180 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="→ VOD ESTRENOS 2026 ←",180 (2026)
@@ -15465,7 +15491,7 @@ http://ultrapremium.cloud:8080/movie/83468289/24092021/3823.mkv
 http://ultrapremium.cloud:8080/movie/83468289/24092021/3825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El regreso a la laguna azul (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmKxZRgUS4MMSKiN70ZkG5JPD6y.jpg" group-title="→ VOD AVENTURAS ←",El regreso a la laguna azul (1991)
 http://ultrapremium.cloud:8080/movie/83468289/24092021/3826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Rey Arturo: La leyenda de la espada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeaNeVFVOdR81E8oIdNm0W2CMqz.jpg" group-title="→ VOD AVENTURAS ←",El Rey Arturo: La leyenda de la espada (2017)
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Arturo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izq63rhv6XDY1Yw8ms4ckug9Qay.jpg" group-title="→ VOD AVENTURAS ←",El Rey Arturo (2004)
 http://ultrapremium.cloud:8080/movie/83468289/24092021/3827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Rey Escorpión 5: El Libro de las Almas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fZL6ONUz0o8nvnHpeA8zj3nEvs.jpg" group-title="→ VOD AVENTURAS ←",El Rey Escorpión 5: El Libro de las Almas (2018)
 http://ultrapremium.cloud:8080/movie/83468289/24092021/3828.mkv
@@ -64201,6 +64227,14 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/217069.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/217070.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/po4G5fgneIoiuk7TWlvcusWM1HS.jpg" group-title="→ SERIES DRAMA ←",Euphoria S02 E08
 http://ultrapremium.cloud:8080/series/83468289/24092021/217071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zihcg1uqGZLotlSBCzGmv125XfC.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281053.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/235376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUkVV3D9zHJ974CqsL7gA5vhOV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E02
@@ -70155,6 +70189,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280688.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dG5Rw5cuyLqF8nhQMdbjR9YIBf.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E07
 http://ultrapremium.cloud:8080/series/83468289/24092021/280787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E08" tvg-logo="https://image.tmdb.org/t/p/w300/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -72647,6 +72683,130 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/275213.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/275214.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr House S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YtVMsmeADrrPec6oFp0O5s0XYN.jpg" group-title="→ SERIES DRAMA ←",Dr House S03 E24
 http://ultrapremium.cloud:8080/series/83468289/24092021/275215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3QEVC1yTAANQLo7kzKBSKR74Y9.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d01XvE2EEL3WgfVh263784ol4g3.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2PV01ZugjjYJBsQrsCtjEs0aY.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhhcFlMTsNczW2TkTm657ndjBUz.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u842pHxlzadCIGdcB3GmECRaTc.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlzFkr4spr0BsthfhYFelJ5TplZ.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2H7LgCie3rNLeIYszg5FVOYH8M.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCjTMgkrctibzPJJ8PBbTP1MbHu.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9aOWLLhCQeNibyhewg4q4Jl9UN.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMPqLvre6ChEYH2ETzL1SngGnmE.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N3ZMxQrBUl1urg12qrfwwXA6oW.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E11
+http://ultrapremium.cloud:8080/series/83468289/24092021/280873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7q71hBnicnxBZvLVGUBiMTXMqf.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E12
+http://ultrapremium.cloud:8080/series/83468289/24092021/280874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EZ66UB97RY9HxQwHr5Jpg7ki2g.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E13
+http://ultrapremium.cloud:8080/series/83468289/24092021/280875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liQyC4IYZhNPk5wSXfhmowHC2MZ.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E14
+http://ultrapremium.cloud:8080/series/83468289/24092021/280876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfAE0OCYDiKpBF1MLNR83gnbaQK.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E15
+http://ultrapremium.cloud:8080/series/83468289/24092021/280877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0td9iaIQ7HViKWdBoOWAStTzjh.jpg" group-title="→ SERIES DRAMA ←",Dr House S04 E16
+http://ultrapremium.cloud:8080/series/83468289/24092021/280878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2n1GDaKtXmaGY35Zij7SUgCraZj.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab0raEwTmtLiadvYmeHkIxGTOre.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEE0KAHBQOR3KLDKWekqtof5BeC.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF5b6qBO2xdKez6TIRwGm5TIIYz.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gokdCksC8rkWPfsRHQYqUdEyyu9.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTEbCWv8uWEBT7uHwqmzVM5i2jF.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7A4vrGxdIaAy0XCR7VcdGa0ZCae.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjaMw90aWkCDTP56W5gVyZSeS6g.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovlWs7BLefeoMkcTC55VrIh0x4i.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug1472Rd8Rfd4UV2Y9Oxmy3OyhV.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psl3wFuot3NHWuGQVbatDjwkvvk.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E11
+http://ultrapremium.cloud:8080/series/83468289/24092021/280941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoj5QRB6npdtVDywnYsjdN8fwBN.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E12
+http://ultrapremium.cloud:8080/series/83468289/24092021/280942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJCHYTJtv4DLHO7NYKWRIejufZo.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E13
+http://ultrapremium.cloud:8080/series/83468289/24092021/280943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCmulIhow6vSVgGyN8s37HreeQR.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E14
+http://ultrapremium.cloud:8080/series/83468289/24092021/280944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpemLA0hHsk1qY9DcUiEnnCCc0F.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E15
+http://ultrapremium.cloud:8080/series/83468289/24092021/280945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQJgVrdKfcnL1pBSoXA1d0ged9P.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E16
+http://ultrapremium.cloud:8080/series/83468289/24092021/280946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9BjNXDAQa97WTKEF1jEwLsiPxl.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E17
+http://ultrapremium.cloud:8080/series/83468289/24092021/280947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLfOwL57nN2Ftd16r16XPmbqE6E.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E18
+http://ultrapremium.cloud:8080/series/83468289/24092021/280948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr6VI0in0Ge45z6AnDTGiCDC8RY.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E19
+http://ultrapremium.cloud:8080/series/83468289/24092021/280949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7lib7jr5TiE60d25qVvmCT0OtN.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E20
+http://ultrapremium.cloud:8080/series/83468289/24092021/280950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWyYR4gcVXYnemV9hiXKlTtg1Fr.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E21
+http://ultrapremium.cloud:8080/series/83468289/24092021/280951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hINGnmkmH6d9A5ocQISL5wQKiuN.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E22
+http://ultrapremium.cloud:8080/series/83468289/24092021/280952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw3Mb2TtmduTsU6NVOTeuDCKYPM.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E23
+http://ultrapremium.cloud:8080/series/83468289/24092021/280953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viuGJahvXHEMsnyXcWW5eQlUra6.jpg" group-title="→ SERIES DRAMA ←",Dr House S05 E24
+http://ultrapremium.cloud:8080/series/83468289/24092021/280954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSOLi0KGTXtWxnSoCjW4nIXA07V.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b29gbaHDt0bsqI6988VCi8d5mkD.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kg61KAiaKTEdvzsM4rzsUHFDJD.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAdurFu6fk9W0UyhZIpfZN9cFKF.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cma4HqtWZlra2YNLeTdEyhYSqDd.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diMf6rdsckAIE9np5OoCT1VAJHt.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppuT5ONHG4fLd5XhMmZBGUGN3FU.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hWDxdkL9LrgTAVjSM2kpRw2duA.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQDqDcJRWbDeVel5ZVuvOs25EBU.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kICXyIHXEhnsx5COqAR6VWBwYg3.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCmu4AdKhDQTflC76wLPqvrGwiO.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E11
+http://ultrapremium.cloud:8080/series/83468289/24092021/280965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUjZVJewPQHSQn2PqTuol7FWdOA.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E12
+http://ultrapremium.cloud:8080/series/83468289/24092021/280966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdJyXquFjgaY4aepvuXh7hOQu4o.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E13
+http://ultrapremium.cloud:8080/series/83468289/24092021/280967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rG9mTKaNIqLID4mfwsRy1ftsl3.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E14
+http://ultrapremium.cloud:8080/series/83468289/24092021/280968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI30RhXXZ7LMDSEVcrYtjD8LIxc.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E15
+http://ultrapremium.cloud:8080/series/83468289/24092021/280969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EVdRXbD3y2PxlXdxhU60aUQuRL.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E16
+http://ultrapremium.cloud:8080/series/83468289/24092021/280970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRFDJU18Lz4VUpqM4Nay8s3R1Ua.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E17
+http://ultrapremium.cloud:8080/series/83468289/24092021/280971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdoonMCfwCs5fp3zjPRRfvLyN0t.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E18
+http://ultrapremium.cloud:8080/series/83468289/24092021/280972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWCSkqVceAZmMT7Xq3Gg3ObMTMp.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E19
+http://ultrapremium.cloud:8080/series/83468289/24092021/280973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnk9zMeKU5Uqb8reGKTdQ56W8BF.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E20
+http://ultrapremium.cloud:8080/series/83468289/24092021/280974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rN7QRfdgHFBdZcsgiKVILdTmDfl.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E21
+http://ultrapremium.cloud:8080/series/83468289/24092021/280975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="→ SERIES DRAMA ←",Dr House S06 E22
+http://ultrapremium.cloud:8080/series/83468289/24092021/280976.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dr House S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIJLzV9Vce7dX0RTX0NYhPVr4ZU.jpg" group-title="→ SERIES DRAMA ←",Dr House S07 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/243930.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr House S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcEVGp2B2wChpMoo8RqCLWkhoUK.jpg" group-title="→ SERIES DRAMA ←",Dr House S07 E02
@@ -72693,6 +72853,52 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/243950.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/243951.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr House S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H9CrATZlawXSG2DTpgoL0sfPvO.jpg" group-title="→ SERIES DRAMA ←",Dr House S07 E23
 http://ultrapremium.cloud:8080/series/83468289/24092021/243952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmmswjc4fxZK7Us6IHlzMgCLF4Z.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BOndlzdU0ERD5mIdSuniCYlXXA.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIcqvJnQkrVkxzBm2PxGAoPrdNt.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMUqeFIb1w4EHrWDTjYgyu8DYRL.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cfs4abjiMdvB45mglOqCfWkJYN.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueUHsCn7UAsUwmefokYpIaa7CFS.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV0qavzq6FlzB3sGd3GfDfCzAa7.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/281000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zyBsKq9WA2X9YTFWUF5wH4Qcos.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/281001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exwIrrp1RGVsXVsor0FAhoUUkxg.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/281002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NWMmsiob2UxujZbhZMtuUUYBoi.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/281003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIOFemUGPupm6vuy0SJ7RPtIpm.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E11
+http://ultrapremium.cloud:8080/series/83468289/24092021/281004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW64CC2ipu90Y8bOC3JSlAFZ5dE.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E12
+http://ultrapremium.cloud:8080/series/83468289/24092021/281005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d00pQpE0jAj3GLci4FIH3jewlel.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E13
+http://ultrapremium.cloud:8080/series/83468289/24092021/281006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9BYIEL7kkB9z5T11zXssDCPTa.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E14
+http://ultrapremium.cloud:8080/series/83468289/24092021/281007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmKqi4ZMysw3RXt3tVE8cvT34XR.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E15
+http://ultrapremium.cloud:8080/series/83468289/24092021/281008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5Hj22SUUsWcmQoRSbXogSSj8WU.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E16
+http://ultrapremium.cloud:8080/series/83468289/24092021/281009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73VmLonVKrF7eRfzHhiEByHfCQn.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E17
+http://ultrapremium.cloud:8080/series/83468289/24092021/281010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Oq832zqiMFj33NJUnRr0hJ5kLQ.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E18
+http://ultrapremium.cloud:8080/series/83468289/24092021/281011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugwV2zRVj8oX9Fon9tdbFUR3jsr.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E19
+http://ultrapremium.cloud:8080/series/83468289/24092021/281012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk02xvTNmX3iqMEDrrEKEpmCKLO.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E20
+http://ultrapremium.cloud:8080/series/83468289/24092021/281013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCtjXoSbS4hWQTsOqGhVjeuER8l.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E21
+http://ultrapremium.cloud:8080/series/83468289/24092021/281014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxE5r8vsNZPZodu2oms7efYLH82.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E22
+http://ultrapremium.cloud:8080/series/83468289/24092021/281015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr House S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="→ SERIES DRAMA ←",Dr House S08 E23
+http://ultrapremium.cloud:8080/series/83468289/24092021/281016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Educar a un superhéroe S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eeV9HPK0zx3SgQ24iXBamENFhm.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Educar a un superhéroe S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/41927.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Educar a un superhéroe S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eeV9HPK0zx3SgQ24iXBamENFhm.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Educar a un superhéroe S01 E02
@@ -87353,6 +87559,20 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/250228.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/250853.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El encargado S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/cPw5s5VbdBHp4uqzt4BAbMwElKz.jpg" group-title="→ SERIES COMEDIA ←",El encargado S03 E07
 http://ultrapremium.cloud:8080/series/83468289/24092021/251607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL8CQ8FewvojH0hqk4yn2dfMFW2.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/281054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrReRFyE2mOcIap8D097Z47bKBX.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/281055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmnOBPKGFcBsTW2HnRr4FKtJ82c.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTuvmjoAcfCxTCwHMSPLHEbo37K.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp3aIFC2Q7YWF28cxeIWUnJ5c7G.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/281058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyzO2UMsakcElP6BiC043yPi16X.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/281059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El encargado S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn7Mrv3TD6XwhsSTNTJ73XULOWf.jpg" group-title="→ SERIES COMEDIA ←",El encargado S04 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/281060.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El colapso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEzxaAY3Dl91VqR1kBAgquDczjr.jpg" group-title="→ SERIES DRAMA ←",El colapso S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/50859.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El colapso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCIYobAEW5C0GiupiD9uA3XM3DT.jpg" group-title="→ SERIES DRAMA ←",El colapso S01 E02
@@ -88185,6 +88405,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/267402.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/267403.mp4
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg" group-title="→ SERIES MISTERIO ←",From S04 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/280789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4LNl4W9ARO2a843SgE3XMj1uOn9.jpg" group-title="→ SERIES MISTERIO ←",From S04 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280977.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -108517,352 +108739,138 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/249503.mp4
 http://ultrapremium.cloud:8080/series/83468289/24092021/249504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K2Y0sBiJkLvkHbU6W4qahrUQT6.jpg" group-title="→ SERIES RETRO ←",MacGyver S07 E14
 http://ultrapremium.cloud:8080/series/83468289/24092021/249505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n798Lp6UuVy99fVoI4gSazxebHt.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djM2oONZzNXAUoxHNMDsMHcZ8ne.jpg" group-title="→ SERIES DC ←",Smallville S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280816.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9Vfgl5oUeSnx5z4m7uTlfzTCmW.jpg" group-title="→ SERIES DC ←",Smallville S01 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gieenixNjvQzQxEQQRblIgS9znX.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUcfmdDWa5YgywzeiAZMW1y3a7j.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232112.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqpZjRcI9iZrsGPVq7ywU9EDQYR.jpg" group-title="→ SERIES DC ←",Smallville S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZ2nrQRoZ7q0HCUcQ7GVNrxxhjS.jpg" group-title="→ SERIES DC ←",Smallville S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47hiZkQKYOPCCi9F4bN3OTT7K7y.jpg" group-title="→ SERIES DC ←",Smallville S01 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EMav7jZIMnYO4fM87PmTzVZb4q.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232114.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vChmtl4bra7PvB6TFdZfzSNkOY7.jpg" group-title="→ SERIES DC ←",Smallville S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280821.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/785UseKOE3fTNqsia6IRUwARAc3.jpg" group-title="→ SERIES DC ←",Smallville S01 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232115.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylf4LDYAHy2JkQPQbEnH8xLcaqw.jpg" group-title="→ SERIES DC ←",Smallville S01 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232116.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280823.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og5FIxtqBsgu7hUgpen7T4zj25j.jpg" group-title="→ SERIES DC ←",Smallville S01 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232117.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280824.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OprUAuMqvpcIYuaOQRBeY9tfcG.jpg" group-title="→ SERIES DC ←",Smallville S01 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232118.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XjPXIzhiHbUH6lNRdsmMCiGNOA.jpg" group-title="→ SERIES DC ←",Smallville S01 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232119.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHmwuLZylLPNItojK6ODSoFsbM.jpg" group-title="→ SERIES DC ←",Smallville S01 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232120.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFuHB2RttYgAdzaIMmc7b0ha1NO.jpg" group-title="→ SERIES DC ←",Smallville S01 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232121.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC2sFxAkrjvnWRDSKrsixQfoIVe.jpg" group-title="→ SERIES DC ←",Smallville S01 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232122.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeSy5hjENExq7du00Dx6HpnQ6rv.jpg" group-title="→ SERIES DC ←",Smallville S01 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232123.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280830.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvKMLWOmXxjQNMqotaFdyR3HYRv.jpg" group-title="→ SERIES DC ←",Smallville S01 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232124.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280831.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYdKFfzgpvxzpk2SXvaF5RAaK6Y.jpg" group-title="→ SERIES DC ←",Smallville S01 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232125.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yz62dswA06KdkLHyhLbAszhU9X.jpg" group-title="→ SERIES DC ←",Smallville S01 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232126.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280833.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sE4lnHew1dhBpvCRxFPzjNfAJ6.jpg" group-title="→ SERIES DC ←",Smallville S01 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232127.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280834.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wcm7vY2UpACDjEM6irw7NgU9zN.jpg" group-title="→ SERIES DC ←",Smallville S01 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232128.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efIwNsN4bV8zMJeI6h0X0nBd3PZ.jpg" group-title="→ SERIES DC ←",Smallville S01 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xd1Sa262IbmQLN0pHq8YzfSrwvV.jpg" group-title="→ SERIES DC ←",Smallville S02 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232130.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTLo6lmwN5a2OxOEqT8QXX3KQDw.jpg" group-title="→ SERIES DC ←",Smallville S02 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280886.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7eaniTwsqfqbqTW6KYeyJz1Ipr.jpg" group-title="→ SERIES DC ←",Smallville S02 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232131.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280887.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvL6NrdMm8Z4YPtrfofWeDd1UZG.jpg" group-title="→ SERIES DC ←",Smallville S02 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232132.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280888.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EOdconLaaebq2FevF5dFLOjPN6.jpg" group-title="→ SERIES DC ←",Smallville S02 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232133.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280889.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h25I4dW6W05M63ol8EPrvpmoCWD.jpg" group-title="→ SERIES DC ←",Smallville S02 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232134.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280890.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3m9xjPyfJhpcjzJ6ucgPRvDJJXJ.jpg" group-title="→ SERIES DC ←",Smallville S02 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232135.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280891.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcGug0g2gN18UWhMStNrbBeyhJR.jpg" group-title="→ SERIES DC ←",Smallville S02 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232136.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSMUceIZ48hJWkG38Ujnc75wFFr.jpg" group-title="→ SERIES DC ←",Smallville S02 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKGlJVwdw0qm7cqCVfykMecUfq.jpg" group-title="→ SERIES DC ←",Smallville S02 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZLoiDuXYC0rzMtO4PbXL78I1d.jpg" group-title="→ SERIES DC ←",Smallville S02 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232139.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBDDB7jQi8x4dtTA49Gm2KFIn6u.jpg" group-title="→ SERIES DC ←",Smallville S02 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8ROCnErivGbup2lz1RXCb3UIyf.jpg" group-title="→ SERIES DC ←",Smallville S02 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280895.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqwTEvOunsxhODXA525Xfxp2cA.jpg" group-title="→ SERIES DC ←",Smallville S02 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232140.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280896.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMhioyVw8FcfNc9L9sU6bqFASPM.jpg" group-title="→ SERIES DC ←",Smallville S02 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232141.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280897.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhxsx8gzULQKDy87XFlqU9Io0x4.jpg" group-title="→ SERIES DC ←",Smallville S02 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232142.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280898.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpbmzyDqms2Glu5YTC97IUhkm2Q.jpg" group-title="→ SERIES DC ←",Smallville S02 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232143.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7wGATv4wBcF3SJkLW0Omeimoi1.jpg" group-title="→ SERIES DC ←",Smallville S02 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232144.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280900.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuHxPTzYvbJc4MjesxWEGk7alXi.jpg" group-title="→ SERIES DC ←",Smallville S02 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g56d3woWOeW5XUaK9yRD7qZLsnR.jpg" group-title="→ SERIES DC ←",Smallville S02 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232146.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfFaqibjzqaDm24YM4GiTugsAIs.jpg" group-title="→ SERIES DC ←",Smallville S02 E17
+http://ultrapremium.cloud:8080/series/83468289/24092021/280902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcGnWArGAIs2Z3v6KUE6NfK4akC.jpg" group-title="→ SERIES DC ←",Smallville S02 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232147.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280903.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtouXtpShWJTAze56WwamvZahem.jpg" group-title="→ SERIES DC ←",Smallville S02 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232148.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280904.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxqC25BFaqQAe4fJBvRVS1Eu1ba.jpg" group-title="→ SERIES DC ←",Smallville S02 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232149.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280905.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOssv8dWs7gfaSdOQlfEoIOwL1B.jpg" group-title="→ SERIES DC ←",Smallville S02 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232150.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280906.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc4g52aGkeSg9LFZ5jqBp07TLYf.jpg" group-title="→ SERIES DC ←",Smallville S02 E22
-http://ultrapremium.cloud:8080/series/83468289/24092021/232151.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280907.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdsNM5JF0DakYgUdG1O6Kysj8UO.jpg" group-title="→ SERIES DC ←",Smallville S02 E23
-http://ultrapremium.cloud:8080/series/83468289/24092021/232152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HjB28zdXVsVybkmD0u8pOPjSTv.jpg" group-title="→ SERIES DC ←",Smallville S03 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232155.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mR28eCvvIsBxKQxFyWDV0dBpDdS.jpg" group-title="→ SERIES DC ←",Smallville S03 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWfYCvCCExY09RBboKB3ENOTWST.jpg" group-title="→ SERIES DC ←",Smallville S03 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232156.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280910.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZJTTDZBfgjR8RCvnjA76ZgP1f.jpg" group-title="→ SERIES DC ←",Smallville S03 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232157.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280911.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owBolOLItBFW9NGrLyd9TpY787C.jpg" group-title="→ SERIES DC ←",Smallville S03 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232158.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkn0rrOdfAGqBuvOnM7z4EBy6vk.jpg" group-title="→ SERIES DC ←",Smallville S03 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232159.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280913.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goyzGo1MWCCTbO3vJ5vd98z6i0L.jpg" group-title="→ SERIES DC ←",Smallville S03 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232160.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280914.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJmoixxTp4O7FEi2nLl6cl0vRYc.jpg" group-title="→ SERIES DC ←",Smallville S03 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232161.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNU4vlSwrRUu5BJc2NhgBYWVuOm.jpg" group-title="→ SERIES DC ←",Smallville S03 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232162.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280916.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2tuq3XDqTb3e4TghPccL2Hz8WL.jpg" group-title="→ SERIES DC ←",Smallville S03 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232163.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280917.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pgJxsenX7um75PpmLKgfFl019y.jpg" group-title="→ SERIES DC ←",Smallville S03 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232164.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaLFmBJs9McZrs3u7ayuVxJNrNF.jpg" group-title="→ SERIES DC ←",Smallville S03 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232165.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzObr6mlsG6DDBMsU6PzVwvwoIh.jpg" group-title="→ SERIES DC ←",Smallville S03 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232166.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280920.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS0T8Cvk3gpBxutgpIYmpZs3BVO.jpg" group-title="→ SERIES DC ←",Smallville S03 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232167.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280921.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhh6BAXp0Dd7BmCEOBnUPyXgrJ4.jpg" group-title="→ SERIES DC ←",Smallville S03 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232168.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280922.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO5wYBpgtP6Bs9p1TopwtRzDQj1.jpg" group-title="→ SERIES DC ←",Smallville S03 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232169.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ATzdYKws9NynDzMHyVwRX4EyK.jpg" group-title="→ SERIES DC ←",Smallville S03 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232170.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280924.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wszMaPugz0oISB60cvW1V3Fi8gc.jpg" group-title="→ SERIES DC ←",Smallville S03 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232171.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280925.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf2RDbgvRy99deBlDnhwRSIAokF.jpg" group-title="→ SERIES DC ←",Smallville S03 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232172.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQs1A4CwFQNpCu7cQPrgoJvjYrB.jpg" group-title="→ SERIES DC ←",Smallville S03 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232173.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280927.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53OGaA3qZboMGE73LtmetX1dLhM.jpg" group-title="→ SERIES DC ←",Smallville S03 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232174.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8tBdTWidSH4452BqhXtYQsxA2k.jpg" group-title="→ SERIES DC ←",Smallville S03 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232175.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFVOpndnLWcESIiASQwSSjMm4X9.jpg" group-title="→ SERIES DC ←",Smallville S03 E22
-http://ultrapremium.cloud:8080/series/83468289/24092021/232176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8vrx435b40ci34GeVtEvHA1hnj.jpg" group-title="→ SERIES DC ←",Smallville S04 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWLk9TwJDsyfn054O8QOfnYqGhJ.jpg" group-title="→ SERIES DC ←",Smallville S04 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl9VlMMI5xQlz1Vt02E4CpATnpS.jpg" group-title="→ SERIES DC ←",Smallville S04 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9xlDgHD5YViZQZVYA4YZMShvAp.jpg" group-title="→ SERIES DC ←",Smallville S04 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDtnhtR6ildo8pPjc3TSClpLOT.jpg" group-title="→ SERIES DC ←",Smallville S04 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg" group-title="→ SERIES DC ←",Smallville S04 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5nUTb5InawJzBNbwcXUENeqCyz.jpg" group-title="→ SERIES DC ←",Smallville S04 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOEbdvEriBgMC66pN3BXWj17LMd.jpg" group-title="→ SERIES DC ←",Smallville S04 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NGc4bCOxG6ubTplQKgtStglM46.jpg" group-title="→ SERIES DC ←",Smallville S04 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atoNwOLS5sODHJ1Sls5cqh6UGCs.jpg" group-title="→ SERIES DC ←",Smallville S04 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHgvKngP4DTD8XcnPovts8XB5mM.jpg" group-title="→ SERIES DC ←",Smallville S04 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg" group-title="→ SERIES DC ←",Smallville S04 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hk8UATVXYIprI75rVS2KxzpDfA.jpg" group-title="→ SERIES DC ←",Smallville S04 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWhFSYR1IrSbUJfkFmRSHWz89zv.jpg" group-title="→ SERIES DC ←",Smallville S04 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1auMqqMRMffJbEA52ZCCfbhXnu.jpg" group-title="→ SERIES DC ←",Smallville S04 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TIRVwvHBXvNE9StP9ODVS6wCvv.jpg" group-title="→ SERIES DC ←",Smallville S04 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eoJHx8sNVQjJeQw4uErdJ6ICrv.jpg" group-title="→ SERIES DC ←",Smallville S04 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zM2n8okmpKg2FWPtgLQCFdpXQ4.jpg" group-title="→ SERIES DC ←",Smallville S04 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcqA2pRWE6OWWLPGeC8sc2O01gb.jpg" group-title="→ SERIES DC ←",Smallville S04 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vv8p7LW65yBQrcMNjUUsmBfddl.jpg" group-title="→ SERIES DC ←",Smallville S04 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2wApJr59JMjXG5UzX1eP2a2A1.jpg" group-title="→ SERIES DC ←",Smallville S04 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJatujpAwNGqzTyxAnjYMMquBD.jpg" group-title="→ SERIES DC ←",Smallville S04 E22
-http://ultrapremium.cloud:8080/series/83468289/24092021/232198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpkE0EGG9JprSGKv2wPFb2hLQqj.jpg" group-title="→ SERIES DC ←",Smallville S05 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntMrI2PjqTF8QidhiGAiTn6d5tm.jpg" group-title="→ SERIES DC ←",Smallville S05 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdsLBmWjVXOZTwQcSj9lYSlaV2.jpg" group-title="→ SERIES DC ←",Smallville S05 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZWBz7ygNurPMUQClf6U3YZiogl.jpg" group-title="→ SERIES DC ←",Smallville S05 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqtUsjCeCVs6pBbW9e3QAEfpezm.jpg" group-title="→ SERIES DC ←",Smallville S05 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7a7M1EiSnTDXxpm5OScG7l6a7.jpg" group-title="→ SERIES DC ←",Smallville S05 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar8D8alZxxWjmRGPw7qj61OMOaM.jpg" group-title="→ SERIES DC ←",Smallville S05 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szxHsWybJXPpqW3eAYmBikUCpaO.jpg" group-title="→ SERIES DC ←",Smallville S05 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nSRbYR7UtDlzioOJ3ywvT9xlJQ.jpg" group-title="→ SERIES DC ←",Smallville S05 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxbvYKKxnwZQ3NrruM7WLYe9PP9.jpg" group-title="→ SERIES DC ←",Smallville S05 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVx5MT94LBeuGOyBIKBxmjPYtK6.jpg" group-title="→ SERIES DC ←",Smallville S05 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232209.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lq55IwxzBGrmhgpDnLNVpPFnaS.jpg" group-title="→ SERIES DC ←",Smallville S05 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulX6o2yxkmFTAzWxio95ck7ntHF.jpg" group-title="→ SERIES DC ←",Smallville S05 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdL57trQZjGIsUhqbSVKTvmjxWs.jpg" group-title="→ SERIES DC ←",Smallville S05 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adTztTM3MLxZ0m1SpVu4arZaopp.jpg" group-title="→ SERIES DC ←",Smallville S05 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1zuF3WMJU4Ik1tAe5fbrsEDPWG.jpg" group-title="→ SERIES DC ←",Smallville S05 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awCoP3ioZSYmKvUhTP4oiJO1iOb.jpg" group-title="→ SERIES DC ←",Smallville S05 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVp9MXjTaB73ZRWhNJMAY5BwT3E.jpg" group-title="→ SERIES DC ←",Smallville S05 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18b0Hxo9trxLCUc8jjtv98bLyEp.jpg" group-title="→ SERIES DC ←",Smallville S05 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nW5UwaY1czCuKFyBuaRxmWA1i.jpg" group-title="→ SERIES DC ←",Smallville S05 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k9NAcaNyT6b2dNuLpQR7Pc4I3w.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke97OyYIIe1EJSmnmMr8BIEQ2sx.jpg" group-title="→ SERIES DC ←",Smallville S06 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56yoMzahUkWywYB9hmQkvyOL6RU.jpg" group-title="→ SERIES DC ←",Smallville S06 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TxjrWgyw1I4dRR0dJHf04aqMLM.jpg" group-title="→ SERIES DC ←",Smallville S06 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhC9YTmRkg5o5NkpdzKlBe1S8Ye.jpg" group-title="→ SERIES DC ←",Smallville S06 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXn1mVCsOTS2D7aIpqkIzasmAzy.jpg" group-title="→ SERIES DC ←",Smallville S06 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKgJnk2vvzHmCbbhiqTGXBmv49Z.jpg" group-title="→ SERIES DC ←",Smallville S06 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzLy9mcpo9FQTBrHpDyIo2IKP4.jpg" group-title="→ SERIES DC ←",Smallville S06 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pvb6hQAGl2u9ElZOcwFtJ0wYGE.jpg" group-title="→ SERIES DC ←",Smallville S06 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdQvBzjQ4We3JsQOdpnJZcDrvOH.jpg" group-title="→ SERIES DC ←",Smallville S06 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLpZVl1Xn2J7c7IY5vszntm3us.jpg" group-title="→ SERIES DC ←",Smallville S06 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urfMRDWGB6mdweFh4AaJYoYMuCw.jpg" group-title="→ SERIES DC ←",Smallville S06 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOR6Grie9KMDr6tCDXynCrwxF2T.jpg" group-title="→ SERIES DC ←",Smallville S06 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG6UdaXQFc73n5EnOqMskLn0y2K.jpg" group-title="→ SERIES DC ←",Smallville S06 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhrtC83oKqPOLSeWR65cd0juWto.jpg" group-title="→ SERIES DC ←",Smallville S06 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ogPjxBI7bcJlOIXdzroR0cToA6.jpg" group-title="→ SERIES DC ←",Smallville S06 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYqQ6I3X6xa4HfNdfYpQq3yR989.jpg" group-title="→ SERIES DC ←",Smallville S06 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlWbjqDuTMBCByRmbHahBQK7mma.jpg" group-title="→ SERIES DC ←",Smallville S06 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPs6KIWgHdNIEaFF5JrDH6QrD1I.jpg" group-title="→ SERIES DC ←",Smallville S06 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v4uyoHMWTGq2wbYNDpYTfEl4Ar.jpg" group-title="→ SERIES DC ←",Smallville S06 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTMygxVPEws4Q8as3iXw9nRLyII.jpg" group-title="→ SERIES DC ←",Smallville S06 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTy20V1s3KV9L1gxGKjwkqVEZYK.jpg" group-title="→ SERIES DC ←",Smallville S06 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqVt9dYB10lwwC7gfnBl8vWetlX.jpg" group-title="→ SERIES DC ←",Smallville S06 E22
-http://ultrapremium.cloud:8080/series/83468289/24092021/232241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jClWDCg213IlN7HfGlBA5DHKOuS.jpg" group-title="→ SERIES DC ←",Smallville S07 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqoHLr9aVo9a1OUM06ASOrSoL0z.jpg" group-title="→ SERIES DC ←",Smallville S07 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oevX1DTZjbCx7hFolLGAH2xzul.jpg" group-title="→ SERIES DC ←",Smallville S07 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHpOZl03a0Mb0ayk9AHcYljhYAV.jpg" group-title="→ SERIES DC ←",Smallville S07 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWyZjvGvJCmIlA0NI19yW0x91HJ.jpg" group-title="→ SERIES DC ←",Smallville S07 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmDCnSAB5Lkmk17HgOQ8FOdd7YZ.jpg" group-title="→ SERIES DC ←",Smallville S07 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA6ZgjWL2obBwxq8QTsNfrq85bN.jpg" group-title="→ SERIES DC ←",Smallville S07 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOSdt4Axw7KIfM6DjrjwyCMNkC9.jpg" group-title="→ SERIES DC ←",Smallville S07 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwK1sI4VI3qfulpHbMmTl5S9w8Q.jpg" group-title="→ SERIES DC ←",Smallville S07 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L59V40P7bTXErEO5rdtcLN7n28.jpg" group-title="→ SERIES DC ←",Smallville S07 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fE47244Nip9p1XTucDdldbtRlJn.jpg" group-title="→ SERIES DC ←",Smallville S07 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9czTfCg76bGeFHAqMD4OJPYJUoR.jpg" group-title="→ SERIES DC ←",Smallville S07 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46NKWrJ8R8sbrzZa4JgBMrpHUq0.jpg" group-title="→ SERIES DC ←",Smallville S07 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fisau6gftk2WhSxErUglf2aI5MB.jpg" group-title="→ SERIES DC ←",Smallville S07 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ4JfFGXO1WrKTQEZwZr4IBy3mN.jpg" group-title="→ SERIES DC ←",Smallville S07 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p1fPXd0VQWpJ2aKyMj2OZP7HrL.jpg" group-title="→ SERIES DC ←",Smallville S07 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43iIvUinGGIDJms4C2ky54RXg2Z.jpg" group-title="→ SERIES DC ←",Smallville S07 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A90R1qbK706OeNyZll2nVqIVC8A.jpg" group-title="→ SERIES DC ←",Smallville S07 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvGocNcVCBm6tUvU0dYjWvX3Fzk.jpg" group-title="→ SERIES DC ←",Smallville S07 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl2zAVQ0mF8MxLZzs6Qh4H279e6.jpg" group-title="→ SERIES DC ←",Smallville S07 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5bGA9qLdIsaucrQrdSiek4Oqmw.jpg" group-title="→ SERIES DC ←",Smallville S08 E01
-http://ultrapremium.cloud:8080/series/83468289/24092021/232262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suo5eySDxram13IQLXQQHNDxjXM.jpg" group-title="→ SERIES DC ←",Smallville S08 E02
-http://ultrapremium.cloud:8080/series/83468289/24092021/232263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l2JgnKbuVOZ1z5k4AzO0il6OoD.jpg" group-title="→ SERIES DC ←",Smallville S08 E03
-http://ultrapremium.cloud:8080/series/83468289/24092021/232264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5SCxvz9CEJV8D6YMxfsDUQBpJu.jpg" group-title="→ SERIES DC ←",Smallville S08 E04
-http://ultrapremium.cloud:8080/series/83468289/24092021/232265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMddIxenizRuwhEwkjp7TuDS9sq.jpg" group-title="→ SERIES DC ←",Smallville S08 E05
-http://ultrapremium.cloud:8080/series/83468289/24092021/232266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcgdZBsoUGFcnqxh7uqvS6BM4dq.jpg" group-title="→ SERIES DC ←",Smallville S08 E06
-http://ultrapremium.cloud:8080/series/83468289/24092021/232267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB0RXF6CGZUZiNbg8bvP8Ntew10.jpg" group-title="→ SERIES DC ←",Smallville S08 E07
-http://ultrapremium.cloud:8080/series/83468289/24092021/232268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4z69AZz62wihAyHFRn6ZCDFsT5.jpg" group-title="→ SERIES DC ←",Smallville S08 E08
-http://ultrapremium.cloud:8080/series/83468289/24092021/232269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8bX6TDYjclLKQt9PceOY8mRirG.jpg" group-title="→ SERIES DC ←",Smallville S08 E09
-http://ultrapremium.cloud:8080/series/83468289/24092021/232270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnRiEEMhJHvha0x6prPNUgLN5v7.jpg" group-title="→ SERIES DC ←",Smallville S08 E10
-http://ultrapremium.cloud:8080/series/83468289/24092021/232271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzyBWDFFXUCB0JtrHH3isVGjYFy.jpg" group-title="→ SERIES DC ←",Smallville S08 E11
-http://ultrapremium.cloud:8080/series/83468289/24092021/232272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFzoJsVlLQLRdZdSLZFAy91ln6t.jpg" group-title="→ SERIES DC ←",Smallville S08 E12
-http://ultrapremium.cloud:8080/series/83468289/24092021/232273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs0nfIwaq0oJDKKhD835uMsYnUp.jpg" group-title="→ SERIES DC ←",Smallville S08 E13
-http://ultrapremium.cloud:8080/series/83468289/24092021/232274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFZEOlg6uELygrCCCa2j8zqFNQ1.jpg" group-title="→ SERIES DC ←",Smallville S08 E14
-http://ultrapremium.cloud:8080/series/83468289/24092021/232275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3517rKSh8sonFSjkG6ueaOxglJ.jpg" group-title="→ SERIES DC ←",Smallville S08 E15
-http://ultrapremium.cloud:8080/series/83468289/24092021/232276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztaS8CGDWw5BKy33v83lQqlGOIq.jpg" group-title="→ SERIES DC ←",Smallville S08 E16
-http://ultrapremium.cloud:8080/series/83468289/24092021/232277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfGCoUy4je5UdoH4lzLq5DE5IGY.jpg" group-title="→ SERIES DC ←",Smallville S08 E17
-http://ultrapremium.cloud:8080/series/83468289/24092021/232278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nl1qJRuzY92RTkNZD2zhDXUG1J.jpg" group-title="→ SERIES DC ←",Smallville S08 E18
-http://ultrapremium.cloud:8080/series/83468289/24092021/232279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahe7kT3utyQNVvcBL0jYbqTluc5.jpg" group-title="→ SERIES DC ←",Smallville S08 E19
-http://ultrapremium.cloud:8080/series/83468289/24092021/232280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IGaMcsrFmSaFS8zuYSmEYqk61w.jpg" group-title="→ SERIES DC ←",Smallville S08 E20
-http://ultrapremium.cloud:8080/series/83468289/24092021/232281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzBPktZCWkBwKXqZzgFXsEAPGGi.jpg" group-title="→ SERIES DC ←",Smallville S08 E21
-http://ultrapremium.cloud:8080/series/83468289/24092021/232282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgLmrdqtoikzTBaZrn6Cize7Eqq.jpg" group-title="→ SERIES DC ←",Smallville S08 E22
-http://ultrapremium.cloud:8080/series/83468289/24092021/232283.mkv
+http://ultrapremium.cloud:8080/series/83468289/24092021/280930.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -128767,6 +128775,8 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280628.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280690.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E14
 http://ultrapremium.cloud:8080/series/83468289/24092021/280767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg" group-title="→ SERIES DRAMA ←",The Pitt S02 E15
+http://ultrapremium.cloud:8080/series/83468289/24092021/280884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/270307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg" group-title="→ SERIES DRAMA ←",Adolescencia S01 E02
@@ -134915,6 +134925,10 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280764.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/AnwY7IBZYIlBuzn5sQD21IjD226.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E08
 http://ultrapremium.cloud:8080/series/83468289/24092021/280786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/2ymRyR7S3mNFMO3EGWME91vzpy1.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/281061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://ultrapremium.cloud:8080/series/83468289/24092021/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135477,3 +135491,133 @@ http://ultrapremium.cloud:8080/series/83468289/24092021/280810.mkv
 http://ultrapremium.cloud:8080/series/83468289/24092021/280811.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBW5sPvlSEcgztzJvegXziKc7u8.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S02 E13
 http://ultrapremium.cloud:8080/series/83468289/24092021/280812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktyk9zQKUB4cT0pn6IfgrwXUhzC.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVwiVUZn8EQRzx4xfH07WIb7gXZ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBfi9DkrYgAS2aWoSebAUb4RHln.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60NfeTv9ggxgEF1VSbTYa0gJgGg.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaJMwE4RJ2XW9sCHJDTQvEAVaPf.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsImrgB70KKnqQEZIemX9kvR4aI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpo2RgYW66ACcNISjdjyalsc6KV.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m26sspJcaZ4fv8YxBKeo9knfmj0.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVv5UgaGAC5dq0yG5Rft0VjMDdJ.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgEqjYNSQVfyh1qKWvfztZFqTwx.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t5XRwD4atAjIs9CQXW5UWL5Qt3.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E11
+http://ultrapremium.cloud:8080/series/83468289/24092021/280847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sTKJfVzey6pBkIxcCXlRaXIgvI.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E12
+http://ultrapremium.cloud:8080/series/83468289/24092021/280848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Kingdom S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Cw50xfevKRthjcH198O7kQQ7p.jpg" group-title="→ SERIES CRIMEN ←",Animal Kingdom S03 E13
+http://ultrapremium.cloud:8080/series/83468289/24092021/280849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SMLCJpvNt29JvshWfKNexZnlaw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseeZyacfmdOhihOYOJRK7xXpI4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFPesk4OybE3zDAF3lv76lY2nfd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/280861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things: Relatos del 85 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85 S01 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/280862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG4tQJNe6vA7gXhFBthS0FgcyIP.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjUFyMK42eYV0Mf0YrMzaK3UDKo.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utq3OEysiROedywJvVfZdXA4Pc5.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nuhRtEejodyv1pwDOJVAux9yWG.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UqFDoGUkNcAQRZggjAvAT8oaSv.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/280983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyaqT771OsHzp1RMuihsvTnNq6L.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/280984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFKmkdtUBSQF1sLKlg5NXPbKcTl.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/280985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si los deseos Mataran... S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XERwutLNueF5n4UohNb2OXjMQA.jpg" group-title="→ SERIES MISTERIO ←",Si los deseos Mataran... S01 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/280986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Hogan: Real American S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BUs4zXAz9RdZAZ0PfjS8lwiRgu.jpg" group-title="→ SERIES DOCUMENTALES ←",Hulk Hogan: Real American S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Hogan: Real American S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BDfCuUa1f78QwGmOvCAilXw9zb.jpg" group-title="→ SERIES DOCUMENTALES ←",Hulk Hogan: Real American S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Hogan: Real American S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXIfC9woJYYS5YWYji0SaOg2UCg.jpg" group-title="→ SERIES DOCUMENTALES ←",Hulk Hogan: Real American S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Hogan: Real American S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V3l0NkLMJFBqi8cxFeD2DLtOF1.jpg" group-title="→ SERIES DOCUMENTALES ←",Hulk Hogan: Real American S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/280990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzdqMGtzUc0i5X2Hc3XTuWEHLCy.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/280991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXco31lravDUQ26qf0EihyWIjNx.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/280992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K9SEfzvanGIpOsfVXBdzapN5le.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/280993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJKK19WYmcdoSCLaMkyZPm88fYG.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/281020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ungnd637TCGKSVWcEEhSaeGrSrH.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/281021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IfBBkdDT4QMsSxNTYqweAfpnoe.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bh2dX7UwvRkzYrGg8DWSD2YshR4.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pehMtBjg9Mk4Yr8feKWszPXVI8F.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/281024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unALOwtM7VdAqzQOPmcJ77lUh7K.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/281025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16ODp0OS2Fu6iXsJoxvnOPzUNhX.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E07
+http://ultrapremium.cloud:8080/series/83468289/24092021/281026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3slibElqpmLZCaxeaMb8BiTLbp.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E08
+http://ultrapremium.cloud:8080/series/83468289/24092021/281027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMVv6oNPa6k9RjoXtoV7BxsANd.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E09
+http://ultrapremium.cloud:8080/series/83468289/24092021/281028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvcogp1jj9jqKNwPtOUbh4OpID4.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E10
+http://ultrapremium.cloud:8080/series/83468289/24092021/281029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lockerbie: En  busqueda de la Verdad S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o13f7dF73YUV33givwQSmEn7KiD.jpg" group-title="→ SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/281031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lockerbie: En  busqueda de la Verdad S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3Dk20h3Qz9cGYm84UMffmJviLs.jpg" group-title="→ SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/281032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lockerbie: En  busqueda de la Verdad S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uibJ3Sp4b33LxuhgtVE1Nn4VzJm.jpg" group-title="→ SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lockerbie: En  busqueda de la Verdad S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOuil7qhU71yf9aMhAuyXn5d9Lu.jpg" group-title="→ SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lockerbie: En  busqueda de la Verdad S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVu1pa0BNWgCf20MBL3u72bi12f.jpg" group-title="→ SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/281035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tWNxyEZXBwxtB2Y8oxIJvKUoCV.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/281039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9R9yKhpM0EaRBBmQpiERpvCbseZ.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/281040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YtzlxvcXuJNGSaWTyqquX53AfE.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2tIcPAj7bPu2b9uyiredu8kOY6.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlECyr5PlFRtz5hC8qKezkXCw0k.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/281043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los no elegidos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V70dnnpXdtyjLXvg9pV7rUG3Lo.jpg" group-title="→ SERIES DRAMA ←",Los no elegidos S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/281044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TMQCPJ5rMUvFYvSWECZ02UcIIp.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E01
+http://ultrapremium.cloud:8080/series/83468289/24092021/281046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y42clMycsAmRxNchhlyqcikohHU.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E02
+http://ultrapremium.cloud:8080/series/83468289/24092021/281047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOOOiamdcZ1G2dMpRfE0GIAOgaL.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E03
+http://ultrapremium.cloud:8080/series/83468289/24092021/281048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23TUhry9PGllF8QCU7I0jAPchWq.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E04
+http://ultrapremium.cloud:8080/series/83468289/24092021/281049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KuQ0vE15Ps5mDVxEJbpi51nGk2.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E05
+http://ultrapremium.cloud:8080/series/83468289/24092021/281050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grd58WpeqqtL1CPwShENnRG68sU.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E06
+http://ultrapremium.cloud:8080/series/83468289/24092021/281051.mkv
