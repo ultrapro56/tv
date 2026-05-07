@@ -5,8 +5,9 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/331
 #EXTINF:-1 tvg-id="002" tvg-name="002-COL• CARACOL (HD) »3«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »3«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/333
 
-#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »3«
-http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/345
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="CANALES",COL• RCN (HD) »4«
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/346
+
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="CANALES",COL• RCN (HD) »2«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/344
 
@@ -28,8 +29,8 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/680
 #EXTINF:-1 tvg-id="" tvg-name="COL• PASIONES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANALES",COL• PASIONES (HD) »1«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/341
 
-#EXTINF:-1 tvg-id="" tvg-name="COL• TELEMEDELLIN (HD) »1«" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="CANALES",COL• TELEMEDELLIN (HD) »1«
-http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/355
+#EXTINF:-1 tvg-id="" tvg-name="COL• SENAL COLOMBIA (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="CANALES",COL• SENAL COLOMBIA (HD)
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/350
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELEPACIFICO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="CANALES",COL• TELEPACIFICO (HD) »1«
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/357
@@ -39,12 +40,22 @@ http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/329
 #EXTINF:-1 tvg-id="" tvg-name="COL• CITY TV (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="CANALES",COL• CITY TV (HD)
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/337
 
-#EXTINF:-1 tvg-id="" tvg-name="COL• EL TRECE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="CANALES",COL• EL TRECE (HD)
-http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/338
-#EXTINF:-1 tvg-id="" tvg-name="COL• TELECAFE (HD)" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="CANALES",COL• TELECAFE (HD)
-http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/352
-#EXTINF:-1 tvg-id="" tvg-name="COL• TELEANTIOQUIA (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="CANALES",COL• TELEANTIOQUIA (HD)
-http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/351
+#EXTINF:-1 tvg-id="" tvg-name="COL• NTN 24 (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="CANALES",COL• NTN 24 (HD) »1«
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/339
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANALES",ENT| Pasiones
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/590
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="CANALES",ENT| El GOURMET
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/596
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="CANALES",ENT| Telemundo Internacional
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/604
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Tlnovelas" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="CANALES",ENT| Tlnovelas
+http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/611
+
 #EXTINF:-1 tvg-id="" tvg-name="COL• CANAL CAPITAL (HD)" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="CANALES",COL• CANAL CAPITAL (HD)
 http://ultrapremium.cloud:8080/966831715tv/92thjy4apt/328
 
@@ -114,18 +125,13 @@ https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="CANALES",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="CANALES",Salsa Gorda Television (480p) [Not 24/7]
-https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="CANALES",TV San Jorge (1080p) [Not 24/7]
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="CANALES",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="CANALES",Vive TV Colombia (1080p)
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="CANALES" http-referrer="https://canalzoom.org/senal-en-vivo",Zoom (1080p)
-#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
 
 
 
