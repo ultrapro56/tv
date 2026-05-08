@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sangre asesina (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sangre asesina (2026)
+http://ultrapremium.cloud:8080/movie/977605802tv/2k0mdjk34/281105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos chicos en Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQoxndesKFNyG3895L0yiVcVJUK.jpg" group-title="→ VOD AVENTURAS ←",Dos chicos en Fuga
+http://ultrapremium.cloud:8080/movie/977605802tv/2k0mdjk34/281101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Silencio de los Inocentes (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="→ VOD CLÁSICAS ←",El Silencio de los Inocentes (1991)
+http://ultrapremium.cloud:8080/movie/977605802tv/2k0mdjk34/281100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cumbres Borrascosas (2026) (Version Modificada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="→ VOD ESTRENOS 2026 ←",Cumbres Borrascosas (2026) (Version Modificada)
 http://ultrapremium.cloud:8080/movie/977605802tv/2k0mdjk34/281045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Caja Azul (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Caja Azul (2026)
@@ -82035,6 +82041,16 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/246037.mp4
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/246392.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S04 E08
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/247296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brDJrC1Bm7oD3Pr7TL7Do0sL5yB.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E01
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E02
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7OxzZjnOuh7osDYoKncDum6F05.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E04
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E05
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9SAjz8NgcCI4B3bztXGynATWfz.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E01
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/252349.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJiU12eCG2HApS4xxnlbeMw0MK0.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E02
@@ -88407,6 +88423,8 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/267403.mp4
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/280789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4LNl4W9ARO2a843SgE3XMj1uOn9.jpg" group-title="→ SERIES MISTERIO ←",From S04 E02
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/280977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/i4NypsP3189cjfDVnXZiXoUOIJt.jpg" group-title="→ SERIES MISTERIO ←",From S04 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -96865,6 +96883,20 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/263795.mp4
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/263796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Citadel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fliSfPM1RYjjN2ge2RuFbmNTUqY.jpg" group-title="→ SERIES CRIMEN ←",Citadel S01 E06
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/263797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvJGibMLmNFmMXuctB5KcQU8qIs.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E01
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aw2fVTquxynJUjBt5LPw8uRbdzZ.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E02
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFlRMuyQaYykzwCuVWpAWASvej1.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R2ewZ0EQ8FBv1Rt9FUORuhpTFN.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E04
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oX260vhiIE4COA5I6FFZWupR1r9.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E05
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpfst2opz2Q8gIPHOKauieTKC8l.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E06
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Citadel S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOqSZdZc8WmmuvOBCOhwznRAFB3.jpg" group-title="→ SERIES CRIMEN ←",Citadel S02 E07
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281083.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Ángeles S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHEGO6g6v9j8eTwdC2kuzpyI90.jpg" group-title="→ SERIES ACCIÓN ←",NCIS: Los Ángeles S01 E01
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/62833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Ángeles S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0SS2II4m1T7nC30YghMxlKabIh.jpg" group-title="→ SERIES ACCIÓN ←",NCIS: Los Ángeles S01 E02
@@ -128633,6 +128665,12 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/280692.mkv
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/280768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E05
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/280788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E06
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmlntMleUjbXWgEk0beQla6qTDZ.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E07
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil: Born Again S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg" group-title="→ SERIES MARVEL ←",Daredevil: Born Again S02 E08
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E01
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/270168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E02
@@ -128705,6 +128743,22 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/270345.mp4
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/270346.mp4
 #EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z7A56KKqRRn94SHeLi0LlLpcV3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S03 E08
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/270347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQFM7zC1Ls0wnZNKK064fpEzzXM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E01
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZljaDBUuBrKQjm0sRKfKorNFmk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E02
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feqa4Ct3uOpMvwWfJkvQet6w1yP.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAgbFn1AEBxgUksM1mHuaEBDmAS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E04
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub7F6sOGlVTyDiqIMQJyAGaMz7E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E05
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzWpAJk487mL9usmcRUd9b0axf4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E06
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E07
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a103TuPbdItnmw4d4yDFQngJywu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S04 E08
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281076.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Gatopardo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBsFYYxqtlY6o8D1WUpZpb2czbX.jpg" group-title="→ SERIES DRAMA ←",El Gatopardo S01 E01
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/270231.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Gatopardo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUsIe2DepfxBdkxJaBhP6Zw3V8P.jpg" group-title="→ SERIES DRAMA ←",El Gatopardo S01 E02
@@ -135621,3 +135675,35 @@ http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281049.mkv
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281050.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Privilegios S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grd58WpeqqtL1CPwShENnRG68sU.jpg" group-title="→ SERIES DRAMA ←",Privilegios S01 E06
 http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozCoID4VNseI1gSTh0C8LxNzDMl.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E01
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dgAYPiQMJNs7gs61AMfmLf8Rtu.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E02
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfr9rbkMMn47TldFbdhcp1NTva0.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhaKvmRVjK6cu1Taxk94aD0QKZh.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E04
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54fXcyRsgCFFyGE9Bd7dSQopo3g.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E05
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZKC1Ua5R7vJQRQJZYUhh7OTR55.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E06
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfncRiKYbOAFMMnNT5WbeQlXEVq.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E07
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/relrlirEx4pevdTgzL8mo8ZhGvG.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S01 E08
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZot4PraeJekZRclAc7F03J3kVJ.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E01
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zF6RyGQfBQgwi2NaXszxKgXOlar.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E02
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c5Oi2d3KV0FF1TdoInQtQQWxTe.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E03
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NRpcjc4vCxEnNXnOdmTeRk9Eys.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E04
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gnI4b8qy6YAwG5f7QPuLmDLeKV.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E05
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7px5ZN6CHaiC4Lys90qC0sdaAB.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E06
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usi9gZBfRUYJWqW2TBFgyZ9RW0K.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E07
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEz4EOT8IEKTajuPLOowxUNA7ps.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E08
+http://ultrapremium.cloud:8080/series/977605802tv/2k0mdjk34/281099.mkv
