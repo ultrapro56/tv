@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡Ayuda! (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No es Pais para Solteros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="→ VOD ESTRENOS 2026 ←",No es Pais para Solteros (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281106.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sangre asesina (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sangre asesina (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281105.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dos chicos en Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQoxndesKFNyG3895L0yiVcVJUK.jpg" group-title="→ VOD AVENTURAS ←",Dos chicos en Fuga
@@ -70197,6 +70201,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280766.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E08" tvg-logo="https://image.tmdb.org/t/p/w300/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E09" tvg-logo="https://image.tmdb.org/t/p/w300/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
