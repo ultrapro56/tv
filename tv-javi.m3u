@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher: La última muerte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg" group-title="→ VOD ESTRENOS 2026 ←",The Punisher: La última muerte (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281284.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡Ayuda! (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281107.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No es Pais para Solteros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="→ VOD ESTRENOS 2026 ←",No es Pais para Solteros (2026)
@@ -64163,6 +64165,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280883.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281052.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E04
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/235376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUkVV3D9zHJ974CqsL7gA5vhOV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E02
@@ -81975,6 +81979,10 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281066.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281067.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUraVZjhhxYOCj4sTNlVKtehabw.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281283.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9SAjz8NgcCI4B3bztXGynATWfz.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/252349.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJiU12eCG2HApS4xxnlbeMw0MK0.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E02
@@ -88349,6 +88357,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280789.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280977.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/i4NypsP3189cjfDVnXZiXoUOIJt.jpg" group-title="→ SERIES MISTERIO ←",From S04 E03
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281274.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -134907,6 +134917,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280786.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280978.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jUXz9Y0ENf3hcmdK82QtirE4V1e.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281281.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135545,6 +135557,16 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280991.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K9SEfzvanGIpOsfVXBdzapN5le.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E03
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIP5Ym97QfSS7svoPRO07ezHcYW.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDhxI0RSKhVvGnnHxwR7LnNLAJj.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S7MUxrjMNRfojmqONiaEodBuBF.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoVg3pf5AABHSCc40G07sGA3VlB.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rluJN7FrmGV1xrjZMX8yzdS3216.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281279.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJKK19WYmcdoSCLaMkyZPm88fYG.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ungnd637TCGKSVWcEEhSaeGrSrH.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E02
