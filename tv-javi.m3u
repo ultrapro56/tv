@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Alejandro Magno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff0oH0VnpszrqvBkg78zaFCUPts.jpg" group-title="→ VOD ACCIÓN ←",Alejandro Magno
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="→ VOD CAM 2026 ←",Mortal Kombat II (2026) CAM
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg" group-title="→ VOD ESTRENOS 2026 ←",Proyecto Fin del Mundo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281285.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Punisher: La última muerte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg" group-title="→ VOD ESTRENOS 2026 ←",The Punisher: La última muerte (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281284.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡Ayuda! (2026)
@@ -70125,6 +70131,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280787.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E09" tvg-logo="https://image.tmdb.org/t/p/w300/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E09
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E10" tvg-logo="https://image.tmdb.org/t/p/w300/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281288.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
