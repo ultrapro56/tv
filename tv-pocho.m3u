@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="→ VOD ESTRENOS 2026 ←",Alerta Extincion (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas (1984)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas 2 (1989)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="→ VOD FANTASÍA ←",Cazafantasmas (2016)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281367.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Posesion de la Momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Posesion de la Momia (2026)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281318.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rescate en las Alturas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y8n9GEpr3y6QG5W4lIq7Ez9PH1.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rescate en las Alturas (2025)
