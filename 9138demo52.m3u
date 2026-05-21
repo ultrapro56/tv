@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="→ VOD ESTRENOS 2026 ←",Alerta Extincion (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas (1984)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas 2 (1989)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="→ VOD FANTASÍA ←",Cazafantasmas (2016)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Posesion de la Momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Posesion de la Momia (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate en las Alturas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y8n9GEpr3y6QG5W4lIq7Ez9PH1.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rescate en las Alturas (2025)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alejandro Magno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff0oH0VnpszrqvBkg78zaFCUPts.jpg" group-title="→ VOD ACCIÓN ←",Alejandro Magno
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="→ VOD CAM 2026 ←",Mortal Kombat II (2026) CAM
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg" group-title="→ VOD ESTRENOS 2026 ←",Proyecto Fin del Mundo (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher: La última muerte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg" group-title="→ VOD ESTRENOS 2026 ←",The Punisher: La última muerte (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281284.mkv
 #EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="→ VOD ESTRENOS 2026 ←",¡Ayuda! (2026)
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281107.mkv
 #EXTINF:-1 tvg-id="" tvg-name="No es Pais para Solteros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="→ VOD ESTRENOS 2026 ←",No es Pais para Solteros (2026)
@@ -17711,6 +17733,8 @@ http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/265404.mp4
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/268637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RAW 13 Enero (2025)" tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title=" → VOD WWE ←",RAW 13 Enero (2025)
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/268788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281289.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -36733,8 +36757,6 @@ http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281271
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281273
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14087
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -36743,10 +36765,6 @@ http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14108
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14109
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA5
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14110
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14111
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14112
 #EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA2
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14113
 #EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA3
@@ -36759,144 +36777,48 @@ http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14116
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14117
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA3
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14120
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14121
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14122
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA6
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14123
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA7
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14124
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA8
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14125
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA10
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14127
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14130
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14131
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14133
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA1
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14134
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA2
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14135
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14136
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA4
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14137
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA5
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14138
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA2
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14141
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14142
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14143
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA4
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14144
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA5
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14145
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14146
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA2
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14147
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14148
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14149
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14150
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_3 LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14151
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14152
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA2
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14153
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14154
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14155
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14156
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA6
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14157
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14158
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA2
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14159
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14160
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14161
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA5
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14162
 #EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA6
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14163
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14164
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14166
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14167
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14168
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14169
 #EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA7
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14170
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA9
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14179
 #EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA10
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14187
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14190
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA2
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14191
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA3
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14192
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14193
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14194
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14195
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA7
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14196
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA8
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14197
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA9
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14198
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA10
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14199
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA11
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14200
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA12
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14201
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA14
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14203
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14204
 #EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A2
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14205
 #EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A3
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14206
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14207
 #EXTINF:-1 tvg-id="" tvg-name="XXX:A5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A5
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14208
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A6
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14209
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B1
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14210
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B2
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14211
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B3
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14212
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B4
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14213
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B5
-http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14214
 #EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/14215
 #EXTINF:-1 tvg-id="" tvg-name="[+18⭕️] Anal 2 HD" tvg-logo="https://ei.phncdn.com/videos/202407/05/454752391/thumbs_13/(m=eaSaaTbaAaaaa)(mh=B-Ue4I_skIAsTe5K)2.jpg" group-title="→ ADULTOS DS ←",[+18⭕️] Anal 2 HD
@@ -37447,6 +37369,50 @@ http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/268975.mp4
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/268976.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zoe Doll - Private" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",Zoe Doll - Private
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/268977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:X1  TUSHY 2 TV FHD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:X1  TUSHY 2 TV FHD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281328
+#EXTINF:-1 tvg-id="" tvg-name="XXX:XXL" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:XXL
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281329
+#EXTINF:-1 tvg-id="" tvg-name="XXX:X HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:X HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281330
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROX" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:EROX
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281331
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HUSTLER TV" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:HUSTLER TV
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281333
+#EXTINF:-1 tvg-id="" tvg-name="XXX:JASMIN TV" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:JASMIN TV
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281334
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE TV HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE TV HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281335
+#EXTINF:-1 tvg-id="" tvg-name="XXX:REDLIGHT HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:REDLIGHT HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281336
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281339
+#EXTINF:-1 tvg-id="" tvg-name="XXX:REALITY KINGS HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:REALITY KINGS HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281340
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VINTAGE X FHD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:VINTAGE X FHD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281341
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Rusian Night" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:Rusian Night
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281342
+#EXTINF:-1 tvg-id="" tvg-name="XXX:ALBA XXX1" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:ALBA XXX1
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281343
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROX HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:EROX HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281344
+#EXTINF:-1 tvg-id="" tvg-name="XXX:REALITY KINGS SD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:REALITY KINGS SD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281346
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281347
+#EXTINF:-1 tvg-id="" tvg-name="XXX:BLUE HUSTLER" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:BLUE HUSTLER
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281348
+#EXTINF:-1 tvg-id="" tvg-name="XXX:TABOO HD" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:TABOO HD
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281349
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA1" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA1
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281350
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA2" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA2
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281351
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA9" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA9
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281352
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA13" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA13
+http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281356
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E01" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/1199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E02" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E02
@@ -64163,6 +64129,8 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280883.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281052.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E04
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/235376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUkVV3D9zHJ974CqsL7gA5vhOV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E02
@@ -70121,6 +70089,8 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280787.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E09" tvg-logo="https://image.tmdb.org/t/p/w300/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E09
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E10" tvg-logo="https://image.tmdb.org/t/p/w300/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E10
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281288.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiIpw4rxY10LkMNtegj4KOvXEd.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/37950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Chippendales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIFQNqwKlx0ZJ2bVaZdR0rrv9IC.jpg" group-title="→ SERIES DRAMA ←",Bienvenidos a Chippendales S01 E02
@@ -81975,6 +81945,10 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281066.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281067.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E05
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUraVZjhhxYOCj4sTNlVKtehabw.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281283.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9SAjz8NgcCI4B3bztXGynATWfz.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/252349.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJiU12eCG2HApS4xxnlbeMw0MK0.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E02
@@ -88349,6 +88323,8 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280789.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280977.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/i4NypsP3189cjfDVnXZiXoUOIJt.jpg" group-title="→ SERIES MISTERIO ←",From S04 E03
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281274.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -134907,6 +134883,8 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280786.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280978.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E10
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jUXz9Y0ENf3hcmdK82QtirE4V1e.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E11
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281281.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -135545,6 +135523,16 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280991.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K9SEfzvanGIpOsfVXBdzapN5le.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E03
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/280993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIP5Ym97QfSS7svoPRO07ezHcYW.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDhxI0RSKhVvGnnHxwR7LnNLAJj.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S7MUxrjMNRfojmqONiaEodBuBF.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoVg3pf5AABHSCc40G07sGA3VlB.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de los Espiritus S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rluJN7FrmGV1xrjZMX8yzdS3216.jpg" group-title="→ SERIES DRAMA ←",La Casa de los Espiritus S01 E08
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281279.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJKK19WYmcdoSCLaMkyZPm88fYG.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Pacific S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ungnd637TCGKSVWcEEhSaeGrSrH.jpg" group-title="→ SERIES ACCIÓN ←",The Pacific S01 E02
@@ -135631,3 +135619,89 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281097.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEz4EOT8IEKTajuPLOowxUNA7ps.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E08
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs50ef7FKkeQJJVuWyfWc0QUPjZ.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E01
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59hwtHEVaoPqulXtGHgLIippry2.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E02
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSnoNwH0pfzZYwFqNO9GcrXScy.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E03
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSSP8WUIr9oWgXCQeb5Fi77hHpc.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXx3ZfDIDjzTHiMtIPvSBrcRY1w.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjwrD73QObNFmb1fYbmW0G9IQVj.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcTHBsRAHysmDY3pOCoGksUcvl7.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E08
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp3LMEywuJ9jTVaaGv7XfLF6PpF.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E01
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0zYVPgtHIC0eqVMaYQUAeuRUlv.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E02
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJIHBISlnhr4rDE0bsU32S8PEgu.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E03
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jESMaAQ2yeXxuv0hFX2hAoOwG5T.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUdNraZMObMCYdBVcbxDAbPOEsy.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbil9L847AI9rVU2v6TGIk40xFC.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA7ZHXOlKmV2hnfNmjMVkDZ3JQ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E01
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA7ZHXOlKmV2hnfNmjMVkDZ3JQ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E02
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSX6BZwhVkqK9FL7hMVoCnDKJpo.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E03
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSX6BZwhVkqK9FL7hMVoCnDKJpo.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ht3nFKzVNN9NoUsHFzM9gVWiPg.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ht3nFKzVNN9NoUsHFzM9gVWiPg.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bY3DalDAlku6IrMu2U0IUuy2oi.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bY3DalDAlku6IrMu2U0IUuy2oi.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E08
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opq89acnQBzVB1CHO9OPgmSwwt.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E09
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17BP1WGOfYzTSCpwoDQoLHNioSG.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E10
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YxyxJ9nvYyd2BCx2sJdtOwkRwO.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E11
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7QdsontseRR02SOJfKDtaOQkZ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E12
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E13
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v5VMKaKSoDTVeg4RHSUKFpZIhE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E01
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sCsXmGVVCa1vQwRsm6f97iBIwg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E02
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0jWZaOgeRnCBrSiuJPdhmNz9Kp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E03
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5U3few0ZZJUSaI1SBeXsO8mVv3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2rZoCCq9fnX0u8x8jDT0QBqpOV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Pu9rt6tg7abkM6HD6nprhc6iz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emunHgqS5Ra410UcRp9wkZiua1B.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9rtHF9gb2sWSOmTj0lSQzOX8l1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E08
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp62ORYprKOzk9ro1jT8TrjeX4S.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E01
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNcPuieACoaFdmgkhaY0aKQZnWg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E02
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkep4FMK1qcSVFdcpRPZNiVLMCf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E03
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQzjKVvOTK8WxL9ycfFvzUQF562.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E04
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecnD8OKxSaIwb4Q8FnrE25ctsK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E05
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikCmIrOcPwkv8Q1WIwFqhQ57iD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E06
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVqHjdm6x5hvsYtGUq17MaQj8QT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S3PrYNM2yjcDVmpGwLwJuBnxFx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E08
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281364.mkv
