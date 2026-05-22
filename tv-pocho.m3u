@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg: El Juicio Del Siglo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggYGgsXV7jG42t2UhYx5mWA1tao.jpg" group-title=" → VOD ESTRENOS 2025 ←",Nuremberg: El Juicio Del Siglo (2025)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281369.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="→ VOD ESTRENOS 2026 ←",Alerta Extincion (2026)
@@ -88325,6 +88327,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/280977.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E04
 http://23.153.217.158:8080/series/995431461tv/7ct525/281274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg" group-title="→ SERIES MISTERIO ←",From S04 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281379.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -135705,3 +135709,19 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281362.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281363.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S3PrYNM2yjcDVmpGwLwJuBnxFx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E08
 http://23.153.217.158:8080/series/995431461tv/7ct525/281364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YCpfaE9hfEoIpoAU5hhL2P1MJ.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgcRStCa60yJkoGUkrDBOtKaxgM.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EFoI3lF9kzyTVeHJxAb2R9h1k3.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ute2J44LDDSWRSA5MmUcWGks77.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ute2J44LDDSWRSA5MmUcWGks77.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzFA240JTvpRMFs24DliGLvAzMH.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7QA1EmMNDbeeOGazQzTilpKoAl.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/281377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ8zcI72OmBynj4cxuFI5fHMaIq.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/281378.mkv
