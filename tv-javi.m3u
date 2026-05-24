@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La hora del Espanto (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qD7I3NoljS842CsDygpF7yU9NW.jpg" group-title="→ VOD TERROR ←",La hora del Espanto (SUB)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Líbralos Del Mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS6CuHMTeyiwVBhyx5AZlM47mdp.jpg" group-title=" → VOD ESTRENOS 2025 ←",Líbralos Del Mal (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281380.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nuremberg: El Juicio Del Siglo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggYGgsXV7jG42t2UhYx5mWA1tao.jpg" group-title=" → VOD ESTRENOS 2025 ←",Nuremberg: El Juicio Del Siglo (2025)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
