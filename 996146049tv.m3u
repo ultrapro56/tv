@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="La hora del Espanto (SUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qD7I3NoljS842CsDygpF7yU9NW.jpg" group-title="→ VOD TERROR ←",La hora del Espanto (SUB)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Líbralos Del Mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS6CuHMTeyiwVBhyx5AZlM47mdp.jpg" group-title=" → VOD ESTRENOS 2025 ←",Líbralos Del Mal (2025)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg: El Juicio Del Siglo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggYGgsXV7jG42t2UhYx5mWA1tao.jpg" group-title=" → VOD ESTRENOS 2025 ←",Nuremberg: El Juicio Del Siglo (2025)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJns8cKWsj77tkjiXQoXIGJ1H1d.jpg" group-title="→ VOD ESTRENOS 2026 ←",Alerta Extincion (2026)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas (1984)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="→ VOD FANTASÍA ←",Los Cazafantasmas 2 (1989)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="→ VOD FANTASÍA ←",Cazafantasmas (2016)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Posesion de la Momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Posesion de la Momia (2026)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate en las Alturas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y8n9GEpr3y6QG5W4lIq7Ez9PH1.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rescate en las Alturas (2025)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281290.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alejandro Magno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff0oH0VnpszrqvBkg78zaFCUPts.jpg" group-title="→ VOD ACCIÓN ←",Alejandro Magno
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281287.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="→ VOD CAM 2026 ←",Mortal Kombat II (2026) CAM
@@ -3479,6 +3500,7 @@ http://23.153.217.158:8080/movie/998703288tv/gltwfqx/249722.mp4
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/249694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MaXXXine (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg" group-title=" → VOD ESTRENOS 2024 ←",MaXXXine (2024)
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/249541.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Agua Profunda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPRUqSXVzTF5pprezqi5NZPr9Kt.jpg" group-title="→ VOD ACCIÓN ←",Agua Profunda
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/249519.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tesla " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0guO0krvyz8IfKGxEje04LVM9d.jpg" group-title="→ VOD DRAMA ←",Tesla 
@@ -17719,6 +17741,8 @@ http://23.153.217.158:8080/movie/998703288tv/gltwfqx/265404.mp4
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/268637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RAW 13 Enero (2025)" tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title=" → VOD WWE ←",RAW 13 Enero (2025)
 http://23.153.217.158:8080/movie/998703288tv/gltwfqx/268788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
+http://23.153.217.158:8080/movie/998703288tv/gltwfqx/281289.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/998703288tv/gltwfqx/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -36741,15 +36765,6 @@ http://23.153.217.158:8080/998703288tv/gltwfqx/281271
 http://23.153.217.158:8080/998703288tv/gltwfqx/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/998703288tv/gltwfqx/281273
-
-
-
-
-
-
-
-
-
 
 
 
@@ -87683,6 +87698,8 @@ http://23.153.217.158:8080/series/998703288tv/gltwfqx/280977.mkv
 http://23.153.217.158:8080/series/998703288tv/gltwfqx/281062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E04
 http://23.153.217.158:8080/series/998703288tv/gltwfqx/281274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg" group-title="→ SERIES MISTERIO ←",From S04 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281379.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/998703288tv/gltwfqx/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -134977,3 +134994,105 @@ http://23.153.217.158:8080/series/998703288tv/gltwfqx/281097.mkv
 http://23.153.217.158:8080/series/998703288tv/gltwfqx/281098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las bucaneras S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEz4EOT8IEKTajuPLOowxUNA7ps.jpg" group-title="→ SERIES DRAMA ←",Las bucaneras S02 E08
 http://23.153.217.158:8080/series/998703288tv/gltwfqx/281099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs50ef7FKkeQJJVuWyfWc0QUPjZ.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59hwtHEVaoPqulXtGHgLIippry2.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSnoNwH0pfzZYwFqNO9GcrXScy.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSSP8WUIr9oWgXCQeb5Fi77hHpc.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXx3ZfDIDjzTHiMtIPvSBrcRY1w.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjwrD73QObNFmb1fYbmW0G9IQVj.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcTHBsRAHysmDY3pOCoGksUcvl7.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E07
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlín y la Dama del Armiño S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg" group-title="→ SERIES CRIMEN ←",Berlín y la Dama del Armiño S01 E08
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp3LMEywuJ9jTVaaGv7XfLF6PpF.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0zYVPgtHIC0eqVMaYQUAeuRUlv.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJIHBISlnhr4rDE0bsU32S8PEgu.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jESMaAQ2yeXxuv0hFX2hAoOwG5T.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUdNraZMObMCYdBVcbxDAbPOEsy.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyendas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbil9L847AI9rVU2v6TGIk40xFC.jpg" group-title="→ SERIES ACCIÓN ←",Leyendas S01 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA7ZHXOlKmV2hnfNmjMVkDZ3JQ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA7ZHXOlKmV2hnfNmjMVkDZ3JQ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSX6BZwhVkqK9FL7hMVoCnDKJpo.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSX6BZwhVkqK9FL7hMVoCnDKJpo.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ht3nFKzVNN9NoUsHFzM9gVWiPg.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ht3nFKzVNN9NoUsHFzM9gVWiPg.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bY3DalDAlku6IrMu2U0IUuy2oi.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E07
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bY3DalDAlku6IrMu2U0IUuy2oi.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E08
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opq89acnQBzVB1CHO9OPgmSwwt.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E09
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17BP1WGOfYzTSCpwoDQoLHNioSG.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E10
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YxyxJ9nvYyd2BCx2sJdtOwkRwO.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E11
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT7QdsontseRR02SOJfKDtaOQkZ.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E12
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M.I.A. S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg" group-title="→ SERIES CRIMEN ←",M.I.A. S01 E13
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v5VMKaKSoDTVeg4RHSUKFpZIhE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sCsXmGVVCa1vQwRsm6f97iBIwg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0jWZaOgeRnCBrSiuJPdhmNz9Kp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5U3few0ZZJUSaI1SBeXsO8mVv3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2rZoCCq9fnX0u8x8jDT0QBqpOV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Pu9rt6tg7abkM6HD6nprhc6iz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emunHgqS5Ra410UcRp9wkZiua1B.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E07
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9rtHF9gb2sWSOmTj0lSQzOX8l1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S01 E08
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp62ORYprKOzk9ro1jT8TrjeX4S.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNcPuieACoaFdmgkhaY0aKQZnWg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkep4FMK1qcSVFdcpRPZNiVLMCf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQzjKVvOTK8WxL9ycfFvzUQF562.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecnD8OKxSaIwb4Q8FnrE25ctsK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikCmIrOcPwkv8Q1WIwFqhQ57iD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVqHjdm6x5hvsYtGUq17MaQj8QT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E07
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panteon S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S3PrYNM2yjcDVmpGwLwJuBnxFx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Panteon S02 E08
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YCpfaE9hfEoIpoAU5hhL2P1MJ.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E01
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgcRStCa60yJkoGUkrDBOtKaxgM.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E02
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EFoI3lF9kzyTVeHJxAb2R9h1k3.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E03
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ute2J44LDDSWRSA5MmUcWGks77.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E04
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ute2J44LDDSWRSA5MmUcWGks77.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E05
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzFA240JTvpRMFs24DliGLvAzMH.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E06
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7QA1EmMNDbeeOGazQzTilpKoAl.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E07
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boroughs: Jubilación rebelde S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ8zcI72OmBynj4cxuFI5fHMaIq.jpg" group-title="→ SERIES MISTERIO ←",The Boroughs: Jubilación rebelde S01 E08
+http://23.153.217.158:8080/series/998703288tv/gltwfqx/281378.mkv
