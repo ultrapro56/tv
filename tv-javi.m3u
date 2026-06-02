@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Historia de lo oculto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c09Xf8bOdjYbd6T9kGPIhtAed9B.jpg" group-title="→ VOD SUSPENSO ←",Historia de lo oculto
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4  SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Ip Man 4  SUB
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="→ VOD CAM 2026 ←",Obsesion (2026) CAM
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los cuatro jinetes del Apocalipsis " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQNVNPpCJzRsTMqDaAVC3RPb8RS.jpg" group-title="→ VOD TERROR ←",Los cuatro jinetes del Apocalipsis 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hancock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QkoSqDPwSVWx51r2lBCUre7GzE.jpg" group-title="→ VOD ACCIÓN ←",Hancock
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Letal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfaU8qybKHg3b6IbHJ11FtIyDn2.jpg" group-title=" → VOD ESTRENOS 2025 ←",Boda Letal (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un lugar en silencio: Día uno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Un lugar en silencio: Día uno
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281514.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un lugar en silencio: Parte II " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0Ldrbhd1hwMYJ8KrkORPZl5Sbv.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Un lugar en silencio: Parte II 
@@ -13841,8 +13853,6 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/2714.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/2715.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La última carta de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYRGpN3HtAKVwdlJx6I2RQ7Ik9H.jpg" group-title="→ VOD ESTRENOS 2021 ←",La última carta de Amor (2021)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/2716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pequeños Secretos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j62o61KqXrYeThdmNOtm3UplUSl.jpg" group-title="→ VOD ESTRENOS 2021 ←",Pequeños Secretos (2021)
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/2717.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El sombrerero Loco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTUfalNirpq7SBASa6lnzs27iam.jpg" group-title="→ VOD ESTRENOS 2021 ←",El sombrerero Loco (2021)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/2718.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Protector (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3voE6N8OCTfmz8nYd0bzNT4jqQB.jpg" group-title="→ VOD ESTRENOS 2021 ←",El Protector (2021)
@@ -15437,7 +15447,7 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/3766.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/3767.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Frontera caníbal (Bone Tomahawk) (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg" group-title="→ VOD AVENTURAS ←",Frontera caníbal (Bone Tomahawk) (2015)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/3768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corazón Valiente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2734rI2tsudJ4XwOep4SEDgl4xB.jpg" group-title="→ VOD AVENTURAS ←",Corazón Valiente (1995)
+#EXTINF:-1 tvg-id="" tvg-name="Corazon Valiente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2734rI2tsudJ4XwOep4SEDgl4xB.jpg" group-title="→ VOD AVENTURAS ←",Corazon Valiente (1995)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/3769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un puente hacia Terabithia (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL5Tpzxqr9hb5zwbnN3DRzVKyuY.jpg" group-title="→ VOD AVENTURAS ←",Un puente hacia Terabithia (2007)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/3770.mkv
@@ -18283,8 +18293,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/248
 http://23.153.217.158:8080/935917692tv/a4gqcz4/249
 #EXTINF:-1 tvg-id="" tvg-name="PE• CANAL N (HD) »1«" tvg-logo="https://i.postimg.cc/C5pvF9z4/canaln.png" group-title="→ PERÚ ←",PE• CANAL N (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/257
-#EXTINF:-1 tvg-id="" tvg-name="PE• CANAL N (HD) »2«" tvg-logo="https://i.postimg.cc/C5pvF9z4/canaln.png" group-title="→ PERÚ ←",PE• CANAL N (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/258
 #EXTINF:-1 tvg-id="" tvg-name="PE• CANAL N (HD) »3«" tvg-logo="https://i.postimg.cc/C5pvF9z4/canaln.png" group-title="→ PERÚ ←",PE• CANAL N (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/288
 #EXTINF:-1 tvg-id="" tvg-name="PE• PERU MAGICO (HD) »1«" tvg-logo="https://i.postimg.cc/1txyCcbg/perumagico.png" group-title="→ PERÚ ←",PE• PERU MAGICO (HD) »1«
@@ -18295,80 +18303,38 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/293
 http://23.153.217.158:8080/935917692tv/a4gqcz4/294
 #EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »1«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="→ PERÚ ←",PE• PANAMERICANA (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/273
-#EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »2«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="→ PERÚ ←",PE• PANAMERICANA (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/274
 #EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »3«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="→ PERÚ ←",PE• PANAMERICANA (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/291
-#EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »4«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="→ PERÚ ←",PE• PANAMERICANA (HD) »4«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/292
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »1«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/267
-#EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »2«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/268
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »3«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/269
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »4«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »4«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/270
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »5«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »5«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/271
-#EXTINF:-1 tvg-id="" tvg-name="PE• RPP (HD) »1«" tvg-logo="https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png" group-title="→ PERÚ ←",PE• RPP (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/277
 #EXTINF:-1 tvg-id="" tvg-name="PE• RPP (HD) »2«" tvg-logo="https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png" group-title="→ PERÚ ←",PE• RPP (HD) »2«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/295
-#EXTINF:-1 tvg-id="" tvg-name="PE• RPP (HD) »3«" tvg-logo="https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png" group-title="→ PERÚ ←",PE• RPP (HD) »3«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/296
-#EXTINF:-1 tvg-id="" tvg-name="PE• RPP (HD) »4«" tvg-logo="https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png" group-title="→ PERÚ ←",PE• RPP (HD) »4«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/297
-#EXTINF:-1 tvg-id="" tvg-name="PE• TV PERU (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="→ PERÚ ←",PE• TV PERU (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/280
-#EXTINF:-1 tvg-id="" tvg-name="PE• TV PERU (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="→ PERÚ ←",PE• TV PERU (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281
-#EXTINF:-1 tvg-id="" tvg-name="PE• TV PERU (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="→ PERÚ ←",PE• TV PERU (HD) »3«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/298
-#EXTINF:-1 tvg-id="" tvg-name="PE• TV PERU (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="→ PERÚ ←",PE• TV PERU (HD) »4«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/299
 #EXTINF:-1 tvg-id="" tvg-name="PE• WILLAX (HD) »1«" tvg-logo="https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png" group-title="→ PERÚ ←",PE• WILLAX (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/283
 #EXTINF:-1 tvg-id="" tvg-name="PE• WILLAX (HD) »2«" tvg-logo="https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png" group-title="→ PERÚ ←",PE• WILLAX (HD) »2«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/284
-#EXTINF:-1 tvg-id="" tvg-name="PE• WILLAX (HD) »3«" tvg-logo="https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png" group-title="→ PERÚ ←",PE• WILLAX (HD) »3«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/285
 #EXTINF:-1 tvg-id="" tvg-name="PE• WILLAX (HD) »4«" tvg-logo="https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png" group-title="→ PERÚ ←",PE• WILLAX (HD) »4«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/286
-#EXTINF:-1 tvg-id="" tvg-name="PE• EXITOSA (HD) »1«" tvg-logo="https://i.postimg.cc/2jGMRyzN/exitosa.png" group-title="→ PERÚ ←",PE• EXITOSA (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/260
 #EXTINF:-1 tvg-id="" tvg-name="PE• EXITOSA (HD) »2«" tvg-logo="https://i.postimg.cc/2jGMRyzN/exitosa.png" group-title="→ PERÚ ←",PE• EXITOSA (HD) »2«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/261
 #EXTINF:-1 tvg-id="" tvg-name="PE• EXITOSA (HD) »3«" tvg-logo="https://i.postimg.cc/2jGMRyzN/exitosa.png" group-title="→ PERÚ ←",PE• EXITOSA (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/289
-#EXTINF:-1 tvg-id="" tvg-name="PE• ATV (HD) »1«" tvg-logo="https://i.postimg.cc/V6LTxx00/atv.png" group-title="→ PERÚ ←",PE• ATV (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/253
 #EXTINF:-1 tvg-id="" tvg-name="PE• ATV (HD) »2«" tvg-logo="https://i.postimg.cc/V6LTxx00/atv.png" group-title="→ PERÚ ←",PE• ATV (HD) »2«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/301
 #EXTINF:-1 tvg-id="" tvg-name="PE• ATV+ (HD) »1«" tvg-logo="https://i.postimg.cc/Dwc3RdpD/atv.png" group-title="→ PERÚ ←",PE• ATV+ (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254
-#EXTINF:-1 tvg-id="" tvg-name="PE• ATV+ (HD) »2«" tvg-logo="https://i.postimg.cc/Dwc3RdpD/atv.png" group-title="→ PERÚ ←",PE• ATV+ (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/255
-#EXTINF:-1 tvg-id="" tvg-name="PE• CAPITAL TV (HD) »1«" tvg-logo="https://i.postimg.cc/cJGWqznw/2020-Canal-Capital-logo-svg.png" group-title="→ PERÚ ←",PE• CAPITAL TV (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/251
-#EXTINF:-1 tvg-id="" tvg-name="PE• CAPITAL TV (HD) »2«" tvg-logo="https://i.postimg.cc/cJGWqznw/2020-Canal-Capital-logo-svg.png" group-title="→ PERÚ ←",PE• CAPITAL TV (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/302
-#EXTINF:-1 tvg-id="" tvg-name="PE• TV PERU NOTICIAS (HD)" tvg-logo="https://i.postimg.cc/x8Jp1frC/TV-Per-Noticias-2019-logo.png" group-title="→ PERÚ ←",PE• TV PERU NOTICIAS (HD)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/300
 #EXTINF:-1 tvg-id="" tvg-name="PE• FRECUENCIA LATINA (HD)" tvg-logo="https://i.postimg.cc/gknx3wjY/Logo-latina-1997.png" group-title="→ PERÚ ←",PE• FRECUENCIA LATINA (HD)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/290
-#EXTINF:-1 tvg-id="" tvg-name="PE• ANTARES TV (HD)" tvg-logo="https://i.postimg.cc/fTvqWgpY/Efu5mUQ.png" group-title="→ PERÚ ←",PE• ANTARES TV (HD)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/250
-#EXTINF:-1 tvg-id="" tvg-name="PE• IPE (HD)" tvg-logo="https://i.postimg.cc/2jLf6m7h/Logo-Canal-i-Pe.png" group-title="→ PERÚ ←",PE• IPE (HD)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/264
 #EXTINF:-1 tvg-id="" tvg-name="PE• MONTERRICO TV (HD)" tvg-logo="https://monterrico.edu.pe/wp-content/uploads/2020/12/Logo-Monterrico.png" group-title="→ PERÚ ←",PE• MONTERRICO TV (HD)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/272
 #EXTINF:-1 tvg-id="" tvg-name="PE• CULTURA 24 TV (HD)" tvg-logo="https://i.postimg.cc/rwRtJshK/cultura-24.png" group-title="→ PERÚ ←",PE• CULTURA 24 TV (HD)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/259
-#EXTINF:-1 tvg-id="" tvg-name="PE• FUEGO TV (HD)" tvg-logo="https://i.postimg.cc/htT0nZ9Q/fuego-tv.png" group-title="→ PERÚ ←",PE• FUEGO TV (HD)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/262
-#EXTINF:-1 tvg-id="" tvg-name="PE• BEST CABLE SPORTS (HD)" tvg-logo="https://i.postimg.cc/8zPC3Z30/bestcable.png" group-title="→ PERÚ ←",PE• BEST CABLE SPORTS (HD)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/256
 #EXTINF:-1 tvg-id="" tvg-name="PE• LIGA 1 (HD)" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" group-title="→ FÚTBOL PERÚ ←",PE• LIGA 1 (HD)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/14826
 #EXTINF:-1 tvg-id="" tvg-name="PE• LIGA 1 MAX (HD) »1«" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="→ FÚTBOL PERÚ ←",PE• LIGA 1 MAX (HD) »1«
@@ -62579,6 +62545,10 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281052.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281053.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/235376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUkVV3D9zHJ974CqsL7gA5vhOV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E02
@@ -64800,19 +64770,19 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/247172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hechizada S08 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQy4eiVzZjvie7eIkd8TEItURUI.jpg" group-title="→ SERIES RETRO ←",Hechizada S08 E26
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/247173.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taTPQoXNrt8nmQf9blQUULDUZhl.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29011.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281581.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX4VVci4gy0H7bX1lq3N6Gsu4av.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29012.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281582.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B984p4X91TQk2scTohjvex174P.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29013.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPmQbeyYSFFxe17agHMcHvP23r.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GXLrduekqoMx8kUz5zsCofB5XO.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29015.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa9vQEdegoIdaUeeLfqH6c3ic0V.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281585.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msTyW8MTgqOVbtGIBw7asdrVUsz.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4dxm3NeL9VTZMnlALPEOrDyRy9.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/29017.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El libro de Boba Fett S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81gmlFYbuViK0Mcg4ydnE6stA4u.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: El libro de Boba Fett S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281587.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOL38zvzT4Xu1gcFNwzhtQfQVsc.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Andor S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/271170.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Andor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/whihcfB2dZ0PEZC1bzux56B09pK.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Andor S01 E02
@@ -66628,53 +66598,53 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33883.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Pincheira S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuMF6Toj9DWOoCBHjQbSbH3HUCQ.jpg" group-title="→ TELENOVELAS ←",Los Pincheira S01 E127
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXMYCIALBMYTrimBeJqcqpmpeuB.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33944.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281549.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnBZ9eY01nzNAWPf691UySZVcI0.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33945.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33946.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281551.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5Lqm0M3UJFPjyUNXfVhYQRnooI.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33947.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33948.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281553.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33949.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281554.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33950.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281555.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yqnFbSZskNfIpqULdjmA2ruxzR.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S01 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33951.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281556.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeY8Oj7n0amXU5DKFIcyVbH9bW2.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33952.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281557.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3SfstpFPRJjD0mb8osLKKYVQ1T.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33953.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nfqRoYnWATomOwQFkeJT9p9kxx.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33954.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEpfNIdIY2Qmjf8weq6Gm35RdfT.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33955.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281560.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrDDzcx3WKjJD4o7itMuxgZ195.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33956.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281561.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqN8j3m8tyRYfGSJCazkWm9KAya.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33957.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281562.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16z9I068CbNtD9ux4etfaZXswGt.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33958.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5NgxarUrc2KYr8MAIacokIkU4S.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S02 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33959.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281564.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5fCayQtmswDBgA3OLhZVGx4QL.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33960.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCbewuCwPln4QMsMAc5NImdVIC3.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33961.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQejB64G459Kg7ak4DARi0CR7Xw.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33962.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281567.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bh9TMojjAxg94SqVxNnY4KmXhiB.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33963.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281568.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7P3QDiKud1YkNFncIZmwCJCiXrs.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33964.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281569.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS88sDCeRRwK3aDdGaTqzp5et94.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="See S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmspTnTe47AxPurp6A0xTMWRUxA.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33966.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="See S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2qfTBHwvkF5IiPIx6yejvrIbyg.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281571.mkv
 #EXTINF:-1 tvg-id="" tvg-name="See S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4swkZb3iwKxwaEYoZGFjl3iHhB.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",See S03 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/33967.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281572.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cronicas Vampiricas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaVO5tSSSjgLLSXRBvDDCzyBqfX.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Cronicas Vampiricas S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/40530.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cronicas Vampiricas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIwKvdwGCvxQZDZzh89DrGgm74x.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Cronicas Vampiricas S01 E02
@@ -68535,6 +68505,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/268193.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/268303.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S07 E15" tvg-logo="https://image.tmdb.org/t/p/w300/1KV5Pv1pEV63a3wnfGMmMBv7pCK.jpg" group-title="→ SERIES DRAMA ←",Outlander S07 E15
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/268383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S07 E16" tvg-logo="https://image.tmdb.org/t/p/w300/z2zlejH6wrgcafJytnUAjFCj93P.jpg" group-title="→ SERIES DRAMA ←",Outlander S07 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281588.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AM1Yhmxz607xQOvjTFLF8NB0BI.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280240.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander S08 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8h9zWfuKmVOXjWu7ouhjk5PHEhj.jpg" group-title="→ SERIES DRAMA ←",Outlander S08 E02
@@ -80506,17 +80478,21 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/252393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAafXX6P0TmN9UJQFfMTvqjBOkK.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S05 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/252394.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3caaU3kULSkYpnU88rVkzZJ1liG.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47750.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv39hOUjeV3cZK7QV3rwJtwPHRj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47751.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281574.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlJOv5HT77TVJ3XfP4yUZkFqy6v.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47752.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281575.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdQeBYdEWtsjOqrYlTazIGkcAdU.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47753.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281576.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFFi2g3hPPCEJs1W3xGFHCvlKQH.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47754.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n5RRQVN2aleqC7qdE4lqZZVVdo.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47755.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aO48aF3IfOd2VTNuEo8v0TC2pgY.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Periferia: Conexión al Futuro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eObAktMu4bwib4b0evnj4yhR0ZE.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Periferia: Conexión al Futuro S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281580.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Playlist S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP6u0HG51wMMcZCiOK6MYY3i6X1.jpg" group-title="→ SERIES DRAMA ←",Playlist S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/47756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Playlist S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F3Eigy89prvfMBSOAnuaX6dp5e.jpg" group-title="→ SERIES DRAMA ←",Playlist S01 E02
@@ -134445,3 +134421,11 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281541.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281542.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brasil 70: La saga del tricampeonato S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27oCk98OT9WPXrqDG2a53L6q47M.jpg" group-title="→ SERIES DRAMA ←",Brasil 70: La saga del tricampeonato S01 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rafa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32yLHi7xJRF7W9MkxrKS7i2hddI.jpg" group-title="→ SERIES DOCUMENTALES ←",Rafa S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rafa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzn9NcasGtb99s1r4oROGqOMEpQ.jpg" group-title="→ SERIES DOCUMENTALES ←",Rafa S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rafa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsCrO21kdyWw8EsCBVmf4Uc3YWa.jpg" group-title="→ SERIES DOCUMENTALES ←",Rafa S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rafa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy05Qe3ksxS2oWQlMgdWx9XaiOt.jpg" group-title="→ SERIES DOCUMENTALES ←",Rafa S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281547.mkv
