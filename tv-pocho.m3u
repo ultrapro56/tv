@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El Lbro Magico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prkrtrgP7DgDyNS4zVXUjgWrDtt.jpg" group-title="→ VOD AVENTURAS ←",El Lbro Magico
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi novio Atomico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBRwEsaCQf4TP6z9W7zrRcSEjuo.jpg" group-title="→ VOD COMEDIA ←",Mi novio Atomico
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Risa y la cabina del viento (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35TwcuX3wvOV3M06BOwVWIMnJTs.jpg" group-title="→ VOD ESTRENOS 2026 ←",Risa y la cabina del viento (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casaca de Dios (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v56hSpcEnS0joV9lUn9bKpPdktl.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Casaca de Dios (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="→ VOD CAM 2026 ←",Backrooms (2026) CAM
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281596.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Historia de lo oculto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c09Xf8bOdjYbd6T9kGPIhtAed9B.jpg" group-title="→ VOD SUSPENSO ←",Historia de lo oculto
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281595.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 4  SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Ip Man 4  SUB
@@ -17769,6 +17779,18 @@ http://23.153.217.158:8080/movie/995431461tv/7ct525/268637.mp4
 http://23.153.217.158:8080/movie/995431461tv/7ct525/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 01 - Knicks vs. Spurs" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 - NBA 01 - Knicks vs. Spurs
+http://23.153.217.158:8080/995431461tv/7ct525/281598
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 02 - Knicks vs. Spurs Español" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 - NBA 02 - Knicks vs. Spurs Español
+http://23.153.217.158:8080/995431461tv/7ct525/281599
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - WNBA 02 - Storm vs Mercury" tvg-logo="https://i.imgur.com/3WZif85.png" group-title="→ NBA (EVENTOS) ←",20:00 - WNBA 02 - Storm vs Mercury
+http://23.153.217.158:8080/995431461tv/7ct525/281600
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 01 - Knicks vs. Spurs" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ PPV EVENTOS Y DEPORTES ←",18:30 - NBA 01 - Knicks vs. Spurs
+http://23.153.217.158:8080/995431461tv/7ct525/281601
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 02 - Knicks vs. Spurs Español" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ PPV EVENTOS Y DEPORTES ←",18:30 - NBA 02 - Knicks vs. Spurs Español
+http://23.153.217.158:8080/995431461tv/7ct525/281602
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - WNBA 02 - Storm vs Mercury" tvg-logo="https://i.imgur.com/3WZif85.png" group-title="→ PPV EVENTOS Y DEPORTES ←",20:00 - WNBA 02 - Storm vs Mercury
+http://23.153.217.158:8080/995431461tv/7ct525/281603
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/995431461tv/7ct525/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -25445,10 +25467,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 http://23.153.217.158:8080/995431461tv/7ct525/254229
 #EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR DASH
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DK: CARTONITO DASH" tvg-logo="" group-title="Dinamarca",DK: CARTONITO DASH
-https://cdn5.anyclip.com/yYzViYkBd4bFyu3qpnNY/hls_1690235879390/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DK: MOTORVISION.TV DASH" tvg-logo="" group-title="Dinamarca",DK: MOTORVISION.TV DASH
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
 #EXTINF:-1 tvg-id="" tvg-name="한국사探 민속악, 새롭게 태어나다 DASH" tvg-logo="" group-title="COREA",한국사探 민속악, 새롭게 태어나다 DASH
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 #EXTINF:-1 tvg-id="" tvg-name="USA: TNA IMPACT! DASH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png" group-title="→ USA DEPORTES ←",USA: TNA IMPACT! DASH
@@ -25489,8 +25507,6 @@ http://ch14.tv/live/ch4teenlive2/playlist.m3u8
 http://ch14.tv/live/ch4teenlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HR: SK 1 FHD" tvg-logo="https://th.bing.com/th/id/OIP.5P-BjBSc1sXnpOWCwgWikgHaEU?rs=1&pid=ImgDetMain" group-title="CROACIA",HR: SK 1 FHD
 http://89.187.191.99:8080/sk1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JOJ SPORTS FHD" tvg-logo="https://img.joj.sk/rx100/eaf7a5e2-353f-4d11-86b5-da5719a7108b" group-title="",JOJ SPORTS FHD
-http://salco.kozow.com:8000/stream/320/Joj_Sport.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA: ION DASH" tvg-logo="https://th.bing.com/th/id/OIP.tjG-jXmqO8O_DSIAJvu5xwHaHa?rs=1&pid=ImgDetMain" group-title="→ USA ←",USA: ION DASH
 https://scripps-ion-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: YOU TV " tvg-logo="https://play-lh.googleusercontent.com/k-T--jkXox8mohsn6YTADb_dc0JY8mTTvuz374MPRRxgvdV3jO6Mds54YzRPVbiQQOQ" group-title="Indonesia",ID: YOU TV 
@@ -28201,116 +28217,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTRSPT1 DASH" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="→ USA DEPORTES ←",MTRSPT1 DASH
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] EURO SPORT 1 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] EURO SPORT 1 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257356
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] EURO SPORT 2 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] EURO SPORT 2 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257357
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] H2 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] H2 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257358
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Dinamarca",[Allente DK] HISTORY HD
-http://23.153.217.158:8080/995431461tv/7ct525/257359
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] ID" tvg-logo="" group-title="Dinamarca",[Allente DK] ID
-http://23.153.217.158:8080/995431461tv/7ct525/257360
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] KANAL4 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] KANAL4 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257361
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] KANAL5 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] KANAL5 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257362
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] KANAL9 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] KANAL9 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257363
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] LOVE NATURE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] LOVE NATURE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257364
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] MOTORVISION.TV HD" tvg-logo="" group-title="Dinamarca",[Allente DK] MOTORVISION.TV HD
-http://23.153.217.158:8080/995431461tv/7ct525/257365
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] VIASAT NATURE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] VIASAT NATURE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257366
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] BBC NORDIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/BBC_Nordic_2023.svg" group-title="Dinamarca",[Allente DK] BBC NORDIC HD
-http://23.153.217.158:8080/995431461tv/7ct525/257367
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] CARTON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="Dinamarca",[Allente DK] CARTON NETWORK HD
-http://23.153.217.158:8080/995431461tv/7ct525/257368
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DISCOVERY HD" tvg-logo="" group-title="Dinamarca",[Allente DK] DISCOVERY HD
-http://23.153.217.158:8080/995431461tv/7ct525/257369
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DK 4" tvg-logo="" group-title="Dinamarca",[Allente DK] DK 4
-http://23.153.217.158:8080/995431461tv/7ct525/257370
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DR 1 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] DR 1 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257371
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DR 2 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] DR 2 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257372
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DR RAMA SJANG" tvg-logo="" group-title="Dinamarca",[Allente DK] DR RAMA SJANG
-http://23.153.217.158:8080/995431461tv/7ct525/257373
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] MTV HD" tvg-logo="" group-title="Dinamarca",[Allente DK] MTV HD
-http://23.153.217.158:8080/995431461tv/7ct525/257374
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] MTV00S HD" tvg-logo="" group-title="Dinamarca",[Allente DK] MTV00S HD
-http://23.153.217.158:8080/995431461tv/7ct525/257375
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] MTV80S" tvg-logo="" group-title="Dinamarca",[Allente DK] MTV80S
-http://23.153.217.158:8080/995431461tv/7ct525/257376
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] NAT GEO HD" tvg-logo="" group-title="Dinamarca",[Allente DK] NAT GEO HD
-http://23.153.217.158:8080/995431461tv/7ct525/257377
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] NICKELODEON" tvg-logo="" group-title="Dinamarca",[Allente DK] NICKELODEON
-http://23.153.217.158:8080/995431461tv/7ct525/257378
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] NICKJR." tvg-logo="" group-title="Dinamarca",[Allente DK] NICKJR.
-http://23.153.217.158:8080/995431461tv/7ct525/257379
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] NICKTOONS" tvg-logo="" group-title="Dinamarca",[Allente DK] NICKTOONS
-http://23.153.217.158:8080/995431461tv/7ct525/257380
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] SCI DISCOVERY SCINENCE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] SCI DISCOVERY SCINENCE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257381
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] SEE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] SEE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257382
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] SPORT LIVE" tvg-logo="" group-title="Dinamarca",[Allente DK] SPORT LIVE
-http://23.153.217.158:8080/995431461tv/7ct525/257383
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TLC HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TLC HD
-http://23.153.217.158:8080/995431461tv/7ct525/257384
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV 6 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV 6 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257385
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV OST" tvg-logo="" group-title="Dinamarca",[Allente DK] TV OST
-http://23.153.217.158:8080/995431461tv/7ct525/257386
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 BORNHOLM" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 BORNHOLM
-http://23.153.217.158:8080/995431461tv/7ct525/257387
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 CHARLIE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 CHARLIE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257388
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 ECHO HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 ECHO HD
-http://23.153.217.158:8080/995431461tv/7ct525/257389
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 FRI HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 FRI HD
-http://23.153.217.158:8080/995431461tv/7ct525/257390
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257391
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 MIDTVEST" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 MIDTVEST
-http://23.153.217.158:8080/995431461tv/7ct525/257392
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 NEWS HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 NEWS HD
-http://23.153.217.158:8080/995431461tv/7ct525/257393
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 NORD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 NORD
-http://23.153.217.158:8080/995431461tv/7ct525/257394
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 OSTJYLLAND" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 OSTJYLLAND
-http://23.153.217.158:8080/995431461tv/7ct525/257395
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 SPORT X HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 SPORT X HD
-http://23.153.217.158:8080/995431461tv/7ct525/257396
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV2 SYD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV2 SYD
-http://23.153.217.158:8080/995431461tv/7ct525/257397
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV3 HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV3 HD
-http://23.153.217.158:8080/995431461tv/7ct525/257398
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV3 MAX HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV3 MAX HD
-http://23.153.217.158:8080/995431461tv/7ct525/257399
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV3 PLUS HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV3 PLUS HD
-http://23.153.217.158:8080/995431461tv/7ct525/257400
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV3 SPORT HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV3 SPORT HD
-http://23.153.217.158:8080/995431461tv/7ct525/257401
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TV3+ HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TV3+ HD
-http://23.153.217.158:8080/995431461tv/7ct525/257402
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] TVP FYN HD" tvg-logo="" group-title="Dinamarca",[Allente DK] TVP FYN HD
-http://23.153.217.158:8080/995431461tv/7ct525/257403
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] V FILM ACTION HD" tvg-logo="" group-title="Dinamarca",[Allente DK] V FILM ACTION HD
-http://23.153.217.158:8080/995431461tv/7ct525/257404
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] V FILM FAMILY" tvg-logo="" group-title="Dinamarca",[Allente DK] V FILM FAMILY
-http://23.153.217.158:8080/995431461tv/7ct525/257405
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] V FILM HITS HD" tvg-logo="" group-title="Dinamarca",[Allente DK] V FILM HITS HD
-http://23.153.217.158:8080/995431461tv/7ct525/257406
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] V FILM PREMIERE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] V FILM PREMIERE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257407
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] V SERIES HD" tvg-logo="" group-title="Dinamarca",[Allente DK] V SERIES HD
-http://23.153.217.158:8080/995431461tv/7ct525/257408
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] VIASAT EXPLORE HD" tvg-logo="" group-title="Dinamarca",[Allente DK] VIASAT EXPLORE HD
-http://23.153.217.158:8080/995431461tv/7ct525/257409
-#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] VIASAT HISTORY HD" tvg-logo="" group-title="Dinamarca",[Allente DK] VIASAT HISTORY HD
-http://23.153.217.158:8080/995431461tv/7ct525/257410
 #EXTINF:-1 tvg-id="" tvg-name="[asd] PHILLO : TFC" tvg-logo="" group-title="Filipinas",[asd] PHILLO : TFC
 http://23.153.217.158:8080/995431461tv/7ct525/257411
 #EXTINF:-1 tvg-id="" tvg-name="[asd] PHILLO : ANC GLOBAL" tvg-logo="" group-title="Filipinas",[asd] PHILLO : ANC GLOBAL
@@ -28339,8 +28245,6 @@ http://23.153.217.158:8080/995431461tv/7ct525/257712
 http://23.153.217.158:8080/995431461tv/7ct525/257713
 #EXTINF:-1 tvg-id="" tvg-name="IT: vediamo" tvg-logo="" group-title="ITALIA",IT: vediamo
 http://23.153.217.158:8080/995431461tv/7ct525/257714
-#EXTINF:-1 tvg-id="" tvg-name="TH: HBO FHD" tvg-logo="https://static.wikia.nocookie.net/thelastofus/images/b/bb/Hbo.png" group-title="Tailandia",TH: HBO FHD
-http://23.153.217.158:8080/995431461tv/7ct525/257715
 #EXTINF:-1 tvg-id="" tvg-name="ES: 9 la loma tv" tvg-logo="" group-title="→ ESPAÑA TDT ←",ES: 9 la loma tv
 https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 DASH" tvg-logo="" group-title="→ ESPAÑA TDT ←",ES: 3/24 DASH
@@ -32675,8 +32579,6 @@ https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w514421644.m3
 https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPORT 3" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←",ESPORT 3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRN: HISPANTV" tvg-logo="" group-title="",IRN: HISPANTV
-https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE STAR DASH" tvg-logo="" group-title="→ ESPAÑA ←",ES: TVE STAR DASH
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Canal de Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="→ ARGENTINA ←",24/7 Canal de Noticias
@@ -134429,3 +134331,9 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281545.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281546.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rafa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy05Qe3ksxS2oWQlMgdWx9XaiOt.jpg" group-title="→ SERIES DOCUMENTALES ←",Rafa S01 E04
 http://23.153.217.158:8080/series/995431461tv/7ct525/281547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson: El veredicto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxvL0cBzwkkwFfJe2Iq8CDhW1hr.jpg" group-title="→ SERIES DOCUMENTALES ←",Michael Jackson: El veredicto S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson: El veredicto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SBxEjoWiaYBNNnrttSABPamJQF.jpg" group-title="→ SERIES DOCUMENTALES ←",Michael Jackson: El veredicto S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson: El veredicto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xk0tPIQwaes7jbv2uT9gPuhUk1.jpg" group-title="→ SERIES DOCUMENTALES ←",Michael Jackson: El veredicto S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281607.mkv
