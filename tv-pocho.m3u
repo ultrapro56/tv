@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="El Lbro Magico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prkrtrgP7DgDyNS4zVXUjgWrDtt.jpg" group-title="→ VOD AVENTURAS ←",El Lbro Magico
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD CAM 2026 ←",El diablo viste a la moda 2 (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Jaque al rey (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="→ VOD DOCUMENTALES ←",Al descubierto: Jaque al rey (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Milky☆Subway: The Galactic Limited Express - La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="→ VOD ESTRENOS 2026 ←",Milky☆Subway: The Galactic Limited Express - La película (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Noche del Demonio: La puerta roja " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg" group-title="→ VOD TERROR ←",La Noche del Demonio: La puerta roja 
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Libro Magico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prkrtrgP7DgDyNS4zVXUjgWrDtt.jpg" group-title="→ VOD AVENTURAS ←",El Libro Magico
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281609.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi novio Atomico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBRwEsaCQf4TP6z9W7zrRcSEjuo.jpg" group-title="→ VOD COMEDIA ←",Mi novio Atomico
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281608.mkv
@@ -117139,6 +117147,18 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/249386.mp4
 http://23.153.217.158:8080/series/995431461tv/7ct525/249387.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dfyzqMyCmve488HmXb8Z2ihdXa.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S01 E06
 http://23.153.217.158:8080/series/995431461tv/7ct525/249388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bGNxUF0fGvFfriWyotExHowFwF.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oquu5JKUSjhcr8FUi2wv4Wof2d.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8Xn558kKfig17XSkc8PTIM1gPA.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tLQ31QvBIWyIIs7OUGLcYQYuTR.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIld74ZV1nmp7OwJbh6fDUJfdH7.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato para principiantes S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR0kqguVHGd3sEBx8jw0jLjOXZb.jpg" group-title="→ SERIES CRIMEN ←",Asesinato para principiantes S02 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281625.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Homecoming S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePBYcDsQzLmR7Z1ThAuOcaxgVZu.jpg" group-title="→ SERIES DRAMA ←",Homecoming S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/249395.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Homecoming S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52tM5o4n9PzZWkoeCpso0ybRE3A.jpg" group-title="→ SERIES DRAMA ←",Homecoming S01 E02
@@ -134337,3 +134357,19 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281605.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281606.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Michael Jackson: El veredicto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xk0tPIQwaes7jbv2uT9gPuhUk1.jpg" group-title="→ SERIES DOCUMENTALES ←",Michael Jackson: El veredicto S01 E03
 http://23.153.217.158:8080/series/995431461tv/7ct525/281607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avaOuuMGhci0mIR1rQDaS0PEmtZ.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm6IM5Suxd3zKnSyLd7ef1XhF7V.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi81YdQAAXOgD4LypoDO76kKwcY.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKiPRJrGUdtgOwo6AUV81rr1aNP.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laPPd7YkmXSGey4VyuQFS6ELTT3.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVAh5HmppUTdMqnoxpZVLuFzGWc.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ar6dHtsfCb1e0bBXd70Gtu63Ek5.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/281616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/281617.mkv
