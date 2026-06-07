@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD CAM 2026 ←",El diablo viste a la moda 2 (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Mexico 86 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie0evW3npWrB25prNSKOdlEamSd.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mexico 86 (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Turbulencia en la Oficina (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTGToWluGxIsQJzRJCkCqhfjVtd.jpg" group-title="→ VOD ESTRENOS 2026 ←",Turbulencia en la Oficina (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Desconocida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3NjzAGkTqtocRvA3SlusktHfNl.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Desconocida (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg" group-title="→ VOD CAM 2026 ←",Amos del Universo (2026) CAM
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD ESTRENOS 2026 ←",El diablo viste a la moda 2 (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281627.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Jaque al rey (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="→ VOD DOCUMENTALES ←",Al descubierto: Jaque al rey (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281626.mkv
@@ -17787,18 +17795,6 @@ http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/268637.mp4
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 01 - Knicks vs. Spurs" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 - NBA 01 - Knicks vs. Spurs
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281598
-#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 02 - Knicks vs. Spurs Español" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ NBA (EVENTOS) ←",18:30 - NBA 02 - Knicks vs. Spurs Español
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281599
-#EXTINF:-1 tvg-id="" tvg-name="20:00 - WNBA 02 - Storm vs Mercury" tvg-logo="https://i.imgur.com/3WZif85.png" group-title="→ NBA (EVENTOS) ←",20:00 - WNBA 02 - Storm vs Mercury
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281600
-#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 01 - Knicks vs. Spurs" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ PPV EVENTOS Y DEPORTES ←",18:30 - NBA 01 - Knicks vs. Spurs
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281601
-#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 02 - Knicks vs. Spurs Español" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="→ PPV EVENTOS Y DEPORTES ←",18:30 - NBA 02 - Knicks vs. Spurs Español
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281602
-#EXTINF:-1 tvg-id="" tvg-name="20:00 - WNBA 02 - Storm vs Mercury" tvg-logo="https://i.imgur.com/3WZif85.png" group-title="→ PPV EVENTOS Y DEPORTES ←",20:00 - WNBA 02 - Storm vs Mercury
-http://23.153.217.158:8080/997127576tv/nfvzjyp/281603
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/997127576tv/nfvzjyp/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -17937,13 +17933,13 @@ http://23.153.217.158:8080/997127576tv/nfvzjyp/81
 http://23.153.217.158:8080/997127576tv/nfvzjyp/83
 #EXTINF:-1 tvg-id="" tvg-name="CL• T13 RADIO (HD)" tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="→ CHILE ←",CL• T13 RADIO (HD)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/85
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 1 (HD) Colo-Colo vs Deportes Concepción" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 1 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 1 (HD)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/20203
 #EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 2 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 2 (HD)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/20220
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 3 (HD) Colo-Colo vs Deportes Concepción" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 3 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 3 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 3 (HD)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/20233
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 4 (HD) Colo-Colo vs Deportes Concepción" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 4 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 4 (HD) " tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 4 (HD) 
 http://23.153.217.158:8080/997127576tv/nfvzjyp/20285
 #EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 5 (HD)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/20286
@@ -80295,6 +80291,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281068.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281282.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUraVZjhhxYOCj4sTNlVKtehabw.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E07
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S05 E08" tvg-logo="https://image.tmdb.org/t/p/w300/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",The Boys S05 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9SAjz8NgcCI4B3bztXGynATWfz.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/252349.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Ultimo Reino S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJiU12eCG2HApS4xxnlbeMw0MK0.jpg" group-title="→ SERIES ACCIÓN ←",El Ultimo Reino S01 E02
@@ -123772,21 +123770,37 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265402.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Swagger S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isW3NDRw4x8KjBdwwnM0yPYyJMT.jpg" group-title="→ SERIES DRAMA ←",Swagger S02 E08
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265403.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unyUVc5c9n13HD205u350KexKuG.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E01
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265407.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281633.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIRDlmzKpqEbFqQI2FFh70liiMG.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E02
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265408.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281634.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdRi91Y2MBcvJ2tny8VE2gPTaCe.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E03
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265409.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IlhjADvBvVx2Ws2YSZkkan8Nlv.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E04
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265410.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281636.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/347W6BQ98irMsnZVwlXamkYHmdG.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E05
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265411.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281637.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HI3UZzP69xOI0LCyHbi6ym9F3k.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E06
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265412.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281638.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqChNJSjyPKy9Ewrxd70n23UMUa.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E07
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265413.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281639.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm65GjKz3JAgyh5fzMasKK4B4ME.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S01 E08
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/265414.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRgdovYgHEJ4PogTZhh8nTT8XLo.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpPuPGYvP0pgGKMmGLPkq4Z7J5J.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJzQGDtyXwDVsz7XOFxycZ6dCGf.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clXqFJhdUVIeO87SIG8vRYfb3am.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xONiw1Qj7No6FGyjvzxvMiplCJd.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9IrzTHeEXCdVFwnAXLNlZS1Wpm.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOAu7S4bv4rg5YYiERgZD3l92id.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindfulness para asesinos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfuP5bbrFFrqXbLFFUfK6kNHOP.jpg" group-title="→ SERIES CRIMEN ←",Mindfulness para asesinos S02 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281648.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Citadel Honey Bunny S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EEB1MQcldphUBHbU2pLLskg3kA.jpg" group-title="→ SERIES ACCIÓN ←",Citadel Honey Bunny S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/272885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Citadel Honey Bunny S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMzbY86smsItCv1rXOdbyVxeZgA.jpg" group-title="→ SERIES ACCIÓN ←",Citadel Honey Bunny S01 E02
