@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Tetracampeones: Brasil volvio a creer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vW1BD3416Ev2rdB7CHKXGnzdGv.jpg" group-title="→ VOD DOCUMENTALES ←",Tetracampeones: Brasil volvio a creer (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sobre tu Cadaver (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf7PDJZmBWEztHSgkGEdJc0Ptdk.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobre tu Cadaver (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Colores del mal: Negro (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyASW7irDybUePt5Lv5SeMoNs7c.jpg" group-title="→ VOD ESTRENOS 2026 ←",Los Colores del mal: Negro (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Asesinato de Rachel Nickell (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gcZdPpd6xFxfFHBX0VfxvGhchO.jpg" group-title="→ VOD DOCUMENTALES ←",El Asesinato de Rachel Nickell (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de la Playa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/373mESpAt0wKpRgUd8MBh3tjBsD.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Casa de la Playa (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicario: Tierra de nadie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpFhUy0aiDPIF0lN8Xpg0DeNQSD.jpg" group-title="→ VOD CRIMEN ←",Sicario: Tierra de nadie
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281717.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Obsesion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OrpkiogKFyIIwV7pILy4g5zeGe.jpg" group-title="→ VOD DRAMA ←",Obsesion
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281698.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alcanzando tu Sueño " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPT80mUHkZCjIPBZKMP0DGHmI0p.jpg" group-title="→ VOD DRAMA ←",Alcanzando tu Sueño 
@@ -36663,6 +36675,20 @@ http://23.153.217.158:8080/995431461tv/7ct525/281271
 http://23.153.217.158:8080/995431461tv/7ct525/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/995431461tv/7ct525/281273
+#EXTINF:-1 tvg-id="" tvg-name="México vs Sudáfrica op1" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",México vs Sudáfrica op1
+http://23.153.217.158:8080/995431461tv/7ct525/281738
+#EXTINF:-1 tvg-id="" tvg-name="México vs Sudáfrica op2" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",México vs Sudáfrica op2
+http://23.153.217.158:8080/995431461tv/7ct525/281739
+#EXTINF:-1 tvg-id="" tvg-name="Corea del Sur vs República Checa  op1" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",Corea del Sur vs República Checa  op1
+http://23.153.217.158:8080/995431461tv/7ct525/281740
+#EXTINF:-1 tvg-id="" tvg-name="Irán vs Nueva Zelanda op 2" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",Irán vs Nueva Zelanda op 2
+http://23.153.217.158:8080/995431461tv/7ct525/281741
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="→ COPA DEL MUNDO 2026 ←",DIRECTV SPORTS CH
+http://23.153.217.158:8080/995431461tv/7ct525/281742
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ COPA DEL MUNDO 2026 ←",FCL• DIRECTV SPORTS (HD) »2«
+http://23.153.217.158:8080/995431461tv/7ct525/281743
+#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ COPA DEL MUNDO 2026 ←",FCL• DIRECTV SPORTS (HD) »1«
+http://23.153.217.158:8080/995431461tv/7ct525/281744
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/995431461tv/7ct525/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -49008,141 +49034,27 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/226495.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agencia Lockwood S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCGidcsu2HOr8xJMGf2rEPSWKc7.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Agencia Lockwood S01 E08
 http://23.153.217.158:8080/series/995431461tv/7ct525/226496.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzMAN6GywPqWbsQMh4xOmac25QM.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E01
-http://23.153.217.158:8080/series/995431461tv/7ct525/239875.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281746.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX8x714hm1tWZR9szNe3x3n9LjO.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E02
-http://23.153.217.158:8080/series/995431461tv/7ct525/239876.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281747.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPBBslQb3Jx3ZTue8ZWA7IQzKK4.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E03
-http://23.153.217.158:8080/series/995431461tv/7ct525/239877.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281748.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDpgvL3qHdNkUKaaN3usI9xS1is.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E04
-http://23.153.217.158:8080/series/995431461tv/7ct525/239878.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPUDEFLfkwiFGTbFQa7McYHCbq.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E05
-http://23.153.217.158:8080/series/995431461tv/7ct525/239879.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281750.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmVF9vElnv0UpEGWOdS8joPz28q.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E06
-http://23.153.217.158:8080/series/995431461tv/7ct525/239880.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281751.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqh7ttQAYXoj0M81Vq4eapxXhhS.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E07
-http://23.153.217.158:8080/series/995431461tv/7ct525/239881.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281752.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evV2ZoWjjOE2h3xZZiIIPUTkGVX.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E08
-http://23.153.217.158:8080/series/995431461tv/7ct525/239882.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281753.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpwmpJp8ck5b45eeWB7kjo4yGVv.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E09
-http://23.153.217.158:8080/series/995431461tv/7ct525/239883.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281754.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFNxqO1fI5n7h1EpmFFdRw6CuH1.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E10
-http://23.153.217.158:8080/series/995431461tv/7ct525/239884.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281755.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45a0nyysvKmdWsA6CjtErCEjGsO.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E11
-http://23.153.217.158:8080/series/995431461tv/7ct525/239885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA6o2v4Mjl74xA9gCGO8Aabq2C9.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S01 E12
-http://23.153.217.158:8080/series/995431461tv/7ct525/239886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8XLpZVKHU82QXhVcTGq1m2cOlU.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E01
-http://23.153.217.158:8080/series/995431461tv/7ct525/239887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrLGC6ofm2sPY2qxFVC1jU55EJV.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E02
-http://23.153.217.158:8080/series/995431461tv/7ct525/239888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F9KxChQGHTA1PP9VJnaATTiQnv.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E03
-http://23.153.217.158:8080/series/995431461tv/7ct525/239889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwR1ZwyGlqFaSLe799n5QhjWyt3.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E04
-http://23.153.217.158:8080/series/995431461tv/7ct525/239890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nme9Ydv9NWrEzS8VrQTJaOQdoBH.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E05
-http://23.153.217.158:8080/series/995431461tv/7ct525/239891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXFE1GO2fM8gnM85Wcc9Bk4al8o.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E06
-http://23.153.217.158:8080/series/995431461tv/7ct525/239892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgQWKjj1cTT9mR48JtFwRR0QzYV.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E07
-http://23.153.217.158:8080/series/995431461tv/7ct525/239893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2OSTAPApntPOKqt7RQvFcdEAtH.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E08
-http://23.153.217.158:8080/series/995431461tv/7ct525/239894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yYTVqMzOmctoaBblldOkYRx4Vi.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E09
-http://23.153.217.158:8080/series/995431461tv/7ct525/239895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyhAmEOdfYyo5ATEvIYSArTypUR.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E10
-http://23.153.217.158:8080/series/995431461tv/7ct525/239896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxJBolVjUJag0Rh843V3KbfIgId.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E11
-http://23.153.217.158:8080/series/995431461tv/7ct525/239897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyxfT8ggFNKpsJQhe71sJI9NwzZ.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E12
-http://23.153.217.158:8080/series/995431461tv/7ct525/239898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVO9FwzL73wHd2Bwx9Dma58wnS0.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E13
-http://23.153.217.158:8080/series/995431461tv/7ct525/239899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naAA72y659BtrEPlvFe3QIOFq9p.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E14
-http://23.153.217.158:8080/series/995431461tv/7ct525/239900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8m2kUiwNPzKStBGhf15sD29vS7Z.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E15
-http://23.153.217.158:8080/series/995431461tv/7ct525/239901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50jibFLG6X4If1MhZsmp36LA2Pe.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E16
-http://23.153.217.158:8080/series/995431461tv/7ct525/239902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVK7EJRqRKpPKLluHggcrI4LP3A.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E17
-http://23.153.217.158:8080/series/995431461tv/7ct525/239903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/binVz5LyqivrDFXekC5pKVpAYQC.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E18
-http://23.153.217.158:8080/series/995431461tv/7ct525/239904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KJwy6viQSfuuiI69HtmWcF5t60.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E19
-http://23.153.217.158:8080/series/995431461tv/7ct525/239905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67lEkFts77y1Jg360N7Tt439NgT.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E20
-http://23.153.217.158:8080/series/995431461tv/7ct525/239906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljqRzxy6MVQ5kzpPvCwaE4hDZTe.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E21
-http://23.153.217.158:8080/series/995431461tv/7ct525/239907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alLGEoBZPPhWQP02LpggRCQJ2fy.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S02 E22
-http://23.153.217.158:8080/series/995431461tv/7ct525/239908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrpBMbY7yNObV277Scbdf35QaTu.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E01
-http://23.153.217.158:8080/series/995431461tv/7ct525/239909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppdyZgpArcZow3nrsh5jopjxZFX.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E02
-http://23.153.217.158:8080/series/995431461tv/7ct525/239910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ItjgHfu0d9ZBK6Cabh49N7PFPK.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E03
-http://23.153.217.158:8080/series/995431461tv/7ct525/239911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngf0rSVmfrh1Zbj5zUxrWJZO1Wf.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E04
-http://23.153.217.158:8080/series/995431461tv/7ct525/239912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loqkjXzLr8c3z1DmmkV7hcuT2Kn.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E05
-http://23.153.217.158:8080/series/995431461tv/7ct525/239913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ2n4ZmOlRpor3ub5FNL9weS4V.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E06
-http://23.153.217.158:8080/series/995431461tv/7ct525/239914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApPO9KtLx8454i77fsiS6P55NDw.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E07
-http://23.153.217.158:8080/series/995431461tv/7ct525/239915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwToacAgHcg4VZkIMIBnbpr8Qx.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E08
-http://23.153.217.158:8080/series/995431461tv/7ct525/239916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OXviPzTsdUjv3eIjTRL0tPUzKR.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E09
-http://23.153.217.158:8080/series/995431461tv/7ct525/239917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTKtZ57KIvned0ILMrPjbEuIFRo.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E10
-http://23.153.217.158:8080/series/995431461tv/7ct525/239918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQqmhc0OeSheFPTKg0h9AKFuZhs.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E11
-http://23.153.217.158:8080/series/995431461tv/7ct525/239919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAlxOcuOtyEmO4LJnxT6CPS4JnR.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E12
-http://23.153.217.158:8080/series/995431461tv/7ct525/239920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5Kaq4wTv3ph6w8TtbtLi753uqQ.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E13
-http://23.153.217.158:8080/series/995431461tv/7ct525/239921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EFrSjteUBj9u0i4wAB8EFN3hBh.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E14
-http://23.153.217.158:8080/series/995431461tv/7ct525/239922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVA7OAY5WhH3UoagZ08h0jd18Vk.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E15
-http://23.153.217.158:8080/series/995431461tv/7ct525/239923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WBmSYazMxjMebCQcplmgtbkFx.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E16
-http://23.153.217.158:8080/series/995431461tv/7ct525/239924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCiv5G4e9mHONa5W1Z96ekjHSOo.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E17
-http://23.153.217.158:8080/series/995431461tv/7ct525/239925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twmhgKkAKjTEPBUXoBuHiDsMjHK.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E18
-http://23.153.217.158:8080/series/995431461tv/7ct525/239926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBKw8ixpXErRQJUNjK1JOmjhmk3.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E19
-http://23.153.217.158:8080/series/995431461tv/7ct525/239927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK5H1dziin4YGuiP1xOLY9ni9Qd.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E20
-http://23.153.217.158:8080/series/995431461tv/7ct525/239928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkxLuTIl0siBRGO4Bv4WpuJlnWn.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E21
-http://23.153.217.158:8080/series/995431461tv/7ct525/239929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m05FCSH9grVTwWhWtsnnKK4N4jf.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S03 E22
-http://23.153.217.158:8080/series/995431461tv/7ct525/239930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerV7K0QFdSKfmpU5CFYrwKXYxx.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E01
-http://23.153.217.158:8080/series/995431461tv/7ct525/239931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfxT49ZvxrGj63LMcSbDikhaG7H.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E02
-http://23.153.217.158:8080/series/995431461tv/7ct525/239932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOd32Qz3aOUeKTs8IVrUfzfqpT.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E03
-http://23.153.217.158:8080/series/995431461tv/7ct525/239933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HEXtt0YmIDIgqlCbT2qXayTSfg.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E04
-http://23.153.217.158:8080/series/995431461tv/7ct525/239934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/J7YpN8Y5DqO2nCWovJbji1muvp.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E05
-http://23.153.217.158:8080/series/995431461tv/7ct525/239935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PIHNTDJqJyPowAut4AatNp5a7z.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E06
-http://23.153.217.158:8080/series/995431461tv/7ct525/239936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOIrjFAAwcTTloaRlMgCypeKs2u.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E07
-http://23.153.217.158:8080/series/995431461tv/7ct525/239937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCXqGxY3r3ONbqcGH9IaQ5Yuuln.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E08
-http://23.153.217.158:8080/series/995431461tv/7ct525/239938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sr1KinhoWWoIrHNoqyvk2fOd2I.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E09
-http://23.153.217.158:8080/series/995431461tv/7ct525/239939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kX8KXJb0RBRxCkLJoHcA5QKmYTp.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E10
-http://23.153.217.158:8080/series/995431461tv/7ct525/239940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abhWBdtlN7QDN4lpl4SLJsvgsIM.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E11
-http://23.153.217.158:8080/series/995431461tv/7ct525/239941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lobo del aire S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64SkVwmNOADazzYbean19lmMyOd.jpg" group-title="→ SERIES RETRO ←",Lobo del aire S04 E12
-http://23.153.217.158:8080/series/995431461tv/7ct525/239942.mp4
+http://23.153.217.158:8080/series/995431461tv/7ct525/281756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alma negra S01 E01" tvg-logo="https://pbs.twimg.com/media/FqlZ1O1XwAATz8T.jpg" group-title="→ SERIES CRIMEN ←",Alma negra S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/226690.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alma negra S01 E02" tvg-logo="https://pbs.twimg.com/media/FqlZ1O1XwAATz8T.jpg" group-title="→ SERIES CRIMEN ←",Alma negra S01 E02
@@ -77155,6 +77067,32 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281690.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prison Break S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eJCsOgHxB5uFmAGmjfH41SjhnB.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S02 E22
 http://23.153.217.158:8080/series/995431461tv/7ct525/281692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFHAW5XDmcDUYU4sE8KsPvjCpts.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvltFe22fCFVmIsLQ5aynOg2UKc.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKNXCPU6nNjshRga5fs8TSh2DGZ.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loUrlgClL1zmVnph1fWSeYq9w1A.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W892drWT7g6MbADUsa1iWCPrWT.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SpOoCkp3tug4y3pSR34yNCfilN.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/281724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaCg43U3IM1MAKFHtkZhSSq3hpE.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/281725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RnZb5y8EPkwl7xg55jxjiSmFGG.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/281726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpfzpdq9nG85pMQpYScPK1Zwpye.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/281727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNfYmjCrjdySjqWz4lGEpkguhEl.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/281728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMICJcH3qJC2CQQvV6mMaEvmww3.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/281729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4FlhFHeB4zTT4GNzaq1UNj1Ro4.jpg" group-title="→ SERIES ACCIÓN ←",Prison Break S03 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/281730.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prófugos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kglKqtj9g5cWv80anoqxA8SP4O8.jpg" group-title="→ SERIES ACCIÓN ←",Prófugos S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/45647.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prófugos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14eEmGfzuFDe3dr9ThVx4WDO4KA.jpg" group-title="→ SERIES ACCIÓN ←",Prófugos S01 E02
@@ -134311,3 +134249,43 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281615.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281616.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Noir S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg" group-title="→ SERIES MARVEL ←",Spider-Noir S01 E08
 http://23.153.217.158:8080/series/995431461tv/7ct525/281617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUeNsT1Vk7fkiIIS4g5eIdJALIM.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azLqbKC1Vwzdp1LEJBXvh8qeeGb.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ml5z5iBFiCY5K4utdWpDpbxyoB.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMjYGKjIb5j1wQkyHSKmubOGFKC.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK2HJlFoVCyL4ib4wnHI0J8KVE1.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zz28SEe5A6CjIZIg7FeeGXdIFl.jpg" group-title="→ SERIES CRIMEN ←",La Captura S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4pmj0M2CDfhIvnaMLhgPnmBjfo.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bce2OUCpQyXea3b9lcB4BhPxhjQ.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LSM2XZDChErG87m3rQHLsxPsJn.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqvU48IBBgKUVJjbXz5TB2CLeaw.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flviRzvExOgz28Ej3gYDhHj94Oz.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdVeJxPbWR1ER0ek5DcFCA7s9KN.jpg" group-title="→ SERIES CRIMEN ←",La Captura S02 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/281710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P1QygxDNaZIMTEkh1V5WDjb7Sx.jpg" group-title="→ SERIES CRIMEN ←",La Captura S03 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1WL9G7UWegsSL7PSxUbOAOWcoJ.jpg" group-title="→ SERIES CRIMEN ←",La Captura S03 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY42D0Bv3myug6alhqfVrEsit8d.jpg" group-title="→ SERIES CRIMEN ←",La Captura S03 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWU5trohSmGjykOQsgPaC7zHdeV.jpg" group-title="→ SERIES CRIMEN ←",La Captura S03 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/281714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Captura S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2fuTQxZ3bx3AV3UbfcJK5P16ZV.jpg" group-title="→ SERIES CRIMEN ←",La Captura S03 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/281715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Testigo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FKAf1DDFq5pd0ESVfb8NUJ6wUg.jpg" group-title="→ SERIES CRIMEN ←",El Testigo S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/281731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Testigo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEntgoIiB9w3lYq1UEACQAdOIil.jpg" group-title="→ SERIES CRIMEN ←",El Testigo S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/281732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Testigo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgLjjgrj4PJcaspMZeF8kizHYtI.jpg" group-title="→ SERIES CRIMEN ←",El Testigo S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/281733.mkv
