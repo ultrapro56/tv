@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Por los Viejos Tiempos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RYos76JUfalXJN1P3WW4me7xcB.jpg" group-title="→ VOD ACCIÓN ←",Por los Viejos Tiempos
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Messi: La cinta Olvidada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tehQ9xAsLDXK5Wv31Zzph84urjb.jpg" group-title="→ VOD DOCUMENTALES ←",Messi: La cinta Olvidada (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281773.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tetracampeones: Brasil volvio a creer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vW1BD3416Ev2rdB7CHKXGnzdGv.jpg" group-title="→ VOD DOCUMENTALES ←",Tetracampeones: Brasil volvio a creer (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sobre tu Cadaver (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf7PDJZmBWEztHSgkGEdJc0Ptdk.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sobre tu Cadaver (2026)
@@ -17815,8 +17819,6 @@ http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/268637.mp4
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por los Viejos Tiempos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RYos76JUfalXJN1P3WW4me7xcB.jpg" group-title="→ VOD ACCIÓN ←",Por los Viejos Tiempos
-http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281695.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/997127576tv/nfvzjyp/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -36675,13 +36677,13 @@ http://23.153.217.158:8080/997127576tv/nfvzjyp/281271
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281273
-#EXTINF:-1 tvg-id="" tvg-name="México vs Sudáfrica op1" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",México vs Sudáfrica op1
+#EXTINF:-1 tvg-id="" tvg-name="op1 mundial TUDN" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op1 mundial TUDN
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281738
-#EXTINF:-1 tvg-id="" tvg-name="México vs Sudáfrica op2" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",México vs Sudáfrica op2
+#EXTINF:-1 tvg-id="" tvg-name="op2 mundial TyC" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op2 mundial TyC
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281739
-#EXTINF:-1 tvg-id="" tvg-name="Corea del Sur vs República Checa  op1" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",Corea del Sur vs República Checa  op1
+#EXTINF:-1 tvg-id="" tvg-name="op3 mundial" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op3 mundial
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281740
-#EXTINF:-1 tvg-id="" tvg-name="Irán vs Nueva Zelanda op 2" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",Irán vs Nueva Zelanda op 2
+#EXTINF:-1 tvg-id="" tvg-name="op4 mundial" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op4 mundial
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281741
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="→ COPA DEL MUNDO 2026 ←",DIRECTV SPORTS CH
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281742
@@ -36689,6 +36691,22 @@ http://23.153.217.158:8080/997127576tv/nfvzjyp/281742
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281743
 #EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ COPA DEL MUNDO 2026 ←",FCL• DIRECTV SPORTS (HD) »1«
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281744
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 1 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 1 HD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281757
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 2 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 2 HD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281758
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 2 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 2 SD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281759
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 3 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 3 HD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281760
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 3 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 3 SD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281761
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 4 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 4 HD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281762
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 4 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 4 SD
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281763
+#EXTINF:-1 tvg-id="" tvg-name="FANZONE (SAT) (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjkENqHDkVPyrSDfJ8JeOswmW3FXY9V1tAw&s" group-title="→ COPA DEL MUNDO 2026 ←",FANZONE (SAT) (SOLO EVENTOS)
+http://23.153.217.158:8080/997127576tv/nfvzjyp/281764
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/997127576tv/nfvzjyp/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -134289,3 +134307,19 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281731.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Testigo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgLjjgrj4PJcaspMZeF8kizHYtI.jpg" group-title="→ SERIES CRIMEN ←",El Testigo S01 E03
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9CEFs7sQbUnSpPhTiAw4K74XeV.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJjP883GL6zZnRws7MK1ENeIWE1.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNS1wNuMHVKNWqJHp6aBR96UBN1.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD7cB2XMyz205tUqfW7aoX6Y6IR.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcYv7kl9LMsPau37TAbVQAXkfve.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojoMZvjUBLIpYV7XnhtsA4ZsFgu.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsAqKn1zstJvU3Y4n98YqGIha4y.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S7Hfp8YtdNYiJ0IIbdaMMZC3P2.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281772.mkv
