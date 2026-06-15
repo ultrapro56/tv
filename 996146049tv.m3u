@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Soy Frankelda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg" group-title=" → VOD ESTRENOS 2025 ←",Soy Frankelda (2025)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te van a Matar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOYxV166K7b7HWnswjoZKxi3sux.jpg" group-title="→ VOD ESTRENOS 2026 ←",Te van a Matar (2026)
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dia de la Revelacion (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pigU63pWFuXkq2MBc865GpFG4UP.jpg" group-title="→ VOD CAM 2026 ←",El Dia de la Revelacion (2026) CAM
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estallido Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbHo8X0Zpny7rSovAdAEJeXVRwK.jpg" group-title="→ VOD CRIMEN ←",Estallido Mortal
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invasion: El fin de los tiempos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N9SWLlRWjxeT2t7hNIQ1vGVqis.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Invasion: El fin de los tiempos 
+http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281775.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Por los Viejos Tiempos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RYos76JUfalXJN1P3WW4me7xcB.jpg" group-title="→ VOD ACCIÓN ←",Por los Viejos Tiempos
 http://23.153.217.158:8080/movie/978715637tv/H72Dnsh7DJ3/281695.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Messi: La cinta Olvidada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tehQ9xAsLDXK5Wv31Zzph84urjb.jpg" group-title="→ VOD DOCUMENTALES ←",Messi: La cinta Olvidada (2026)
@@ -36707,11 +36717,6 @@ http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281762
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281763
 #EXTINF:-1 tvg-id="" tvg-name="FANZONE (SAT) (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjkENqHDkVPyrSDfJ8JeOswmW3FXY9V1tAw&s" group-title="→ COPA DEL MUNDO 2026 ←",FANZONE (SAT) (SOLO EVENTOS)
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/281764
-
-
-
-
-
 
 
 
@@ -85912,6 +85917,8 @@ http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281274.mkv
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281379.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg" group-title="→ SERIES MISTERIO ←",From S04 E06
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E07
+http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/281779.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/978715637tv/H72Dnsh7DJ3/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
