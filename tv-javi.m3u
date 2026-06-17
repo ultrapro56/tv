@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Un Traidor entre Nosotros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhnxCswzbLG342dDxB75Y0nKW.jpg" group-title="→ VOD SUSPENSO ←",Un Traidor entre Nosotros
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 Horas para el Fin del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNbAnM5uQOzR0FZU4JTREr54Pge.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",12 Horas para el Fin del Mundo
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rain Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KygAn0ybrpBm0MROuxWMjwVN0w.jpg" group-title="→ VOD CLÁSICAS ←",Rain Man
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ven a volar conmigo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kG1FfRD3rONR1PCPPaSl1f5V8I.jpg" group-title="→ VOD ESTRENOS 2026 ←",Ven a volar conmigo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Soy Frankelda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg" group-title=" → VOD ESTRENOS 2025 ←",Soy Frankelda (2025)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281778.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Te van a Matar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOYxV166K7b7HWnswjoZKxi3sux.jpg" group-title="→ VOD ESTRENOS 2026 ←",Te van a Matar (2026)
@@ -36713,8 +36721,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/281760
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281761
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 4 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 4 HD
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281762
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 4 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 4 SD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281763
 #EXTINF:-1 tvg-id="" tvg-name="FANZONE (SAT) (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjkENqHDkVPyrSDfJ8JeOswmW3FXY9V1tAw&s" group-title="→ COPA DEL MUNDO 2026 ←",FANZONE (SAT) (SOLO EVENTOS)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281764
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
@@ -86567,6 +86573,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281379.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281693.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg" group-title="→ SERIES MISTERIO ←",From S04 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg" group-title="→ SERIES MISTERIO ←",From S04 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -134335,3 +134343,19 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281770.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cada Año que pase contigo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S7Hfp8YtdNYiJ0IIbdaMMZC3P2.jpg" group-title="→ SERIES DRAMA ←",Cada Año que pase contigo S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrYy66eKbDZsxsmHvL0f6auklLH.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DeFA34ItzqfEY7btGDuUxIZxUE.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wICVZT0e9txJ45aFNNfC28PyBO7.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhjRz4TSeZRjdClxhL3EkW26nIu.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1rJDTdg2fvw681q2Zu0OI443GA.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmHHSssfpLZnAQ93uD4QJSRIefd.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHSyVoBzR2T1q29B6Or1sNwYotp.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despues del huracan Katrina S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1ZACVqfIiiRn9MUYKtj6USlGDh.jpg" group-title="→ SERIES DRAMA ←",Despues del huracan Katrina S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281787.mkv
