@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El testimonio de Anne Lee (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRsgnrHz1MJp9VJwWM6U59bY6Qw.jpg" group-title=" → VOD ESTRENOS 2025 ←",El testimonio de Anne Lee (2025)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La boda Maldita (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8DHPlRSHmaNUMtT95mDJwH6IX8.jpg" group-title="→ VOD ESTRENOS 2026 ←",La boda Maldita (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dios de la Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tpd6wGTsMMHvaNindz4465wXPb.jpg" group-title="→ VOD ACCIÓN ←",Dios de la Guerra
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descansa en Paz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8fSPkP4IUyZrnmAB6oSxtFYuNR.jpg" group-title="→ VOD TERROR ←",Descansa en Paz
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Culpa Tuya: Londres (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeOmayFaiGz6km5vShPpDBQnZf1.jpg" group-title="→ VOD ESTRENOS 2026 ←",Culpa Tuya: Londres (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psicopata: El Asesino del Conejo Blanco (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg" group-title="→ VOD ESTRENOS 2026 ←",Psicopata: El Asesino del Conejo Blanco (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281798.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un Traidor entre Nosotros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhnxCswzbLG342dDxB75Y0nKW.jpg" group-title="→ VOD SUSPENSO ←",Un Traidor entre Nosotros
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281796.mkv
 #EXTINF:-1 tvg-id="" tvg-name="12 Horas para el Fin del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNbAnM5uQOzR0FZU4JTREr54Pge.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",12 Horas para el Fin del Mundo
