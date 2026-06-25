@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Trascender" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SKenvCWPTB8v1Uw06E1uG81vUR.jpg" group-title="→ VOD DRAMA ←",Trascender
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maridos en Accion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12TfQSbwyb3t9PN0KTOTE4NB7lq.jpg" group-title="→ VOD ESTRENOS 2026 ←",Maridos en Accion (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Ovejas Detectives (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg" group-title="→ VOD ESTRENOS 2026 ←",Las Ovejas Detectives (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Muerte en invierno (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZH26bppdUhY4SkgqIpSKDgW3YW.jpg" group-title=" → VOD ESTRENOS 2025 ←",Muerte en invierno (2025)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281834.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWWfKcQDldLgHQwXWakfE16D5vr.jpg" group-title="→ VOD CAM 2026 ←",Toy Story 5 (2026) CAM
@@ -126779,6 +126785,26 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/269921.mp4
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/269922.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La agencia S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vHF8JZMZBbi7QBzN10tRPhxINR.jpg" group-title="→ SERIES MISTERIO ←",La agencia S01 E10
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/269923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97asrpUEmxwph2BCuMPLfa2b19D.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFRjT9ZC0kTvkXldio8a9Jvjo06.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejasXEaFT77PQuPRaHi0XAUgrpJ.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9evib4ebvZrRsczyp6vBLvTrBEn.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LoGRL7NjMsmFaNwtcQaX3BvJg9.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/521O3us7UZ1EATs8yFlXLEwaTfH.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MM6EZtdmB1ayOMeNk4gTrkH37k.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iXivrOqU6ipEL14gfTOEEZUaUH.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwgwtXAsnrrDPEWRJgMENfobU0i.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La agencia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ucsje4tXbQwswjXtPo1BlhQQ1t.jpg" group-title="→ SERIES MISTERIO ←",La agencia S02 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281910.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo :Paris S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4mOhF9S9GuvBlipTKhTHxfA4Ci.jpg" group-title="→ SERIES ACCIÓN ←",Objetivo :Paris S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/269936.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo :Paris S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTjAyblCT3HQRoV6np35alsbZCD.jpg" group-title="→ SERIES ACCIÓN ←",Objetivo :Paris S01 E02
@@ -133267,6 +133293,10 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/280978.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jUXz9Y0ENf3hcmdK82QtirE4V1e.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E11
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/vSwrwadzKRVFj9Oy9LWHbKWtOzI.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/afQtT4eDN6TgeX7iJhAIFBEDr83.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -134533,3 +134563,17 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281889.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281890.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alerta Aeropuerto S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzaDDbgIYdDR2KZRbxTl1aVKYUL.jpg" group-title="→ SERIES REALLITY ←",Alerta Aeropuerto S02 E09
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4X2OrH2EsEJQ1sQa7I3DRy5sKW.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKkVo26hfshCSd6B02FER0qixz3.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te8KbkC5ekTltyJy3HkVYhjuJst.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4kz19IA4SuzywWtiaAuPmED0mu.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281900.mkv
