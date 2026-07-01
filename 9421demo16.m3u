@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mensajes de voz para Isabelle (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nY9BG8VjuxwLLRx5BGiiuj0M71.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mensajes de voz para Isabelle (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Strung (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg" group-title="→ VOD ESTRENOS 2026 ←",Strung (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRRH7UasrE6q240H00dww3vE1c.jpg" group-title=" → VOD ESTRENOS 2025 ←",Los Extraños: Capítulo 2 (2025)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Diablo viste a la moda 2 (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolly: Juega conmigo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Dolly: Juega conmigo (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg" group-title="→ VOD CAM 2026 ←",Supergirl (2026) CAM
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La nana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKPQXzczoFwCIyxMbO5aTU5lGVe.jpg" group-title="→ VOD CINE CHILENO ←",La nana
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El clan de los Irlandeses " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp0C6pmpI71P9vxPtpkDExU3IfG.jpg" group-title="→ VOD CRIMEN ←",El clan de los Irlandeses 
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermanito (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8mudAYQcHmVoFSamqyv1Ron527.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hermanito (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281932.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Trascender" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SKenvCWPTB8v1Uw06E1uG81vUR.jpg" group-title="→ VOD DRAMA ←",Trascender
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281913.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Maridos en Accion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12TfQSbwyb3t9PN0KTOTE4NB7lq.jpg" group-title="→ VOD ESTRENOS 2026 ←",Maridos en Accion (2026)
@@ -79,7 +97,7 @@ http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281630.mkv
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281631.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg" group-title="→ VOD CAM 2026 ←",Amos del Universo (2026) CAM
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD ESTRENOS 2026 ←",El diablo viste a la moda 2 (2026)
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="→ VOD ESTRENOS 2026 ←",El diablo viste a la moda 2 (2026) CAM
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281627.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Al descubierto: Jaque al rey (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="→ VOD DOCUMENTALES ←",Al descubierto: Jaque al rey (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281626.mkv
@@ -36709,7 +36727,7 @@ http://23.153.217.158:8080/997127576tv/nfvzjyp/281271
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281273
-#EXTINF:-1 tvg-id="" tvg-name="op1 mundial TUDN" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op1 mundial TUDN
+#EXTINF:-1 tvg-id="" tvg-name="op1 mundial TELEMUNDO" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op1 mundial TELEMUNDO
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281738
 #EXTINF:-1 tvg-id="" tvg-name="op2 mundial TyC" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op2 mundial TyC
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281739
@@ -86639,6 +86657,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281779.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="From S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg" group-title="→ SERIES MISTERIO ←",From S04 E09
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/na6u53LNvkOdaqDQDvblCHG1weS.jpg" group-title="→ SERIES MISTERIO ←",From S04 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281934.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/53230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="→ SERIES DRAMA ←",Perry Mason S01 E02
@@ -109909,6 +109929,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/271442.mp4
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/271443.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zVHUQVIshddE91gIirTPZhTOv4y.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/239126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E02
@@ -126112,29 +126134,29 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268411.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter: los magos de la repostería S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmqosRlPaJNn0WsUV45HMrIWlTt.jpg" group-title="→ SERIES REALLITY ←",Harry Potter: los magos de la repostería S01 E06
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268412.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdryMhPfarBvJJeXMCjcZGuvZJ.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E01
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268413.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281914.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fN62U3g0x8B5akkERDizPYcCNY.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E02
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268414.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGOqtpjgR6MVGdPrkXkJdN20qc3.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E03
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268415.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281916.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKhfyi9UlGvhR9R3HuFAEVhA5G2.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E04
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268416.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281917.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD95fQJxH9QrnB2fJMyZc0udKxP.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E05
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268417.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFUKVT1JoUdTwgtPT18ED0mGsUO.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E06
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268418.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aReNizRFeRHEtvMNKCJcr6rrbc.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E07
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268419.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281920.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GleGulCZDCvu4yUuyS7Lh7zxJI.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E08
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268420.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281921.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D6Yu2ePBrDaUcZ9SFyxRSi9Jcx.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E09
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268421.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281922.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8skfzQv35WLRa2AN6Mz0fFqyhaD.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E10
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268422.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlyDb0ccGv9VJHHsutrSKHIuwRr.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E11
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268423.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281924.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El que no gana no ama S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZewkfdpqXqbgpKS1jImrWakoN2.jpg" group-title="→ DORAMAS ←",El que no gana no ama S01 E12
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268424.mp4
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281925.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El rastro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YJupAvyd3ueKx8vpWVhEgoaeww.jpg" group-title="→ SERIES CRIMEN ←",El rastro S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/268425.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El rastro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NyovgUn6ICRofbxnROtjw7Kwrz.jpg" group-title="→ SERIES CRIMEN ←",El rastro S01 E02
@@ -134577,3 +134599,15 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281898.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4kz19IA4SuzywWtiaAuPmED0mu.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E07
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liOnmwPCn0M36bKqJ6hLtysbiUF.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAoZJuKqI2yUGls3f5GmRe5Pvm3.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhW8J5DRtGMaEEKEjTdqFyZKcex.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKqmXBClvRjz7wmPMtOn7er5res.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hm271oXRDQwAwYVPFWE8d6q5bcV.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urEoH5r4B4GVWUhlpgfUOlakVQx.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281931.mkv
