@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sin Refugio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgYcFVPv3UIw8WuGAdBHgvd5mlR.jpg" group-title="→ VOD ACCIÓN ←",Sin Refugio
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Persiguiendo a Abbott" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUFmaIYtNvFeBY9WxvaGsLJtXQ.jpg" group-title="→ VOD CRIMEN ←",Persiguiendo a Abbott
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manos de piedra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jno7F2SixgYRygFsOC6gVdVPUyu.jpg" group-title="→ VOD DRAMA ←",Manos de piedra
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="→ VOD ESTRENOS 2026 ←",Enola Holmes 3 (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Academia de Vampiros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWVWF9hzTanl5h552LgDGDpFtHW.jpg" group-title="→ VOD COMEDIA ←",Academia de Vampiros
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Morgue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg" group-title="→ VOD TERROR ←",La Morgue
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281945.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mensajes de voz para Isabelle (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nY9BG8VjuxwLLRx5BGiiuj0M71.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mensajes de voz para Isabelle (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/281942.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Strung (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg" group-title="→ VOD ESTRENOS 2026 ←",Strung (2026)
@@ -134599,6 +134611,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281898.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4kz19IA4SuzywWtiaAuPmED0mu.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E07
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281943.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liOnmwPCn0M36bKqJ6hLtysbiUF.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAoZJuKqI2yUGls3f5GmRe5Pvm3.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E02
@@ -134611,3 +134625,19 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281929.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281930.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urEoH5r4B4GVWUhlpgfUOlakVQx.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E06
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei4z1XJ3cWzFtWsTGgAusBVUNQt.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAQdclfhnN5kQsx7ecCbVVITg5x.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msFX4fLcalHvZgK00EWnsIaaxwg.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJCkr2UdD9hjYvHzbN0FbzWgLZD.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRDQZUPgFYTBPjtcrJ7riCTDESP.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhGc0dxeEvkaUDiwwemA3Rbjg4c.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7B6qgEQwcPGnp7fi8Zb1fFf8O.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FA5AEeQpVi7X0q7ExVuKbEQsCa.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/281953.mkv
