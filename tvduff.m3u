@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Licencia para Robar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX5HV8LC2tulHI2GT9Ar8WVFyg.jpg" group-title=" → VOD ESTRENOS 2025 ←",Licencia para Robar (2025)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/281975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas alla del Cielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYI5NwpkyatEymuOWCOy7Q7Q1MN.jpg" group-title="→ VOD DRAMA ←",Mas alla del Cielo
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/281974.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin Refugio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgYcFVPv3UIw8WuGAdBHgvd5mlR.jpg" group-title="→ VOD ACCIÓN ←",Sin Refugio
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/281957.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Persiguiendo a Abbott" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUFmaIYtNvFeBY9WxvaGsLJtXQ.jpg" group-title="→ VOD CRIMEN ←",Persiguiendo a Abbott
@@ -11555,8 +11559,6 @@ http://23.153.217.158:8080/movie/977899335tv/l8q53zg/6031.mkv
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/6032.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mary and Martha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smDcAghsfl6mdMzRhy41MPikp0S.jpg" group-title="→ VOD DRAMA ←",Mary and Martha (2013)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/6033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Más allá del cielo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi4Z8qxzlPkw6VDFP1DAtn2fkCY.jpg" group-title="→ VOD DRAMA ←",Más allá del cielo (2010)
-http://23.153.217.158:8080/movie/977899335tv/l8q53zg/6034.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sombras en la mirada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VzDK2Ki8kKoEMwFQglhywiy1no.jpg" group-title="→ VOD DRAMA ←",Sombras en la mirada (2010)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/6035.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfTuM67OdvM3rvuLvEyzOmvNPl3.jpg" group-title="→ VOD DRAMA ←",Mia (2017)
@@ -68029,127 +68031,127 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/252544.mp4
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/252545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Neon Genesis Evangelion S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDFY12RN1e2ZV3FrEia0NKSkB3E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Neon Genesis Evangelion S01 E26
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/252546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57ztZCSSCO8lDvkqe2pxXi4N3E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57ztZCSSCO8lDvkqe2pxXi4N3E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvthedDN9DUbJWWnoUzSTp0vuET.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvthedDN9DUbJWWnoUzSTp0vuET.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E02
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37823.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHCkOMiD6fQyfIstuBibHkO2ww8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHCkOMiD6fQyfIstuBibHkO2ww8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaHEGsFOQP9qZRTl4uQboNWx3Yp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaHEGsFOQP9qZRTl4uQboNWx3Yp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E04
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8G0WkZ66YwvDbPQXg5ANjutrS4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8G0WkZ66YwvDbPQXg5ANjutrS4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E05
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLScDPhXBbWnHcuSxn1kh4w757r.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLScDPhXBbWnHcuSxn1kh4w757r.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taaKyDSza8YhevMq62gq2DLu9ma.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taaKyDSza8YhevMq62gq2DLu9ma.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E07
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LBgsrFBqPW74BQUUiuiTuebNqN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LBgsrFBqPW74BQUUiuiTuebNqN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjMzrmNLitRCVCTS5F15ztvzzJq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjMzrmNLitRCVCTS5F15ztvzzJq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E09
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoHnmhUAmMDx8oV9iimMVsScvrW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E10
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoHnmhUAmMDx8oV9iimMVsScvrW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E10
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rApMjdBNbwInH5zpqSquJ9Yi3hp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E11
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rApMjdBNbwInH5zpqSquJ9Yi3hp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E11
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm6aSQ4H5ayVtjjMt0pi8Pth7h4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E12
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm6aSQ4H5ayVtjjMt0pi8Pth7h4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E12
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyD4FCLS0vaxLmHantYqMkqACh5.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E13
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyD4FCLS0vaxLmHantYqMkqACh5.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E13
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leJKRM1LLF64in8IGs6NbRAyEmx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E14
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leJKRM1LLF64in8IGs6NbRAyEmx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E14
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57bZLzjaxfDXGTr7dquv85E27nK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E15
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57bZLzjaxfDXGTr7dquv85E27nK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E15
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgdsLIpTCHPrq1DvOXtHh65qEp2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E16
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgdsLIpTCHPrq1DvOXtHh65qEp2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E16
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQBMjMJchIR1yuW06ZZeCCxxEot.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E17
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQBMjMJchIR1yuW06ZZeCCxxEot.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E17
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37838.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herKUdLK198XcymKSdkOdwKLCOE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E18
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herKUdLK198XcymKSdkOdwKLCOE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E18
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A3NIy7xE95qycCTdTpKZUT0wm0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E19
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A3NIy7xE95qycCTdTpKZUT0wm0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E19
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y074fdoE8Xc1HhjyACMszucOPO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S01 E20
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y074fdoE8Xc1HhjyACMszucOPO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S01 E20
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIy3PKC460qRbiPIxNKiuVf9QSH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E01
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIy3PKC460qRbiPIxNKiuVf9QSH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rXk406nNbo8SgzuHPa44xVemes.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E02
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rXk406nNbo8SgzuHPa44xVemes.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E02
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6oPog028AGA8pjPO9XqIhVothi.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E03
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6oPog028AGA8pjPO9XqIhVothi.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TAogSR8WYMkU7ttHJc6Q7Jj5X2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E04
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TAogSR8WYMkU7ttHJc6Q7Jj5X2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E04
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZtrKgwUntr2aEdy0sSM4c3YHdl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E05
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZtrKgwUntr2aEdy0sSM4c3YHdl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E05
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UH0hiYwyqT5dw2oaDytYeRmqGe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E06
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UH0hiYwyqT5dw2oaDytYeRmqGe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xKAmy4K3d9Jo8QcIL3HzHLQSdt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E07
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xKAmy4K3d9Jo8QcIL3HzHLQSdt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E07
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30Koy2vp3aRtEs7Dv6r6DquNysf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E08
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30Koy2vp3aRtEs7Dv6r6DquNysf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilnwRuY533ZGv3JapxbZQGfxgyo.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E09
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilnwRuY533ZGv3JapxbZQGfxgyo.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E09
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVxI9dmr2XpH2eRMRKCZ7CbNd7B.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E10
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVxI9dmr2XpH2eRMRKCZ7CbNd7B.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E10
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2zbcRX7ZE6L4QQWo1xlgsrrwLy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E11
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2zbcRX7ZE6L4QQWo1xlgsrrwLy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E11
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fWQGslpLkr7rciOS7IIYWPxf37.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E12
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fWQGslpLkr7rciOS7IIYWPxf37.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E12
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZgWSZIg5OZsBddDEM9RCz8e47n.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E13
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZgWSZIg5OZsBddDEM9RCz8e47n.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E13
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy6BBoexmoc3yP6vzyAUcc0AIhG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E14
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy6BBoexmoc3yP6vzyAUcc0AIhG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E14
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64oYvp9kru9HgVb2SWiThYCvv5V.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E15
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64oYvp9kru9HgVb2SWiThYCvv5V.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E15
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxnoc5vDjuF2l2m9GS1ESCXpDYt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E16
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxnoc5vDjuF2l2m9GS1ESCXpDYt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E16
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXhQZXg1SBcPpux2cfW3K8qVrj2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E17
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXhQZXg1SBcPpux2cfW3K8qVrj2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E17
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zabWvG654Jrw7kdd1jqHgfoItya.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E18
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zabWvG654Jrw7kdd1jqHgfoItya.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E18
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV4BsLKE0JueEdMsikakxdXfvE1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E19
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV4BsLKE0JueEdMsikakxdXfvE1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E19
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJokfGtq1DwDQioiAcSY3IL8mQC.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S02 E20
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJokfGtq1DwDQioiAcSY3IL8mQC.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S02 E20
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QjWeU6mfvx6sWF2z9CLb4kdRnR.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E01
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QjWeU6mfvx6sWF2z9CLb4kdRnR.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncwQIjF5iHAOzAyPAFf2k5fuTze.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E02
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncwQIjF5iHAOzAyPAFf2k5fuTze.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E02
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rplhdlXog7zk5uNFgtSFFEfyRAK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E03
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rplhdlXog7zk5uNFgtSFFEfyRAK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2OksHuFj1ID01k82nwzu2yOO0F.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E04
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2OksHuFj1ID01k82nwzu2yOO0F.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E04
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajkzlcNnJ7uPJiFrcSrlSIllW0G.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E05
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajkzlcNnJ7uPJiFrcSrlSIllW0G.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E05
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2ST3UCUMOKgA576UeJg8EwNgp6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E06
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2ST3UCUMOKgA576UeJg8EwNgp6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6Hu8yDvMDrqCHAz6fAevvHL5dr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E07
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6Hu8yDvMDrqCHAz6fAevvHL5dr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E07
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vLzcBUuuipbSTVuv8XkFbqfM46.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E08
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vLzcBUuuipbSTVuv8XkFbqfM46.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Ryb59FgBmjNVBlh78gfQndC0O.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E09
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Ryb59FgBmjNVBlh78gfQndC0O.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E09
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azttbrzDKI0GW4tGyTP3lTHmPXl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E10
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azttbrzDKI0GW4tGyTP3lTHmPXl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E10
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRkTc9t6VJ8cfWSJl2CNF78Wx7K.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E11
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRkTc9t6VJ8cfWSJl2CNF78Wx7K.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E11
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl1ocL1IeNL5kJ6949Px61XInrj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E12
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl1ocL1IeNL5kJ6949Px61XInrj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E12
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xBMXGyxsY6KK4VaPdtYiP1mDVq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E13
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xBMXGyxsY6KK4VaPdtYiP1mDVq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E13
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOp9xetcQEqrvgNYnv5EVCRy0Ef.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E14
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOp9xetcQEqrvgNYnv5EVCRy0Ef.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E14
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTZdc6t3BDAPKKTp0UJ4rh5wIvd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E15
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTZdc6t3BDAPKKTp0UJ4rh5wIvd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E15
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWwyVU8LPdoqEn9tdCpBjQj5z1T.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E16
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWwyVU8LPdoqEn9tdCpBjQj5z1T.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E16
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuMUeqQnHJClSGv5ZkDCKFPkZpq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E17
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuMUeqQnHJClSGv5ZkDCKFPkZpq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E17
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpD2FdSbEWtRGtgLUyc7d2cxMGO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E18
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpD2FdSbEWtRGtgLUyc7d2cxMGO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E18
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pjDkaJBTO8c6CbglQLDSXBt5hK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E19
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pjDkaJBTO8c6CbglQLDSXBt5hK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E19
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlTkoSemKI7M5Viu60AE57v1IDJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E20
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlTkoSemKI7M5Viu60AE57v1IDJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E20
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQBQc3bfxaWB8xuoEGWigp6Q4D6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang S03 E21
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang. S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQBQc3bfxaWB8xuoEGWigp6Q4D6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: La leyenda de Aang. S03 E21
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/37892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outer Banks S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suUTYMjOSvxOXXZqN0psAbb2k3I.jpg" group-title="→ SERIES ACCIÓN ←",Outer Banks S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/260370.mp4
@@ -69923,6 +69925,66 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/259917.mp4
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/259918.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SEAL Team S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S03 E20
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/259919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8raKTaiYxk9440Q1y0HQ3YV8ZY.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjhXsGCViCoxaaQG642iK39s0GU.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T9ETRkvlOAAM5NemTAi0rqSKQF.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgvFGel51IHQXvJtUWdD0H5Lys.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWpOckG7uOB9FAkCrzsnVz6v9BC.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1q2uYmRs4uNClQVgNUuYNAQFJij.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqlljqhaJY0MAeltc46jSP91sb3.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPOCJj9G8u3KZuO379esXZjqfa.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJ1SV4lmJqfFNXjKukFnrMN2293.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iOayZTaPT0Fe33d5E4e4JBaWJ2.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cczfCQVLcVoLBY4x8vEFACXRq5l.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AeNRE9Ro7cjklpt9Pi2Vxmrfsh.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aje0XBbzJeZEu72Gwqekh0BUkj.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHjTGksfRHTh35cWIfKSEIYoCLq.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i55tbRvjzQ75SIwl7XHUmZpEKVc.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S04 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSBn3SLDN8TykDjW1eC9Zo2TlPN.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YCxUPP6v4sfE7iYxMb0P1SATAb.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkCrp08p1NJDBHXyYr7iagD33yz.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vfpa0JGTMxWAiYKUttuuIkCQOj.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMTT2b3SN2CsVoX33jhpQf6g8M4.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kYpG5Qr1j8fdR9NufTJgK1eUBl.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le6P7L2fP73StFu4Edie82LAIt8.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woH8Gdrt4C8jVLEDQN4YRdRluxu.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0AJGrq0SLBPTF24U08GJF9Psv4.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7l25s5DcM7GtTHDd2bq0cWTVUL.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD8I5AQozkV3dQ08Dl8NYrA83fA.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2a7SBWvkYPx9RiLwnkGZJnkmEV.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9NjjbBmpPezMR2umazflVa0MkL.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBFAkR4Be3aEvxYJ06aXmEoSPAO.jpg" group-title="→ SERIES ACCIÓN ←",SEAL Team S05 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281989.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Slam Dunk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2TH1xoyz3Q09ubl3FZfsQSSpzg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Slam Dunk S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/252551.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Slam Dunk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOb1vsckvHMoSWHjnglBvz8VMyZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Slam Dunk S01 E02
@@ -101647,6 +101709,20 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/76018.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/76019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms2trhGJv7yWUe8doDMa9EHccAS.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S01 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/76020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFarciKTQj1kbOTXeERESSwv4dG.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzio7ongVmf6MbJEgM6aSIVGf4V.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qxABDT5K6k4NVgWF6sfe4CzWTT.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j464Uez1gvryQhFFbXvlahhrJr2.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/if6N0ZQYLLNCIhZIB57jTp6Ojon.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OUWuzTkALc8BKoAjksUxeBx3xd.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: La leyenda de Aang S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Avatar: La leyenda de Aang S02 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Solo Leveling S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyjphDUt1vrlckpvfPd0TekuqMm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Solo Leveling S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/76037.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Solo Leveling S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5o2NnATbswomEiCugOgjX8IwY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Solo Leveling S01 E02
@@ -107149,6 +107225,50 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/280928.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/280929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFVOpndnLWcESIiASQwSSjMm4X9.jpg" group-title="→ SERIES DC ←",Smallville S03 E22
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/280930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8vrx435b40ci34GeVtEvHA1hnj.jpg" group-title="→ SERIES DC ←",Smallville S04 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWLk9TwJDsyfn054O8QOfnYqGhJ.jpg" group-title="→ SERIES DC ←",Smallville S04 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl9VlMMI5xQlz1Vt02E4CpATnpS.jpg" group-title="→ SERIES DC ←",Smallville S04 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/281999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9xlDgHD5YViZQZVYA4YZMShvAp.jpg" group-title="→ SERIES DC ←",Smallville S04 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDtnhtR6ildo8pPjc3TSClpLOT.jpg" group-title="→ SERIES DC ←",Smallville S04 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg" group-title="→ SERIES DC ←",Smallville S04 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5nUTb5InawJzBNbwcXUENeqCyz.jpg" group-title="→ SERIES DC ←",Smallville S04 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOEbdvEriBgMC66pN3BXWj17LMd.jpg" group-title="→ SERIES DC ←",Smallville S04 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NGc4bCOxG6ubTplQKgtStglM46.jpg" group-title="→ SERIES DC ←",Smallville S04 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atoNwOLS5sODHJ1Sls5cqh6UGCs.jpg" group-title="→ SERIES DC ←",Smallville S04 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHgvKngP4DTD8XcnPovts8XB5mM.jpg" group-title="→ SERIES DC ←",Smallville S04 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg" group-title="→ SERIES DC ←",Smallville S04 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hk8UATVXYIprI75rVS2KxzpDfA.jpg" group-title="→ SERIES DC ←",Smallville S04 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWhFSYR1IrSbUJfkFmRSHWz89zv.jpg" group-title="→ SERIES DC ←",Smallville S04 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1auMqqMRMffJbEA52ZCCfbhXnu.jpg" group-title="→ SERIES DC ←",Smallville S04 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TIRVwvHBXvNE9StP9ODVS6wCvv.jpg" group-title="→ SERIES DC ←",Smallville S04 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eoJHx8sNVQjJeQw4uErdJ6ICrv.jpg" group-title="→ SERIES DC ←",Smallville S04 E17
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zM2n8okmpKg2FWPtgLQCFdpXQ4.jpg" group-title="→ SERIES DC ←",Smallville S04 E18
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcqA2pRWE6OWWLPGeC8sc2O01gb.jpg" group-title="→ SERIES DC ←",Smallville S04 E19
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vv8p7LW65yBQrcMNjUUsmBfddl.jpg" group-title="→ SERIES DC ←",Smallville S04 E20
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW2wApJr59JMjXG5UzX1eP2a2A1.jpg" group-title="→ SERIES DC ←",Smallville S04 E21
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJatujpAwNGqzTyxAnjYMMquBD.jpg" group-title="→ SERIES DC ←",Smallville S04 E22
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -134641,3 +134761,39 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/281951.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/281952.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elle: Legalmente rubia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FA5AEeQpVi7X0q7ExVuKbEQsCa.jpg" group-title="→ SERIES COMEDIA ←",Elle: Legalmente rubia S01 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/281953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrtSNoYqOwqCEJwiSTRO7pUC2bT.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owH3xwgTKj31yAvl99S2sODNv1A.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxjaesNtmx3EHYWRHtsnLRqnFgq.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ffYkDOUZJx97Y0DwKYP71uqwyx.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZkQxeZYxYmpfF5Fh28uDaxfGdq.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8PyC63Ig0jbNZwRdVmawkkoFJq.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD9nqex3PZoJakeNkCnRy3bKHUw.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AFb3QNGScjQD8j2XpCaGP2z6vS.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9n1MRuHugtwk4qJ5UcfiLvwNll.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdiendo el juicio S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i3pPJau8rtG7kBgYPQ3KRCyNDO.jpg" group-title="→ SERIES DRAMA ←",Perdiendo el juicio S01 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3vMxC19pOOINOaUtj5FvmWER9n.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9jkVllDaqymw0BJJq9lEZ0FG08.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gO0veckrLmtGGMHoa4lJPg6sUUq.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC2U4CblnXBcGrc0e3c6kRUdW1n.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAMNmzb4VLK04gNEseJgibtIt3z.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQrzCIVx3yQX70M2m71r7WII1y.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVk9eA4WA2aWxyM3CNpYhAKRCRQ.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhkcD5rnsbdlLyUIpK8ffa7uM6R.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282036.mkv
