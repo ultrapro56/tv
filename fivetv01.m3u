@@ -1,30 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="" group-title="CANALES",CANAL UNO ak-47
+http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/334625.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
+http://fivetv.org:25461/JoseIzquie0404/7456343/173271
 
+#EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
+http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
-http://fivetv.org:25461/JoseIzquie0404/7456343/153830
-#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
-http://fivetv.org:25461/JoseIzquie0404/7456343/186530
-#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
-http://fivetv.org:25461/JoseIzquie0404/7456343/186531
-#EXTINF:-1 tvg-id="0" tvg-name="COL | NTN24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV || COLOMBIA",COL | NTN24 HD
-http://fivetv.org:25461/JoseIzquie0404/7456343/186532
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CABLENOTICIAS" tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV || COLOMBIA",COL | CABLENOTICIAS
-http://fivetv.org:25461/JoseIzquie0404/7456343/187003
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL DOCE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | CANAL DOCE
-http://fivetv.org:25461/JoseIzquie0404/7456343/186533
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD*" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD*
-http://fivetv.org:25461/JoseIzquie0404/7456343/186534
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD " tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD 
-http://fivetv.org:25461/JoseIzquie0404/7456343/186535
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL UNO
-http://fivetv.org:25461/JoseIzquie0404/7456343/173269
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="TV || COLOMBIA",COL | TELEANTIOQUIA
 http://fivetv.org:25461/JoseIzquie0404/7456343/186536
@@ -35,25 +19,13 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/186538
 #EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV HD" tvg-logo="https://i.ibb.co/9g8JcJW/city.png" group-title="TV || COLOMBIA",COL | CITY TV HD
 http://fivetv.org:25461/JoseIzquie0404/7456343/186539
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
-http://fivetv.org:25461/JoseIzquie0404/7456343/173271
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | ZOOM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | ZOOM
 http://fivetv.org:25461/JoseIzquie0404/7456343/173275
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL TRECE
-http://fivetv.org:25461/JoseIzquie0404/7456343/24598
 
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA",COL | SEÑAL COLOMBIA
-http://fivetv.org:25461/JoseIzquie0404/7456343/171153
-
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CNC MEDELLIN" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" group-title="TV || COLOMBIA",COL | CNC MEDELLIN
-http://fivetv.org:25461/JoseIzquie0404/7456343/187001
-#EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
-http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 #EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 8 TV+" tvg-logo="https://i.ibb.co/TMSj2Kd/88-m3u.png" group-title="TV || COLOMBIA",COL | CANAL 8 TV+
 http://fivetv.org:25461/JoseIzquie0404/7456343/187004
 #EXTINF:-1 tvg-id="" tvg-name="COL | MULTICANAL" tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title="TV || COLOMBIA",COL | MULTICANAL
