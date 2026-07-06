@@ -13,7 +13,12 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 #EXTINF:-1 tvg-id="" tvg-name="COL | ZOOM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | ZOOM
 http://fivetv.org:25461/JoseIzquie0404/7456343/173275
 
-
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
+http://fivetv.org:25461/JoseIzquie0404/7456343/153830
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
+http://fivetv.org:25461/JoseIzquie0404/7456343/186530
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
+http://fivetv.org:25461/JoseIzquie0404/7456343/186531
 
 
 
