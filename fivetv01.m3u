@@ -5,7 +5,8 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/483
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
 http://fivetv.org:25461/JoseIzquie0404/7456343/173271
-
+#EXTINF:-1 tvg-id="" tvg-name="COL | D. SPORTS 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | D. SPORTS 1 HD 
+http://fivetv.org:25461/JoseIzquie0404/7456343/92576
 #EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
 http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 
