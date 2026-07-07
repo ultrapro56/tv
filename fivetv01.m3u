@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="" group-title="CANALES",CANAL UNO ak-47
-http://ak-47scan.dyndns.tv:25461/live/DarlynCarri4/rEb75XzwEmfK/334625.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »2«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/483
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
 http://fivetv.org:25461/JoseIzquie0404/7456343/173271
@@ -9,19 +9,16 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/173271
 #EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
 http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | ZOOM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | ZOOM
-http://fivetv.org:25461/JoseIzquie0404/7456343/173275
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" 
-tvg-logo="https://static.epg.best/co/Caracol.co.png" 
-group-title="TV || COLOMBIA",COL | CARACOL SD
-http://fivetv.org:25461/JoseIzquie0404/7456343/153830
-
 #EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
 http://fivetv.org:25461/JoseIzquie0404/7456343/186530
 #EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
 http://fivetv.org:25461/JoseIzquie0404/7456343/186531
+
+#EXTINF:-1 tvg-id="" tvg-name="D. SPORTS 1 HD (ARG)" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="TV || DEPORTES",D. SPORTS 1 HD (ARG)
+http://fivetv.org:25461/JoseIzquie0404/7456343/92576
+
+#EXTINF:-1 tvg-id="" tvg-name="D. SPORTS 2 HD (ARG)" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="TV || DEPORTES",D. SPORTS 2 HD (ARG)
+http://fivetv.org:25461/JoseIzquie0404/7456343/92579
 
 
 
