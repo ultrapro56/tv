@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Boda Sangrienta 2 (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destroyer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="→ VOD CRIMEN ←",Destroyer
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxNSgsnBByx8L6PLH0fSXS9kgeR.jpg" group-title="→ VOD TERROR ←",Boda Sangrienta
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de Sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZZu0UEPtEeZ90fkX6i1pmEHOs8.jpg" group-title=" → VOD ESTRENOS 2025 ←",Temporada de Sangre (2025)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Codigos de Guerra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvoaNm8qJTeWwlJ16or5fwrHvx9.jpg" group-title="→ VOD BÉLICAS ←",Codigos de Guerra 
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones de Elite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifuKZivA7SKhFpUH8g5vk2UmVd0.jpg" group-title="→ VOD ACCIÓN ←",Ladrones de Elite
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Portero Muy Improbable (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qIny8wROLKOEe89YHJgkMHiBxA.jpg" group-title="→ VOD ESTRENOS 2026 ←",Un Portero Muy Improbable (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/282038.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Licencia para Robar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX5HV8LC2tulHI2GT9Ar8WVFyg.jpg" group-title=" → VOD ESTRENOS 2025 ←",Licencia para Robar (2025)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281975.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mas alla del Cielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYI5NwpkyatEymuOWCOy7Q7Q1MN.jpg" group-title="→ VOD DRAMA ←",Mas alla del Cielo
@@ -12903,8 +12917,6 @@ http://23.153.217.158:8080/movie/995431461tv/7ct525/4391.mkv
 http://23.153.217.158:8080/movie/995431461tv/7ct525/4392.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operación Overlord (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtdy7CDGyFYYPMsM2FmZ9tkGTG4.jpg" group-title="→ VOD BÉLICAS ←",Operación Overlord (2018)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/4393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operación Overlord (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtdy7CDGyFYYPMsM2FmZ9tkGTG4.jpg" group-title="→ VOD BÉLICAS ←",Operación Overlord (2018)
-http://23.153.217.158:8080/movie/995431461tv/7ct525/4394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Billy Lynn: Honor y sentimiento (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOwFfMQtxkMbQHr9W9ve7BYgTBP.jpg" group-title="→ VOD BÉLICAS ←",Billy Lynn: Honor y sentimiento (2016)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/4395.mkv
 #EXTINF:-1 tvg-id="" tvg-name="1918: La batalla de Kruty (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7abE0YZIZwdlFnQW89vmar2oUgC.jpg" group-title="→ VOD BÉLICAS ←",1918: La batalla de Kruty (2018)
@@ -62457,6 +62469,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281280.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281589.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E07
 http://23.153.217.158:8080/series/995431461tv/7ct525/281590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Euphoria S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg" group-title="→ SERIES DRAMA ←",Euphoria S03 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/282037.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/235376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkUkVV3D9zHJ974CqsL7gA5vhOV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Expediente X S01 E02
@@ -134797,3 +134811,19 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/282034.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/282035.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Hombre Vapor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhkcD5rnsbdlLyUIpK8ffa7uM6R.jpg" group-title="→ SERIES CRIMEN ←",El Hombre Vapor S01 E08
 http://23.153.217.158:8080/series/995431461tv/7ct525/282036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QAhacJ9Lg3W5isPMH1HE6zldDd.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/282043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwt03UqpgnLi261Z67P5bVXcHd5.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/282044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOWfK5KbtO0XsiIKC5FOidDxTuY.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/282045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27Ebt6ploVGgOJLjQx8xGu60bLP.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/282046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhKvSeuTrqDDIf8ZKS0Zy38jUKF.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/282047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUZCrdqAV61qmASaPzjSVrZpk4o.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/282048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCDzRkGS8L7ZAoYWsiPtjlV9am.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/282049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef3wwMMztFytINLDmD15JjeBPhL.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/282050.mkv
