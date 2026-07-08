@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Vanilla Sky " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg" group-title="→ VOD ROMANCE ←",Vanilla Sky 
-http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Boda Sangrienta 2 (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destroyer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="→ VOD CRIMEN ←",Destroyer
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxNSgsnBByx8L6PLH0fSXS9kgeR.jpg" group-title="→ VOD TERROR ←",Boda Sangrienta
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282051.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Temporada de Sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZZu0UEPtEeZ90fkX6i1pmEHOs8.jpg" group-title=" → VOD ESTRENOS 2025 ←",Temporada de Sangre (2025)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282041.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Codigos de Guerra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvoaNm8qJTeWwlJ16or5fwrHvx9.jpg" group-title="→ VOD BÉLICAS ←",Codigos de Guerra 
