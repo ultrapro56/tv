@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Vanilla Sky " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg" group-title="→ VOD ROMANCE ←",Vanilla Sky 
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Furious (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Furious (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Drama (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boulevard (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg" group-title="→ VOD ESTRENOS 2026 ←",Boulevard (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgJCp2TOtTMGWS766tQhNcuFhjs.jpg" group-title="→ VOD ESTRENOS 2026 ←",Scream 7 (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Muerte De Robin Hood (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qLBTkJ3SPSi0s2uCj0E6WfR309.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Muerte De Robin Hood (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megamente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qlvYCBCO0rGEjZcLVRY7LVZUw4.jpg" group-title="→ VOD COMEDIA ←",Megamente
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Papa Genial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD5mbxxy5SPCgsp5qzyS6k2QQrn.jpg" group-title="→ VOD COMEDIA ←",Un Papa Genial
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jugada Maestra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpAt80FtHAQySEC8SwsDGhFp8MF.jpg" group-title="→ VOD ESTRENOS 2026 ←",Jugada Maestra (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Boda Sangrienta 2 (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destroyer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="→ VOD CRIMEN ←",Destroyer
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda Sangrienta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxNSgsnBByx8L6PLH0fSXS9kgeR.jpg" group-title="→ VOD TERROR ←",Boda Sangrienta
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282051.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Temporada de Sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZZu0UEPtEeZ90fkX6i1pmEHOs8.jpg" group-title=" → VOD ESTRENOS 2025 ←",Temporada de Sangre (2025)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282041.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Codigos de Guerra " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvoaNm8qJTeWwlJ16or5fwrHvx9.jpg" group-title="→ VOD BÉLICAS ←",Codigos de Guerra 
@@ -12777,7 +12797,7 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/4317.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/4318.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Into the Woods (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SgGsoAR0JWoxZeEWEHrzQweAnJ.jpg" group-title="→ VOD AVENTURAS ←",Into the Woods (2014)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/4320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8STWO9pUTqubPV04iXZ2R6SClME.jpg" group-title="→ VOD AVENTURAS ←",Enola Holmes (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8STWO9pUTqubPV04iXZ2R6SClME.jpg" group-title="→ VOD AVENTURAS ←",Enola Holmes 2
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/4321.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pesadillas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUK06JoZAcEiEZSxL4qbZTHx4.jpg" group-title="→ VOD AVENTURAS ←",Pesadillas (2015)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/4322.mkv
@@ -17907,6 +17927,14 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268637.mp4
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - UFC - UFC 329: McGregor vs Holloway Español" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",13:00 - UFC - UFC 329: McGregor vs Holloway Español
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282618
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - UFC - UFC 329: McGregor vs Holloway Multiview" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",19:00 - UFC - UFC 329: McGregor vs Holloway Multiview
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282619
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - UFC - UFC 329: McGregor vs Holloway English" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",12:00 - UFC - UFC 329: McGregor vs Holloway English
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282620
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV BOX | UFC FIGHT PASS
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282621
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -36777,6 +36805,12 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/281761
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281762
 #EXTINF:-1 tvg-id="" tvg-name="FANZONE (SAT) (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjkENqHDkVPyrSDfJ8JeOswmW3FXY9V1tAw&s" group-title="→ COPA DEL MUNDO 2026 ←",FANZONE (SAT) (SOLO EVENTOS)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281764
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS EN MAX (Eventos) 2MB" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="→ FUTBÓL CHILE ←",DEP | TNT SPORTS EN MAX (Eventos) 2MB
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282054
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS HD (ST)" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTOS HD (ST)
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282055
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS EN MAX (Eventos)" tvg-logo="" group-title="→ FUTBÓL CHILE ←",TNT SPORTS EN MAX (Eventos)
+http://23.153.217.158:8080/935917692tv/a4gqcz4/282056
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/935917692tv/a4gqcz4/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -37433,6 +37467,52 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/281351
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281352
 #EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA13" tvg-logo="" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA13
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281356
+#EXTINF:-1 tvg-id="" tvg-name="Cage Warriors 124 - The Trilogy 4" tvg-logo="" group-title="CIne Adultos XXX",Cage Warriors 124 - The Trilogy 4
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (119)" tvg-logo="" group-title="CIne Adultos XXX",4 (119)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",Z (1969)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (123)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (123)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",Z (1969)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (117)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (117)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (120)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (120)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birth of a Nation: 4.29.92 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",Birth of a Nation: 4.29.92 (1993)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alla tiders 91:an Karlsson (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",Alla tiders 91:an Karlsson (1953)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serial Killing 101 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",Serial Killing 101 (1998)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="25 do 4 em 99 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",25 do 4 em 99 (1999)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (100)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (100)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (93)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (93)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (97)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (97)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (98)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (98)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (96)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (96)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (95)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (95)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (94)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (94)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (273)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (273)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (103)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (103)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (102)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (102)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (85)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (85)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 (82)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecsJAiMViUkFdeJ9sRzzxiCt7fa.jpg" group-title="CIne Adultos XXX",4 (82)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282085.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E01" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/1199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E02" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E02
@@ -52897,11 +52977,19 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/240881.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/240882.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPoUP01s4viCGi8b1aI63ZBvp3l.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/243194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E06
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPoUP01s4viCGi8b1aI63ZBvp3l.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/243195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E07
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E09
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/243196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E08
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E12
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/243197.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah0YzFOqNyV30NCNB4J28nOcQrk.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/279752.mp4
@@ -110073,6 +110161,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/271443.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281875.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E02
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/239126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E02
@@ -115291,6 +115381,14 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/246241.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/246242.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X Men 97 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg" group-title="→ SERIES MARVEL ←",X Men 97 S01 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/246243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X Men 97 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CRyNvTEd1ZjpJrtueadX2Q1WiR.jpg" group-title="→ SERIES MARVEL ←",X Men 97 S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X Men 97 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yb7DraYTEkE4tanFcWNR3Oivjl3.jpg" group-title="→ SERIES MARVEL ←",X Men 97 S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X Men 97 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKhuSeat4EojcnmAbAb6GWRzoiu.jpg" group-title="→ SERIES MARVEL ←",X Men 97 S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X Men 97 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rw5XdSt1tStL2uN2m4i6TsX0V2v.jpg" group-title="→ SERIES MARVEL ←",X Men 97 S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282584.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Woo, Una Abogada Extraordinaria S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbKT9TtW8eBVw9lPMik8xwIS2hQ.jpg" group-title="→ DORAMAS ←",Woo, Una Abogada Extraordinaria S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/246249.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Woo, Una Abogada Extraordinaria S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8OpiYfWhhRZc2EaTPsITsGLVnY.jpg" group-title="→ DORAMAS ←",Woo, Una Abogada Extraordinaria S01 E02
@@ -134823,3 +134921,43 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282048.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282049.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Refugio de Harlan Coben S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef3wwMMztFytINLDmD15JjeBPhL.jpg" group-title="→ SERIES MISTERIO ←",Refugio de Harlan Coben S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bdlEUEljjQ9VN3f1MajNl3B0dY.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TiftyIA61VExF5vvAWt3EOT2aF.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79pkiIDcBz39ay3TSUXSPE0zHLW.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNQj2nsOH4nWJ4NZjoFn1T7pbT6.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfwsZerimFyDrYtItk19HjUsdr.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtChlPPZ4mXV4VD5bqqpCIedcfq.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnc2LFyhnC9Kju14L2IpUGmyLRa.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la Pradera S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QGfLtAttEmhx4wu45H8WAhBZ0o.jpg" group-title="→ SERIES DRAMA ←",La casa de la Pradera S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l8wwhjOmyEhU7f03Br7ghmlTLS.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5rT4rW3wwHIW26xau4uYgj8ha4.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y2anfYLBYkSFhzboLEi0aSgoAc.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yebfdTS60ed5YKTZTNXakvLjK0v.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YZ58SWSdwBrqFqbsZQazbOiTj9.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombre a medias S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyn10ewmvFPaOfasv3U9OibNA5.jpg" group-title="→ SERIES DRAMA ←",Hombre a medias S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6iPvN6e2Q4CJFNamYxmySwOgCd.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r95fEDXtrAfcfZyxCHD3tnV9w4A.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59q9bNYDAnLylquIN6MwshhEhcZ.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDfBQ07Tndk4o9s4mVe3uKnqcyl.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZIeSRMwy9CmhhTAGsCjZCCKQL8.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inTXoVykTxljhGOMXaOcmeFM8x4.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282613.mkv
