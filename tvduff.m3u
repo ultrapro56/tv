@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Hind Rajab (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0E74KTSmdxN8eVDx122tooXvg.jpg" group-title=" → VOD ESTRENOS 2025 ←",La voz de Hind Rajab (2025)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/282678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el final (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaedoBmTuQ3zutjUxDvd2YpsHyQ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hasta el final (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/282675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Pasajero del Diablo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab8hV0VchllOiDbxbclAR8FwC77.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Pasajero del Diablo (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/282674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Sombra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjKcva7yi64MdRR3ClNsx8k02Nu.jpg" group-title=" → VOD ESTRENOS 2025 ←",Operacion Sombra (2025)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/282673.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Furious (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title=" → VOD ESTRENOS 2025 ←",The Furious (2025)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/282617.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Drama (2026)
@@ -17927,14 +17935,8 @@ http://23.153.217.158:8080/movie/977899335tv/l8q53zg/268637.mp4
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/281289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="13:00 - UFC - UFC 329: McGregor vs Holloway Español" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",13:00 - UFC - UFC 329: McGregor vs Holloway Español
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/282618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 - UFC - UFC 329: McGregor vs Holloway Multiview" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",19:00 - UFC - UFC 329: McGregor vs Holloway Multiview
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/282619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 - UFC - UFC 329: McGregor vs Holloway English" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="→ PPV EVENTOS Y DEPORTES ←",12:00 - UFC - UFC 329: McGregor vs Holloway English
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/282620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOX | UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV BOX | UFC FIGHT PASS
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/282621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chile/ Chilevision" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Chilevisi%C3%B3n_%282018-%29.png" group-title="→ COPA DEL MUNDO 2026 ←",Chile/ Chilevision
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/282677.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/38.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -36809,8 +36811,6 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/281764.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/282054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS HD (ST)" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTOS HD (ST)
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/282055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS EN MAX (Eventos)" tvg-logo="" group-title="→ FUTBÓL CHILE ←",TNT SPORTS EN MAX (Eventos)
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/282056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/14107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -52977,19 +52977,11 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/240881.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/240882.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPoUP01s4viCGi8b1aI63ZBvp3l.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E05
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/243194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPoUP01s4viCGi8b1aI63ZBvp3l.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/282604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E07
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/243195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofwUVpq9uVEtddZK7HSKzwRJnL1.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E08
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/282605.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E09
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E07
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/243196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgUQMxPk5BhVDEhSZJL4kLfN22.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E10
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/282606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E11
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/282607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E12
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HxX90kgsQUfeXEenhUadsG3hv.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S03 E08
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/243197.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah0YzFOqNyV30NCNB4J28nOcQrk.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279752.mp4
@@ -52999,6 +52991,14 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/279753.mp4
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279754.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hN1UL8mFauVY7VzkJQ8h1Pd37Mo.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E04
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFPrb2472j3yIVVaYUhIhCBS5Oy.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqQauwCllT0qTbNWkck9LqsxSic.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPaPjMtIjaTwqrDAxiV4iIJwbzU.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Bridgerton S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izkPxH9s0WeKoG8q97JcFwbudxc.jpg" group-title="→ SERIES DRAMA ←",Los Bridgerton S04 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282647.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bronco: Un éxito indomable S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wUUcwgwY1mqRywS8FtvnPQYEt2.jpg" group-title="→ SERIES DRAMA ←",Bronco: Un éxito indomable S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/234427.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bronco: Un éxito indomable S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmQITdgf1g9P64COfs27Ddq6AKw.jpg" group-title="→ SERIES DRAMA ←",Bronco: Un éxito indomable S01 E02
@@ -96851,6 +96851,56 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/279226.mp4
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279227.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Heroes S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cYgWeMbQa6p1ETetYIVwCx7KON.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S02 E11
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEwL5OaixGKaVQ1pd2mBMSTUAzC.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbKMf7KDrb75JjUVajAbIaMRwDA.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXNGDWMKCLqBN9ffSN5MZi8TPiB.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ntWLugDk53SrlAYKQSG8wp3wfe.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXqFvZm2C7yBKpwsPjGzUcYNTrA.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65brhe7fCIOoHpNPKxzUQtnnpXI.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku1Wr29Rj08ayxxT18JTd3Inoop.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sjSNEzemTfFHn7rs3o8pH5X3zF.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlYFswt9VMKXZ2hd0aP4GwOjzT0.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrRzkTHYk2KUUAzgI3IALrkdH1a.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxYMn5a5QvhBj0dRtxW6RNu2D57.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLfd1RMKZtA0Ei2OKHORdHEd8y9.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDWsEiTkZ8cgEcyjbpnMuyCi0wI.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjRmjNJh3yEcCHfqDan0fI95LRy.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3xnMsne1cA4UfcTFYg99wOcB0l.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgg0j51SpVuSMfTOWLMj0UjayeL.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU6WFOmiN4HBfqrKRfRBqIihuAL.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E17
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oScl9LFds8mt8sVTB9ZkV2uoPkW.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E18
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE7HOFPoQvQfSMEEo3UtrhRADkj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E19
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiRKstIlgi7aiAAC8weWNa1Ixyw.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E20
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7XNZfiYHsu6bRHayWxWDeQbEHK.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E21
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33lwE9mjFsptE1Xmc87D9l2zt7a.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E22
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ssOOVOYqMwfNNmBjiDO3LKc7vC.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E23
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfIdEk7yVa1JgT4yInaFTFxMFNx.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E24
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroes S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6OrAzJ0BP1oTYygPJsVtskqKxA.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Heroes S03 E25
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282672.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oz S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/do8298BKzrWTd04upMpEJWZQuvq.jpg" group-title="→ SERIES CRIMEN ←",Oz S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/65825.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Oz S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfERtQ7evsQfQWP7DDv7z8cjYJJ.jpg" group-title="→ SERIES CRIMEN ←",Oz S01 E02
@@ -107367,6 +107417,50 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/282016.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/282017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJatujpAwNGqzTyxAnjYMMquBD.jpg" group-title="→ SERIES DC ←",Smallville S04 E22
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/282018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpkE0EGG9JprSGKv2wPFb2hLQqj.jpg" group-title="→ SERIES DC ←",Smallville S05 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntMrI2PjqTF8QidhiGAiTn6d5tm.jpg" group-title="→ SERIES DC ←",Smallville S05 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdsLBmWjVXOZTwQcSj9lYSlaV2.jpg" group-title="→ SERIES DC ←",Smallville S05 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZWBz7ygNurPMUQClf6U3YZiogl.jpg" group-title="→ SERIES DC ←",Smallville S05 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqtUsjCeCVs6pBbW9e3QAEfpezm.jpg" group-title="→ SERIES DC ←",Smallville S05 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS7a7M1EiSnTDXxpm5OScG7l6a7.jpg" group-title="→ SERIES DC ←",Smallville S05 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar8D8alZxxWjmRGPw7qj61OMOaM.jpg" group-title="→ SERIES DC ←",Smallville S05 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szxHsWybJXPpqW3eAYmBikUCpaO.jpg" group-title="→ SERIES DC ←",Smallville S05 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nSRbYR7UtDlzioOJ3ywvT9xlJQ.jpg" group-title="→ SERIES DC ←",Smallville S05 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxbvYKKxnwZQ3NrruM7WLYe9PP9.jpg" group-title="→ SERIES DC ←",Smallville S05 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVx5MT94LBeuGOyBIKBxmjPYtK6.jpg" group-title="→ SERIES DC ←",Smallville S05 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lq55IwxzBGrmhgpDnLNVpPFnaS.jpg" group-title="→ SERIES DC ←",Smallville S05 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulX6o2yxkmFTAzWxio95ck7ntHF.jpg" group-title="→ SERIES DC ←",Smallville S05 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdL57trQZjGIsUhqbSVKTvmjxWs.jpg" group-title="→ SERIES DC ←",Smallville S05 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adTztTM3MLxZ0m1SpVu4arZaopp.jpg" group-title="→ SERIES DC ←",Smallville S05 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1zuF3WMJU4Ik1tAe5fbrsEDPWG.jpg" group-title="→ SERIES DC ←",Smallville S05 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awCoP3ioZSYmKvUhTP4oiJO1iOb.jpg" group-title="→ SERIES DC ←",Smallville S05 E17
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVp9MXjTaB73ZRWhNJMAY5BwT3E.jpg" group-title="→ SERIES DC ←",Smallville S05 E18
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18b0Hxo9trxLCUc8jjtv98bLyEp.jpg" group-title="→ SERIES DC ←",Smallville S05 E19
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nW5UwaY1czCuKFyBuaRxmWA1i.jpg" group-title="→ SERIES DC ←",Smallville S05 E20
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k9NAcaNyT6b2dNuLpQR7Pc4I3w.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUzW5wPz6txROilc6J4IJdDIdge.jpg" group-title="→ SERIES DC ←",Smallville S05 E22
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282643.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -110163,6 +110257,8 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/281875.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/281933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/282603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kcKcglqhlje5zqIadRQgc7tvWMN.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/282676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/239126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E02
