@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Vigilantes de la Calle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTArjYndmjEsrYPEYP1nD4q2WYj.jpg" group-title="→ VOD ACCIÓN ←",Vigilantes de la Calle
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Avispa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIP56aG86UFfNol6v9b87zsh6FX.jpg" group-title="→ VOD SUSPENSO ←",La Avispa
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asiento Mortal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL0mC1UeVONCsdIzN5Lq6BSr5Jp.jpg" group-title=" → VOD ESTRENOS 2025 ←",Asiento Mortal (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo antes de ser yo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="→ VOD ESTRENOS 2026 ←",Yo antes de ser yo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RmEO655PT9AK7Q58hIAPmpLNLT.jpg" group-title="→ VOD ESTRENOS 2026 ←",El mal (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deseo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg" group-title="→ VOD ESTRENOS 2026 ←",Deseo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christy (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A34zGQkOsi9iTOlwnh1vVDxtlfN.jpg" group-title=" → VOD ESTRENOS 2025 ←",Christy (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Undertone: Frecuencia maldita (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85OfcPsWIpERIr7yRWOUr7S1g8b.jpg" group-title="→ VOD ESTRENOS 2026 ←",Undertone: Frecuencia maldita (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcYM55YaRob9UrPf9vW2lrBpIY8.jpg" group-title="→ VOD CAM 2026 ←",La Odisea (2026) CAM
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de riesgo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg" group-title="→ VOD ESTRENOS 2026 ←",Zona de riesgo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La voz de Hind Rajab (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0E74KTSmdxN8eVDx122tooXvg.jpg" group-title=" → VOD ESTRENOS 2025 ←",La voz de Hind Rajab (2025)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282678.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hasta el final (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaedoBmTuQ3zutjUxDvd2YpsHyQ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hasta el final (2026)
@@ -4463,8 +4483,6 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/241823.mp4
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/241694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Desafiantes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title=" → VOD ESTRENOS 2024 ←",Desafiantes (2024)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/241696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drunk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg" group-title="→ VOD COMEDIA ←",Drunk
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/240243.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ángeles inesperados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH61wKKHO4NF3Uejs5a79XJq9GK.jpg" group-title=" → VOD ESTRENOS 2024 ←",Ángeles inesperados (2024)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/240239.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noche de Bodas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQoSPyAGHseY5NhMM28orLkxjq.jpg" group-title=" → VOD ESTRENOS 2024 ←",Noche de Bodas (2024)
@@ -67803,6 +67821,26 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/76010.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/76011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spartacus S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFgewnTahXf6bVvYyr8Db8cu3M.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S03 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/76012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg" group-title="→ SERIES ACCIÓN ←",Spartacus S04 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/758JlWhBQjnvRBKKdxH6nEuuyBr.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Alice in Borderland S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/277898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At7tagPr0drQWBLAW8dUD8zLsXn.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Alice in Borderland S01 E02
@@ -110259,6 +110297,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281933.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kcKcglqhlje5zqIadRQgc7tvWMN.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E04
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ac4Y1B8dpN48ywZzc4EyL924VUy.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282753.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/239126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E02
@@ -111469,6 +111509,22 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/276894.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/276895.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Bear S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15SHizNHlCOjnOmNYNVdxPhZDUQ.jpg" group-title="→ SERIES DRAMA ←",The Bear S04 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/276896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBb0ki9vZBeS2avkLa1gVsYQgcd.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6pOB6c8olu9xc6UxKIStlSZjiw.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XINZP9HTJYSzOlSpzPDFaSXFIp.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctgMhatSZTPSGlHXm3vfr3itdJ0.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Apd7rfZpRBHqdp6OZpdkSEDdbnU.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1K3hZThLDFXGVH8ZA6kk04VoDX.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HTwTXrZBJCzlpGjEG2wvaP42LR.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bear S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOcD9c7I4vBckT5jaqCvU8ySDW2.jpg" group-title="→ SERIES DRAMA ←",The Bear S05 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Leyendas Urbanas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50CKQvJWbf5YFaVSfrq5imwZs1q.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Leyendas Urbanas S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/243209.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Leyendas Urbanas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LEAI056kA38MvY4qzCWvvIATrt.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Leyendas Urbanas S01 E02
@@ -121807,6 +121863,22 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254067.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254068.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svpDXGC16n5RMWsBU8uSogwSsrA.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S01 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnKNPr80hW0hFfQdtO5B5K85SF.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf3R6984ORiiZJukq0aPL89IJ0.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdoclagUiEYbeykZfCDyTMImAEB.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIsWczBQ1fZtSOQhd8MKKYSZmEG.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsSO0VGnQoOpD3OZRQoswzRI6fN.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehZhbXbs8gMV08MWZlmkaQP3RgU.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZ3UEOmGg2KN5vCmyQwnrUCNxVC.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7umvt2ZjPA9prbSjoNU7Kmnhix.jpg" group-title="→ SERIES DRAMA ←",Entrevista con el vampiro S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282751.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wolf S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwzOuqlssceNUFgnBx0NTvfzW9Y.jpg" group-title="→ SERIES CRIMEN ←",Wolf S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wolf S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYslBQiQHcUcGYKb8apZ6eeBsML.jpg" group-title="→ SERIES CRIMEN ←",Wolf S01 E02
@@ -133849,6 +133921,30 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280483.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280484.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n4CW6wO9RXdP8qBZZo7ty7rJgH.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S02 E12
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmr6eiMUl0RlGN7TBL01z6oZyEt.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csMJI0SXVkdZjByTTArv79UpfoK.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfo1RDoXrbafL2HuKjrZeRfYLE.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ3hwYT0qX6CUhVMkE7APVgq3NX.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sk2e7ptuiqFdq6o2E87ZHHpIYOt.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZyMBoYxiKtPF9AXxLF1RvDsf5C.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB5HDawmQigewKhNYKj9L1XJFv3.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaFresTnaj5E4kDwTbWEis2d2Ij.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxYFm4V9An7QgYZZcBYFJ7YeSrD.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6DIPrjriuRWGSTYfDBviQr17TB.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWztCqQ58JFtXDs50SORy7jWF4R.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTg8q8GjzuV01Y6dFCiYelun3l1.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282714.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZoGEhwIQzAIZeJ7XlgjV9LAuRO.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280486.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qicUJJUptke2GqvPsCIPpkhGeQJ.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E02
@@ -134937,6 +135033,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281899.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281900.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rancho Dutton S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/yR9CRcKrGM85omkkHAy35o5vSIz.jpg" group-title="→ SERIES DRAMA ←",Rancho Dutton S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282702.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liOnmwPCn0M36bKqJ6hLtysbiUF.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chico de la Ultima fila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAoZJuKqI2yUGls3f5GmRe5Pvm3.jpg" group-title="→ SERIES DRAMA ←",El Chico de la Ultima fila S01 E02
@@ -135057,3 +135155,153 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282611.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282612.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las Fieles S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inTXoVykTxljhGOMXaOcmeFM8x4.jpg" group-title="→ SERIES DRAMA ←",Las Fieles S01 E06
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe5e4AHtadh1tkw7u296GtD6rNo.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehixApTLCXU6bqJJgQkHtxHoeLo.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLtFC1ElrAFtUf5RZX8e3yS8DWP.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2pBzDYEoOsKSUbFIFA6NKjU4Ie.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vKXzI1ocqqT28PeLHhKpLdU1k9.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z2bodGYC6HNtkZbeBPmSzQ2QpI.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ABq71Gi6ozw67BsmQCAhmLecYM.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaCYfYz11A85tiEAC3VX5q5VNc4.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sWyeYZAp434Tqrn8dG8QCy2QJH.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zqbzJFAaQA2S0UeyrhJWUsR3tf.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksmvOV6rzHbL5KlsvmkHqP7JJNt.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Z4pF9JI09Jvf5p86derCQqwwk.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71E84H7u5HO36fBt5QkPtNK65it.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihuEeRWOX8LP5a91bfoTltrBUDO.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soVXlGAMRcEb0cGIwQ8KwdkeMOH.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor del mal S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reGkoeF1uCT6KcZEpIJXkc05UUB.jpg" group-title="→ SERIES CRIMEN ←",La flor del mal S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgF2QUGBreZchPM6y4m6iX8Bk9s.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Paic9RMDJinMsEK1I4rAZIVHtF.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiHmAKeuhA47oWnHDMkQh5mZwZh.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viZLyGANKenH1h4tNocYNZEhIWj.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viZLyGANKenH1h4tNocYNZEhIWj.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ53P1j7gyAnWA5Xu1N0WPDnkcm.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengo miedo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skQKUGyvCRTsMbnSVqtvc7bXWw2.jpg" group-title="→ SERIES DRAMA ←",No tengo miedo S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rUPU9g4Z5bBm5JgaZiwOk2YjrQ.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae73sOf1VUmLDdvvagqkexsY89O.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssBPRIEVQBRrekkgSRYSEKE0XlU.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD5gGfHLtK4iUrQPx69wjuyTSyk.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzuR3JNEYaBredI6VbLHPgc7EME.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa América 2024: El legado S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gApkO2AdSh1cUVJ3wTN1B4Qm5sM.jpg" group-title="→ SERIES DOCUMENTALES ←",Copa América 2024: El legado S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spI7uWPdfrCvJTVebkZZU1IJieq.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc45nAOxEAtHsAe5Kus5GlkoppH.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gosF5tbLPUC60esXgpcC0ACc0ZO.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9t6adIrMRdAUiDWI4wlEz72v4z0.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni5KEFwhKmu41mF7TO8hfFSjuwM.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vWnUAnqiYRfin7z7pt3LFa46MO.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24Ofu8HmdB5VDRxpvF4hnsohEMx.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Palacio del este S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYVnQymmcplrnK8eg337E7GuCTv.jpg" group-title="→ SERIES MISTERIO ←",El Palacio del este S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdJ98bbSpQqph7XYiPvhj1puRoa.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkz22KW2clQuTewLsqrO7KfWiHc.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xvcndXOO1DdvUJIk9HS9QLjsT4.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0lqf7jDa0jMJRWfbJIKSYWkpAv.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srMMhxoEPIa7DUyLCxvJLyYvOVn.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3xGU7Hcvxn947jrDzCdlzIVFQS.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sTP7hAdvN8myHB9n8AnecwyD4Y.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo en Ohio S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rBSXXSPYrcWs8kIoGh75BQzTd9.jpg" group-title="→ SERIES CRIMEN ←",El diablo en Ohio S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc8Jj6b1IUZ9EXnubHuM1bA0lrt.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWuaClU1Tq1E6EX36GhdHhZ2YPr.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUmCeZeP5PeBk4Uq3n5wHCmBAKb.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qsSZUjn5rNXFuNeU3HHkUm7QSxe.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZaKsjnv7zIKaSjo4AsAL6DEaF.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Cgn3SGGXiyGmnguzePeQsSzGJj.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p78ysqytMKqPM2ALYjA2C1KvVvc.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm7I4Ta076IEXTUzWub8A8cgHMy.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTp2DCWmcbHcBKCYbbNt6l4pMn.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL3uvtf4uNdsKweblUnMC6boMZJ.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCjeOb4QQw9XfB1UgUhtzPBCvoP.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiAJ1j6S3vFKHlC0XHnHcSR4frq.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0DIS2mOmxID7HBMb8cjP9ATrOU.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lsmt7C2YYhCqqTDKEJV8jHn2Lz.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwhwrROWQ4heg6i5sr3wnJc1C8L.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuJ3dbIIIHqt6vsT04i74a60c1V.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VDacWiJCVBDBvULWxPhaQqTz2c.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozfsSa3ayOpeUauBsuhD4ZsfSG.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgmROgLmI5gFjtPFNUTHWfgFnbd.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0x1nOl6ngHsWpwcucdb0P7buDP.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoBArzsDO1zXXFpubh8WzA4X6Bz.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xn3ix2FXy2M4Qu2xac4AkqxbjY.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vw68Kn4CnHVVLhZuzLOvVJzLwW.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeM1I9cOC1bo83gQkBEZey89lE7.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oqc6lYX96kTRarbKU7X0kHuavy.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ximlnUFJT8V92TEaPfRk0CxGuMS.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5rsyxem0qZtk1vVop6FBiC36IN.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/av8iDs2sA7HAxL9sIyJjisDvZvo.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cksC67Oglm52Oem3L8Q36L1HUwc.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E29
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EYKpfXPZ1Zqw11Ek1i1XbxgGzU.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E30
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282803.mkv
