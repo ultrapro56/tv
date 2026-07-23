@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2byCAyHGBt29zAZlFtdI45VLnCH.jpg" group-title="→ VOD ESTRENOS 2026 ←",Amos del Universo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elysium " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Elysium 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino Ninja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRYYinpvjpgik281GZ2DX9ThGzV.jpg" group-title="→ VOD ACCIÓN ←",Asesino Ninja
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mortal Kombat II (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg" group-title="→ VOD ESTRENOS 2026 ←",Super Mario Galaxy: La película (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 6 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBXslgDKPaMGY7rTgsuCao6GlSv.jpg" group-title="→ VOD ESTRENOS 2026 ←",Scary Movie 6 (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282825.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vigilantes de la Calle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTArjYndmjEsrYPEYP1nD4q2WYj.jpg" group-title="→ VOD ACCIÓN ←",Vigilantes de la Calle
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/282755.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Avispa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIP56aG86UFfNol6v9b87zsh6FX.jpg" group-title="→ VOD SUSPENSO ←",La Avispa
@@ -7265,11 +7277,11 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55043.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55046.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rápidos y furiosos X (2023)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rápido y furioso (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rápido y furioso (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Rapido y furioso (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rapido y furioso (2001)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55355.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Más rápido, más furioso (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZUSbYbUXol5AezpNIJwwENdyE0.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Más rápido, más furioso (2003)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rápido y furioso: Reto Tokio (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9Wu4u2FkGFgT0K9pxUX4IH8UYh.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rápido y furioso: Reto Tokio (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Rapido y furioso: Reto Tokio (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9Wu4u2FkGFgT0K9pxUX4IH8UYh.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rapido y furioso: Reto Tokio (2006)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55357.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos 4 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvewollXh3k2G8ruTYhhBTqZH19.jpg" group-title="→ VOD SAGA RÁPIDOS Y FURIOSOS ←",Rápidos y furiosos 4 (2009)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/55358.mkv
@@ -100786,99 +100798,99 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254375.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yalı Çapkını (Seyran y Ferit) S01 E238" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" group-title="→ TELENOVELAS ←",Yalı Çapkını (Seyran y Ferit) S01 E238
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/254376.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wymoL9HYpllpFrcD8VCvemktGg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223145.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282841.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e71Z3BW16FPHL6O9CSTUFRnPIQt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223147.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282843.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AxWD8EGwgurIeNoS40YidIlbcT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223148.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282844.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXIK0xhHMThQkSkbBMAznaUTubj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223149.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282845.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esJB8ecs4DL32IZRZihYTN3m28D.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223151.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggoWW4AChFzqNkVNr941EhRqTiX.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282847.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hsZIkinuai7bAE1cQYXEUIkjju.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E09
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223153.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oiKacR5YLtv7dr6lyjoyUif1Za.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282849.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E10
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223154.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282850.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVRE3XvFfgm8BRww4AqxokPMds1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E11
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvQNEZA4FC4yupgV9Ll8Hp7dCZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E12
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ritCXU7BUcNodAVMMiTOAkrSigF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E13
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223157.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toPm43S9jRbpOnU6JetStwUTFj6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L3jkgKkzPvECLSiOxAqA4MIIiP.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282853.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzimi19uWzAboYzDjYUDpdhEMUO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E14
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223158.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282854.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoZfRWj2ROpzPnuKf45CUPzCRQE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E15
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223159.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDM0qdyzYUMhNpIH9AUkz7okbRE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E16
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223160.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282856.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BMedKvP6i1wIK7vLgL3v2BnRHe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E17
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223161.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282857.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haxqbRAfpDuS9MIEBk9ToRLNuxt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E18
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqOmqqN5Yszuc8dZODeFya2vPaT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E19
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223163.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpDxYXnn0ZkoLPz0lB6iQZVIkHM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282859.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f15D3bnszZigSKbc85wL8ItwLKn.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E20
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223164.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282860.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhTrnQKXpc7rxDwM1Wm7ulKf71P.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E21
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OdE55RF3yQLzFkW9g1Bhja8f93.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E22
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223166.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYPvSsCDALfVeQ5goo1aPibYiXm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLxlqoRzD7HPe8JgiJd5iGpXpaf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E23
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223167.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282863.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIG6nADGUqJYDBXEsDaYyzYjHgH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E24
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7olFKX8uaDayB7NMMFE5AXMtwG0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E25
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJYC7fMWOc6lsbkjkgKutIwMRsU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E26
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiWLnViLZISiSWmMi5aLUcWz79M.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E27
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxDB28fFy1NfW6hkMNco5v34QzO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E28
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjWLlxTUqzf7t4HsMQhUCxke5EW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E29
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E30
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwgGz4NcjZEv65DoCx4sOoZ2hdn.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E31
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TKsaK3283WN94Bjsx44XmpkVgn.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E32
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbeKG5lUim0kUzygMojZ5XLH7ar.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E33
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVKd4JzK1UV6sxuiPL28gZdtT4Q.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E34
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yb01ZABSLVTg7YdhuAa6K2W4TI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E35
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdpIM5MToGTQMwHCTpuMyabC7xu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E36
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Au7MJUh21ftpQN4bhEJcA5fHtA2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E37
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76txgrxuhYJuyYQMgf7yXYVxaa4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E38
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzNGwCOfpuytEmR2UO29trlodjy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E39
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9yiVw2BHqThSeevyuKBoJrsTpM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E40
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zNRMC4OM0FDAvSXaGcbPTnkGnU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E41
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAZeDUOFLQoLgEqcjvNoMy7lmpB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E42
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irunrX4hAbsTWUTZpWNJXg1Asbv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E43
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdpupuE0OtfInqCmwU9Wk4sMqC9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E44
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg4bblgq3ywpFOphH5tEerg7Tu8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E45
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJbmi5vBd2eAt1LtKmTe7z4EXjM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E46
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZXG2hKiueV4A9RSbV6ZMNdhWyz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S01 E47
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/223191.mkv
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282887.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angel malo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWxJuuKdselOuJNpjUvUA2GpJ4.jpg" group-title="→ TELENOVELAS ←",Angel malo S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/217072.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Angel malo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWxJuuKdselOuJNpjUvUA2GpJ4.jpg" group-title="→ TELENOVELAS ←",Angel malo S01 E02
@@ -135305,3 +135317,63 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282801.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282802.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EYKpfXPZ1Zqw11Ek1i1XbxgGzU.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E30
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtbN56ViAVspX5rBHKpXs1Q8Wwt.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E31
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF9eH7O7r4I3x6jo2ikzK4KFc8x.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E32
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crs9zQ8iX0XqvVThITyQO60UtrJ.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E33
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJPwldlaCvwqANrI2QrZRWfX6ce.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E34
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzlls4oWipHrUueovb26tIDtNJ7.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E35
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEcATUO2MR2lbNwhFR70K8MzpBt.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E36
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t17RC4P1WNxasHbBqh0SK3jECdb.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E37
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt1Qeg2LYymku64oEurutb9og4L.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E38
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQLEPK0kUhXbt8DmlTOqvoRHnT7.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E39
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aray4q28nAC25xAIeU0uQ5qZIs7.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E40
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JSCjMolJ9En118RpxBlw3VHkZ5.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E41
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z9NPN7qmFdGGWdqRG0jy9ss7j.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E42
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ishmPzd8zhq8UyvSmfsk3JbZffl.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E43
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYbXB6DhXrpXp6xTDDbwUdBhe2I.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E44
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfcutcYhDQmPxM3mm4NjBKgQbO6.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E45
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jULhtY7XaVXztPtEvdjhbDhtM3H.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E46
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fE6maSPM2WCVw8P295YEZTzwymJ.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E47
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gESeJ5b2AhmRZAvMDjawZDZ8MLH.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E48
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LYtJEsZuPc7NjyuhIIewXb0BtS.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E49
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGc0aCpusIabStbVpo2OJbYpVH.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E50
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PuD32qanC9Wc5T2NCjwLv2MnvD.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wfxNxr6PAuz3sRAd9wdGYBuOfb.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yRG1Q3kYPEPDl1ERb3GHtSatD6.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnARmT6Dlje6ofJf920MKZHGD9M.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrgx7y9uuUqWkbnzFSXvuRRk4CI.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6othMB7srcg6rqzYIVPrgds4ndV.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yusIrnhOuLzsdXmzhCgeBTjLsug.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osW9KHyMuGcRKj1zzxOonLslD2s.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHa6WQlyUsQ901IFgAaerTMsjMo.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/824KMcgmLtUncwvOTSO8cWfosk1.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282838.mkv
