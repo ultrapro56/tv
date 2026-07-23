@@ -1,8 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PR II TELE 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSHM5zgimaQryNnqxhFy4FRtDjGZK_fKB12dfyCEszB9PXp3ypZw86u_k&s=10" group-title="✅ (TV) PUERTO RICO ✅",PR II TELE 11
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/555865.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS 
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/558622.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN  19:30 Sporting Cristal vs RB Bragantino" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN  19:30 Sporting Cristal vs RB Bragantino
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444055.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 2   19:30 Boca Juniors vs O'Higgins" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 2   19:30 Boca Juniors vs O'Higgins
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444067.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 3   " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 3   
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444058.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 4    " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 4    
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444064.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 5   " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 5   
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444061.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 6 D$PORTS  17:00 Bolívar vs Grêmio" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 6 D$PORTS  17:00 Bolívar vs Grêmio
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444070.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 7   19:30 Santa Fe vs Caracas" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 7   19:30 Santa Fe vs Caracas
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444079.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 8 I >TÜR DE FR∆NCE [ciclismø]" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 8 I >TÜR DE FR∆NCE [ciclismø]
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444073.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 9   " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 9   
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444297.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 10  " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 10  
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444300.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO  11  " tvg-logo="  https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO  11  
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444524.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 12    " tvg-logo="  https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 12    
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444521.ts
 #EXTINF:-1 tvg-id="" tvg-name="}$P0©T$>PERU HD" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",}$P0©T$>PERU HD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/540026.ts
 #EXTINF:-1 tvg-id="" tvg-name=">}$P0¥T$  ECU HD" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",>}$P0¥T$  ECU HD
@@ -43,30 +63,6 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/541548.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/541549.ts
 #EXTINF:-1 tvg-id="" tvg-name="*R.©.N C0L0MBl∆ HD " tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="⚽ MUNDIAL 2026 ⚽",*R.©.N C0L0MBl∆ HD 
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/541553.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN  " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN  
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444055.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 2    " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 2    
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444067.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 3   " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 3   
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444058.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 4    " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 4    
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444064.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 5   " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO E$PN 5   
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444061.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 6 D$PORTS     " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 6 D$PORTS     
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444070.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 7  " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 7  
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444079.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 8 I >TÜR DE FR∆NCE [ciclismø]" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 8 I >TÜR DE FR∆NCE [ciclismø]
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444073.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 9    " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 9    
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444297.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 10  " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 10  
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444300.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO  11  " tvg-logo="  https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO  11  
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444524.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 12    " tvg-logo="  https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 12    
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/444521.ts
 #EXTINF:-1 tvg-id="" tvg-name="D∆ZN_LlG∆ | OP 1" tvg-logo="http://mundo2.pro:80/images/73b7ce9a1b96b53e0d62a22565fea5cc.png" group-title="⚽ L∆_LlG∆ ESP ⚽",D∆ZN_LlG∆ | OP 1
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/406691.ts
 #EXTINF:-1 tvg-id="" tvg-name="D∆ZN_LlG∆ | OP 2" tvg-logo="http://mundo2.pro:80/images/73b7ce9a1b96b53e0d62a22565fea5cc.png" group-title="⚽ L∆_LlG∆ ESP ⚽",D∆ZN_LlG∆ | OP 2
@@ -559,6 +555,8 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/306304.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/306175.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS PREMIUM SD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/306664.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS 
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/558622.ts
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | D$PORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE | D$PORTS HD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/50724.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE| D$PORTS 1SD
@@ -1011,9 +1009,9 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52820.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52819.ts
 #EXTINF:-1 tvg-id="" tvg-name="UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ] ʜᴅ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwVviXy5jGpId7IjK0Ncrn2AQvcY1CyZWnUJwofsfV4dJ_WJXvmXlcLb3G4SX9P62urE&usqp=CAU.png" group-title="❎ URUGUAY ❎",UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ] ʜᴅ¹
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52825.ts
-#EXTINF:-1 tvg-id="" tvg-name="l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="❎ URUGUAY ❎",l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽
+#EXTINF:-1 tvg-id="" tvg-name="l⚽> ᴾᴾⱽ ➋ʜᴅ [ꜰᴜᴛʙøʟ]⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpzc3gC0GYl_1G0Q99iTDCRmQbVtgS0Dr84X-FAjMRAXuOZ3yWPo5MMGo&s=10" group-title="❎ URUGUAY ❎",l⚽> ᴾᴾⱽ ➋ʜᴅ [ꜰᴜᴛʙøʟ]⚽
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52834.ts
-#EXTINF:-1 tvg-id="" tvg-name="l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽" tvg-logo="https://static.elcanaldelfutbol.com/static/news/TRIONDA.large.jpg" group-title="❎ URUGUAY ❎",l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽
+#EXTINF:-1 tvg-id="" tvg-name="l⚽>ᴾᴾⱽ ➊ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpzc3gC0GYl_1G0Q99iTDCRmQbVtgS0Dr84X-FAjMRAXuOZ3yWPo5MMGo&s=10" group-title="❎ URUGUAY ❎",l⚽>ᴾᴾⱽ ➊ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52835.ts
 #EXTINF:-1 tvg-id="" tvg-name="l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/a/ac/Screenshot_20260106_204748_YouTube.jpg/revision/latest?cb=20260107165618" group-title="❎ URUGUAY ❎",l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52836.ts
@@ -1033,27 +1031,17 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/52838.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/307573.ts
 #EXTINF:-1 tvg-id="" tvg-name="UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhgMPWVm4VgzwePzg5__BiAehavyNecnvyMZ0eSqa-A&s=10" group-title="❎ URUGUAY ❎",UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/135976.ts
-#EXTINF:-1 tvg-id="" tvg-name="  LCDLF ALL-STAR" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfus26.png" group-title="",  LCDLF ALL-STAR
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/531323.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.4" tvg-logo="" group-title="",LCDLF 2026 COLOMBIA OPC.4
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/442701.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO 24/7
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454926.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 1
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454927.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.1" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AFL2HAAVKRCMLGDIBQNNKBSBZI.png" group-title="",LCDLF 2026 COLOMBIA OPC.1
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440467.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.2" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="",LCDLF 2026 COLOMBIA OPC.2
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440468.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2 [0ndeman]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 2 [0ndeman]
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454928.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3 [0ndemand]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 3 [0ndemand]
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454929.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.3" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="",LCDLF 2026 COLOMBIA OPC.3
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440469.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO MULTICAMARA 0ndemand
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454930.ts
-#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="3Ddd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11%26width%3D767&sp=1772030580Tc59063515b1f3f0e93f7cde59dcfbea6cd62f283df118488f885c97975425d78" group-title="⏩ Gran Hermano Argentina ⏪",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
+#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/453157.ts
 #EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO HD **" tvg-logo="http://dplatino.net:8080/images/6ec28b3d93bfcfed6758ca6a6031223a.png" group-title="❎ PARAGUAY VIP ❎",PY | TELEFUTURO HD **
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154284.ts
@@ -1089,14 +1077,24 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154293.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154291.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",EVENTO 01
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154298.ts
+#EXTINF:-1 tvg-id="" tvg-name="  LCDLF ALL-STAR" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfus26.png" group-title="",  LCDLF ALL-STAR
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/531323.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.4" tvg-logo="" group-title="",LCDLF 2026 COLOMBIA OPC.4
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/442701.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 02." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 02.
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154299.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.1" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AFL2HAAVKRCMLGDIBQNNKBSBZI.png" group-title="",LCDLF 2026 COLOMBIA OPC.1
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440467.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 03
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154300.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.2" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="",LCDLF 2026 COLOMBIA OPC.2
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440468.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8jt5rU2eZf6D2PDzm-J-kaIEIOMN-TrJsGgdMrafmOKtugoa5GdLOf8&s=10" group-title="❎ PARAGUAY VIP ❎",Evento 04
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/154301.ts
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL FHD" tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="❎ COLOMBIA ❎",CO | CARACOL FHD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/69253.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF 2026 COLOMBIA OPC.3" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="",LCDLF 2026 COLOMBIA OPC.3
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/440469.ts
 #EXTINF:-1 tvg-id="CanalUno.co" tvg-name="CO | CARACOL HD 01" tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="❎ COLOMBIA ❎",CO | CARACOL HD 01
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/69250.ts
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL HD 02" tvg-logo="http://mundo2.pro:80/images/b111d5d14e967ef8b0901fe5fdb3280f.png" group-title="❎ COLOMBIA ❎",CO | CARACOL HD 02
@@ -2251,7 +2249,7 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/451543.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/451546.ts
 #EXTINF:-1 tvg-id="" tvg-name="⭐USA | TM | INTERNACIONAL HD⭐" tvg-logo="https://i.postimg.cc/PJrWCvMV/TELEMUNDO-INTER.png" group-title="⏩ ZONA | TELEMUNDO ⏪",⭐USA | TM | INTERNACIONAL HD⭐
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454936.ts
-#EXTINF:-1 tvg-id="" tvg-name="⭐TM MIAMI | HD⭐" tvg-logo="https://i.postimg.cc/TPsM7nKg/TELEMUNDO-MIAMI.png" group-title="⏩ ZONA | TELEMUNDO ⏪",⭐TM MIAMI | HD⭐
+#EXTINF:-1 tvg-id="" tvg-name="⭐TM MIAMI* | HD⭐" tvg-logo="https://i.postimg.cc/TPsM7nKg/TELEMUNDO-MIAMI.png" group-title="⏩ ZONA | TELEMUNDO ⏪",⭐TM MIAMI* | HD⭐
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454937.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="⏩ ZONA | TELEMUNDO ⏪",Telemundo Internacional HD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/454938.ts
@@ -2703,7 +2701,7 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/316973.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/381419.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Casa de Mickey mouse " tvg-logo="" group-title="♐ 24/7 INFANTILES ♐",24/7 Casa de Mickey mouse 
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/362461.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Pingüinos Madagascar " tvg-logo="" group-title="♐ 24/7 INFANTILES ♐",24/7 | Los Pingüinos Madagascar 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | L0s Pingüinos Madagascar " tvg-logo="" group-title="♐ 24/7 INFANTILES ♐",24/7 | L0s Pingüinos Madagascar 
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/366250.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Ganes o Pierdas " tvg-logo="" group-title="♐ 24/7 INFANTILES ♐",24/7 | Ganes o Pierdas 
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/366259.ts
@@ -2949,18 +2947,18 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/306245.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/306244.ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU: S44P11Nᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="⏩ €V€NTO EC⏪ ",ECU: S44P11Nᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ #2
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/401840.ts
-#EXTINF:-1 tvg-id="" tvg-name="Evento 1" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Evento 1
+#EXTINF:-1 tvg-id="" tvg-name="Evento 1  " tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Evento 1  
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/474643.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 2" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Evento 2
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/474226.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 3  " tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Evento 3  
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/476030.ts
-#EXTINF:-1 tvg-id="" tvg-name="S44P11N-Exclusivo Ec" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",S44P11N-Exclusivo Ec
-http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/518448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Even 4 exclusivo" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Even 4 exclusivo
+#EXTINF:-1 tvg-id="" tvg-name="Eve.. 4  " tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",Eve.. 4  
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/538096.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENT0 5" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",EVENT0 5
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/538099.ts
+#EXTINF:-1 tvg-id="" tvg-name="S44P11N-Exclusivo Ec" tvg-logo="" group-title="⏩ €V€NTO EC⏪ ",S44P11N-Exclusivo Ec
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/518448.ts
 #EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="⏩ ZONA | NBA GAMES ⏪",US | NBA Channel
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/381548.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 01" tvg-logo="http://mundo2.pro:80/images/45fe115131b6b9411d088275e8e2c8dd.png" group-title="⏩ ZONA | NBA GAMES ⏪",NBA League Pass 01
@@ -4039,6 +4037,8 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/135615.ts
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/135614.ts
 #EXTINF:-1 tvg-id="" tvg-name="PN | OYE TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLy4Df_-B-FJEiDjIc86Hn4n4yS5v_w1953Q&usqp=CAU" group-title="✅ (TV) | PANAMA ✅",PN | OYE TV FHD
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/135766.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR II TELE 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSHM5zgimaQryNnqxhFy4FRtDjGZK_fKB12dfyCEszB9PXp3ypZw86u_k&s=10" group-title="✅ (TV) PUERTO RICO ✅",PR II TELE 11
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/555865.ts
 #EXTINF:-1 tvg-id="" tvg-name="WAPA DEPORTES" tvg-logo="" group-title="✅ (TV) PUERTO RICO ✅",WAPA DEPORTES
 http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/543209.ts
 #EXTINF:-1 tvg-id="" tvg-name="PR | TELEMUNDO" tvg-logo="http://127.0.0.1/" group-title="✅ (TV) PUERTO RICO ✅",PR | TELEMUNDO
@@ -6745,11 +6745,198 @@ http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/451028.ts
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="04:00 ▫ WTA ▫ ATP 250 (Cuartos de Final) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",04:00 ▫ WTA ▫ ATP 250 (Cuartos de Final) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563041.ts
+#EXTINF:-1 tvg-id="" tvg-name="04:00 ▫ WTA ▫ Livesport Prague Open (Second Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",04:00 ▫ WTA ▫ Livesport Prague Open (Second Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563042.ts
+#EXTINF:-1 tvg-id="" tvg-name="04:00 ▫ WTA ▫ MSC Hamburg Ladies Open (Second Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",04:00 ▫ WTA ▫ MSC Hamburg Ladies Open (Second Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563043.ts
+#EXTINF:-1 tvg-id="" tvg-name="05:00 ▫ WTA ▫ Livesport Prague Open / Court 1 (Doubles Quarterfinals) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",05:00 ▫ WTA ▫ Livesport Prague Open / Court 1 (Doubles Quarterfinals) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563044.ts
+#EXTINF:-1 tvg-id="" tvg-name="05:00 ▫ WTA ▫ MSC Hamburg Ladies Open / M2 (Doubles Quarterfinals) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",05:00 ▫ WTA ▫ MSC Hamburg Ladies Open / M2 (Doubles Quarterfinals) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563045.ts
+#EXTINF:-1 tvg-id="" tvg-name="05:15 ▫ Tour de France ▫ Stage #18 ▫ HD ▫" tvg-logo="http://23.153.217.128:90/Logos/ppv2/cycling.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",05:15 ▫ Tour de France ▫ Stage #18 ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563046.ts
+#EXTINF:-1 tvg-id="" tvg-name="06:00 ▫ ATP ▫ Millennium Estoril Open (Second Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",06:00 ▫ ATP ▫ Millennium Estoril Open (Second Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563047.ts
+#EXTINF:-1 tvg-id="" tvg-name="06:30 ▫ Women's VNL 2026 ▫ Estados Unidos F vs. China F ▫ HD ▫" tvg-logo="http://23.153.217.128:90/Logos/ppv2/volleyball.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",06:30 ▫ Women's VNL 2026 ▫ Estados Unidos F vs. China F ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563048.ts
+#EXTINF:-1 tvg-id="" tvg-name="06:45 ▫ 3M Open ▫ Main Feed (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",06:45 ▫ 3M Open ▫ Main Feed (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563049.ts
+#EXTINF:-1 tvg-id="" tvg-name="07:15 ▫ 3M Open ▫ Featured Holes #4, #8, #13 & #17 (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",07:15 ▫ 3M Open ▫ Featured Holes #4, #8, #13 & #17 (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563050.ts
+#EXTINF:-1 tvg-id="" tvg-name="07:15 ▫ 3M Open ▫ Homa & Harman Featured Groups (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",07:15 ▫ 3M Open ▫ Homa & Harman Featured Groups (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563051.ts
+#EXTINF:-1 tvg-id="" tvg-name="07:15 ▫ 3M Open ▫ Scheffler Marquee Group (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",07:15 ▫ 3M Open ▫ Scheffler Marquee Group (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563052.ts
+#EXTINF:-1 tvg-id="" tvg-name="09:00 ▫ WTA ▫ Lucie Havlickova vs. Barbora Krejcikova ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",09:00 ▫ WTA ▫ Lucie Havlickova vs. Barbora Krejcikova ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563053.ts
+#EXTINF:-1 tvg-id="" tvg-name="10:00 ▫ WTA ▫ Elina Avanesyan vs. Yulia Putintseva ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",10:00 ▫ WTA ▫ Elina Avanesyan vs. Yulia Putintseva ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563054.ts
+#EXTINF:-1 tvg-id="" tvg-name="11:15 ▫ MLB ▫ San Diego Padres vs. Atlanta Braves ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",11:15 ▫ MLB ▫ San Diego Padres vs. Atlanta Braves ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563055.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:10 ▫ MLB ▫ Minnesota Twins vs. Cleveland Guardians ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",12:10 ▫ MLB ▫ Minnesota Twins vs. Cleveland Guardians ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563056.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ UCL ▫ St. Gallen vs. Benfica ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/a36892e66c8a266af4eb202e4e4fca75.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",13:00 ▫ UCL ▫ St. Gallen vs. Benfica ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563057.ts
+#EXTINF:-1 tvg-id="" tvg-name="13:00 ▫ UCL ▫ Twente vs. Ferencváros ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/a36892e66c8a266af4eb202e4e4fca75.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",13:00 ▫ UCL ▫ Twente vs. Ferencváros ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563058.ts
+#EXTINF:-1 tvg-id="" tvg-name="14:07 ▫ MLB ▫ Tampa Bay Rays vs. Toronto Blue Jays ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",14:07 ▫ MLB ▫ Tampa Bay Rays vs. Toronto Blue Jays ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563059.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ▫ 3M Open ▫ Featured Hole #17 (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",15:00 ▫ 3M Open ▫ Featured Hole #17 (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563060.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ▫ 3M Open ▫ Featured Hole #8 (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",15:00 ▫ 3M Open ▫ Featured Hole #8 (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563061.ts
+#EXTINF:-1 tvg-id="" tvg-name="15:00 ▫ 3M Open ▫ Finau Featured Group (First Round) ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",15:00 ▫ 3M Open ▫ Finau Featured Group (First Round) ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563062.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:15 ▫ MLB ▫ Arizona Diamondbacks vs. St. Louis Cardinals ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",16:15 ▫ MLB ▫ Arizona Diamondbacks vs. St. Louis Cardinals ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563063.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30 ▫ Liga Pro ▫ Leones del Norte vs. Guayaquil City ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",16:30 ▫ Liga Pro ▫ Leones del Norte vs. Guayaquil City ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563064.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:30 ▫ Liga Pro ▫ Orense vs. Aucas ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",16:30 ▫ Liga Pro ▫ Orense vs. Aucas ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563065.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ FHD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ FHD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563066.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563067.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ SD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:00 ▫ Copa Sudamericana ▫ Bolívar vs. Grêmio ▫ SD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563068.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:30 ▫ Brasileirão ▫ Botafogo vs. Vitória ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:30 ▫ Brasileirão ▫ Botafogo vs. Vitória ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563069.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:30 ▫ Brasileirão ▫ Corinthians vs. Remo ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:30 ▫ Brasileirão ▫ Corinthians vs. Remo ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563070.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:30 ▫ Primera Argentina ▫ Belgrano vs. Rosario Central ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:30 ▫ Primera Argentina ▫ Belgrano vs. Rosario Central ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563071.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:30 ▫ Primera Argentina ▫ Sarmiento vs. Argentinos Juniors ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:30 ▫ Primera Argentina ▫ Sarmiento vs. Argentinos Juniors ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563072.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:30 ▫ Serie B ▫ Athletic Club vs. São Bernardo ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:30 ▫ Serie B ▫ Athletic Club vs. São Bernardo ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563073.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:40 ▫ MLB ▫ Kansas City Royals vs. Detroit Tigers ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",17:40 ▫ MLB ▫ Kansas City Royals vs. Detroit Tigers ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563074.ts
+#EXTINF:-1 tvg-id="" tvg-name="18:30 ▫ Serie B ▫ Cuiabá vs. Atlético Goianiense ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",18:30 ▫ Serie B ▫ Cuiabá vs. Atlético Goianiense ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563075.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ Liga Pro ▫ Emelec vs. Mushuc Runa ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:00 ▫ Liga Pro ▫ Emelec vs. Mushuc Runa ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563076.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ LMB ▫ Dorados de Chihuahua vs. Caliente de Durango ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:00 ▫ LMB ▫ Dorados de Chihuahua vs. Caliente de Durango ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563077.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ LMB ▫ El Águila de Veracruz vs. Piratas de Campeche ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:00 ▫ LMB ▫ El Águila de Veracruz vs. Piratas de Campeche ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563078.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:00 ▫ LMB ▫ Guerreros de Oaxaca vs. Tigres de Quintana Roo ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:00 ▫ LMB ▫ Guerreros de Oaxaca vs. Tigres de Quintana Roo ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563079.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ FHD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ FHD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563080.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563081.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ SD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Boca Juniors vs. O'Higgins ▫ SD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563082.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ FHD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ FHD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563083.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563084.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ SD ▫" tvg-logo="http://www.1play.cool:25461/images/1c8d538457fd419d9f23702f47e9b1cf.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Copa Sudamericana ▫ Santa Fe vs. Caracas ▫ SD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563085.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ LMB ▫ Bravos de León vs. Diablos Rojos del México ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ LMB ▫ Bravos de León vs. Diablos Rojos del México ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563086.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ LMB ▫ Charros de Jalisco vs. Toros de Tijuana ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ LMB ▫ Charros de Jalisco vs. Toros de Tijuana ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563087.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ LMB ▫ Leones de Yucatán vs. Conspiradores de Querétaro ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ LMB ▫ Leones de Yucatán vs. Conspiradores de Querétaro ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563088.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ LMB ▫ Rieleros de Aguascalientes vs. Tecolotes de los Dos Laredos ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ LMB ▫ Rieleros de Aguascalientes vs. Tecolotes de los Dos Laredos ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563089.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ LMB ▫ Sultanes de Monterrey vs. Saraperos de Saltillo ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ LMB ▫ Sultanes de Monterrey vs. Saraperos de Saltillo ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563090.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:30 ▫ Serie B ▫ Botafogo SP vs. Juventude ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:30 ▫ Serie B ▫ Botafogo SP vs. Juventude ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563091.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:45 ▫ LMB ▫ Acereros de Monclova vs. Algodoneros de Unión Laguna ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:45 ▫ LMB ▫ Acereros de Monclova vs. Algodoneros de Unión Laguna ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563092.ts
+#EXTINF:-1 tvg-id="" tvg-name="19:45 ▫ Primera Argentina ▫ Defensa y Justicia vs. Aldosivi ▫ HD ▫" tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="⚽PPV-EVENTOS DEL 23 DE JULIO (Hora Ecuador) ⚽",19:45 ▫ Primera Argentina ▫ Defensa y Justicia vs. Aldosivi ▫ HD ▫
+http://goldtv.lat:80/live/9C00D3211B4A/00D3211B4A9C/563093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sanky Panky 3 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP9KAhkQ1zAaGCPmszSjBCmU14b.jpg" group-title="↪️ SOLICITADAS ↩️",Sanky Panky 3 (2018)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La llamada Fatal (2023) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pylpXylNvZFpe0FzGvYXbRvgDQ.jpg" group-title="⏩ ESTRENOS 2023 ⏪",La llamada Fatal (2023) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un verano inolvidable (2001) (D)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIzNGI4MTYtMjVmOC00ZGMzLTljOWEtY2NkMjc3YWY0ZmVhXkEyXkFqcGc@._V1_.jpg" group-title="⏩ ROMANCE PREMIUM ⏪",Un verano inolvidable (2001) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insaciable (2026) | Subtitulado (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMYFsfuHttGtHnXquWkIWI9Min8.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Insaciable (2026) | Subtitulado (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infierno bajo cero (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Infierno bajo cero (2026) | Castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El mal (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RmEO655PT9AK7Q58hIAPmpLNLT.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El mal (2026) | Castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026) FHDTS IMAX (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg" group-title="⏩ VOD CAM ⏪",La Odisea (2026) FHDTS IMAX (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Superdeep (2020) | Subtitulada (D)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjgyOTE1OTUtMTAxNC00MWI5LTlkOWEtZWIzZGE5M2JiZTlmXkEyXkFqcGc@._V1_.jpg" group-title="⏩ Suspenso ⏪",The Superdeep (2020) | Subtitulada (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAvdDPtiuVCauhjCwqK4EX2woHL.jpg" group-title="⏩ ESTRENOS 2026 ⏪",Scary Movie: Terroríficamente incorrecta (2026)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día de la revelación (2026) (D)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVmN2NiMmEtOWIzMy00ZTM3LTgyZTEtMDhhMGE5YzE4YTliXkEyXkFqcGc@._V1_.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El día de la revelación (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAvdDPtiuVCauhjCwqK4EX2woHL.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Scary Movie: Terroríficamente incorrecta (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Star Wars: The Mandalorian and Grogu (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de lo mejor 4 (1998) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXwY1TKs5uaJDQYFYW3bV7Qx73j.jpg" group-title="⏩SAGAS⏪",Lo mejor de lo mejor 4 (1998) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de lo mejor 3 (1995) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KfxtrzaWkgMKYNp6QRv13Uq9BW.jpg" group-title="⏩SAGAS⏪",Lo mejor de lo mejor 3 (1995) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de lo mejor 2 (1993) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKUVMnXGwtsDABdyYVv4GjPKnpm.jpg" group-title="⏩SAGAS⏪",Lo mejor de lo mejor 2 (1993) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de lo mejor (1989) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSwj7yORjuO67VuZPvLM90iKLg0.jpg" group-title="⏩SAGAS⏪",Lo mejor de lo mejor (1989) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narciso Negro (1947) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUmLauQIQa2vkjjnlx7aeMozMZG.jpg" group-title="⏩ DRAMA PREMIUM ⏪",Narciso Negro (1947) | Castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contacto Fatal (2006) | Subtitulada (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5gxnDffbyn94KrSPrvS9F7li9.jpg" group-title="⏩ ACCIÓN PREMIUM ⏪",Contacto Fatal (2006) | Subtitulada (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socias por accidente (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Socias por accidente (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026) HDTS V2 (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bheY17L6wtB0SdJn6EYyh1X5iry.jpg" group-title="⏩ VOD CAM ⏪",La Odisea (2026) HDTS V2 (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada entre los dos (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GZt6CfXJQgOFBA7ArLbOQYvXI8.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Nada entre los dos (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ironía del amor (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvfBXtJ1EB3asfpJcQCN9g9Eijf.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",La ironía del amor (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heartstopper Forever (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rsI2lhFLBXPtVScJ3rBKHwIt5b.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Heartstopper Forever (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deseo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Deseo (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="23 000 Vidas (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnNQDqCXcdJrWknQtbBIlvMDboE.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",23 000 Vidas (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cordero (2021) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ9TOgcTpVuhEwXEyS2OOaPZndG.jpg" group-title="⏩ ESTRENOS 2021 ⏪",El Cordero (2021) | Castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/562013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Soccer (2026) CAM | Subtitulada (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg" group-title="⏩ VOD CAM ⏪",Kung Fu Soccer (2026) CAM | Subtitulada (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona Cero (2026) CAM | Subtitulada (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkqrY8lioj8jwAXFnx6c5tc5Gv3.jpg" group-title="⏩ VOD CAM ⏪",Zona Cero (2026) CAM | Subtitulada (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minions & Monstruos (2026) FHDTS  (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg" group-title="⏩ VOD CAM ⏪",Minions & Monstruos (2026) FHDTS  (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana (2026) | FHDTS V2 (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq7yh7zOLGLp4TGNCYmd29FVy8H.jpg" group-title="⏩ VOD CAM ⏪",Moana (2026) | FHDTS V2 (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo antes de ser yo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Yo antes de ser yo (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papá a Cargo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qox5OvknYs1XJqw3aS3d9CvSEKO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Papá a Cargo (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Is God Is (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u007P0KcvbVMsNUUJkVAnUqzOpm.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Is God Is (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espadas De Los Guardianes: El Viento Se Levanta En El Desierto (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOYPRKEdYEdTCaJ25Q9IFmsvAkD.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Espadas De Los Guardianes: El Viento Se Levanta En El Desierto (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Enter (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Do Not Enter (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Backrooms: Sin salida (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zack y Cody La Película (2011) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ3EGFTXfa2itZDNqexj6osSzNQ.jpg" group-title="⏩ DISNEY + ⏪",Zack y Cody La Película (2011) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/561067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nueve reinas (2000) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg" group-title="⏩ DRAMA PREMIUM ⏪",Nueve reinas (2000) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valor sentimental (2025) | castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg" group-title="⏩ PELICULAS 2025 ⏪",Valor sentimental (2025) | castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hamnet (2025) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg" group-title="⏩ PELICULAS 2025 ⏪",Hamnet (2025) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Susana y Elvira: Sin plan B (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amqNq4a3cugpf48nfpZFJwnFzbb.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Susana y Elvira: Sin plan B (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A una isla de ti (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3siQa1NL6L2wIiZ0r6fKacBIp.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",A una isla de ti (2026) | Castellano (D)
+http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Las Aventuras de Buratino (1976) | Subtitulado (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQa6Trm7n5vDF5kNwRqCCAT8Vgz.jpg" group-title="⏩ FAMILIARES ⏪",Las Aventuras de Buratino (1976) | Subtitulado (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560762.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Las Aventuras de Fétiche (1933) (D)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODlhZGJkZjQtNjA1MS00NGIxLWFjMWYtNTEwNDI1MjZmMGY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⏩ Animación ⏪",Las Aventuras de Fétiche (1933) (D)
@@ -6782,8 +6969,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560354.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/560351.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lucky Lu (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvSNREwGqNj7ksVschtlUUJ9hYu.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Lucky Lu (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/558932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moana (2026) HDTS (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq7yh7zOLGLp4TGNCYmd29FVy8H.jpg" group-title="⏩ VOD CAM ⏪",Moana (2026) HDTS (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/558929.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Tristeza (2021) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v9k8RsDyNReR1iM93CN8LyRteO.jpg" group-title="⏩ TERROR PREMIUM ⏪",La Tristeza (2021) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/558710.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El regreso de la nana mágica (2010) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciKtxM07TVSPoI7lPXn6q3o39oY.jpg" group-title="⏩ AVENTURA PREMIUN ⏪",El regreso de la nana mágica (2010) (D)
@@ -6822,8 +7007,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/553469.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/551864.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jackass: La última y nos vamos (2026) CAM +18 (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAMl7Yg265JSSL10hvzmMIB0a4V.jpg" group-title="⏩ VOD CAM ⏪",Jackass: La última y nos vamos (2026) CAM +18 (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/551861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minions & Monstruos (2026) HDTS (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="⏩ VOD CAM ⏪",Minions & Monstruos (2026) HDTS (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/551858.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (2026) WebRip (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="⏩ VOD CAM ⏪",Toy Story 5 (2026) WebRip (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/551855.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Simpsons: Simpsley (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",The Simpsons: Simpsley (2026) (D)
@@ -6874,8 +7057,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547567.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="En la zona gris (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",En la zona gris (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl (2026) HDTS (D)" tvg-logo="https://posterspy.com/wp-content/uploads/2026/04/supergirl_poster_final-Custom.jpg" group-title="⏩ VOD CAM ⏪",Supergirl (2026) HDTS (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hermanito (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8mudAYQcHmVoFSamqyv1Ron527.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Hermanito (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547111.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Un Lugar en la Mesa (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cOEREMN6WF4Vf6IgBLU3AqmbeN.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Un Lugar en la Mesa (2026) (D)
@@ -6884,12 +7065,8 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547108.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Las ovejas detectives (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Las ovejas detectives (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu (2026) WebRip (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="⏩ VOD CAM ⏪",Star Wars: The Mandalorian and Grogu (2026) WebRip (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547099.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (2026) WebRip (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="⏩ VOD CAM ⏪",Amos del Universo (2026) WebRip (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta (2026) WebRip (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="⏩ VOD CAM ⏪",Scary Movie: Terroríficamente incorrecta (2026) WebRip (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/547093.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Retratos de una Obsesión (2002) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZclR8HD1IlMIBh9zK2RYe488l0.jpg" group-title="⏩ DRAMA⏪",Retratos de una Obsesión (2002) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/544897.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho: La película - Los invasores del infierno (1994) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u02y2oJWY5AAvve3NiHLUU1D1g.jpg" group-title="⏩ Animación ⏪",Yu Yu Hakusho: La película - Los invasores del infierno (1994) (D)
@@ -6930,8 +7107,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/543298.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/543295.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dibu Martínez: El pibe que ataja el tiempo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Dibu Martínez: El pibe que ataja el tiempo (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/543292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026) | DCRIP (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="⏩ VOD CAM ⏪",Backrooms: Sin salida (2026) | DCRIP (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/543146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¡Sobreviven! (1988) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIJKI45MVZclrKfGSVdjVsWIvBK.jpg" group-title="⏩ CIENCIA Ficción ⏪",¡Sobreviven! (1988) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/543054.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El desconocido (2015) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRaBBPb2YyVJW5qNSC7DmrICE7B.jpg" group-title="⏩ DRAMA PREMIUM ⏪",El desconocido (2015) (D)
@@ -6996,8 +7171,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541612.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541609.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Intocables (1987) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scbTULzRWLoa7JPHYpbQ6qZvLp.jpg" group-title="⏩ DRAMA⏪",Los Intocables (1987) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="⏩ VOD CAM ⏪",Mortal Kombat II (2026) (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541438.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Michael (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Michael (2026) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541435.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Psicópata: El Asesino del Conejo Blanco (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Psicópata: El Asesino del Conejo Blanco (2026) (D)
@@ -7008,8 +7181,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/541116.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/540841.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Filadelfia (1993) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jATwMlaz93jKzT8K5SlW3sRUpDb.jpg" group-title="⏩ DRAMA⏪",Filadelfia (1993) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/540838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (2026) HDTS (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="⏩ VOD CAM ⏪",The Mandalorian and Grogu (2026) HDTS (D)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/540835.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pequeña gran vida (2017) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpOWb2nUHno4FBzpl6UWo0M1tFK.jpg" group-title="⏩ CIENCIA Ficción ⏪",Pequeña gran vida (2017) (D)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/540829.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13 Pecados (2014) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo9TBFQmmbTl8vLkSwhDcC3QLMu.jpg" group-title="⏩ TERROR ⏪",13 Pecados (2014) (D)
@@ -7124,8 +7295,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536948.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536945.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Ochi (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxqgIV6NBWGUZzwDQHgzSGz5DYN.jpg" group-title="⏩ POPULARES⏪ ",La Leyenda de Ochi (2025)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026) DCPrip" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="⏩ VOD CAM ⏪",El diablo viste a la moda 2 (2026) DCPrip
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536862.mp4
 #EXTINF:-1 tvg-id="" tvg-name="KARTAVYA (2026)" tvg-logo="http://mundo2.pro:80/images/283e01b48d4fe899d8faeb6ec9e4f92b.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",KARTAVYA (2026)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536855.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cuestión De Honor (1992)" tvg-logo="http://mundo2.pro:80/images/0a8e0ff0c9d3bfd724a065b8972180ec.jpg" group-title="↪️ SOLICITADAS ↩️",Cuestión De Honor (1992)
@@ -7182,8 +7351,6 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536827.mp4
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536823.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Feedback (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfOVhNP93QSiHn9hEWemTMiBK19.jpg" group-title="↪️ SOLICITADAS ↩️",Feedback (2019)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) DCPrip" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="⏩ VOD CAM ⏪",Mortal Kombat II (2026) DCPrip
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536819.mp4
 #EXTINF:-1 tvg-id="" tvg-name="En el juego del asesino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4J5KBjOrWbpIzOkShZ8cK08W1YL.jpg" group-title="⏩ POPULARES⏪ ",En el juego del asesino (2019)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/536816.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="⏩ POPULARES⏪ ",Ip Man 4 (2019)
@@ -38426,79 +38593,5 @@ http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336148.mkv
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336147.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Señor Doctor (1965)" tvg-logo="" group-title="COMEDIA DR",El Señor Doctor (1965)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El señor fotógrafo (1953)" tvg-logo="" group-title="COMEDIA DR",El señor fotógrafo (1953)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="el sequito" tvg-logo="" group-title="COMEDIA DR",el sequito
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="" group-title="COMEDIA DR",El Siete Machos (1951)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El sistema Solar (2017)" tvg-logo="" group-title="COMEDIA DR",El sistema Solar (2017)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El soborno del cielo (2016)" tvg-logo="" group-title="COMEDIA DR",El soborno del cielo (2016)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="" group-title="COMEDIA DR",El Supersabio (1948)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El tatuaje (2016)" tvg-logo="" group-title="COMEDIA DR",El tatuaje (2016)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El testamento de la abuela (2020)" tvg-logo="" group-title="COMEDIA DR",El testamento de la abuela (2020)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultimo viaje las vegas (2013)" tvg-logo="" group-title="COMEDIA DR",Ultimo viaje las vegas (2013)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El viaje de Keta (2018)" tvg-logo="" group-title="COMEDIA DR",El viaje de Keta (2018)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elvis & Nixon (2016)" tvg-logo="" group-title="COMEDIA DR",Elvis & Nixon (2016)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="embarazada por obra y gracia 2019" tvg-logo="" group-title="COMEDIA DR",embarazada por obra y gracia 2019
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Emma (2020)" tvg-logo="" group-title="COMEDIA DR",Emma (2020)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2016)" tvg-logo="" group-title="COMEDIA DR",Em Nome da Lei (2016)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Empeliculados (2017)" tvg-logo="" group-title="COMEDIA DR",Empeliculados (2017)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enchufe sin visa (2016)" tvg-logo="" group-title="COMEDIA DR",Enchufe sin visa (2016)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="encontrando tu voz" tvg-logo="" group-title="COMEDIA DR",encontrando tu voz
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En dónde están los ladrones? (2017)" tvg-logo="" group-title="COMEDIA DR",En dónde están los ladrones? (2017)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ojos en el Bosque (1980)" tvg-logo="" group-title="COMEDIA DR",Ojos en el Bosque (1980)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enemigo Inmortal (2017)" tvg-logo="" group-title="COMEDIA DR",Enemigo Inmortal (2017)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En Islandia... (2014)" tvg-logo="" group-title="COMEDIA DR",En Islandia... (2014)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En man som heter Ove (2018)" tvg-logo="" group-title="COMEDIA DR",En man som heter Ove (2018)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="" group-title="COMEDIA DR",Enola Holmes (2020)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Entre pillos anda el juego (1983)" tvg-logo="" group-title="COMEDIA DR",Entre pillos anda el juego (1983)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336121.mkv
-#EXTINF:-1 tvg-id="" tvg-name="epouse moi mon pote" tvg-logo="" group-title="COMEDIA DR",epouse moi mon pote
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eres mi pasión (2018)" tvg-logo="" group-title="COMEDIA DR",Eres mi pasión (2018)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escalofríos (2015)" tvg-logo="" group-title="COMEDIA DR",Escalofríos (2015)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escándalo Americano (2013)" tvg-logo="" group-title="COMEDIA DR",Escándalo Americano (2013)
-http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Footloose, Todos a Bailar (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6aYS5DEN58E3lVe4BIb2b1Fidl.jpg" group-title="COMEDIA DR",Footloose, Todos a Bailar (2011)
 http://goldtv.lat:80/movie/9C00D3211B4A/00D3211B4A9C/336067.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
