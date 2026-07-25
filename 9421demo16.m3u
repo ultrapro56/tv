@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="En Busca De Venganza 2: Ciudad De Lobos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oOyMLOP7wL3yl11E6BURRm2eqZ.jpg" group-title=" → VOD ESTRENOS 2025 ←",En Busca De Venganza 2: Ciudad De Lobos (2025)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En busca de Venganza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciFHdrjmuK932t9tz4HkoKFcOmE.jpg" group-title="→ VOD ACCIÓN ←",En busca de Venganza
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elize: Sombras de una Mujer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg" group-title="→ VOD ESTRENOS 2026 ←",Elize: Sombras de una Mujer (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="72 horas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaH93fUARqbfvM9XtaKybUAIo9u.jpg" group-title="→ VOD ESTRENOS 2026 ←",72 horas (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hokum: La maldicion de la bruja (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thRJXNSUsqSNJALSKmXYNWSijB5.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hokum: La maldicion de la bruja (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El dia de la revelacion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZUzkGplztDLC1UhxN8pOTrwcsw.jpg" group-title="→ VOD ESTRENOS 2026 ←",El dia de la revelacion (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minions & Monstruos (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="→ VOD CAM 2026 ←",Minions & Monstruos (2026) CAM
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282922.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2byCAyHGBt29zAZlFtdI45VLnCH.jpg" group-title="→ VOD ESTRENOS 2026 ←",Amos del Universo (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/282840.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elysium " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Elysium 
@@ -48861,6 +48875,50 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/248343.mp4
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/248344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylzzErGq2ziEnElIgG2iQVMYBsg.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S06 E24
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/248345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lKYfhObg91pYPg2rl4Z2t3vAw7.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTfQ3IBTzG9XSNrkPwXw7KrjQvy.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4gCAFYRlkUKw2MODOpADRZtt9x.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V52Po9iDIQ7na5qp3tHkK1LP4S.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t757p2qfs5R53gkJM6KCR5CiiXH.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZcaGA4JqCxvx02937iqhXitSxF.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89hpyTSBvIKYp1OkPlTnDb1RLWn.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chALKsBt7Ns8jplRTrwx9SLmrPS.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/po7KSiPqkxHwvw7GzajFC333Pfv.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeBHdawbtNYpVYYFl2L3RbmzjI2.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivIVjIalgYQe1Dpdji5LHDRk04E.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocBldOo2d5jrmlCDdgrkVktfqHJ.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RlrnBbpQkab3O5QPo1cVlW4C1w.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEQKj2nj9rj87RnyCmYJT0ItQTx.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpUazMBGssRGtajZsmwzHLA4zXy.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCevF0bjH5fpXyVhf4B4b8JijD4.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohyP6BsmwaAVouD8360Q0sHBmrQ.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn4d4VdRDnUSsOMmNvRLqCAUAAw.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyurUlCTFqKT4lzvlKrx07EzZ3Q.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39UVCVKn0HSR3zxZf7LDHrbSAhQ.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghsGzYdXKCeFhAPANVIH0OTVahY.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyNIR5tV7MJvCrphTyM978lTFiw.jpg" group-title="→ SERIES COMEDIA ←",Dos hombres y medio S07 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282921.mkv
 #EXTINF:-1 tvg-id="" tvg-name="11 Tiros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyN6kHNnd59ELXRpJBEC0hG0zfa.jpg" group-title="→ SERIES DOCUMENTALES ←",11 Tiros S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/246582.mp4
 #EXTINF:-1 tvg-id="" tvg-name="11 Tiros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iu6om7d34JBKGWSyf5coF0IPnvf.jpg" group-title="→ SERIES DOCUMENTALES ←",11 Tiros S01 E02
@@ -100891,6 +100949,30 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282885.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282886.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S02 E23
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Jujutsu Kaisen S03 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angel malo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWxJuuKdselOuJNpjUvUA2GpJ4.jpg" group-title="→ TELENOVELAS ←",Angel malo S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/217072.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Angel malo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWxJuuKdselOuJNpjUvUA2GpJ4.jpg" group-title="→ TELENOVELAS ←",Angel malo S01 E02
@@ -107507,10 +107589,52 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282639.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282640.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1nW5UwaY1czCuKFyBuaRxmWA1i.jpg" group-title="→ SERIES DC ←",Smallville S05 E20
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282641.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k9NAcaNyT6b2dNuLpQR7Pc4I3w.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUzW5wPz6txROilc6J4IJdDIdge.jpg" group-title="→ SERIES DC ←",Smallville S05 E22
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUzW5wPz6txROilc6J4IJdDIdge.jpg" group-title="→ SERIES DC ←",Smallville S05 E21
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke97OyYIIe1EJSmnmMr8BIEQ2sx.jpg" group-title="→ SERIES DC ←",Smallville S06 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56yoMzahUkWywYB9hmQkvyOL6RU.jpg" group-title="→ SERIES DC ←",Smallville S06 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TxjrWgyw1I4dRR0dJHf04aqMLM.jpg" group-title="→ SERIES DC ←",Smallville S06 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhC9YTmRkg5o5NkpdzKlBe1S8Ye.jpg" group-title="→ SERIES DC ←",Smallville S06 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXn1mVCsOTS2D7aIpqkIzasmAzy.jpg" group-title="→ SERIES DC ←",Smallville S06 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKgJnk2vvzHmCbbhiqTGXBmv49Z.jpg" group-title="→ SERIES DC ←",Smallville S06 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzLy9mcpo9FQTBrHpDyIo2IKP4.jpg" group-title="→ SERIES DC ←",Smallville S06 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pvb6hQAGl2u9ElZOcwFtJ0wYGE.jpg" group-title="→ SERIES DC ←",Smallville S06 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdQvBzjQ4We3JsQOdpnJZcDrvOH.jpg" group-title="→ SERIES DC ←",Smallville S06 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLpZVl1Xn2J7c7IY5vszntm3us.jpg" group-title="→ SERIES DC ←",Smallville S06 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urfMRDWGB6mdweFh4AaJYoYMuCw.jpg" group-title="→ SERIES DC ←",Smallville S06 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOR6Grie9KMDr6tCDXynCrwxF2T.jpg" group-title="→ SERIES DC ←",Smallville S06 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG6UdaXQFc73n5EnOqMskLn0y2K.jpg" group-title="→ SERIES DC ←",Smallville S06 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhrtC83oKqPOLSeWR65cd0juWto.jpg" group-title="→ SERIES DC ←",Smallville S06 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ogPjxBI7bcJlOIXdzroR0cToA6.jpg" group-title="→ SERIES DC ←",Smallville S06 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYqQ6I3X6xa4HfNdfYpQq3yR989.jpg" group-title="→ SERIES DC ←",Smallville S06 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlWbjqDuTMBCByRmbHahBQK7mma.jpg" group-title="→ SERIES DC ←",Smallville S06 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPs6KIWgHdNIEaFF5JrDH6QrD1I.jpg" group-title="→ SERIES DC ←",Smallville S06 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v4uyoHMWTGq2wbYNDpYTfEl4Ar.jpg" group-title="→ SERIES DC ←",Smallville S06 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTMygxVPEws4Q8as3iXw9nRLyII.jpg" group-title="→ SERIES DC ←",Smallville S06 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTy20V1s3KV9L1gxGKjwkqVEZYK.jpg" group-title="→ SERIES DC ←",Smallville S06 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqVt9dYB10lwwC7gfnBl8vWetlX.jpg" group-title="→ SERIES DC ←",Smallville S06 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282969.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/247881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Succession S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qONaPYPbsQRNHpOHm5qw3hSKC7N.jpg" group-title="→ SERIES DRAMA ←",Succession S01 E02
@@ -135357,6 +135481,26 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282821.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282822.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGc0aCpusIabStbVpo2OJbYpVH.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E50
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvuxqWG5tuVcIAlKRtktuHJqg0w.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E51
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMHHiDbF51wt6XtwCDknsHjpl3D.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E52
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZSkR0OYVDH0j29MitLHg6JotO1.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E53
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flGTbpGcLahOJjoH6GJvysZ3f8g.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E54
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrL3dJecJwYj0fxYTrtMhSHgq5x.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E55
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1TiJs0bMm7cVt0Y0IVgaRVPWtJ.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E56
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8gVlIV005vL8A5eFSjUiAVPXPa.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E57
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPngh0WsEnVzYoGu1WCf4xGJY6.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E58
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Wq7fggFayjUxgZFOt6yPHf9Pn6.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E59
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinastía Casillas S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZpJxFV22nFhhfEw3yNjfc5VhoD.jpg" group-title="→ TELENOVELAS ←",Dinastía Casillas S01 E60
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282942.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PuD32qanC9Wc5T2NCjwLv2MnvD.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wfxNxr6PAuz3sRAd9wdGYBuOfb.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E02
@@ -135377,3 +135521,37 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282836.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282837.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gaddar: Sin piedad S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/824KMcgmLtUncwvOTSO8cWfosk1.jpg" group-title="→ SERIES DRAMA ←",Gaddar: Sin piedad S01 E10
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stokes Twins S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJE7XC508TQFhKWQUdZJZO7nws.jpg" group-title="→ SERIES REALLITY ←",Stokes Twins S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66tcm3jBg5AFUunr6iWjDINbN5c.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KxmBRUcGXpOC8S3oRdHHZje2Kf.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/480WpYGLoGSoiE0S2uQkmSqoPaD.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp3SeKiLkOk5zCVwM1f8V9qFjpM.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm2EbD568qLF0aj2KRWLPZ5xjKa.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amj7n5TTqmohgtZ2rrRfgJuqS8G.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/282975.mkv
