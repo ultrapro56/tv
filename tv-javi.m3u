@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Byzantium" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0xlN7KqzsLMND1KHyjNy9p3iRT.jpg" group-title="→ VOD SUSPENSO ←",Byzantium
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Ultimo duelo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e3d9gjcwXScbYycgRQUcA30cJD.jpg" group-title="→ VOD DOCUMENTALES ←",El Ultimo duelo (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283079.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Cobrador De Deudas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWYD8XatpEMHBw9LD02OtyEqyBr.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Cobrador De Deudas (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283049.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En Busca De Venganza 2: Ciudad De Lobos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oOyMLOP7wL3yl11E6BURRm2eqZ.jpg" group-title=" → VOD ESTRENOS 2025 ←",En Busca De Venganza 2: Ciudad De Lobos (2025)
