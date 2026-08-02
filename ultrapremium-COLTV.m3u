@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="001" tvg-name="001-COL• CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/331
 #EXTINF:-1 tvg-id="002" tvg-name="002-COL• CARACOL (HD) »3«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »3«
@@ -134,14 +135,6 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/544
 #EXTINF:-1 tvg-id="" tvg-name="TENIS• CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="CANALES",TENIS• CHANNEL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/57053
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
-
 #EXTINF:-1 tvg-id="100" tvg-name="100-COL• La Hermandad Salsera (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",COL• CARACOL (HD) »1«
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
@@ -150,8 +143,7 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="CANALES",TV San Jorge (1080p) [Not 24/7]
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="CANALES",Vallenato Internacional (720p) [Not 24/7]
-https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+
 
 
 
