@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Annapolis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXf40OH5kbbfgeVvIOwH6q64nQ5.jpg" group-title="→ VOD ACCIÓN ←",Annapolis
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/283657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2VzQmZufeY3BPH0zWtIyr07Z7w.jpg" group-title="→ VOD ESTRENOS 2026 ←",Avatar: Aang, El último Maestro Aire (2026)
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/283656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Evil Dead: En llamas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg" group-title="→ VOD ESTRENOS 2026 ←",Evil Dead: En llamas (2026)
@@ -99051,47 +99053,65 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283635.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283636.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8KOyfbfapEuKqJ5UvWIBNTIdTj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E50
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEF1BVOkVlpaUkxZxilBSl3aNuA.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E51
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XwQNF5uFszwJTh0noOiw4ZKWho.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E51
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzz4ZqfQZEOm75re8745Itba79D.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E52
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hNl38O8X7MonPPjyc811P0xFKy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E53
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ormpNcdnNHm4180CP1PA2YOfuB.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E54
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjLc13zRTEoVQtjA7Fz97ysRizV.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E55
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E56
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpz3UVBIi7rLeB9fPFZbpIJtwoD.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E57
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGNBnickm2k7sr6b4IhYouGpUv6.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E58
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9pyhKPF8x5SpOwsGzUFbSNeZf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E59
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEF1BVOkVlpaUkxZxilBSl3aNuA.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E60
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ5AdAsakFRlotTEd0u6mCL4zaf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E52
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ5AdAsakFRlotTEd0u6mCL4zaf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E61
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyNSzsq5cowBRkzyorzWZEmmRR.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E53
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyNSzsq5cowBRkzyorzWZEmmRR.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E62
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8rsf8VTC5bRfLIcWzs0slr5ALe.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E54
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8rsf8VTC5bRfLIcWzs0slr5ALe.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E63
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283610.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjNmJLDrhAEBRmwrqV8UHCsljMv.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E55
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjNmJLDrhAEBRmwrqV8UHCsljMv.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E64
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1sqobnLSfmnDlENq9suM5sGOp.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E56
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1sqobnLSfmnDlENq9suM5sGOp.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E65
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM5fJkL966qH06Htbh0xC0eszjt.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E57
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM5fJkL966qH06Htbh0xC0eszjt.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E66
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAN8mJWxtCvphZscGnEhKyZHGy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E58
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAN8mJWxtCvphZscGnEhKyZHGy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E67
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUVRwFl8lbzfMJ0NcKiXZrXC5h.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E59
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUVRwFl8lbzfMJ0NcKiXZrXC5h.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E68
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlOcEQhdryqNBKG5zwwHWyXa8m.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E60
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlOcEQhdryqNBKG5zwwHWyXa8m.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E69
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqfq6q4A4xq0XIGHb5mU7jg62B.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E61
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqfq6q4A4xq0XIGHb5mU7jg62B.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E70
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZrrS239xaQcuMoPNO91VCG3Etk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E62
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZrrS239xaQcuMoPNO91VCG3Etk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E71
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qHNKgSaxPW0d6JRHCnSDBJnWBc.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E63
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qHNKgSaxPW0d6JRHCnSDBJnWBc.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E72
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283619.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EvwEyFqItfUbHWusfrBk8gP38U.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E64
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EvwEyFqItfUbHWusfrBk8gP38U.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E73
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx5aAgVDBtn67ioRWlzuEdZlWMj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E65
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx5aAgVDBtn67ioRWlzuEdZlWMj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E74
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIscWXuNoUyG3PrQu4iC6TZvDzL.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E66
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIscWXuNoUyG3PrQu4iC6TZvDzL.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E75
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsBhEsBwJ19SKZWUkhZqbVdWb7K.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E67
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsBhEsBwJ19SKZWUkhZqbVdWb7K.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E76
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283623.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xniSecFRCUi4gFWLeFdeRdzFVMk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E68
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xniSecFRCUi4gFWLeFdeRdzFVMk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E77
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283624.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsbUeZxodRdlHB9xdrNtz4QVm8.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E69
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsbUeZxodRdlHB9xdrNtz4QVm8.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E78
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlDwYmSdc5V9TpzxbEyApgXFvTx.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E70
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlDwYmSdc5V9TpzxbEyApgXFvTx.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E79
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1idCsmN4x7onCESj5iOG8tVYoAI.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E71
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1idCsmN4x7onCESj5iOG8tVYoAI.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E80
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283627.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tales of the Walking Dead S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBVCcT5xeZAaQmaUBSmifa1JHr5.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Tales of the Walking Dead S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/72381.mkv
@@ -135785,3 +135805,19 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283515.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Mal S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJgne8aE3I5KaMBoiJUEis7ot9m.jpg" group-title="→ SERIES CRIMEN ←",La Casa del Mal S03 E08
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knHGUz5idx8JyRTVhlGyj3KlA54.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nNo2b78oJWvynPrU5z61gQJE6k.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVuVkqZyeJLj4UFU0x3v3QWWgZQ.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28VIpU3jVFnd3e0wfT4HxLgd8AB.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FxlYYAvM1MD3BuFxaf2VtjP1YG.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aafL2fgKwlFv5bzXrSMSIZ3bfM0.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r98nteOqjJkntzqaO8ZBDnjVyTo.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njbXxyOreIkc1dpP3vlpsjDfD1i.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283674.mkv
