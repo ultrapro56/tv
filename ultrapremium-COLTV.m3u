@@ -19,6 +19,18 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/326
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/330
 #EXTINF:-1 tvg-id="" tvg-name="COL• CANAL CAPITAL (HD)" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="CANALES",COL• CANAL CAPITAL (HD)
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/328
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Institucional" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="CANALES",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Bogota (720p)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="CANALES",Alerta Bogota (720p)
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blu Radio (720p)" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="CANALES",Blu Radio (720p)
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cristovision (720p)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="CANALES",Cristovision (720p)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="100-COL• La Hermandad Salsera (1080p)" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES", 100-COL• La Hermandad Salsera (1080p)
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELECARIBE (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="CANALES",COL• TELECARIBE (HD) »2«
 #EXTINF:-1 tvg-id="" tvg-name="NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="CANALES",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/680
@@ -116,17 +128,6 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/545
 
 #EXTINF:-1 tvg-id="" tvg-name="TENIS• CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="CANALES",TENIS• CHANNEL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/57053
-
-#EXTINF:-1 tvg-id="100" tvg-name="100-COL• La Hermandad Salsera (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES",COL• CARACOL (HD) »1«
-https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="CANALES",Reyali (614p)
-https://eu1.servers10.com:8081/8090/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="CANALES",TV San Jorge (1080p) [Not 24/7]
-https://asucap.com/livestream/asucap_envivo.m3u8
-
-
 
 
 
