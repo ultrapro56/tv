@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Young Washington (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg" group-title="→ VOD ESTRENOS 2026 ←",Young Washington (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/284357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rescate en el Golfo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt3cSKKkG6mLzIwUFCXT7aRRhxJ.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rescate en el Golfo (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/284048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psycho Killer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="→ VOD ESTRENOS 2026 ←",Psycho Killer (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/284032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrera de Bestias (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Qwd9xKb1TnO7juMlZqHNiiJLWm.jpg" group-title="→ VOD ESTRENOS 2026 ←",Carrera de Bestias (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Vida privada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6YxWTsMDUAuIPZ0gAGVpyWUjv8.jpg" group-title=" → VOD ESTRENOS 2025 ←",Una Vida privada (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sector 9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNDb98UCa3A1AVwMytBo7bOQfqO.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Sector 9
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en un Funeral " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWxtuGwjsU6CJjsUV3Y2ogRvlFx.jpg" group-title="→ VOD COMEDIA ←",Muerte en un Funeral 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dame tus ojos " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUqHJp2PImoFyi5CDUnxpMKCnNu.jpg" group-title="→ VOD DRAMA ←",Dame tus ojos 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Ultima casa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJnkPtQE8A5H67biPTaTedtHs1L.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Ultima casa (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Strike (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Lucky Strike (2026) SUB
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annapolis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXf40OH5kbbfgeVvIOwH6q64nQ5.jpg" group-title="→ VOD ACCIÓN ←",Annapolis
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2VzQmZufeY3BPH0zWtIyr07Z7w.jpg" group-title="→ VOD ESTRENOS 2026 ←",Avatar: Aang, El último Maestro Aire (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Evil Dead: En llamas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg" group-title="→ VOD ESTRENOS 2026 ←",Evil Dead: En llamas (2026)
@@ -18017,8 +18039,6 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268637.mp4
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/281289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chile/ Chilevision" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Chilevisi%C3%B3n_%282018-%29.png" group-title="→ COPA DEL MUNDO 2026 ←",Chile/ Chilevision
-http://23.153.217.158:8080/935917692tv/a4gqcz4/282677
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -25605,16 +25625,10 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/252707
 http://23.153.217.158:8080/935917692tv/a4gqcz4/253657
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://beinxtraespanol.com/videos/video-poster.png" group-title="→ USA DEPORTES ←",BEIN SPORTS XTRA
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254185
-#EXTINF:-1 tvg-id="" tvg-name="ID: CURIOSITY (Usee)" tvg-logo="" group-title="Indonesia",ID: CURIOSITY (Usee)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254186
 #EXTINF:-1 tvg-id="" tvg-name="ID: Maxstream (Usee)" tvg-logo="" group-title="Indonesia",ID: Maxstream (Usee)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254187
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji (Usee)" tvg-logo="" group-title="Indonesia",ID: Moji (Usee)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254188
 #EXTINF:-1 tvg-id="" tvg-name="ID: NET. (Usee)" tvg-logo="" group-title="Indonesia",ID: NET. (Usee)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254195
-#EXTINF:-1 tvg-id="" tvg-name="ID: Seru! Channel (Usee)" tvg-logo="" group-title="Indonesia",ID: Seru! Channel (Usee)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254196
 #EXTINF:-1 tvg-id="" tvg-name="MOLA 1" tvg-logo="" group-title="MOLA (ONLY EVENTS)",MOLA 1
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254197
 #EXTINF:-1 tvg-id="" tvg-name="MOLA 10" tvg-logo="" group-title="MOLA (ONLY EVENTS)",MOLA 10
@@ -25653,8 +25667,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/254214
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV DASH" tvg-logo="" group-title="→ ESPAÑA DEPORTES ←",ES: REAL MADRID TV DASH
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 PLUS GERMAN FHD" tvg-logo="" group-title="ALEMANIA",SPORT 1 PLUS GERMAN FHD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254218
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="" group-title="SSC LIVE SOCCER TV",SSC 1 FHD
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254219
 #EXTINF:-1 tvg-id="" tvg-name="[alias] SSC NEWS" tvg-logo="" group-title="SSC LIVE SOCCER TV",[alias] SSC NEWS
@@ -25685,8 +25697,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXTINF:-1 tvg-id="" tvg-name="USA: BADA NAMU DASH" tvg-logo="" group-title="USA KIDS & FAMILY",USA: BADA NAMU DASH
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-#EXTINF:-1 tvg-id="" tvg-name="PH: ONE SPORTS HD" tvg-logo="https://www.onesports.ph/Images/OneSports.png" group-title="Filipinas",PH: ONE SPORTS HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254266
 #EXTINF:-1 tvg-id="" tvg-name="COL: LAS ESTRELLAS FHD" tvg-logo="" group-title="→ COLOMBIA ←",COL: LAS ESTRELLAS FHD
 http://45.175.139.194:8000/play/58
 #EXTINF:-1 tvg-id="" tvg-name="UKR: Сімейні мелодрами FHD" tvg-logo="https://i.ytimg.com/vi/46rTfr6OT74/sddefault.jpg" group-title="Ucrania",UKR: Сімейні мелодрами FHD
@@ -25781,8 +25791,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/254688
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254689
 #EXTINF:-1 tvg-id="" tvg-name="CA: MUCH Music HD" tvg-logo="http://live.geoiptv.org/channels_icon/59530861961.png" group-title="→ CANADÁ ←",CA: MUCH Music HD
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254690
-#EXTINF:-1 tvg-id="" tvg-name="CA: NBA TV HD" tvg-logo="http://live.geoiptv.org/channels_icon/10646741301.png" group-title="→ CANADÁ ←",CA: NBA TV HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/254691
 #EXTINF:-1 tvg-id="" tvg-name="CA: Nicktoons HD" tvg-logo="http://live.geoiptv.org/channels_icon/49598814221.png" group-title="→ CANADÁ ←",CA: Nicktoons HD
 http://23.153.217.158:8080/935917692tv/a4gqcz4/254692
 #EXTINF:-1 tvg-id="" tvg-name="CA: PBS KIDS HD" tvg-logo="http://live.geoiptv.org/channels_icon/94947338041.png" group-title="→ CANADÁ ←",CA: PBS KIDS HD
@@ -28257,8 +28265,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/256747
 http://23.153.217.158:8080/935917692tv/a4gqcz4/256748
 #EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC" tvg-logo="https://yt3.googleusercontent.com/gf1V6XGYNe3dG5paixxaQuGkrsZGjgPOAGeAGdHWhWF94Sr2uOt5Pi9WuX08YMxlkcWOvs3rjnc=s900-c-k-c0x00ffffff-no-rj" group-title="→ ESPAÑA DEPORTES ←",ES: SEVILLA FC
 http://23.153.217.158:8080/935917692tv/a4gqcz4/256749
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BC" tvg-logo="https://pbs.twimg.com/profile_images/1581002805329809409/jW3xNUek_400x400.jpg" group-title="→ CANADÁ ←",GLOBAL BC
-http://23.153.217.158:8080/935917692tv/a4gqcz4/256750
 #EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHyDt8UNOlUVwV-DpsgX4o1pf1aLIKMVmCQ&s" group-title="→ CANADÁ ←",Global Calgary
 http://23.153.217.158:8080/935917692tv/a4gqcz4/256751
 #EXTINF:-1 tvg-id="" tvg-name="Global Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Globaledmonton.svg" group-title="→ CANADÁ ←",Global Edmonton
@@ -28429,8 +28435,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTRSPT1 DASH" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="→ USA DEPORTES ←",MTRSPT1 DASH
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="[asd] PHILLO : TFC" tvg-logo="" group-title="Filipinas",[asd] PHILLO : TFC
-http://23.153.217.158:8080/935917692tv/a4gqcz4/257411
 #EXTINF:-1 tvg-id="" tvg-name="[asd] PHILLO : ANC GLOBAL" tvg-logo="" group-title="Filipinas",[asd] PHILLO : ANC GLOBAL
 http://23.153.217.158:8080/935917692tv/a4gqcz4/257412
 #EXTINF:-1 tvg-id="" tvg-name="[asd] PHILLO : MYX" tvg-logo="" group-title="Filipinas",[asd] PHILLO : MYX
@@ -29923,8 +29927,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/650adbe0473a54000846ca0c/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 #EXTINF:-1 tvg-id="" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Frasier
 https://stitcher.pluto.tv/stitch/hls/channel/62cebf042ffc6d0007c4e59a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
-#EXTINF:-1 tvg-id="" tvg-name="Familienbande" tvg-logo="https://images.pluto.tv/channels/634fe3a21eac3c00076a03f8/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Familienbande
-https://stitcher.pluto.tv/stitch/hls/channel/634fe3a21eac3c00076a03f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 #EXTINF:-1 tvg-id="" tvg-name="Mork vom Ork" tvg-logo="https://images.pluto.tv/channels/642ad2127ef83900085f8910/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Mork vom Ork
 https://stitcher.pluto.tv/stitch/hls/channel/642ad2127ef83900085f8910/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 #EXTINF:-1 tvg-id="" tvg-name="Hausmeister Krause" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Hausmeister Krause
@@ -36861,38 +36863,16 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/281271
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281272
 #EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano SD" tvg-logo="https://lgaz.cc/img/dYSpk35.png" group-title=" → VENEZUELA 2  ←",VE | Meridiano SD
 http://23.153.217.158:8080/935917692tv/a4gqcz4/281273
-#EXTINF:-1 tvg-id="" tvg-name="op1 mundial TELEMUNDO" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op1 mundial TELEMUNDO
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281738
-#EXTINF:-1 tvg-id="" tvg-name="op2 mundial TyC" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op2 mundial TyC
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281739
-#EXTINF:-1 tvg-id="" tvg-name="op3 mundial" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op3 mundial
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281740
-#EXTINF:-1 tvg-id="" tvg-name="op4 mundial" tvg-logo="https://images.seeklogo.com/logo-png/65/2/parche-mundial-2026-logo-png_seeklogo-659508.png" group-title="→ COPA DEL MUNDO 2026 ←",op4 mundial
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281741
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="→ COPA DEL MUNDO 2026 ←",DIRECTV SPORTS CH
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281742
-#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ COPA DEL MUNDO 2026 ←",FCL• DIRECTV SPORTS (HD) »2«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281743
-#EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ COPA DEL MUNDO 2026 ←",FCL• DIRECTV SPORTS (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281744
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 1 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 1 HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281757
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 2 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 2 HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281758
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 2 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 2 SD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281759
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 3 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 3 HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281760
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 3 SD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 3 SD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281761
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MUNDIAL 4 HD" tvg-logo="http://megazord.click:80/images/3bd55cf03e6dd7ec61854806697ab5d4.png" group-title="→ COPA DEL MUNDO 2026 ←",DAZN MUNDIAL 4 HD
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281762
-#EXTINF:-1 tvg-id="" tvg-name="FANZONE (SAT) (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjkENqHDkVPyrSDfJ8JeOswmW3FXY9V1tAw&s" group-title="→ COPA DEL MUNDO 2026 ←",FANZONE (SAT) (SOLO EVENTOS)
-http://23.153.217.158:8080/935917692tv/a4gqcz4/281764
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS EN MAX (Eventos) 2MB" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="→ FUTBÓL CHILE ←",DEP | TNT SPORTS EN MAX (Eventos) 2MB
 http://23.153.217.158:8080/935917692tv/a4gqcz4/282054
 #EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS HD (ST)" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTOS HD (ST)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/282055
+#EXTINF:-1 tvg-id="" tvg-name="DEP| TNT SPORTS BÁSICO | HD (P)" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | HD (P)
+http://23.153.217.158:8080/935917692tv/a4gqcz4/283774
+#EXTINF:-1 tvg-id="" tvg-name="DEP| TNT SPORTS BÁSICO | HQ" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | HQ
+http://23.153.217.158:8080/935917692tv/a4gqcz4/283775
+#EXTINF:-1 tvg-id="" tvg-name="DEP| TNT SPORTS BÁSICO | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | 2mb
+http://23.153.217.158:8080/935917692tv/a4gqcz4/283776
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/935917692tv/a4gqcz4/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -97585,6 +97565,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283289.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283290.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aatcm1poF3inxNCUwZEg08qqC2t.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zlx0Oac4bFGtauWgtVCaza2IHA.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/69195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSnFlct2juYiXCxpjHeOxVMDTvJ.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E02
@@ -99051,47 +99033,65 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283635.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283636.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8KOyfbfapEuKqJ5UvWIBNTIdTj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E50
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283637.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEF1BVOkVlpaUkxZxilBSl3aNuA.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E51
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XwQNF5uFszwJTh0noOiw4ZKWho.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E51
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzz4ZqfQZEOm75re8745Itba79D.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E52
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hNl38O8X7MonPPjyc811P0xFKy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E53
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ormpNcdnNHm4180CP1PA2YOfuB.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E54
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjLc13zRTEoVQtjA7Fz97ysRizV.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E55
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E56
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpz3UVBIi7rLeB9fPFZbpIJtwoD.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E57
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGNBnickm2k7sr6b4IhYouGpUv6.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E58
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9pyhKPF8x5SpOwsGzUFbSNeZf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E59
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEF1BVOkVlpaUkxZxilBSl3aNuA.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E60
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ5AdAsakFRlotTEd0u6mCL4zaf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E52
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ5AdAsakFRlotTEd0u6mCL4zaf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E61
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyNSzsq5cowBRkzyorzWZEmmRR.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E53
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyNSzsq5cowBRkzyorzWZEmmRR.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E62
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8rsf8VTC5bRfLIcWzs0slr5ALe.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E54
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8rsf8VTC5bRfLIcWzs0slr5ALe.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E63
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283610.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjNmJLDrhAEBRmwrqV8UHCsljMv.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E55
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjNmJLDrhAEBRmwrqV8UHCsljMv.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E64
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1sqobnLSfmnDlENq9suM5sGOp.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E56
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1sqobnLSfmnDlENq9suM5sGOp.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E65
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM5fJkL966qH06Htbh0xC0eszjt.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E57
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM5fJkL966qH06Htbh0xC0eszjt.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E66
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAN8mJWxtCvphZscGnEhKyZHGy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E58
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAN8mJWxtCvphZscGnEhKyZHGy.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E67
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUVRwFl8lbzfMJ0NcKiXZrXC5h.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E59
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUVRwFl8lbzfMJ0NcKiXZrXC5h.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E68
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlOcEQhdryqNBKG5zwwHWyXa8m.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E60
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlOcEQhdryqNBKG5zwwHWyXa8m.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E69
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqfq6q4A4xq0XIGHb5mU7jg62B.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E61
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqfq6q4A4xq0XIGHb5mU7jg62B.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E70
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZrrS239xaQcuMoPNO91VCG3Etk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E62
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZrrS239xaQcuMoPNO91VCG3Etk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E71
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qHNKgSaxPW0d6JRHCnSDBJnWBc.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E63
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qHNKgSaxPW0d6JRHCnSDBJnWBc.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E72
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283619.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EvwEyFqItfUbHWusfrBk8gP38U.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E64
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EvwEyFqItfUbHWusfrBk8gP38U.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E73
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx5aAgVDBtn67ioRWlzuEdZlWMj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E65
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx5aAgVDBtn67ioRWlzuEdZlWMj.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E74
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIscWXuNoUyG3PrQu4iC6TZvDzL.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E66
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIscWXuNoUyG3PrQu4iC6TZvDzL.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E75
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsBhEsBwJ19SKZWUkhZqbVdWb7K.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E67
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsBhEsBwJ19SKZWUkhZqbVdWb7K.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E76
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283623.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xniSecFRCUi4gFWLeFdeRdzFVMk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E68
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xniSecFRCUi4gFWLeFdeRdzFVMk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E77
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283624.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsbUeZxodRdlHB9xdrNtz4QVm8.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E69
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsbUeZxodRdlHB9xdrNtz4QVm8.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E78
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283625.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlDwYmSdc5V9TpzxbEyApgXFvTx.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E70
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlDwYmSdc5V9TpzxbEyApgXFvTx.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E79
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1idCsmN4x7onCESj5iOG8tVYoAI.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E71
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1idCsmN4x7onCESj5iOG8tVYoAI.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E80
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283627.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tales of the Walking Dead S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBVCcT5xeZAaQmaUBSmifa1JHr5.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Tales of the Walking Dead S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/72381.mkv
@@ -100747,6 +100747,124 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/245784.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/245785.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Una familia normal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WAdG7AyAnUbOQUIuGbeymwlCMT.jpg" group-title="→ SERIES CRIMEN ←",Una familia normal S01 E06
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/245786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQzNJOf9YyceFhhSFv1GFTYvPVP.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdBdoOpYhvP4IisNsoaHlQhbHe2.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epK0pB776yH2kfMQGSON6fS3yvY.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKMG0cD9o3GZa3PrR7x3YIC3edw.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x12pJ2bSC9Unz8QXkaIJ55ODAVR.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pV61cSotdE90bNXq4EZ6xe39EQM.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikj7L5ab2RfC5AMjmYuDLaTFz1z.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVmbPdJ95j350fZIW1ZdQj8K0KF.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kWRba9gBhYGwufeU9Iwkrw3V2b.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckCqSfWeTYnkGkm7npJhI3w5PWx.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2sw0qTsEn4XI9Rp0nM9brJNiNo.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHUC5bl5nEm8rDYDh36jDltZEv5.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swk9fpT3KPvzIHSgSyH9fkZL8cx.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CMSLSadFwhEj0B8F0Hc2MjBg8o.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dToB8rr7WDXxiUQZ9q0p77Yh9ki.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11wkce7CZtIpCVWNTg2Xisl8ZX3.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBsoeGDLYcaMyJeioK1NiF0wsAo.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUon9wovfmg7qME1WlFi3Z1Bn85.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/no86X7XSfoBHABiNp3vINJHePN0.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H53Ad8V1YTPyqwWKRwNbIGwRzE.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2RUhjSdyoNyp6o60hVV5jTVbFt.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDYSuASDbn73zYZXE2XFi0LVeJB.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QMmE4uBGhFpDQUbrEOmEHKddK3.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow2NewWG0iHLVelwqo0jOnT58Ey.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jMH3qhdRO4Wb3B3kfMToTgCuSg.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leErS1VaYMA8XIi6yevkbLToynL.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtxPsRi1YWh92xSgZo1X1YUap9d.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDORvOtFX9gmmACs8EqQUATMJTo.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNm9dGJff75IyF7xR1eEzWC1HUq.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMVdXsDecIR31CeByMMRTpTmXZg.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmq1PTWYF74lvsbqEpFr0FAVzxw.jpg" group-title="→ SERIES COMEDIA ←",Victorious S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KyR2fs5oEUTmxgaaTaUwkYmVrz.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6fQ1IveJTlLde9stSUqjGfVrX.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTr7BUBUcFb29amBUQu5BvBbkej.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeVIajUp0kagDtoipf6D3sOutIh.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2Y8JtvXzo5alJlsTWCaKqrxTX6.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PTxr4nox0afodYm5gGvF14RaRf.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14o5wtKrjrlWgjpPeby9618OqmC.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xtyR77uzlQN2ixf5JQdoTURePz.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQKpoOa2f44F4tPIwDbJeT836aX.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mT2YmT5JH0Cor31l9sYU9BrGfIW.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHvjSQdS0ZbQiAPZ0NQAk3pYmZj.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut8AHNFfWP61DoEjYfliRUTrHjd.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victorious S03 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg" group-title="→ SERIES COMEDIA ←",Victorious S03 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Detective S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnludtHZ9CUbXvyFk1ZnoOsXp6o.jpg" group-title="→ SERIES DRAMA ←",True Detective S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/267859.mp4
 #EXTINF:-1 tvg-id="" tvg-name="True Detective S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htrlCoORtTr7DB8BmwPkafHG3Ps.jpg" group-title="→ SERIES DRAMA ←",True Detective S01 E02
@@ -109923,6 +110041,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282753.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283078.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Dragon S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/3307RKThwUvOoa0h8nhbMYZNpEd.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",La Casa del Dragon S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284049.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/239126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Las aventuras de los jóvenes Jedi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Las aventuras de los jóvenes Jedi S01 E02
@@ -125223,6 +125343,22 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/267481.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/267482.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoLP2RgHxUBQzzygfjBMx5Gos0k.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/267483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko7DBUc9dp8ztTKPqmIa1y3n0nB.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIjreuTJqnn1L918ERL3pT7InL8.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAWs1mai8CbqNBh6Sl0lMc80I6.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1jznDkPqZ45Ocg0ZMyWepSB1v.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RKK1W7f5micBtN2X3vTgvzWcun.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xLbMnFlSGxmg9tD8tzz4aAMwjx.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvygkpwSCr2h0es3lKSAzybuslL.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie nos va a Extrañar S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aiCDXbcZ8YudPfjZoGM8OiHADN.jpg" group-title="→ SERIES DRAMA ←",Nadie nos va a Extrañar S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284355.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dr. Slump S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdTMMNiT8HGGlq17AwDTihsGzhF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dr. Slump S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/267540.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr. Slump S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdTMMNiT8HGGlq17AwDTihsGzhF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dr. Slump S01 E02
@@ -135785,3 +135921,823 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283515.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa del Mal S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJgne8aE3I5KaMBoiJUEis7ot9m.jpg" group-title="→ SERIES CRIMEN ←",La Casa del Mal S03 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knHGUz5idx8JyRTVhlGyj3KlA54.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nNo2b78oJWvynPrU5z61gQJE6k.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVuVkqZyeJLj4UFU0x3v3QWWgZQ.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28VIpU3jVFnd3e0wfT4HxLgd8AB.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FxlYYAvM1MD3BuFxaf2VtjP1YG.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aafL2fgKwlFv5bzXrSMSIZ3bfM0.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r98nteOqjJkntzqaO8ZBDnjVyTo.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Visions presenta - La Jedi número 9 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njbXxyOreIkc1dpP3vlpsjDfD1i.jpg" group-title="→ SERIES STAR WARS ←",Star Wars: Visions presenta - La Jedi número 9 S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh7AmgIRVn0lC3SlLAxTbGFiV93.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnql7CV5jK01FzzvRMHnaT4gw3S.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIDUQVy1NvYQ5ROgPxY8ZSsGZfm.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWssc5rBIhqvvdyr96cCrdSuCzV.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfnUeE0lWY0NWFMZaBd2JD8ZNWY.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W2md2iu9WTsZ3mw4Dhfh1axJI4.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4IGVDx1ObzABTRzDhIgWx6WBWF.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVDkAHjVeEzDPXE3dBtj5SgZhJ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbVfGjJ2IcSYDslhvnBYP3ZtoQ8.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQtZEo5uVVZx6o3Bij30aC28bzz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9piDyq6yozJWxPvzh5IVC2zw2Q.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUR7Wrc9RjOMzPHr8HDDIiZRQ4x.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2ly8Hp80DJ81eluDu3OLD9KzZt.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRyrCZ6JkHnDiDey5TFlEOdJkae.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCUqxAmrBTHZlhiqH3dS7n0jY9f.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3g6C6BhryA027H1mFBOrqEzIKmf.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZLPcAY0DmJFKULIKOYpBIEfco2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsC2iPjNQ5gCClvAjjkLi3qtusL.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncf8NadVjBesluZRA55W5eLVymX.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyK6B4yHmgkOtVkVlyVtHTtcNwL.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPlH5nEOiGX6Ioq8a237PNDvbOR.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGz1N9rt3RkcJc0Jl3haaZdRR3f.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEH8qPlUgl7aHETIVNau3xOphB8.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bISouR2Y5v2PTcoMntFcoHIa7WQ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0GOLWP5rMGUN6KHvUzMcfpuPYd.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aJAhqIT0ByqX6dhUpsoCAkd72M.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxFYGZtf20qngc5rQ6X9a3H6rSz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odQhPhurFdjarjCiihCZ6YQROau.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5fJYxc63m6W1JMidRwhJuFg91Z.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E29
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoXQXKVT8W7Sz9YHAXJTBWIQSnw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E30
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVhxDg6zcj57cw4kNlAr5GJpqtS.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E31
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tBaGc0pa712fWNx9W12mBBMy2w.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E32
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JE9Zpng1sm3eJKejhrXpIdVErR.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E33
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeeX2DoMaYTShXth6eXOcO4gOyK.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E34
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kuc21VmOaRCW7WzuCjVAsX11A1.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E35
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJgpZSw6FYJtDXZCobeZLultvMD.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E36
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIxt8gozO0oyhH3iaAleRnBrLfe.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E37
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwRAgii7P5R4y9PvLaRrqtHNcP7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E38
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwRAgii7P5R4y9PvLaRrqtHNcP7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E39
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T23UfD3XFXQx4r0frFDM1EN2S2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E40
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rXk0FMkEpqkhndwSdXP38gxv1.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E41
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7nMRV3mgT7p7XHx1WkSqwbJhc2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E42
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHR26tAwRW7pdTEzYPbsGAqORKJ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E43
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JttRb1Cbbunxu27ia1kftPnvZV.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E44
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbfhInapGhDfyaXE4PHhI6OdSaw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E45
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owsxUD9B88YWexjViUuqDETqtcr.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E46
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chilxTVFOKHRyGcmvGUlmHWT7Q0.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E47
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWIISDUJuVUgkp9hBOSfG4CvI7u.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E48
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aND1kHd3F1mUVr5XrQVRV0GVS3G.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E49
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3namgfTPAUY72cJFUqJ8cllKkRY.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E50
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgcqdLfZBuvDu4tiLViKLICYnpA.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E51
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z78O20ib68Xl28QswdmaeAPrUjZ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E52
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbT6M4F9zOHzqgvI7t6zpWAmyx1.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E53
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4p1jaqJEbiDikelPGxe91xUMfPw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E54
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a9HvBkCdNtLVuAEMAXXD6KMYCb.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E55
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVQbfiWSY8XYeUObxTP5PxJzfFB.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E56
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uTbLyduYTSzLOYf40YyMJAP6ve.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E57
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Sz2cQD0DxiEMphGzTTp6CBNiKF.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E58
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHz7q0YXwCgngWwE8xkBhA5CmCv.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E59
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvO4pY6Sck535ZiUoGkRnSlKcWd.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E60
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmFE9PuKUwinvz6voc5g2GpR45F.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E61
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijpe9QguqbdbfQBKe5vLzLfFWMe.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E62
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr6DFTbtdfi6ewwdbCNsNOOZ4o7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E63
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wjFufoOwMJH7qT79LMtHx3qewj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E64
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBuBMhaPf2VSnDRhhLsytXen5rb.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E65
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijEvikcqXdlAJVG0mEndzLWdx3P.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E66
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbPR9GuEc6zrtbxdd46mRzUYSHn.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E67
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pGl8HR6srQ5defem1wUfZ0GOnB.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E68
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTDyHV9w2HYmNHT6uQdUqxm4mur.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E69
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcFgu2NmakDROfJWiltPAgCfj28.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E70
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xr0VAS3r2KPVSQBdadTNWhhg5na.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E71
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqdWxswcI9f5NUxOUNQhpW1oymM.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E72
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wi72rlrBeFXRuDl3VNeF4156eSO.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E73
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT9ERiCg6WsQtgpKqWkeVfUpIVp.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E74
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFt0BIRyGaowDIIE76Ud81XP79K.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E75
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IefLFCrT4K4NLrrpY8RqCVU9q6.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E76
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yG9FbNDzkvBvlDwlcoXGtldeL8.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E77
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Vkwi0yGisjXtHuLgaPsqWwxBK.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E78
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RCPcSnLFPd9Vzba91tbGyphtQX.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E79
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQKdydqVaSDBVo7DdIOE2fvBvku.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E80
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaRe9HVjrRskulgUs3OvdTCcfyb.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E81
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLQvXEGD4I5osV5MoZWdNkl9qK3.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E82
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljls64NpQvuLtfjQpu9FCEhprlr.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E83
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ok0zIYFNzOTYR1SUuyM4ynBpDq6.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E84
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdjroGmJtSuVT4mQIrC3J1NS45n.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E85
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPCbkPc2sF9ZrPndjDV4XmMeMec.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E86
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAVbdxCl6IrvKWLWAUnM3USJEN2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E87
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2anuPAFwaPpHIwgVcrRlkz3MQS2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E88
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/420ffp0BS1QvLVvHrYTAvLKQhPz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E89
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w2qzbX3IgeLWsGopBMloizAKMP.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E90
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37Jd77QNIXggiRZlKfez9uAD6R1.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E91
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pgeayu4ghdhYItfZibq2iyAsVu.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E92
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQISeOFZWA7hg0PNqx4g9dyal1N.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E93
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmCsdTKOIt8hxMNBJaebnspQktm.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E94
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aMJjYBGkl2GOkE9jGdmdwXLb7S.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E95
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucJ5y4wnDbTxwUZax09pE2ziR87.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E96
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA9ubT0NKkjCZ1Id0Z68cfTt2np.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E97
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH2QXxfuKd1Ty8yWESwOs2hHzvP.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E98
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epl9AhQjOmrBE48wgDTwjVg9sP8.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E99
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bupgL6rjSJxHzihebETqYn9tIWE.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E100
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udGAwsgAxsFJgDCMiZ3Ub3Hq2OW.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E101
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3YX7J8PXzcyr5xqBg6HBXbreca.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E102
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGb7GF5ePBGwNn7AHvJIGb1X86E.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E103
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmjhbNhK7uambjiNYsOTsvoBW59.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E104
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yHlWPs70NoVSdJxsOLqNRSumPP.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E105
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilFuXDdJBrgWR3jghonHVprurdM.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E106
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOplbGSDQBmn1oC08XzLaiFGRlP.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E107
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA8cTO8RDSyvWBPaobgHYdRD80Y.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E108
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQzJ8c7b5eA0lDccJC5Hm5ojg5x.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E109
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwjui6j8pM8SHei5fLgbeQYrODL.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E110
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhaeo9CysaSfrBg8cqJkxIdbbRu.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E111
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuxYs7FnbCN7c7IXtE3x9ONxh6k.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E112
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x8RVS0nCkAZOgtyxEAiMCTFptQ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E113
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac3P751ByFQSdlobOG0593cQJpj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E114
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nXK5q1NbXYRWF48NioSDcVN2Y7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E115
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW43sCWLUItaVcaQ6Npx5u6qoT9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E116
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0URfkIlQobWcXoNURJ2aX1rGB9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E117
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj91ReQDmo4HKrFXfGChBJk8zhv.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E118
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubivIEvuwPY5hAW82PcT1PgYCB1.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E119
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epUf1iQVtR0uSGy1L2Vx3QD8u3R.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E120
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsibw1tWQEgRLqbprBF9WOVADYT.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E121
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1TR7ETaaztPX1QF5M9U6Eg5rQS.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E122
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH51JyELaNaka6YSIKu6X1Ywxbs.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E123
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzUTXNBwzasHei7sNv3buyQtsLw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E124
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etgFWlEPWxl2MgrKgwLmg4LrhRf.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E125
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yCogPZmFOQDlDQ1IdY79cCNZ96.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E126
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGn2yrmnUq8CGOO3eJ277DIPAi0.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E127
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uxNZf1mjCv1UisfaOeah2jJVyy.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E128
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RDECbhEikDO7BQ9F2yXHErIU9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E129
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jtpq1mAftlatOfQ5gPiQxHS04I.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E130
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1oy4EdTiNBr1XeCZEw9Iiuf91b.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E131
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hR0TQIIkpYjztDCj9wiBPViEPYf.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E132
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyJmdMQGHJHkR8wAdN0tF7ARMwz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E133
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYHBNZWxVG5xZ8aNiXJoezxMToJ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E134
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyZiaBUoEVYDybe7TIMDQxPNhrp.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E135
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dneZoKgjjKJKx7QIs7RKffc2tlM.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E136
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viT0HoV7HlFCk1tGhTP3QnplUzF.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E137
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw8RAVZ3665htnRIAhxBxrzp9lX.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E138
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqd9xqTmlu3yKE9lkzpnNxE9DKw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E139
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72DeWmNYUbBtFWK2j4uVKZt7yeQ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E140
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dLfcFTLAROIPjYEVUN0PeDFUDe.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E141
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVrZclAFagtKoFhMwdEM6Dv14mf.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E142
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw3rxDn6QXyORWpKCc2oCTMjGR2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E143
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3qBnKG16aNpDxksXMAtVVDAclR.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E144
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktgZKmU0xcT4Y7kqDJpfBreRg0b.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E145
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNxHVIxLQd173OHiF58YpAn6Pof.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E146
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl0fPpngpcoEIHPS8hElXEtMbFj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E147
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tz54ppivnFNDxS0xBS1zSEl2Qj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E148
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsfludCgNydHFfhkUmiL4Ykdwxj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E149
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tyqNi3XVZqN3PaLcOj8RhuhbGZ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E150
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOyHdJF7k0rwuAzHy5PelX3HqcU.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E151
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmn2oa7BJIz1vO3xo6ZslqUX0n5.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E152
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqIec6cVUjqjdbVfzjtDgnN4SSb.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E153
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyeqUFwnvzKFPEC2qTAZ9c8pXuH.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E154
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Z98TRL3Ff38uo8q9tz76tkxQDC.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E155
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ7waV7KVQviUaUJ1zG7gTeSrlN.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E156
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu0vlC1Z3DTGrj8PbuILB6Jn2JV.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E157
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr0HDDMfu8KLDAvluP4aqT1EnOz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E158
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/454l8jUEOR5ndxjHn2zKb2Otj9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E159
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyTnK0oNDNFUpIfPPzwxHgKbCp.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E160
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HSgR4ejKu6gl4vnxDuV6KdDr0g.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E161
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DaJUxKttZXsRWpMLjPR9kpcLYV.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E162
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDh1dTp3eC3i0eXpQXvbyZnfxgj.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E163
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inZjYKZTT3rS3HrCI87a06PL1Fq.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E164
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKM8hx6mWaBQamW6sYiK4W7zwa9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E165
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfBszHoRbXzmiWlu2VRS5J5S8yJ.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E166
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0w3Tx6m6MwQ72GsrsJ5zrfhO93.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E167
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hShVYOiORL4kgBpne8wnLuYaIg7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E168
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIWTVqXviN6O4uVMEgYrqKvHkCq.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E169
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOpnFC4p0BnjyIGJHpvMNhCZfnx.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E170
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BUxoMsAgFaISBSk8qVXBjt0L7o.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E171
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXQzMGUUHOXh0yY7kHTXW8Y0uTr.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E172
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSyTxiKdYauUSums0OgG1Gvj50I.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E173
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY9hMEzcRxhq3mU4X0zsUVJEaYD.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E174
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKu7M9ZN5PsnTubQYwpXRlWpQuK.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E175
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt0pItQt5TyVh36G9mHWFesyeoB.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E176
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSB6O0EIBMBFWgM4mG2Y7R0hJMa.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E177
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCmpIZkpf7GdqxlmidZJ1ORVsJE.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E178
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRhEL5vTdlvrm4ti4zeKFpBTCzG.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E179
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgstMz2PaDd75CObUierxMgWR9A.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E180
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2NyeEohBvow97pACYq04kWEqRi.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E181
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLFItQCFwSjYHrljk0QxpuF1RGN.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E182
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwu19KEFUXlfuEvdRaJRNFKOiQU.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E183
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH9CHsXmNnsG4PjLAN6qkoDErbY.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E184
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNqMFlyo4zugj2LvkVqNhtor6BU.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E185
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXz7i4UlnamyX38mhxeDdnShPBE.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E186
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Hium2LZ46PCznh23a7gDDH6ve5.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E187
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E188" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afu2vUtgx8hwSJLABUqf3oqXA7P.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E188
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E189" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfSnZlB2Y6pO9C8TQoaUQmX8jxR.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E189
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E190" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYtCBpsc2RO6S6SnYar5b9Ihvig.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E190
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E191" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xljwNwgqtQVStZxEXqGVDzLeond.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E191
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E192" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KiQjxkkI4ebiKvDvK55w9ve29r.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E192
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E193" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igTRZfLf18Qc4JOOvPPC3WdDSFb.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E193
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E194" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDj3ASN6ySaH2L6ma6JM5zTEXBs.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E194
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E195" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQc3qWtfe3u02Sh95XAIPudAAe6.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E195
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E196" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBKVrrY9pimVxxPADJKwMA2GRrw.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E196
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E197" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKigmTxsBaEowt6U9oLzBoMpiG9.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E197
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E198" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrVwAMg2CpCzFNqSKCY1qvMlX4S.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E198
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E199" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB8kTFlLRjuoEgUbdclKpX1jjHh.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E199
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E200" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz5QQg68wKx0Y0ssPPVeshsWtnV.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E200
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E201" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX9VedYtrq7YpT5K3DdopKu589d.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E201
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E202" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j1ociP19UJhQPaU1kIFqCvhtL6.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E202
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAGJ4xT0MbwUFw6BqmbfUsjB9mc.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E203
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E204" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjIjDIPytAQUHzEizHYURQ1LTvm.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E204
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E205" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4X9AJq13MLHitgefCpDpFWt7y5V.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E205
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E206" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4pHtCcil4k9G6X7EXB4awAg3pz.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E206
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E207" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR7oR0SLizaTo0xipGDYW8H2Rqd.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E207
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E208" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRGJhF4R1eXtIonL8BaOpJBjNjI.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E208
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E209" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36PDHjtuTfkgtdqfZWiKqyjWkao.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E209
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E210" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l2OuXm7pcZEZkPkfAb7RuoUPCM.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E210
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E211" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UMkbxnLFA2GMQzY3zeRkKrwWu5.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E211
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E212" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94YTdbQCChSRVTuxDgEk2cKdPP2.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E212
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E213" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dKfxhdPga0su3yrHSYjFaMV2T3.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E213
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E214" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWMRs2i5TCOL6sH2ufa1C9yDi15.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E214
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E215" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qhYkYOKrpxYbsYsPEzc04ajeim.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E215
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E216" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1pVwdFQo0PYYY7I0CZGHcJWs2O.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E216
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E217" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR9tvAWK03Mqc6vtMFUsvTcMsAC.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E217
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpXGDIK2MzQrMUnevsXBipCL64Z.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A3CCMFyClLaaYzziL0L2yLOeoO.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLFtrVgnoCVaqRrWLch7Zln9Asl.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NO6gxOlB1bMSQhoCIej8qWRcbz.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igqC28oxQGSEaWr380CfyOLoRmc.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIAQxeBcN8KENTC2b389lkYGAxB.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qICdvBP2hm8p0cn38oqPIDdkc3N.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quBZgEJXYp5Ww8i9EwFjwW9D6xR.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npF0y3vtq6voB0Gglml9Yzt8lEk.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EWUOFy2Ryk9sd9GvgcqtVJdD4H.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1506U2ipvdvTjAPkr1ydhVBWQyu.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oKtrnpDfyRGC46zEqTYrSel9yR.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTARZGi2hlY1gDE8e6zBqK61uhK.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XisgO9apIyPIznk3kNSxEjBMmu.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aVHJxnNUc4fwZQc49EsJMPpm6A.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NO6bDAkVGvsqNT5gTF6A5QgQ3K.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RxhWJPDRhbu7GES50CZZbuZKOS.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pyJbx7r6QRpq9cl2bSNx6GESW1.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jK5rlE9Wqo7LyqTpCJgnJntc7W.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJezCReeGmHMsehtlXROM4Q2ZJ8.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KVxhBvscUIofo2OUH7Q9cKEl0o.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LMNI3XNXopp3EciADuGa08M9YT.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ivEl0jlfZJCKsU59geQ2B25Wd9.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eCzE9sfrFlGn25Bcz3U1BUwCDm.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4use8ohbmUwXb3sXgHtL5rsRdYz.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21UFjY1zwsiJLuQ8xqdWWl97znt.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNxZvIoaYg6lHfmLExAAuJiGj6N.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NaBMNitp2U1vMzjMyBWnsdwTGe.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sob6IljXbgHLIJQNN05aPkV3pPi.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJwlMuT8UnrXs2pflDxXxHClK1D.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woltyP1XAt5tld5ewJgpS9nVJnL.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQYgkLIMCsWJGlE4iVDvKv0hFhJ.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJwoezIZP5To4KjYcxd2Mswo4FH.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNOlfrlTEOPHyiTaRK94lzhzoZF.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on7XI0xxvYkmAdrkiJxzulgqqVZ.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSAd6bd70lXlqS9tngtKDiv2ssg.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjGi7vlJ61FkTEDgXcpsvyTnPVm.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5sFITxzxSyW2D2fgPOPLrpnKHm.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbCLiPoLB8dDuSj0eTbmq6bKFqp.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im81RezurXqpltcv7cDs1JCnvq9.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S02 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bddnCpin5MTI7uZQwmlar6OxJQZ.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrHon1YKJPLETzygyQfoMiN85Si.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUGz1HjuWJsR4rt0QjBcePU4iLb.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwspv7GZX8CioEMQuDGWoqfJc0.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g828oJhW8pGwfOxfu5y4ICtD4f0.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkX2yMOoLQPgDcyhDrpZSRcScuB.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNlwXqJtqe1a2Pj3mlnypml3Y6r.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVvye7ubaKoaWmWiMkAtEtIDILo.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKoTNvhwdjCOfio6EvoNle7sqtl.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ItfvNMq0CO6gbCPArhXCZQdzNE.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UKn5Xk3TrR13qsbJWjGuXW9RvX.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reSwVsAvI6qvPIzVzD8jTOh892K.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcXp8S8j37JFBMGdohfryJu1PsG.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj08HKMJwPcW8FvfsBNReANCt0r.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyVZjLQuaQiBRulx3hz7SnPzwJD.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22SX7uY43jOYuMel9N1FLtvvvmQ.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgdYXc0DG8YP705zx556R1o5nrA.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhEURr88ANCnMZISGJ6ewfQdDzn.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c6J7UQ17tW5tXzEMee8hyS1MkO.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGKoPrNWmJJkhIjWXeAO6Wuxal3.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S03 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttcZ7cI4IYpflcJybMp56Ch7zkv.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJxDkBOmH0n0Cx5sOQjOiYMNm5o.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOb7hepB5HhX6AdOlCThwg02IYO.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsy7XlekiBOLSRt2j2UtETr0YhC.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1UDoeYMz04mAUdNaBq6e2baeCJ.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gatos callejeros, de Ricky Gervais S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeRs6FcbFz9f6WBtJgo9AUGjop3.jpg" group-title="→ SERIES COMEDIA ←",Gatos callejeros, de Ricky Gervais S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48zAaYdSGRTtq6f7L9z6MOf1z20.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maBXrHH7rlN50CgERqOoC8N71w0.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdwJuu5HLKfSGPdZ4CCnyliot9I.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XQOXCY4cyospUFM14llFKiSGbj.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQDDUYhutkD0pIHQ3nUbrRyCIPC.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ykBEBf0rk9feCzD44swuVsjwuL.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dn472UyvBzCx3httc1OwN5xnfl.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmNGnhSappaBOM7D4UiDYRCoGyB.jpg" group-title="→ SERIES COMEDIA ←",1670 S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f37XdQx3Hx6qusIdMOnP8diIH5u.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svrZsRoHgXr5yqe3THmwQspjlUN.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hEyBTNBPwj2pv7q2b2mdq0xSMC.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsatocdRhbr3U7eeSfy2lYexhO9.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8VP01YvrNrFuax6mlFSvKT3QIP.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cQ4nOyknEBrvdKTXpxvRPzazad.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmHrAhSKPEsjdmrp5QFE7MJcz67.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lP90zH6EtLaz1JYIWe23gZSdLg.jpg" group-title="→ SERIES COMEDIA ←",1670 S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwnEpk1tK6h5D2KPit38ZyPUUEV.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFkzN2oBGxeKJzhPkMEkYjupooy.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHvxmQwwTP0HDkUSf66NL4LIbhX.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM0VIBCMkGVo3TBzVgTDjKNRneA.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O8emObfnJvLktmhGnLB7FG88Ds.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foPHg4WdghkYeOdX1JoQ3k5ow9o.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkNRXHWyyUjFNRrF7vm9eFzHA4S.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1670 S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3chxS6LqvLRbwD64AEDYA82MbG7.jpg" group-title="→ SERIES COMEDIA ←",1670 S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX3JD72CnIvZIa1d7nKCpHexyOd.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP7YLJ12VmlqWetMywExmaaKMcM.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iv8nM5eMT8E6exf41ZDsP7Wq5Bu.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRrQgDms5fWuKLUaaKJt4DXMprT.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qB17eqaJ4s1WkUCVqqXnxWWHw.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLgLzONy1Udsy59Gq50jbvJekgr.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhPfctvjl9qHH9Wl0bA94rxa0gq.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i35yv677g4WBqC2hDW3QPztz8MX.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.J. Decker S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwmjQ3wFilBNzjSplgwHcz1qSNq.jpg" group-title="→ SERIES CRIMEN ←",R.J. Decker S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhEiHCU5uK2wotYJjkPSZ0jxruI.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luQ25qUqg2FKUgFVjuI7SJGjY4y.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIvp4XJJCZzkYhCkgdek6Ixplsv.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Gt6WqnmyFJFmU0c5HeZGga8enC.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg8bUFST2TTqFp8Iz6mmL5h6DGw.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chad Powers: Mariscal de campo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymn37pd1ZzRXcPdyqkrfifmukG2.jpg" group-title="→ SERIES COMEDIA ←",Chad Powers: Mariscal de campo S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJWbQOdy4DmaNQKniSXX4Ew98FE.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ougigpSxwVN8uGHl8jH7ltqNkXz.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkwmwDXICK5N689xx7ihtZDzKwM.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0JWIa3oEMPJskR2QvOFa4GhjIg.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn4ylVlELhvUwj4F0GLm7jHWsV9.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20fSRzIFbTfyeUawRQmmqqMMdyR.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rZle66lRgys1bliAZK9w07RaCZ.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33RA38qglOSBSwdmAM8X0xbU5eO.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwkmlITscxfhZBQ75qdc1qNaUI8.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tF7FvDhcPDV73s4VOywfqr9AgsX.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjsVIktgHkAcTfch0fwz7eDlf7J.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqH4hwt7zYjXg1z1vOaMR6VubMX.jpg" group-title="→ SERIES REALLITY ←",Río Shore S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWbXCNieesTGJ6gON5zRXOUz6Ty.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TQFqFb3WSn4tiY7Im0GqqEyTgv.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1k62OXFsUENwk1ZevVPGJszlikO.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oMxfyEfqwPfggMG5IKp6WBV46T.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLReCco6Ul0eM7lvg2pYQWIOyX6.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp07SDuB5vMFeaMuFDWM0dmTedu.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a598NpONEmSftsGojDkkvqhAelz.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTshsxfOUZ7yKoWcVAdi52MxEmf.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83oM2CjoedwFXCiU59dU8HFrQOf.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtIglkuoEfTtHgUhrh2VDRjr0RX.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIRb7LcONTfTOKpYWNtJHCkjl8L.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o67rkvdzxzxmBc5liHmUBphshxu.jpg" group-title="→ SERIES REALLITY ←",Río Shore S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9U6sHlg5zFBZTk1kQaO9RLOciJ.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKzocDSqVG1TEe7QCuPTQdf4la8.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9xq7XyQTlBDt4oRMj2maH4lhwS.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApOUeFPR0PvtNkKaLO7IGK91aQD.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9buqZObwlxXvOJj5K1TFGXy4BRG.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ps4xfcflmoOceKHqeo3T24w9M9.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1BxxKqKbsItaZh8n7AGClInRKF.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGXFe1OpVZwusbjtsS9Yl1Npued.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ccwFzQ3a99mGZvzr2ddBLANwGe.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrUnxOt2HqbPDGTn2gr7SoBH3oF.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyGcdEyrxiskkBiBSzQVKUhNbG.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Río Shore S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRAuRUCLFJydv29xzRjregq68Qa.jpg" group-title="→ SERIES REALLITY ←",Río Shore S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aShYKzg9lgYwiYGbnuwSf67RoSm.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf77unDvCkjFIXd4kxEYIGBIwvJ.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EVZ9MH05otVBPZ0GhED94PHsTS.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PRFRLX30KBOR12hRBFMrHNqHA5.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SMWfZ514xb1nEW7uin8BqThh5z.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm6yfoRGRhN8auEtbDjP6eU3JBJ.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJTwIvUB9HLuhKKWNUt8gtiMuiw.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyyah3Stcn0qFcbOAPuSw4tbf11.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaWf3Su02xP3ER01RYXoXtrtHzy.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yYdJfhIP6A90fHHwfj5uNjx60c.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HGW7DqLyvNLZdS9QDe7ieYi6W0.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB7APwvPtbAeUOyGxG53etJdbJ3.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4AcJvIFfnVrG8TvGunB0mGGKV.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtMCy8H9HEkxoFswItsPZKQQy1N.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9y2HeTP45qgOnOv6FVD2nQJyC9J.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0NQJUU1W93zrsIWsTcksmC9CPa.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu03EBbbADrekpNVNC3M1a2un9M.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVqFquhhFJ9uOVpFssTACTVH06Q.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTGKLOik4RI1R99XXtzuvazVTjp.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2uLLHd058sbE1NHkYwluiSIgF4.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCmJRzarK5nznKAet5SuAzhQgde.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68KYJFhohsdXrlCcwTxjyIywC46.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESqt8eMZsPxlxnQj3xv05L7INa.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81FW5jz4smr75wNYj1loJftzFrq.jpg" group-title="→ SERIES REALLITY ←",Acapulco Shore S03 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHKbqdCZGz8jrya16S8xLO6xrmg.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rjWOMdPT6NPliOzm0yH5TdWZK8.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f05FL4jXAOHo5heog3uKZbrmwVE.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJM2kGxVrHUoptmM8WVqIa414Ka.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDkHFDnjd2LrtumvySDZM3oauey.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Safed Sagar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9t5HKUQd5lFaMZDTQOIZoV7Za.jpg" group-title="→ SERIES DRAMA ←",Operación Safed Sagar S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284347.mkv
