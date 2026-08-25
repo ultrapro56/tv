@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Regreso a los 90s (2026) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlPNWSHJRHZ11NSWq7HnZx5vx5m.jpg" group-title="→ VOD ESTRENOS 2026 ←",Regreso a los 90s (2026) DUAL
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo lo que nunca fuimos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg" group-title="→ VOD ESTRENOS 2026 ←",Todo lo que nunca fuimos (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 3 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg" group-title="→ VOD ESTRENOS 2026 ←",Los Extraños: Capítulo 3 (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poseida En El Desierto: Killing Faith (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsejtb7ceAGtNxOJOF1lD6qPByr.jpg" group-title=" → VOD ESTRENOS 2025 ←",Poseida En El Desierto: Killing Faith (2025)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Estan entre nosotros (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e39otwsMlSNLflKeQsmdbcl0ZQ9.jpg" group-title="→ VOD CAM 2026 ←",La noche del demonio: Estan entre nosotros (2026) CAM
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El final de la Calle Oak (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hT5qnmx9FXGkuBy5Vo1DkOoYyuS.jpg" group-title="→ VOD ESTRENOS 2026 ←",El final de la Calle Oak (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mother Mary (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mother Mary (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dioses y Generales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj4ujWi97oELQN8ZynIb2r1LVx2.jpg" group-title="→ VOD BÉLICAS ←",Dioses y Generales
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La captura (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwCeOpuBtuTP1kLosqgniey5OvX.jpg" group-title="→ VOD ESTRENOS 2026 ←",La captura (2026)
+http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sueños de Libertad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdntsQgOPgQ1VjLlb7FMNf5flb.jpg" group-title="→ VOD DRAMA ←",Sueños de Libertad
 http://23.153.217.158:8080/movie/997127576tv/nfvzjyp/285021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extraño pero cierto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptH4UrWL5isYgR6nQBnWEO9ga1J.jpg" group-title="→ VOD SUSPENSO ←",Extraño pero cierto
@@ -36887,7 +36905,7 @@ http://23.153.217.158:8080/997127576tv/nfvzjyp/281272
 http://23.153.217.158:8080/997127576tv/nfvzjyp/281273
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORTS EN MAX (Eventos) 2MB" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="→ FUTBÓL CHILE ←",DEP | TNT SPORTS EN MAX (Eventos) 2MB
 http://23.153.217.158:8080/997127576tv/nfvzjyp/282054
-#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTOS HD (ST)" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTOS HD (ST)
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENTO TNT SPORT EN MAX OP" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTO TNT SPORT EN MAX OP
 http://23.153.217.158:8080/997127576tv/nfvzjyp/282055
 #EXTINF:-1 tvg-id="" tvg-name="DEP| TNT SPORTS BÁSICO | HD (P)" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | HD (P)
 http://23.153.217.158:8080/997127576tv/nfvzjyp/283774
@@ -91673,88 +91691,6 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58897.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58898.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pancho Villa: El centauro del norte S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/rO7KSHiR3iph92u9fnLpz1wqoJq.jpg" group-title="→ SERIES DRAMA ←",Pancho Villa: El centauro del norte S01 E10
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58940.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkGrorsifVHMWeOvrIFTe5OB6MI.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E01
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIUJS6x7Gsma3AG3dJz9znVwZe7.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E02
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GpJY84MXQ5bRxuDvesAuZc91RP.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E03
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAFxJMiJiD24B67Bv4oaoGqa4n6.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E04
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqs5Qdc2aNaHfB2bCwzGrb7F77k.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E05
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBq1LtQ4ZCwXWoBMJkxO9bt3iwo.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E06
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTvy3QDQq8C8M4K6Cb9YIDyHPzC.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E07
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7nDYE3OaXvXHikGY7HnJ8ORcx2.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E08
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkryqjfapzI01mBQwXFVa29wuXN.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E09
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgnBJvzjWUu9pemAXZ3wyqCpZQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E10
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgnBJvzjWUu9pemAXZ3wyqCpZQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E11
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trpS9AYMjcaOabFpuEZFhDHvHW4.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E12
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltTiHwioLTxR9gscva5jlb4EAqq.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E13
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E14
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58912.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFJTVptZYDDoCyeO3YFDXijLKx.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E15
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E16
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd7q8cdgAZlZkS7k9NCTVPjYmgU.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E17
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQH9OyzEbBirEETwjm1WB07HC9m.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E18
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66dBiNozGsoKd59cEZdEgbRNzcT.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E19
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E20
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58918.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kscESEVGV2iauBhg11651pOcgXb.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E21
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E22
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxJtIAVNCiIOLN5ts8HfPzRkmoi.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E23
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E24
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Xj7DWnDrqVmOGa7oFYKN81Tea.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S01 E25
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E01
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNuwQFch09vvNAFAq7HR2XgNX5c.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E02
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E03
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E04
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E05
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E06
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58929.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E07
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58930.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E08
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E09
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E10
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58933.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E11
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58934.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E12
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58935.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E13
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E14
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E15
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58938.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus sorprendentes amigos S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2MYWu7JoSdrEloK6Z2EloIlhK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus sorprendentes amigos S02 E16
-http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58939.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Frasier S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y7Dj1jiltGdWlukdTAEXflyI1u.jpg" group-title="→ SERIES COMEDIA ←",Frasier S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/58944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Frasier S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIqWg0Rxrr0GduEpc48xc9aNv.jpg" group-title="→ SERIES COMEDIA ←",Frasier S01 E02
@@ -97235,6 +97171,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283291.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/osT904IAfFIZtXDOxv0yT9j2BEy.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E03
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zgd0o2GBZYawaId7cGIzVRbfZxN.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285128.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zlx0Oac4bFGtauWgtVCaza2IHA.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/69195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSnFlct2juYiXCxpjHeOxVMDTvJ.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E02
@@ -98761,6 +98699,46 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283625.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283626.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1idCsmN4x7onCESj5iOG8tVYoAI.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E80
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mgGlX6Uls8u8pHl6IRoNe3i5Ep.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E81
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rozh8PFY5Am6PFc41ksKIQpMtaM.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E82
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df3Ddy0jwhseYzqyI2Uf0Jjgu7O.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E83
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ZnOyitgMVks56ufEscwNu2kT.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E84
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybIKK6YDpH0aQMaOGf0To4UDg3T.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E85
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZfKXCavGLFakiXSWx1n9hD83ZK.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E86
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JUBZnrmC8DctGds0cHaj4Hcn24.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E87
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB09nn2SYcnpZvRXmoU2H6jg05a.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E88
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyp61Euq4sgKjcUvqmo88fqPTRf.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E89
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4bdS1zRPwglpJfiihfBudkn0NV.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E90
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvBrl3l4KacJPn1yzl98hULJPuw.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E91
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SyEfGP8XD3fezKYBl7A9zkukfk.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E92
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GzYyCloMElmZfpOg12R4t1U0YC.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E93
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzcugmwD5CR0MjasTRFltvTMpja.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E94
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nOjazww2uIP5VKU8MSwj6ayOjK.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E95
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMZ82M9hFhrrYFLiescBusB50xn.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E96
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LtfyVUXIpVRR0Vt0KkPY0PvjH.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E97
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Wm1YlcvH2auMD4OJD2nl5DXnL.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E98
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXHirsWPvWrHkHMnMKkTHiTpN9M.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E99
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destilando amor S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wNpv2jbD6kBrMOdZor48GCfnGt.jpg" group-title="→ TELENOVELAS ←",Destilando amor S01 E100
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285241.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tales of the Walking Dead S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBVCcT5xeZAaQmaUBSmifa1JHr5.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Tales of the Walking Dead S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/72381.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tales of the Walking Dead S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r21wqLIHsH7KgzPpYv34tqaQAoJ.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Tales of the Walking Dead S01 E02
@@ -136237,6 +136215,56 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284930.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284931.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E310" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAkqCOQaOPySYXtFkdwad6OMpD3.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E310
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E311" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1OeAgZZP7THB31XBrwRADRZAte.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E311
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E312" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeNdWIQ0cjvOSycg5JSYwzDqkJP.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E312
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E313" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOCJZg7L2yxHSzR5DdLWMuILB05.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E313
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E314" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXvQzCF4TLLIk6lNQdyjxUDxohD.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E314
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E315" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx9WrMq2a3sg6UCLAnz7pQPu78L.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E315
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E316" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMskQQkirvBByaFFupdbUTEnq0E.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E316
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E317" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtDw6Q8bA3V4kmlEexCzDG5meK7.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E317
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E318" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/um3D3UykzEze1WXZ2UR5vkgfTow.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E318
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E319" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK62R88FAMcgghldvHngtODTT4M.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E319
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E320" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW8m9ixYWFGBQRNd07J1BbLgsFl.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E320
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E321" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QTRsSq6KqneSJmvuKjYQ7yVx3U.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E321
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E322" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4tFfb21w8oZnABSKQfm5x6Ml05.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E322
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E323" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TBCC1Cvj6ovoapqdaAjPUpIeT.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E323
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E324" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLheWXOycmHVa8Ua7NQt0AuGidO.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E324
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E325" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUQPRS4bJbAusPlft2CYLjxYSEN.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E325
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E326" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E326
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E327" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FEh68HqIuqGOQnTaZg1q6ag2hg.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E327
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E328" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrDnqdpED5Y5d9vZ0s4xffnM2Fe.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E328
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E329" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xzr8k9FJg4P3QqV6KfGmNiKOSp.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E329
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E330" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xdy4QGHOV1CTGeWNZGQto2wko0.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E330
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E331" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpOwckixqa1L9yKARGmENEYmnuI.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E331
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E332" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRZpMA3oYKYUVRIE47tcgyB3hN4.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E332
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E333" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gSPCYQ5i49FALxnB7jJVzfCRaL.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E333
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E334" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN9ZsafzXACKm4ApIz1UZqlzjQS.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E334
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Betty, la fea S01 E335" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="→ TELENOVELAS ←",Yo soy Betty, la fea S01 E335
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpXGDIK2MzQrMUnevsXBipCL64Z.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/283902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A3CCMFyClLaaYzziL0L2yLOeoO.jpg" group-title="→ SERIES INFANTILES ←",Bob Esponja S01 E02
@@ -136683,6 +136711,8 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284417.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284418.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg" group-title="→ SERIES DC ←",Linternas S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iHfT5NDzGxQoovTKbqkBPcyZUxJ.jpg" group-title="→ SERIES DC ←",Linternas S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E01
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/284892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E02
@@ -136821,3 +136851,325 @@ http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285013.mkv
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi Adorable Demonio S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5co7fqdkmc5TAzaFOcBfxavBag.jpg" group-title="→ DORAMAS ←",Mi Adorable Demonio S01 E16
 http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpgX28aim8hpE3zBSz8xaydLYk1.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVl0UVv5lA9uexZ4vNFPTmU98wv.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlmjCo2VIKMB1EEfbOXwc6zuBrz.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5FTk8HdMNuto7xI4NGlY8Y9Uqx.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5DsiRZFncoz3l25H9v1i1M9fKB.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus de Harlan Coben S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNWQbUQJm4rledxpGPbMJz5H0zV.jpg" group-title="→ SERIES MISTERIO ←",Lazarus de Harlan Coben S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe7p2Dz3XUUejTL3oCuGNOgxo1Q.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIUJS6x7Gsma3AG3dJz9znVwZe7.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GpJY84MXQ5bRxuDvesAuZc91RP.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZC6AcY5PrDqsyTYfUCwb9Bv1LD.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqs5Qdc2aNaHfB2bCwzGrb7F77k.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBq1LtQ4ZCwXWoBMJkxO9bt3iwo.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTvy3QDQq8C8M4K6Cb9YIDyHPzC.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7nDYE3OaXvXHikGY7HnJ8ORcx2.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkryqjfapzI01mBQwXFVa29wuXN.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgnBJvzjWUu9pemAXZ3wyqCpZQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgnBJvzjWUu9pemAXZ3wyqCpZQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trpS9AYMjcaOabFpuEZFhDHvHW4.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltTiHwioLTxR9gscva5jlb4EAqq.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsMqfDcMPpTueFJdnVicGOSbT0E.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFJTVptZYDDoCyeO3YFDXijLKx.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNBwkVacvk4G18AqmninLq3tilQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd7q8cdgAZlZkS7k9NCTVPjYmgU.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnGtngjUS3N3h03UMr80XMdrS4F.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu6ooRpwCefkXFqjvSvEsnrOX4a.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3Bn1YbIkqqhFEqSAuBPDOUVTgX.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yTTjLZc9UWTwZnskyUk3LFPnTq.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0AZdgHp5Zgw579o3OnXksGIifj.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxJtIAVNCiIOLN5ts8HfPzRkmoi.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E23
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyH8hVDHhk7a5qO1FYsqZOjNINO.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E24
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Xj7DWnDrqVmOGa7oFYKN81Tea.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S01 E25
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdD4ADrHJs6hxg8NbQwJvNIQrcR.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eD2IaDivYfO9YzLUHok9OIUmT2l.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbt3NZjerjFLm5SFvpxc9eebUwM.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axB7afoC9CBMTqWxhpm22VCCHNI.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quFhsxrGQdpAF5wkFfog0sgLwVO.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPaM2i9FzgLpVNht0NtyCcUwLia.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQp8k6xyEmNSbHOc7FGdIgMqHrj.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEE99gqA4sZ8WtY5evaeUvh6fXd.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8p7A43sEk0js5kJqD0Dkp82Vde.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buvh7cses7Ki3F5SiVL6V0XstHB.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHEqPQUIULSCmw57rABEt3AYcx5.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eQPm0QZ59aRXnfTOIg8vInIIsC.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayGnMdYbYiPzg4MxkM58brtKcnM.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qy5xtDAC8AES8oy9PGoMEZvpBWr.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YaOrw2JOBOJ4wRRdlfo02vvhmY.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnHYSdyDEvSjwYNBd1zAGI69iy.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0uKiznmzAqiyUObU0LIE6HrCGq.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOigC3BzH8fse6tkmpTq2NuJQad.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SUlJOPWHH4S2Tq6gZKYeL4IOG9.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Joj5OepZuX0bhewDKnBHZ8eBA.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkXxbN54Cq5qRJK2gxES8vWyUut.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnS0MiHqUDA1jvZKAs3pFB9jHa0.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qznFDpN5aQacNYQvzNVv2UQf9XL.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E23
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/226Yme6g1IgkuxvrTsReIvnHAo3.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E24
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqF2adTp5VZ1zAmeRBMKzRRxjWH.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E25
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYEBSPOlowK3SypkSCjFhxGVUrn.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E26
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuFNcg3RP5yer7It0os8e2RCqsx.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E27
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTNvrKeAJtambN83ngcLBmtHGMP.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E28
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYFvRuicqEdLHWN3UdAnzS3wf3A.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S02 E29
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ugw3jBnCtZgdOD8EKwWqrf92Ib.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoCjf85MumztAjUlNlHFqGs4txB.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8H29D7EHFvdBBoJ4VCeKkWAUHg.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSmAJobkthf9FynAE3F65P5PLpK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohr3MeMwoiXiijlKZVeSmPw2Tqk.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2PAqISha8KaprgleMj91hDO1eK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GPH5AszFKyseAxqZxpbDWVrOQA.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYRSb38AKijHNIN3Bl1qhhG9fPR.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1026EUuStXlZ2ZQ4tAD7HySyRqQ.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7nlNiTTK84L3lffjxqR5XAytim.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6xkavyYRIWPaHIwOLGsHJaV4p6.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMgLUX6WCeHPK1X1kuWNrnSP7g8.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFqKs5moYDUWxGdIJUjmWBJggjz.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWhjY00C4LXr0Rri0fL4FOVGCk.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LHYN2mz7zGd4miRKVZkDekFohH.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/168cwugZvdbQwNYs5T50OnhrshH.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucAn0IbDwWuGPXGg9iEwcrTom1C.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byqeHQtn2WcfKR2WWwgDn09OIc.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDza1euLv2D6MzSye2vliZ5GgQm.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fgfsNSaK9nus5W9pr0903DObGG.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EezKp75TaDxv8B9jumdYbuN1Vb.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHWV1FQTq2YYRUI2mkZmSp8PDsB.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkPqXCbpN8ZiBwiBW8DRPqmjjCS.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E23
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gk8MaFaUmIi6P5gLR8QHqJQvMC.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E24
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xacsSOEFkP4NoVExuemvGkxIXkK.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E25
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoCLZ7N7wX0MwzhEYDc8xdpIV2T.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E26
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jepqkS6zxJBYqQ07KTdcUsiDkxO.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E27
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69vEdSxo8YnXW575PKjjqnbCqlo.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E28
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGSmMK0QU19M5RXXwDJHRvTDBXq.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E29
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y sus Sorprendentes Amigos S03 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9njOxsnZhLdVF4dMtJCS5FYHz0.jpg" group-title="→ SERIES INFANTILES ←",Spidey y sus Sorprendentes Amigos S03 E30
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrificio de sangre S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmiTwU5EIdAbdH5Ir4g4H8TdEJd.jpg" group-title="→ SERIES CRIMEN ←",Sacrificio de sangre S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrificio de sangre S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59QQCOChEa11PM5GHst0VKkBLtq.jpg" group-title="→ SERIES CRIMEN ←",Sacrificio de sangre S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrificio de sangre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iN6A9wzInAXAy4h0IGDwQ0crQ7.jpg" group-title="→ SERIES CRIMEN ←",Sacrificio de sangre S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrificio de sangre S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyukKw5tseuSyWAS2kLHa17RMp7.jpg" group-title="→ SERIES CRIMEN ←",Sacrificio de sangre S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrificio de sangre S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBogg6NA1y3oX62l9b04Ptdvup8.jpg" group-title="→ SERIES CRIMEN ←",Sacrificio de sangre S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E01" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E01
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E02" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E02
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E03" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E03
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E04" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E04
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E05" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E05
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E06" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E06
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E07" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E07
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E08" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E08
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E09" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E09
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E10" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E10
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E11" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E11
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E12" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E12
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E13" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E13
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E14" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E14
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E15" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E15
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E16" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E16
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E17" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E17
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E18" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E18
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E19" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E19
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E20" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E20
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E21" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E21
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E22" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E22
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E23" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E23
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E24" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E24
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E25" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E25
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E26" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E26
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E27" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E27
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E28" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E28
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E29" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E29
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E30" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E30
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E31" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E31
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E32" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E32
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E33" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E33
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E34" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E34
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E35" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E35
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E36" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E36
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E37" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E37
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E38" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E38
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E39" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E39
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E40" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E40
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E41" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E41
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E42" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E42
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E43" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E43
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E44" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E44
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E45" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E45
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E46" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E46
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E47" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E47
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E48" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E48
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E49" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E49
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E50" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E50
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E51" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E51
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E52" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E52
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E53" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E53
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E54" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E54
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E55" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E55
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E56" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E56
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E57" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E57
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E58" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E58
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E59" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E59
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E60" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E60
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E61" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E61
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E62" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E62
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E63" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E63
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E64" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E64
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E65" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E65
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night S01 E66" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2024/01/UFC_FightNight_16x9.png" group-title="→ SERIES DEPORTES ←",UFC Fight Night S01 E66
+http://23.153.217.158:8080/series/997127576tv/nfvzjyp/285196.mkv
