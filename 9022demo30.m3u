@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La Ventana Indiscreta (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg" group-title="→ VOD CLÁSICAS ←",La Ventana Indiscreta (1954)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como una esposa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HueT0J7EQxZVoNwIytb2nupM1r.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Como una esposa
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Mujer sin Pasado (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf9ojBGbivquotOyAE2y669rYVO.jpg" group-title="→ VOD ESTRENOS 2026 ←",Una Mujer sin Pasado (2026)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285451.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Susurran tu nombre (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Pi5oRhV14ARUTHrPhFtUg6lP6.jpg" group-title="→ VOD ESTRENOS 2026 ←",Susurran tu nombre (2026)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285398.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Turbulencia: Pánico en el aire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGLC5iMPqkZwiOGi88iPQZD3cif.jpg" group-title=" → VOD ESTRENOS 2025 ←",Turbulencia: Pánico en el aire (2025)
@@ -77963,6 +77969,8 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/284362.mkv
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/284363.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cFJMK5jyQ04jIMX9A6ZcIt65K9L.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E04
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/284933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3JrZvxduPF6YH6Sb3BlPnKDmh67.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E05
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285447.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E01
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/278380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E02
@@ -97243,6 +97251,8 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/284098.mkv
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/284902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zgd0o2GBZYawaId7cGIzVRbfZxN.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E04
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/285128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5PtGJ1GZnzOHGwUekKpzDP5a9rr.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E05
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285448.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zlx0Oac4bFGtauWgtVCaza2IHA.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E01
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/69195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSnFlct2juYiXCxpjHeOxVMDTvJ.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E02
@@ -113781,6 +113791,8 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/244938.mp4
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/244939.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M5s3ScQZOhieUywLfQINaukq.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S01 E08
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/244940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jHUL16ojK9QYrV6s9WWGYPAS4xZ.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E01
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285450.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -136875,6 +136887,8 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/284418.mkv
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/284419.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iHfT5NDzGxQoovTKbqkBPcyZUxJ.jpg" group-title="→ SERIES DC ←",Linternas S01 E02
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/285129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/omG0zY2xdHVqI0KRByuafxgX3Ag.jpg" group-title="→ SERIES DC ←",Linternas S01 E03
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285449.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E01
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/284892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E02
@@ -137485,3 +137499,27 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/285384.mkv
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/285385.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Blacklist S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf2SlQzjyMkoLUUI3Lf7zbj2yP1.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S03 E23
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/285386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E01
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWSRDiaxtCuLjlsXAixDrF05c9A.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E02
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTGpQyLMjqcXiz0iGA6ODCIFLHm.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E03
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6vi3o5CTmAt52tT5Dq8JQRFCrR.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E04
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KEe4WunK4ydedLLRCRpIQjO16Q.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E05
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN9hsR5J2snHdcG5uBOvQV67QpM.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E06
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXgkB0bivZho21yYC2p8IhVrChF.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E07
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7shDcLYzdwiVxN7yXFaDJ88HMwx.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E08
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1Uwv6OuWm0Fm1IGBuybEqGPpof.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E09
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IrC9UGIpFn3bxb0npgBHt596s9.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E10
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euOIRV9vssF3QFqSwZsScS5bMNx.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E11
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myEJ9DicIez9ZlpdsU8twnJ4b7C.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E12
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285463.mkv
