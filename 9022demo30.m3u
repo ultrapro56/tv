@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Kangaroo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n7jV2Xt8AE9nAKSJojRcSZBV1N.jpg" group-title=" → VOD ESTRENOS 2025 ←",Kangaroo (2025)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrera contra el tiempo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYjHS43tFzPfRfm9PjwbSwg0bTz.jpg" group-title="→ VOD ESTRENOS 2026 ←",Carrera contra el tiempo (2026)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg" group-title="→ VOD CAM 2026 ←",Coyote vs. Acme (2026) 
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Al filo de la guerra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFborW6HmffKL05GIWlkTFdvVpN.jpg" group-title="→ VOD ESTRENOS 2026 ←",Al filo de la guerra (2026)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barreda (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg" group-title="→ VOD ESTRENOS 2026 ←",Barreda (2026)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Volar, Joven (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liMmXOj2TSVKuWuHo3ptZOfGnPY.jpg" group-title="→ VOD ESPECIAL CANTINFLAS ←",A Volar, Joven (1947)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="David (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cvhj3aOfwhuxK1LDSfsTXHdj3b.jpg" group-title=" → VOD ESTRENOS 2025 ←",David (2025)
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285466.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Ventana Indiscreta (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg" group-title="→ VOD CLÁSICAS ←",La Ventana Indiscreta (1954)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/285465.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como una esposa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HueT0J7EQxZVoNwIytb2nupM1r.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Como una esposa
@@ -4156,7 +4170,7 @@ http://23.153.217.158:8080/movie/998953787tv/4gu6b6/246564.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mea Culpa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title=" → VOD ESTRENOS 2024 ←",Mea Culpa (2024)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/246573.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Hombre de Los Sueños " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LJVauVacKhi0xuUa8aKTPGn4pW.jpg" group-title="→ VOD ESTRENOS 2023 ←",El Hombre de Los Sueños 
-http://23.153.217.158:8080/movie/998953787tv/4gu6b6/246527.mp4
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/246527.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Corazon del Cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Corazon del Cazador (2024)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/246526.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nerve: Un juego sin reglas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdKOmmHz0PvXISiAeBIWDFHw2WV.jpg" group-title="→ VOD CRIMEN ←",Nerve: Un juego sin reglas 
@@ -8616,7 +8630,7 @@ http://23.153.217.158:8080/movie/998953787tv/4gu6b6/6637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La reina de las nieves (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LNhkJi2qmDwWEMks1BIfDiuRdf.jpg" group-title="→ VOD INFANTILES ←",La reina de las nieves (2012)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/6638.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg" group-title="→ VOD MARVEL MCU ←",Guardianes de la galaxia (2014)
-http://23.153.217.158:8080/movie/998953787tv/4gu6b6/6639.mp4
+http://23.153.217.158:8080/movie/998953787tv/4gu6b6/6639.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Little Pony: La película (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5A9rRLaufXZeBn1s7mg0joJGIJ.jpg" group-title="→ VOD INFANTILES ←",My Little Pony: La película (2017)
 http://23.153.217.158:8080/movie/998953787tv/4gu6b6/6640.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Vengadores: Justicia y venganza (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tOusszxyHiqhVkhA0Ng19eZFtp.jpg" group-title="→ VOD INFANTILES ←",Los Vengadores: Justicia y venganza (2014)
@@ -110310,165 +110324,77 @@ http://23.153.217.158:8080/series/998953787tv/4gu6b6/283565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Tudor S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DZzn8AOFu0qIwpHXkL5j1QNROs.jpg" group-title="→ SERIES DRAMA ←",Los Tudor S04 E10
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/283566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brvTMK7XuNU2JzOJnfVElZ1g6HI.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239992.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285473.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAJlmNhmbxwvqqc0KIxVPDVrzWU.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239993.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285474.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpOuW8gcnxSGeuCAcZexSyvQaXT.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239994.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285475.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lan9QkY43EKYN106cGpZUZ6jbVY.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239995.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285476.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VVZNZnRNDGrQkJjpDkfLevQi99.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239996.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285477.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5dZrRxrEh2ar4GHWyQw1XUecVK.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239997.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285478.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdAvASHpuWKhrOu9KiFjLTIRIdo.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239998.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285479.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdPAxXWnYQhlBNQXLuLqPRVkudQ.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/239999.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285480.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDuhBufU7LadYaMv47Cg8c9wQX6.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240000.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285481.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWuPC6bKLhxCOdlXVgCv9KnSgKm.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240001.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285482.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vk3frAw5bVk8scpFW9TmARhywAU.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E11
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240002.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285483.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp5Kw5caPpupHxkJoUuVY5djNbf.jpg" group-title="→ SERIES DRAMA ←",True Blood S01 E12
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240003.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285484.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdgIquVRT63NPiXHynQApDgNxtq.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240004.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285485.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XdNuPgWosS6xdaCsaPmIggVzFe.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240005.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285486.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u93YRXJJEUN5CBziR2iIb4Ut5N4.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240006.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285487.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXN88xYeDUKIEBbftUPHVdiZFAV.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240007.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285488.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTxiPdWwj8G42hdZZIxIi5olONs.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240008.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285489.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qopNFfX2coI2VwnXqqbKQPeiO8w.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240009.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285490.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7FDUsmIpiUJ6EkETZlD51YLIjx.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240010.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285491.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYWXoq7vkWSU5JCyXJ8WbLFZm1.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240011.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285492.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHYZiFbTMYK7b9SiS2dnXhwII4.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240012.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285493.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57HqR3BBu6TXYZLBKtMfkjZE76k.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240013.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285494.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oXJe8XOzzFs6ddaw3oyGjbzQkH.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E11
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240014.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285495.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nExAhAFG1XTDtNZ9yyEzgKFqq0M.jpg" group-title="→ SERIES DRAMA ←",True Blood S02 E12
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240015.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285496.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpOteNX5nzIR4lCvgLZUFYa1Q4.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240016.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285497.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dOrZvhcSvcOwgP5nyhzV8f7IrQ.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240017.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285498.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0ypoe8u2CsEwSvESLRzZQZa0OY.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240018.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285499.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKnWvuPTNHzZHetI5tRv9A9TX9X.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240019.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285500.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c1y0ZQUjsOuxwa3KNYBzSNmjpc.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240020.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285501.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GbRv7XCefKKhMlOWRkyC6t8tXE.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240021.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285502.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NOaSOs9M7amBFVstMb1Q5FcFs5.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240022.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285503.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHLEx6Z1QmVCrWAkrpl4EEFwi6f.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240023.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285504.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcAvEJjgeas8rBrvHIXEnY3TPOv.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240024.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285505.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyZxuQ6HDgSGxAcVGf9pbPFRka4.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240025.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285506.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy76kpI2LzGC6rlPKhEpURVwtg5.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E11
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240026.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285507.mkv
 #EXTINF:-1 tvg-id="" tvg-name="True Blood S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeTxue9HzIhrFG0LaMu73luS3o.jpg" group-title="→ SERIES DRAMA ←",True Blood S03 E12
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlaIcSg42lzJVHGheCou9logk4N.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PzXhBsaeGZjIIz9KPyIzkEb69T.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wum1pPPmYUF0rTlIaRzOF8q2YhH.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPhEoNf37bmRvX70BloPpOa1ZcT.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs94LPznPrVdDBbuM7ZUtAaChO7.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl2VXXPsJHpMOB0CMYFUxN9mlMc.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZiaQpIXaYASkjFWMk0kIxtUUFk.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly939Idh7L4gjBi49FxeERNcW8t.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nobLGlroalJSHFuNrr3HGi3R8oK.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx2tckOv9wtYnjQy2CrTLmMEWRP.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWCnb70EkZ7tYTWHhdnh0umJba0.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E11
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOPD6Xh6tMEed6YCzqlHts104Iw.jpg" group-title="→ SERIES DRAMA ←",True Blood S04 E12
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2srkaRXfBGd0hEfl8vhPMN55xfO.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ucGAIhCIMlXgrFDTfyk5mFlIfn.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSy8ZPVD3mC66uSHyidIwhZmYrH.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSNhHqbEjjx7m8zDjtX1vEGQdU3.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhJTd7L4lfhULnaCH9Wt7H1josl.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgjl3Vj7uemLaGn3SN8RJaTe7gP.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YOlYcroBNBRZGqBDm55TqBLlSX.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Cn2TDrKr5nFt8MNT0V23bm1TzK.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibjX23ZN09kX9MjZVy7fElFdzdc.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA0a4uVciIsuTPpMjxWTSl84In3.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHRBYL6hnONj1jKVJ0VrsgUncM.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E11
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW4Hj3V38NPOXMXuXnxEYh0mrDj.jpg" group-title="→ SERIES DRAMA ←",True Blood S05 E12
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGXP1gCkjiTFTIklDErafn6NZz4.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Qgp0bc8b3X1wKngIRJ8VwFMRkM.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46rojun3z9X2rucgfj5iZlTVrfx.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IvBKNxrE40XUetOLdtczGvzhom.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exCUsFpquPkDIi8Z4b8v45zBdSs.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KwebHsZU9q56osjaNwIZbhd4JO.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0T6bphhUzsj8voBzE8dcMN6sbT.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiPV6GVMvM5yewX7128sfqgLsCX.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqFvLrNZfaeNHy7xfUfplvqyFOl.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DqkYh7rhVlKLcqMQR0C7r5gpIM.jpg" group-title="→ SERIES DRAMA ←",True Blood S06 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BJUYXUYJM15X5O7e4sQyZguFyW.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E01
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xA8XBanetRLArN6umQrTrJFgkj0.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E02
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6ahygN6niErcIsc2Usv6YIlZS5.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E03
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE8HP60v5snzCp01sL6qrPOO5Ui.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E04
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tSJUSn2COJxRbNOFS4r7WFBrfb.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E05
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq61J1Dq5derSzPKG5sU8ZZp7jF.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E06
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xPFiZA7qRBRY4UDYw7tGmdHgad.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E07
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljwcMBCM3LarFJgDZd6wyiUZFg8.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E08
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f410DtMg5F6HtBALtdAsCEXskpV.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E09
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="True Blood S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bVEzKGzow2bamDR8CUO6HAELN.jpg" group-title="→ SERIES DRAMA ←",True Blood S07 E10
-http://23.153.217.158:8080/series/998953787tv/4gu6b6/240071.mkv
+http://23.153.217.158:8080/series/998953787tv/4gu6b6/285508.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C5Kt4R0rJKrVMIGkWE4xEK2rFN.jpg" group-title="→ SERIES DRAMA ←",Monarca S01 E01
 http://23.153.217.158:8080/series/998953787tv/4gu6b6/248725.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXbnGfK5boVqiaVwfalJ2gHcSZW.jpg" group-title="→ SERIES DRAMA ←",Monarca S01 E02
