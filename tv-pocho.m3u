@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mayday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mayday (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aniversario (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puHyA47Zer2maa1dAvcD9Be3i6p.jpg" group-title=" → VOD ESTRENOS 2025 ←",Aniversario (2025)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enfrentados: Marfil (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlft1ztFbUcnHf960pXJocjpdv.jpg" group-title="→ VOD ESTRENOS 2026 ←",Enfrentados: Marfil (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el fin del mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aCGJVkBZch6UN62yk44TGYU5Or.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hasta el fin del mundo (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWEGudNnHfEKp18IG1Wq1Qmp00l.jpg" group-title="→ VOD ESTRENOS 2026 ←",Star Wars: The Mandalorian and Grogu (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg" group-title="→ VOD ESTRENOS 2026 ←",Supergirl (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La secretaria " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXjS9ALVbKxu9xSEWJ4QO7c3RNX.jpg" group-title="→ VOD ROMANCE ←",La secretaria 
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona Cero (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQIpfeenClb2ws9G0kMg3HREjoA.jpg" group-title="→ VOD ESTRENOS 2026 ←",Zona Cero (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNKHZLgnvWqveB4uai0kaWom6M.jpg" group-title="→ VOD ESTRENOS 2026 ←",Moana (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enterramos a los Muertos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwUGHWaazG1nwsxsa7EEmvJa6lF.jpg" group-title="→ VOD ESTRENOS 2026 ←",Enterramos a los Muertos (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De regreso a casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg" group-title="→ VOD MARVEL MCU ←",Spider-Man: De regreso a casa
 http://23.153.217.158:8080/movie/995431461tv/7ct525/285536.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Ldcddhk8jzn3nqeODA8lHNw9M.jpg" group-title="→ VOD MARVEL MCU ←",Spider-Man 2: Lejos de Casa
@@ -42205,6 +42225,30 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/279727.mp4
 http://23.153.217.158:8080/series/995431461tv/7ct525/280045.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9NOsKdRHZIog2PR1bG0BNaEJ36.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E09
 http://23.153.217.158:8080/series/995431461tv/7ct525/280046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCbv7yZerbb7cwjBzG8meGKncz7.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P2lue1PhlaA8s3usRp01jODKXt.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffadubjMgLJf7uRNRU7AwCr9zah.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6wQMdDcqGCzqNBHFAQ4gpv7BOx.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjzlEA802Fu0AqaMh260qmFwtuK.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vopeciXc4w0nPS1ZG1vQFkEgeVH.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuOS7vv36BkW6OSDA7j2dziKvkH.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6UTkDeKxiqA7u81BXUxsRDVHCI.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTmcbA5BTrKzONzLgM582kzkZRT.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/285546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjVIZ7RF31YvfdVf0X3ifBWEdeZ.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/285547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93qvMnZLf38OFfPEwzdGNJ7Go6L.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/285548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iSTBcw5tON5F1U3qWXjCzDHGoy.jpg" group-title="→ SERIES DRAMA ←",Chicago Med S11 E21
+http://23.153.217.158:8080/series/995431461tv/7ct525/285549.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nan3aXpij5zSRglYzGPBGLhoiCR.jpg" group-title="→ SERIES CRIMEN ←",Chicago P.D. S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/271337.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgZlhZfwAljvjTzSIvoO3Eqm0zr.jpg" group-title="→ SERIES CRIMEN ←",Chicago P.D. S01 E02
@@ -70769,6 +70813,10 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/283528.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/284364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/s0wKqFThue5D6pHAmifyavh0F6G.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E03
 http://23.153.217.158:8080/series/995431461tv/7ct525/285017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtiRKXc236bBIsRGt70MFtZBxNf.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS29Dq8ybdHYfW80E7VkTcWYvCZ.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285554.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/279458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E02
@@ -78007,6 +78055,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/284363.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/284933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3JrZvxduPF6YH6Sb3BlPnKDmh67.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E05
 http://23.153.217.158:8080/series/995431461tv/7ct525/285447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qSJn08nw1pdCE5vTrNbWSDEJipd.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285551.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/278380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E02
@@ -97289,6 +97339,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/284902.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285128.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5PtGJ1GZnzOHGwUekKpzDP5a9rr.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E05
 http://23.153.217.158:8080/series/995431461tv/7ct525/285448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7pxgTkuQcZBB90zcak2XPvjgMUv.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zlx0Oac4bFGtauWgtVCaza2IHA.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/69195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSnFlct2juYiXCxpjHeOxVMDTvJ.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E02
@@ -113741,6 +113793,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/244939.mp4
 http://23.153.217.158:8080/series/995431461tv/7ct525/244940.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jHUL16ojK9QYrV6s9WWGYPAS4xZ.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/285450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5o61pixyxI3E0mipNH3i43hZt1c.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285555.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -137447,6 +137501,50 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/285384.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285385.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Blacklist S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf2SlQzjyMkoLUUI3Lf7zbj2yP1.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S03 E23
 http://23.153.217.158:8080/series/995431461tv/7ct525/285386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvbrOJVtuEFpWRnPRIqAXf7KyPC.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VtAFioZwQI9juiEgWgG10XqZ8g.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iip9UDgzwA3naKHRRdrCT7zVn92.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sdarVvmRfleGQGnqCiC92bJP43.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orK8epesLwpZBH8Ko6XOspZj4jC.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1zuQL7Mhwm48GgAsgj14J6niBQ.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hNy8p2uFvsZVL30qrdRFBSkosg.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU5rBic5cISRxbTCZRFFX2NEYRa.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8bjvgl33WTmzFCjwaETUXjHdrS.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZvKSSTcZapcpc7hhr5zzyaxyG2.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4j74vdBPfBpBSGqsDW04cGdiOj.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1OsKxUDr4euuQ3w9qccSNVjFFp.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lk1OteQQF145WMZdFiHiV8Ckbz.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vshbbTOAqwsAZx8j7dG4bwzIbTo.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wOMHtGzqJ9PB73WoalS62uRx7S.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvxX4aDEnDvqvvdlCd53iRFZZ38.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygMySd5Is2ANh7uGJo7dQthsVOa.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7tVjqzCJrZ9pBPePRN6yLlPcsM.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/285573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow2YeZdeT4xYg3ldAG4vRoC3BU6.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/285574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8z062ulBf9DCczuxK9p5ut0zyG.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/285575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfUXSG5VStimupSLcIvskRMCWWk.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E21
+http://23.153.217.158:8080/series/995431461tv/7ct525/285576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81U7sX0oDazy7IWeFv5nuO9Vm2g.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E22
+http://23.153.217.158:8080/series/995431461tv/7ct525/285577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/285452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWSRDiaxtCuLjlsXAixDrF05c9A.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E02
@@ -137471,3 +137569,137 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/285461.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285462.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myEJ9DicIez9ZlpdsU8twnJ4b7C.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E12
 http://23.153.217.158:8080/series/995431461tv/7ct525/285463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/285597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/285598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/285599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E21
+http://23.153.217.158:8080/series/995431461tv/7ct525/285600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E22
+http://23.153.217.158:8080/series/995431461tv/7ct525/285601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E23
+http://23.153.217.158:8080/series/995431461tv/7ct525/285602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E24
+http://23.153.217.158:8080/series/995431461tv/7ct525/285603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E25
+http://23.153.217.158:8080/series/995431461tv/7ct525/285604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E26
+http://23.153.217.158:8080/series/995431461tv/7ct525/285605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E27
+http://23.153.217.158:8080/series/995431461tv/7ct525/285606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E28
+http://23.153.217.158:8080/series/995431461tv/7ct525/285607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E29
+http://23.153.217.158:8080/series/995431461tv/7ct525/285608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E30
+http://23.153.217.158:8080/series/995431461tv/7ct525/285609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E31
+http://23.153.217.158:8080/series/995431461tv/7ct525/285610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E32
+http://23.153.217.158:8080/series/995431461tv/7ct525/285611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E33
+http://23.153.217.158:8080/series/995431461tv/7ct525/285612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E34
+http://23.153.217.158:8080/series/995431461tv/7ct525/285613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E35
+http://23.153.217.158:8080/series/995431461tv/7ct525/285614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E36
+http://23.153.217.158:8080/series/995431461tv/7ct525/285615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E37
+http://23.153.217.158:8080/series/995431461tv/7ct525/285616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E38
+http://23.153.217.158:8080/series/995431461tv/7ct525/285617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E39
+http://23.153.217.158:8080/series/995431461tv/7ct525/285618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E40
+http://23.153.217.158:8080/series/995431461tv/7ct525/285619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E41
+http://23.153.217.158:8080/series/995431461tv/7ct525/285620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E42
+http://23.153.217.158:8080/series/995431461tv/7ct525/285621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E43
+http://23.153.217.158:8080/series/995431461tv/7ct525/285622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E44
+http://23.153.217.158:8080/series/995431461tv/7ct525/285623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E45
+http://23.153.217.158:8080/series/995431461tv/7ct525/285624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E46
+http://23.153.217.158:8080/series/995431461tv/7ct525/285625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E47
+http://23.153.217.158:8080/series/995431461tv/7ct525/285626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E48
+http://23.153.217.158:8080/series/995431461tv/7ct525/285627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E49
+http://23.153.217.158:8080/series/995431461tv/7ct525/285628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E50
+http://23.153.217.158:8080/series/995431461tv/7ct525/285629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E51
+http://23.153.217.158:8080/series/995431461tv/7ct525/285630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E52
+http://23.153.217.158:8080/series/995431461tv/7ct525/285631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E53
+http://23.153.217.158:8080/series/995431461tv/7ct525/285632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E54
+http://23.153.217.158:8080/series/995431461tv/7ct525/285633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E55
+http://23.153.217.158:8080/series/995431461tv/7ct525/285634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caso cerrado S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoaALjxHIRRyqrKmLBf9JHAwGm6.jpg" group-title="→ SERIES REALLITY ←",Caso cerrado S01 E56
+http://23.153.217.158:8080/series/995431461tv/7ct525/285635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9/11: Reunited S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZTArrSD4ImE6UJi90bSbFVOnzo.jpg" group-title="→ SERIES DOCUMENTALES ←",9/11: Reunited S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9/11: Reunited S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeD6YbbJ6lWBTdgButt7YVEph2F.jpg" group-title="→ SERIES DOCUMENTALES ←",9/11: Reunited S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9/11: Reunited S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKckEb5VtwRBD9To7ViObRnJpsP.jpg" group-title="→ SERIES DOCUMENTALES ←",9/11: Reunited S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285650.mkv
