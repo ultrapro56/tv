@@ -3,8 +3,8 @@
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="001" tvg-name="001-COL• CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/331
-#EXTINF:-1 tvg-id="002" tvg-name="002-COL• CARACOL (HD) »3«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »3«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/333
+#EXTINF:-1 tvg-id="002" tvg-name="002-COL• CARACOL (HD) »2«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="CANALES",COL• CARACOL (HD) »2«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/332
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="CANALES,COL• RCN (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/343
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="CANALES",COL• RCN (HD) »2«
@@ -22,14 +22,10 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/328
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Institucional" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="CANALES",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Bogota (720p)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="CANALES",Alerta Bogota (720p)
-https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blu Radio (720p)" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="CANALES",Blu Radio (720p)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cristovision (720p)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="CANALES",Cristovision (720p)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-name="100-COL• La Hermandad Salsera (1080p)" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="CANALES", 100-COL• La Hermandad Salsera (1080p)
-https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELECARIBE (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="CANALES",COL• TELECARIBE (HD) »2«
 #EXTINF:-1 tvg-id="" tvg-name="NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="CANALES",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
@@ -38,8 +34,8 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/680
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/341
 #EXTINF:-1 tvg-id="" tvg-name="COL• SENAL COLOMBIA (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="CANALES",COL• SENAL COLOMBIA (HD)
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/350
-#EXTINF:-1 tvg-id="" tvg-name="COL• TELEPACIFICO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="CANALES",COL• TELEPACIFICO (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/357
+#EXTINF:-1 tvg-id="" tvg-name="COL• TELEANTIOQUIA (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="CANALES",COL• TELEANTIOQUIA (HD)
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/351
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELECAFE (HD)" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="CANALES",COL• TELECAFE (HD)
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/352
 #EXTINF:-1 tvg-id="" tvg-name="COL• TELEMEDELLIN (HD) »1«" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="CANALES",COL• TELEMEDELLIN (HD) »1«
@@ -73,8 +69,8 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/386
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/61600
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="CANALES",CUL• EL GOURMET (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/427
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CANALES",CUL• TLC (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/447
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CANALES",CUL• TLC (HD) »2«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/448
 #EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »1«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="CANALES",CUL• ANIMAL PLANET (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/402
 #EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="CANALES",CUL• HISTORY CHANNEL (HD) »1«
@@ -85,36 +81,36 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/429
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/440
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="CANALES",CUL• DISCOVERY CHANNEL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/406
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="CANALES",CUL• DISCOVERY TURBO (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/420
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="CANALES",CUL• DISCOVERY WORLD (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/423
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »2«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="CANALES",CUL• DISCOVERY TURBO (HD) »2«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/421
+#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery World SD | Cultural" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="CANALES",MX || Discovery World SD | Cultural
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/59441
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="CANALES",CUL• DISCOVERY INVESTIGATION (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/437
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="CANALES",CUL• DISCOVERY SCIENCE (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/414
+#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery Science HD | Cultural" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="CANALES",MX || Discovery Science HD | Cultural
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/59526
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »1«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/359
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »2«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »2«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/360
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="CANALES",COL• WIN SPORTS (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/362
-#EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="CANALES",COL• WIN SPORTS (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/363
-#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CO (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES",DEP• DIRECTV SPORTS CO (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/485
+#EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »5«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="CANALES",COL• WIN SPORTS (HD) »5«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/366
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES",DEP• DIRECTV SPORTS AR (HD) »1«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/480
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 CO (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="CANALES",DEP• DIRECTV SPORTS 2 CO (HD)
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/476
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="CANALES",DEP• DIRECTV SPORTS+ AR (HD) »2«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/466
-#EXTINF:-1 tvg-id="" tvg-name="PPV• DIRECTV SPORTS FIGHT (HD)" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="CANALES",PPV• DIRECTV SPORTS FIGHT (HD)
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/20350
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »1«" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="CANALES",DEP• DIRECTV SPORTS+ CL (HD) »1«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/472
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN AR (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CANALES",DEP• ESPN AR (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/518
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 AR (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="CANALES",DEP• ESPN 2 AR (HD) »2«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/507
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="CANALES",DEP• ESPN 3 AR (HD)
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/513
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="CANALES",DEP• ESPN 3 MX (HD)
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/511
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="CANALES",DEP• ESPN 4 LAT (HD)
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/517
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »1«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="CANALES",DEP• ESPN 5 (HD) »1«
@@ -123,8 +119,8 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/526
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/539
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »1«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="CANALES",DEP• ESPN 7 (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/453
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="CANALES",DEP• ESPN PREMIUM (HD) »4«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/545
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="CANALES",DEP• ESPN PREMIUM (HD) »3«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/544
 
 #EXTINF:-1 tvg-id="" tvg-name="TENIS• CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="CANALES",TENIS• CHANNEL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/57053
