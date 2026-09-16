@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="JorgeGalindo" tvg-name="JorgeGalindo 15Sep/26  CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",JorgeGalindo 15Sep/26• CANAL 13 (HD) »3«
 http://23.153.217.158:8080/950597150tv/6n6tbde/48
 
+#EXTINF:-1 tvg-id="943516188tv-Ricardo" tvg-name="943516188tv-Ricardo 10/12/2026• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",943516188tv-Ricardo 10/12/2026• CANAL 13 (HD) »3«
+http://23.153.217.158:8080/957767437tv/dh34sq9/48
+
 #EXTINF:-1 tvg-id="COLTV" tvg-name="COLTV 12Oct/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",COLTV 12Oct/26• CANAL 13 (HD) »3«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/48
 
@@ -21,8 +24,9 @@ http://23.153.217.158:8080/977899335tv/l8q53zg/48
 #EXTINF:-1 tvg-id="9631gol62-fivetv" tvg-name="9631gol62-fivetv 04/08/2026 COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="usuarios",9631gol62-fivetv 04/08/2026 COL | CARACOL HD
 http://fivetv.org:25461/JoseIzquie0404/7456343/186530
 
-#EXTINF:-1 tvg-id="943516188tv" tvg-name="943516188tv 11Jun/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",943516188tv 11Jun/26• CANAL 13 (HD) »3«
-http://23.153.217.158:8080/957767437tv/dh34sq9/48
+
+#EXTINF:-1 tvg-id="9022demo30" tvg-name="9022demo30 02Sep/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",9022demo30 02Sep/26• CANAL 13 (HD) »3« 
+http://23.153.217.158:8080/998953787tv/4gu6b6/48
 
 #EXTINF:-1 tvg-id="9421demo16" tvg-name="9421demo16 29Jun/26• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="usuarios",9421demo16 29Jun/26• CANAL 13 (HD) »3« 
 http://23.153.217.158:8080/978715637tv/H72Dnsh7DJ3/48
