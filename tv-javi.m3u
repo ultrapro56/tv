@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Loco por Mary" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqC7U1iScjkdvjWGVpLTFPpwLLV.jpg" group-title="→ VOD COMEDIA ←",Loco por Mary
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285662.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mayday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mayday (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285653.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aniversario (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puHyA47Zer2maa1dAvcD9Be3i6p.jpg" group-title=" → VOD ESTRENOS 2025 ←",Aniversario (2025)
@@ -34393,8 +34395,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/265073
 http://23.153.217.158:8080/935917692tv/a4gqcz4/265075
 #EXTINF:-1 tvg-id="" tvg-name="RADIO fresh80s - Hier sind die Achtziger zuhause! (Mobile-Stream 96kb/s aac+) - 320 kbit/s" tvg-logo="http://radio.pervii.com/im/9/1556619529.jpg" group-title="RADIOS",RADIO fresh80s - Hier sind die Achtziger zuhause! (Mobile-Stream 96kb/s aac+) - 320 kbit/s
 http://23.153.217.158:8080/935917692tv/a4gqcz4/265077
-#EXTINF:-1 tvg-id="" tvg-name="ANDYS 80S - The Rarest New Wave 80s Music - Make  REQUESTS at  ANDYS80S.com - Stream Live 24-7 - NewWaveZone.com - The 80s Channel - NO COMMERCIALS - NO TALK - Just Rare 80s Music! - 128 kbit/s" tvg-logo="http://radio.pervii.com/logo/26707.jpg" group-title="RADIOS",ANDYS 80S - The Rarest New Wave 80s Music - Make  REQUESTS at  ANDYS80S.com - Stream Live 24-7 - NewWaveZone.com - The 80s Channel - NO COMMERCIALS - NO TALK - Just Rare 80s Music! - 128 kbit/s
-http://23.153.217.158:8080/935917692tv/a4gqcz4/265078
 #EXTINF:-1 tvg-id="" tvg-name="Gdynia Radio - 128 kbit/s" tvg-logo="http://radio.pervii.com/im/9/1572709309.jpg" group-title="RADIOS",Gdynia Radio - 128 kbit/s
 http://23.153.217.158:8080/935917692tv/a4gqcz4/265081
 #EXTINF:-1 tvg-id="" tvg-name="IP music - aacPlus@64 Kb/s - 128 kbit/s" tvg-logo="http://radio.pervii.com/im/3/1554048843.jpg" group-title="RADIOS",IP music - aacPlus@64 Kb/s - 128 kbit/s
@@ -70817,6 +70817,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285017.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285553.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS29Dq8ybdHYfW80E7VkTcWYvCZ.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jlPiWkgBJfeKRc7Nrv8qDrjfKyS.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/279458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E02
@@ -78057,6 +78059,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284933.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285447.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qSJn08nw1pdCE5vTrNbWSDEJipd.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E06
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reacher S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/szPCuR79q4iapjkZi7bWVJUMtRt.jpg" group-title="→ SERIES ACCIÓN ←",Reacher S04 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Rick y Morty S01 E02
@@ -97341,6 +97345,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285128.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285448.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7pxgTkuQcZBB90zcak2XPvjgMUv.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E06
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operaciones especiales: Leona S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8YQZ0F8y0WqkHdf0jlTeOh8jda7.jpg" group-title="→ SERIES DRAMA ←",Operaciones especiales: Leona S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285661.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zlx0Oac4bFGtauWgtVCaza2IHA.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/69195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSnFlct2juYiXCxpjHeOxVMDTvJ.jpg" group-title="→ SERIES DRAMA ←",Honor S01 E02
@@ -113849,6 +113855,12 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284953.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284954.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S03 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silo S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWfqa602Kcka7zRaLMq9TRhLJkH.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGsSAOkithOZez79NE806duerL0.jpg" group-title="→ SERIES DRAMA ←",Mr. Corman S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/244966.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRd2AkAjk06eFwF2v6PtwEOW4tc.jpg" group-title="→ SERIES DRAMA ←",Mr. Corman S01 E02
@@ -136891,6 +136903,10 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284419.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/omG0zY2xdHVqI0KRByuafxgX3Ag.jpg" group-title="→ SERIES DC ←",Linternas S01 E03
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Wz0LHsnqke3Bw0ZKmVjFfd1du.jpg" group-title="→ SERIES DC ←",Linternas S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl01bQzjDH93bbMtYeHiHIuQg3r.jpg" group-title="→ SERIES DC ←",Linternas S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E02
@@ -137703,3 +137719,15 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285648.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285649.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El juicio S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liefj2iaQJ7y6EZYHy4NiFkftX4.jpg" group-title="→ SERIES DRAMA ←",El juicio S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catedrales S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg" group-title="→ SERIES DRAMA ←",Catedrales S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285668.mkv
