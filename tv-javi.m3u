@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UNABOMBER (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="→ VOD ESTRENOS 2026 ←",UNABOMBER (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza en la Prision" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg" group-title="→ VOD ACCIÓN ←",Venganza en la Prision
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maxima Velocidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjqggnyLkwGHatlp83gGSnShbqs.jpg" group-title="→ VOD ACCIÓN ←",Maxima Velocidad
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maxima Velocidad 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD08bsCwz2LWBHZhMgk85DrxQGV.jpg" group-title="→ VOD ACCIÓN ←",Maxima Velocidad 2 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="→ VOD ESTRENOS 2026 ←",Toy Story 5 (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Eterno Fin " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKfoBh5rJo422YrUdEXSugWQ2Tu.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",El Eterno Fin 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sultana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE1TWEFVQ4OeWNDV0Wit5eEJCOJ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Sultana (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tú+Yo - Los dos contra todos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV17eCN1CM9fmGJHkfDzMsqqR0a.jpg" group-title="→ VOD ESTRENOS 2026 ←",Tú+Yo - Los dos contra todos (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285726.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Loco por Mary" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqC7U1iScjkdvjWGVpLTFPpwLLV.jpg" group-title="→ VOD COMEDIA ←",Loco por Mary
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285662.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mayday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Mayday (2026)
@@ -135307,6 +135323,78 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283315.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283316.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E09
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/283317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E29
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E30
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E31
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E32
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E33
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E34
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E35
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E36
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E37
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E38
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E39
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E40
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E41
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E42
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E43
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E44
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pa Seguirte Queriendo S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjepH2JzxE0BFEBL1iUhbzK8ZMq.jpg" group-title="→ SERIES DRAMA ←",Pa Seguirte Queriendo S01 E45
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66tcm3jBg5AFUunr6iWjDINbN5c.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/282970.mkv
 #EXTINF:-1 tvg-id="" tvg-name="GIGN: Unidad de Elite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KxmBRUcGXpOC8S3oRdHHZje2Kf.jpg" group-title="→ SERIES ACCIÓN ←",GIGN: Unidad de Elite S01 E02
@@ -136931,6 +137019,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285449.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285659.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl01bQzjDH93bbMtYeHiHIuQg3r.jpg" group-title="→ SERIES DC ←",Linternas S01 E05
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lnaPnNgtufzsNjX1V9MbcwlCIqd.jpg" group-title="→ SERIES DC ←",Linternas S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285748.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/284892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E02
@@ -137771,3 +137861,43 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285674.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285675.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monstruo: La historia de Lizzie Borden S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2LfgIDYABaSVYvLrh4K4uaEXGs.jpg" group-title="→ SERIES CRIMEN ←",Monstruo: La historia de Lizzie Borden S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfy8pFzqRIyOtcLQzzriP50En3O.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ql3Ee3Yw2my7eyLoEKMSRkaLqk.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUNIZIMqr8WkVQmizX1YARFFyuI.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXUYltFrrTBKhheVMvQPLKKzeYb.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bp023I82NtpeObr4Of7yXraRJI2.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/at0wy2ABAXvpJ597d8qTA32A5lu.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFpVyEULRD6rAXLwoEU8jhMYxxa.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neagley S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0XKtGy5o1G3KWfZmFdJ2lm7dg.jpg" group-title="→ SERIES CRIMEN ←",Neagley S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaz2EoL6CNLS31lVFxxJqfiTlz.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3mS3R7J1o21ZKCJQzIUQXaqqB3.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRT9gZmTTlPkWvZ3qBwC3xpQpCz.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDWs8P5J0bh8D5ZG51HssWPy4u5.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ao26O6SsPJW4SVWvQ6APXXH5byR.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqZOxMsoLMAT1hIWiWjWoD8VmDy.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcdblbyzAFh6Koe1m7ghuiLmwx9.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de sangre S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYNlOFDJT4HvhBBQxvtiRxCwybZ.jpg" group-title="→ SERIES MISTERIO ←",Ciudad de sangre S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis muertos tristes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBLhXeBd1eq3N0lkT9ZjEvzIsbK.jpg" group-title="→ SERIES DRAMA ←",Mis muertos tristes S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis muertos tristes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnWtObiHwfBIqqjSA9eHM9OzUyM.jpg" group-title="→ SERIES DRAMA ←",Mis muertos tristes S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis muertos tristes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6vKwo8ZMcarg4agrbzeDTEtlW5.jpg" group-title="→ SERIES DRAMA ←",Mis muertos tristes S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis muertos tristes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7y2WPrDIOBJqVjzeHVkGQ6rZ5P.jpg" group-title="→ SERIES DRAMA ←",Mis muertos tristes S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285753.mkv
