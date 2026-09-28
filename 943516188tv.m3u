@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El Perfecto Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQms76FyesT2PrLLOxy8iExL6e8.jpg" group-title="→ VOD ACCIÓN ←",El Perfecto Asesino
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/285761.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UNABOMBER (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="→ VOD ESTRENOS 2026 ←",UNABOMBER (2026)
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/285749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venganza en la Prision" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg" group-title="→ VOD ACCIÓN ←",Venganza en la Prision
@@ -18161,6 +18163,10 @@ http://23.153.217.158:8080/movie/957767437tv/dh34sq9/268637.mp4
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/281289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Hipotesis del Amor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Hipotesis del Amor (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/285763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conexion Peligrosa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUXpUryPHGnkFThqhXtad4O8jE.jpg" group-title="→ VOD ESTRENOS 2026 ←",Conexion Peligrosa (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/285766.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/957767437tv/dh34sq9/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -18309,7 +18315,7 @@ http://23.153.217.158:8080/957767437tv/dh34sq9/20233
 http://23.153.217.158:8080/957767437tv/dh34sq9/20285
 #EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 5 (HD)
 http://23.153.217.158:8080/957767437tv/dh34sq9/20286
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 2D (SOLO EVENTOS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="→ PPV EVENTOS Y DEPORTES ←",LA LIGA 2D (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 6 (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 6 (HD)
 http://23.153.217.158:8080/957767437tv/dh34sq9/251627
 #EXTINF:-1 tvg-id="" tvg-name="PPV• UFC TV (HD)" tvg-logo="https://i.postimg.cc/x84FXz35/2560px-UFC-Logo-svg.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• UFC TV (HD)
 http://23.153.217.158:8080/957767437tv/dh34sq9/20374
@@ -19928,7 +19934,7 @@ http://23.153.217.158:8080/957767437tv/dh34sq9/47264
 #EXTINF:-1 tvg-id="" tvg-name="MX | MTV Live" tvg-logo="http://51.222.43.170:8001/images/1d5288594747ab7bc87ae79442422726.png" group-title="→ MÚSICA ← ",MX | MTV Live
 http://23.153.217.158:8080/957767437tv/dh34sq9/47265
 #EXTINF:-1 tvg-id="" tvg-name="MX | MTV Hits" tvg-logo="http://51.222.43.170:36995/images/edcea732d2d2b21734c42162e7ecb152.png" group-title="→ MÚSICA ← ",MX | MTV Hits
-http://23.153.217.158:8080/957767437tv/dh34sq9/47266
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | MTV Classics" tvg-logo="http://51.222.43.170:36995/images/1a6b08b672357c90d94036cf9d3a3bee.png" group-title="→ MÚSICA ← ",MX | MTV Classics
 http://23.153.217.158:8080/957767437tv/dh34sq9/47267
 #EXTINF:-1 tvg-id="" tvg-name="MX | Telehit" tvg-logo="http://51.222.43.170:36995/images/5825f3b2cd0eedb0fc8ff03f93d58143.jpg" group-title="→ MÚSICA ← ",MX | Telehit
@@ -129483,6 +129489,10 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/274849.mp4
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/275016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4jM8RZfCsdsqiCCQe0W3WNVMcVv.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S01 E10
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/276361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTSdfO5dND5QLYkVSguosJTDs5S.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtu6NmcqFw6kILEcWicAUCmJBVd.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqGzLA7f25PSxVruft7wyc3NDU.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/272266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwcTUpTUjEemxvLZ34AObukh6n.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E02
@@ -130999,6 +131009,8 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/277671.mp4
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/277883.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/7NdwbD6HFJ8nHZ0chsridJX1Vrx.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S01 E10
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/278175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mNpZmVC2XEFWTHlFYxF55iBWnsA.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285762.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLDT28rK6YwWHwuIQAgEHfgMjEw.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/276968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAYmAPrr8WFUknwVvc2vVSliBtO.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E02
@@ -137901,3 +137913,23 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/285751.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/285752.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mis muertos tristes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7y2WPrDIOBJqVjzeHVkGQ6rZ5P.jpg" group-title="→ SERIES DRAMA ←",Mis muertos tristes S01 E04
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/285753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart: Cold As Balls S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMkucNER8iN6DYQzihn3v5o93Yb.jpg" group-title="→ SERIES REALLITY ←",Kevin Hart: Cold As Balls S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de los mineros chilenos: Carrera contra el tiempo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg" group-title="→ SERIES DOCUMENTALES ←",El rescate de los mineros chilenos: Carrera contra el tiempo S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de los mineros chilenos: Carrera contra el tiempo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg" group-title="→ SERIES DOCUMENTALES ←",El rescate de los mineros chilenos: Carrera contra el tiempo S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de los mineros chilenos: Carrera contra el tiempo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg" group-title="→ SERIES DOCUMENTALES ←",El rescate de los mineros chilenos: Carrera contra el tiempo S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/285769.mkv
