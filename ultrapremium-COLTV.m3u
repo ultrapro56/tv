@@ -53,8 +53,6 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/173275
 http://fivetv.org:25461/JoseIzquie0404/7456343/24598
 #EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="CANALES",COL | SEÑAL COLOMBIA
 http://fivetv.org:25461/JoseIzquie0404/7456343/171153
-#EXTINF:-1 tvg-id="" tvg-name="COL | CNC MEDELLIN" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" group-title="CANALES",COL | CNC MEDELLIN
-http://fivetv.org:25461/JoseIzquie0404/7456343/187001
 #EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="CANALES",COL | CALITV
 http://fivetv.org:25461/JoseIzquie0404/7456343/187002
 #EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 8 TV+" tvg-logo="https://i.ibb.co/TMSj2Kd/88-m3u.png" group-title="CANALES",COL | CANAL 8 TV+
@@ -63,8 +61,6 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/187004
 http://fivetv.org:25461/JoseIzquie0404/7456343/187006
 #EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN" tvg-logo="https://i.ibb.co/HgmVynZ/tm.png" group-title="CANALES",COL | TELEMEDELLIN
 http://fivetv.org:25461/JoseIzquie0404/7456343/187030
-#EXTINF:-1 tvg-id="" tvg-name="COL | TU KANAL" tvg-logo="https://i.ibb.co/4Rgm4BKk/tu-kanal.png" group-title="CANALES",COL | TU KANAL
-http://fivetv.org:25461/JoseIzquie0404/7456343/187031
 
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANALES",ENT| Pasiones
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/590
@@ -101,14 +97,14 @@ http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/429
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/440
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="CANALES",CUL• DISCOVERY CHANNEL (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/406
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »2«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="CANALES",CUL• DISCOVERY TURBO (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/421
-#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery World SD | Cultural" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="CANALES",MX || Discovery World SD | Cultural
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/59441
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="CANALES",CUL• DISCOVERY TURBO (HD) »1«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/420
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="CANALES",CUL• DISCOVERY WORLD (HD) »1«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/423
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="CANALES",CUL• DISCOVERY INVESTIGATION (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/437
-#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery Science HD | Cultural" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="CANALES",MX || Discovery Science HD | Cultural
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/59526
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="CANALES",CUL• DISCOVERY SCIENCE (HD) »1«
+http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/414
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »1«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »1«
 http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/359
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »3«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »3«
