@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="En vivo desde el infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UYm1w6shyYyqFGsry2JMaq56K2.jpg" group-title="→ VOD ESTRENOS 2026 ←",En vivo desde el infierno (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Perfecto Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQms76FyesT2PrLLOxy8iExL6e8.jpg" group-title="→ VOD ACCIÓN ←",El Perfecto Asesino
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/285761.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UNABOMBER (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="→ VOD ESTRENOS 2026 ←",UNABOMBER (2026)
@@ -113831,6 +113833,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285555.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285685.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li2ntCYq9ncHEW51mbp7eiANbU.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E04
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/p4dKJssjfhiRtXfcAI5K85sxKkg.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285796.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -127669,106 +127673,108 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270574.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270575.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Karma S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMABNyYyk30Epc0VdMcFYFXRkXX.jpg" group-title="→ SERIES CRIMEN ←",Karma S01 E06
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzBst88JvfUADHO3Oy5d7lqpBl.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noao6jbMAJCzmK5byDLGbED1X52.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5R9pvigeNO4rfwDTgV2sRgj9t7.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifcorQrEsh8La23F9P2njhaTpaY.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spivv39YhGcCfXHNWu0gfUZsmni.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilBSsX2eRYqhDJZF201lrEncFVo.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMojg3DqIU4T3Gs4dsD6H8IRjpS.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngmxRTLW1ICHCOJopnIzjszw2jc.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB0I8Za4z5oNXB2lTNbVgqbJvyw.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E09
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIBpZd30L8g8RoBTYyeVFUtbTNN.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E10
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2vuvrjgYxaqLvg3sbLM7LPvk.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E11
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FWuOZSS0ajNu9ubKhAm5Asp84m.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E12
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axDVqvN6El9nHDJM7RxXspIqRgv.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E13
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPh0pp2WFIWy38ncGmXeU7V0Wu5.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E14
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOZdX5bVo7s9tFxUr0kB3VnbhiG.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E15
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XfidBCv3lmGswDoBH8zy1qEumg.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E16
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr6Vq9D1ysjOrTndSkRWqEoYqBc.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E17
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAeFTtNpxWEpAAwMHq1upDTkNs3.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E18
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvt7VmvSbsnMOha6StsHln8ccWA.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E19
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lNOKg2gCKDkCf6udCTtfWoBTOa.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E20
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBdyXw87O1UjRyLZ9DAxXwWtS7F.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E21
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTAU5RQKoSR8MXoRDabxIsXmipX.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E22
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hB5E2vxn3SUSM1j5EeUWuehqFUo.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E01
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvnEFxo4dzTvZFntjg7nSZz8iBx.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E02
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gqhd9mBEA73IdlETfEvqJPdo2M.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E03
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zubLy6BIcrgB9IqoNNqudHGUN64.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E04
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uejaOOL5t5XmLChPfs8vNYTdhQZ.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E05
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anLrA0u8OfNl59r6r15yPBgeDm4.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E06
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ExzboHhFcb0o7psWSg04z3eHj7.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E07
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbrlXZ4CaAiVSFvLbD0kJeyCmjM.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E08
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBuWTO8MX7l3cwSyIhzlxOhni1c.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E09
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbEWqf68m7eiaYML1euxWp9fEHz.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E10
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slzMMvNNYCEc7Nzy3FGYYYXUgqw.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E11
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inKIm42y7ZjTxUFjfeuZVaDJgyk.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E12
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvp8F0tMesKkj5KdyhlLyHxzroC.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E13
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOAsvBQ5MLr5hkHkJ43AbYCsFes.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E14
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rqwxjGDEnGWViaztzThhoPKYzc.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E15
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzxE1Un0ME4876iGHYM87o9C39A.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E16
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvtEXeNbCuaoAl256mxluLXtUoX.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E17
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z70SWu96C2DxJhNPrWBwxClhMih.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E18
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhCutERqGnoYO83DJtCqFbByEL3.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E19
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VFZv1UkCioxTloWqyADgK9wx1T.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E20
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ke0SMweLuwGUW0Tdv62mmo9blH.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E21
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac0Wn8BVfxB1hByQM5NZhMJ2h75.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E22
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mn8Bg2zoFxkTsQrqxwYrVhOOFQM.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E23
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K22OjQ3oTOYjRnK38aeKOPHjpt.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E24
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPAKJbpgM9D1PLUyCcBYbAwCo8g.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E25
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXxVyzKorNg2ICNyJOFKtPbHW5X.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E26
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59cdURkcRadVsXKKDlvfxuobayG.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E27
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVXwruad6o6s0HL9YixkIcUL4VI.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E28
-http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9AUDNQJ5DHm0BTXDzrZUyVqLHr.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hecHUxugbMGKTKrxX0Tr9KKH8wC.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d05p51xgSra1g18j1g9lVkISeBc.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHx9IPhm2eCDCDwKeGCDvu1Ug4c.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gVRC9YLtMRmpe199dVanAi5PqR.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFeH0pGtAxT283dcbSjJeUVTS8s.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VwpyuxEZeyLI7vxiuiJShme7nb.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCoj4QnWk5s5vyf4JZsYEdwtdEh.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yG6D1uTYWv8a5KLSqPpXvkWhQl.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSwxBQzz0UX6qeN7Wj3SxHCoOc1.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V3waQJdnEmua3gQpMMhHoiSpUd.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1Nxp9b3Cw3yuzEoQN3YdM3DBjB.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ToQ9x8vIGgUM1pCC88rw3kkH00.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NALgE1O4O3EXvYqDQJ0QKmqgrT.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E1yeOmAhbfteOK1JgObV5Yx4Ik.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggBepooHM1HUdSuutK3sGHIPJR9.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjfS8RvIYLFSiuFd1ry2zbCMSwE.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BXTTU1MEt9ynW4bf0GRYuHVElV.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnRodRpWd0Cr39P4y3PEGgoUtrs.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIazs0FbYefRx132HDg4frVrJ2Y.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVzVoFJU3lxMgT6zpdEGeZJcIi4.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1iwNHTueWD10hZGqHxExMrysBz.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7BYfkhu653D894krwGO1ysIKTf.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ONv01StmrTTJgJEFh68WnpcGXc.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muFXaSYtnEfSgQvNifr9lJN9Gly.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmQrBkgF556tG4zw5fXT0vVKeAh.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4eSeyfobijI8gebRqlc9NLhJPJ.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afItqqYehOySGdO0nhuAtujCrpK.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvtq7YJq1DQUyyOUT1EoX50c8fr.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5T6RXdqFFBJOX8BvvExtfPtCAd.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5LlTT7fn3xHG2mgEbTtgcQi6q4.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sp9JkIyoPgwZ98JRT4Pa0UPfOE.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twYxJkMIZwnaYXjyZ3R1O9bsK6G.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3C1IVsO5FYcZ8rz6hk4SZtOGdUY.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFi7qHsVAbthSV9ZS3ARKzXmak2.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4Hjieb3YB5wUKpYtoeiKiFxH6a.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpof5C56ibomm8kvG7NwVxNI3m.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvjEb710Haj7o5uuVxhOSPsTr1n.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNnK4KSd5snsI5CtfTfRlsZhWcv.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayTkf6fcEmp3E4AGUhtbuXmA8VE.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gslrwk6qVEWvrMWXFXPGAa416uQ.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxxR3NPUC4IGNCU2UptFq3TF419.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApJmx28N7XzlesvhOrIjNalg5is.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGOED6YAH7cmcSsxF00mlhEZAvZ.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5i23prC87lb5LgdjKtAISEEU7q.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qCGhBLB7GTNtwst6aCEGGL5W5o.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFvhSvlitwvXKKEOmSiVe3OgV5r.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKngU1XHoY9h8qa9NcBNpysxGRE.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f31UohIE1iKwVObgbAxS1hcJKyJ.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tkbj95K1uHM9DOkoe0b7sIVZMb.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills, 90210 S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d00RSHGKcJMPofjhRmlRYTf1sUF.jpg" group-title="→ SERIES DRAMA ←",Beverly Hills, 90210 S02 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285847.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gran Heroe Americano S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSWo2nWCFieHp8Qj1ahEmS22wjI.jpg" group-title="→ SERIES RETRO ←",El gran Heroe Americano S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El gran Heroe Americano S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYDcNzI26JWBIrIwU5m56UBXuan.jpg" group-title="→ SERIES RETRO ←",El gran Heroe Americano S01 E02
@@ -137933,3 +137939,127 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285767.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285768.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El rescate de los mineros chilenos: Carrera contra el tiempo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg" group-title="→ SERIES DOCUMENTALES ←",El rescate de los mineros chilenos: Carrera contra el tiempo S01 E03
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ69sB4iBZpcbqZ725G8KEZA2Xw.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPFW48wm5ULArL2ZKBfxjK2D5Kg.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjVHxWRQ06Q9KMva46Zlf7NtBAE.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EXFa7SsV9tUVMYQ4d3yOFuSs28.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWkCzYmgeHkJhtKAbdk2uzsMNXW.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhoX4lfNNulazpyjklh1uyafRrj.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cotAKEUyiWInHk078TyloQUjQ0r.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde de Montecristo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrUYdaDa4GtOg3WaBzfXs5Ys0Vp.jpg" group-title="→ SERIES DRAMA ←",El Conde de Montecristo S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJwfl2r5k9jCkgMjQhAYryzn6y2.jpg" group-title="→ SERIES DOCUMENTALES ←",Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQVJWMvZPHxtx6GTGl06eMJLDHE.jpg" group-title="→ SERIES DOCUMENTALES ←",Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evfBSnahESyTiaZfFGC4CW4owPf.jpg" group-title="→ SERIES DOCUMENTALES ←",Pompeya Antes Del Desastre, Con Tom Hiddleston S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXF0vp5O8TqYGeKkO0Pf11aIeDo.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v7jCJZxqnlDP8NnGZsDo66Sxie.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EKIRYFhamJCu0DOaL0wMvXvDoH.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDYsXI7Lq7MaU6iUUod4lTXgGxs.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSwqA2RvLlg40ZyEC17sYbfu93I.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qfloDgxhV2GtFdoHKeUYVkvLeG.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5GLXeOUaqLFy3AAeZG17FnEPGq.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbtV6uw1gjXQFhssnbBxCYGfL30.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWuvTkG1I4s6xRvi7iQWqctxOYY.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKC3QsumWTx2U4J3XlNUUBZwEim.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ0FBZdTmyocoejVVvLnKTYAb8o.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF0nn96kNSLqsO2MxDiXIgmNxTj.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoXRab6A2AXKDv4EZj7eD7sOdUV.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12XEt8kKVJHD2HmW3dmhEnHMcTp.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFaH9XRJ4E6w8i3qIBKvC6s2jV5.jpg" group-title="→ SERIES DRAMA ←",Subete a mi moto S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6bjt5BABSVBweuxvpYHivV7llE.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOBV1HbA4iLJ3n04q7zmUxuE7Dg.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaUBzoBWbsulhaZkCNvFp6TtLFA.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CgByR4J4y6nCdoRfOWaXvJrChP.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8KtzBetaVb0p3m0Md6Nt67DrZa.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8m5wfqCR3xWrqezbm0TIEhtb8B.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mO8Q3lFqeD1sQRSpS0jK6LEGzOm.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc41UocQeKlDXr1U8fNPsATyhLH.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQLBDfejP0awfq2mWYS3rCWUyf7.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nidJkDCkpHZ2Firw8AMJJ1FkhN.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GUAznsRDIjchtLoRkMKtoXttpP.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOBDnZk0HM25byj4nKaKNTn6mZM.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kM7oydee6sVnfP14Vp6YVkjBNI.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PRRd112SPmzmbctZYQ9mzEBqwD.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFZmZGDVdWjQ6DVQ0XUxcjplas.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e7zCUBECJjXVIY2HXjvMNVeIau.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jIzaEehBZR0CmUGoe9yxlzxJ7C.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzgmsQlHfQpx7ATzpC8pCIdAdO.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCacA26gnvEmmKBGZJTjDXxXUsI.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLUAvdKgHmfVMwfNvz82avd5Oxh.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhIGVTH49dq95UN7upDSftu384h.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwSat7Isxq22H8yn99L5F2wylUC.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6gswV1TqWzN5T3BrT6Lgvt3LLY.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q87PpZ8bBRO7bIf3lYA7plLXog8.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzJp4VJr6ckx2UzDqbz3jvPFaBK.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x76gmfbCQQTcZioLameeH3qXyvu.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43On0gvfRS3keLSwFH4mX5J7xEQ.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU2YtnR6TGLXqChzjNJidyHryqX.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOOOAax2RJDLH7rVZLuyeArqJJr.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzYzyFgM5D5TGPPmHFMvYhvC4Ii.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbs0AtD8E5S6bZDiS3LLelmveYd.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teFpJ2ZE9NPqqIaerWDdaN458Xh.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lhZJO4pJMbUCopGvo4cfC2x923.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2X6Z2kthLalh3mSnr6avriUQ4G.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljerqBf5VKP7XJgJVduSLXMioFf.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5HvKRECh9liJVkQZrnLeU1kY6f.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285884.mkv
