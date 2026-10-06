@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="→ VOD 4K ←",Spider-Man: Un nuevo día (2026) 4K
+http://23.153.217.158:8080/movie/995431461tv/7ct525/286047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Están entre nosotros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg" group-title="→ VOD ESTRENOS 2026 ←",La noche del demonio: Están entre nosotros (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/286045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="→ VOD ESTRENOS 2026 ←",Spider-Man: Un nuevo día (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/286046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soulm8te (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg" group-title="→ VOD ESTRENOS 2026 ←",Soulm8te (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chica robada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTntmnAAWJOIGFhStfiprlv70yr.jpg" group-title=" → VOD ESTRENOS 2025 ←",Chica robada (2025)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Hipotesis del Amor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Hipotesis del Amor (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conexion Peligrosa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUXpUryPHGnkFThqhXtad4O8jE.jpg" group-title="→ VOD ESTRENOS 2026 ←",Conexion Peligrosa (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Schumacher '94 - Die Geburt einer Legende (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTup4U76sGi5om7BUiMYwKWHvvl.jpg" group-title="→ VOD DOCUMENTALES ←",Schumacher '94 - Die Geburt einer Legende (2026)
+http://23.153.217.158:8080/movie/995431461tv/7ct525/285885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En vivo desde el infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UYm1w6shyYyqFGsry2JMaq56K2.jpg" group-title="→ VOD ESTRENOS 2026 ←",En vivo desde el infierno (2026)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/285848.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Perfecto Asesino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQms76FyesT2PrLLOxy8iExL6e8.jpg" group-title="→ VOD ACCIÓN ←",El Perfecto Asesino
@@ -432,7 +448,7 @@ http://23.153.217.158:8080/movie/995431461tv/7ct525/281422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Era del Rock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qabZhYmGhl81LBzyhSOlHVvFQSE.jpg" group-title="→ VOD COMEDIA ←",La Era del Rock
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281421.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En La Zona Gris (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg" group-title="→ VOD ESTRENOS 2026 ←",En La Zona Gris (2026)
-http://23.153.217.158:8080/movie/995431461tv/7ct525/281412.mp4
+http://23.153.217.158:8080/movie/995431461tv/7ct525/281412.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="→ VOD CAM 2026 ←",The Mandalorian and Grogu (2026) CAM
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281411.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Las Damas Primero (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DP6nB3O96NToxLAR3V26DErgCX.jpg" group-title="→ VOD ESTRENOS 2026 ←",Las Damas Primero (2026)
@@ -18165,10 +18181,6 @@ http://23.153.217.158:8080/movie/995431461tv/7ct525/268637.mp4
 http://23.153.217.158:8080/movie/995431461tv/7ct525/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/995431461tv/7ct525/281289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Hipotesis del Amor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Hipotesis del Amor (2026)
-http://23.153.217.158:8080/movie/995431461tv/7ct525/285763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Conexion Peligrosa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUXpUryPHGnkFThqhXtad4O8jE.jpg" group-title="→ VOD ESTRENOS 2026 ←",Conexion Peligrosa (2026)
-http://23.153.217.158:8080/movie/995431461tv/7ct525/285766.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/995431461tv/7ct525/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -19527,7 +19539,7 @@ http://23.153.217.158:8080/995431461tv/7ct525/416
 http://23.153.217.158:8080/995431461tv/7ct525/417
 #EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 II ←",24/7: DRAGON BALL
 http://23.153.217.158:8080/995431461tv/7ct525/697
-#EXTINF:-1 tvg-id="" tvg-name="24/7: MR BEAN" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 II ←",24/7: MR BEAN
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Runtime Cine Espanto" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 II ←",24/7: Runtime Cine Espanto
 http://23.153.217.158:8080/995431461tv/7ct525/703
 #EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 01 PPV" tvg-logo="" group-title="→ CINEMA PPV USA ←",US_HD:Cinema 01 PPV
 http://23.153.217.158:8080/995431461tv/7ct525/12024
@@ -70843,6 +70855,12 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/285553.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285554.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jlPiWkgBJfeKRc7Nrv8qDrjfKyS.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E06
 http://23.153.217.158:8080/series/995431461tv/7ct525/285658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJLxwCUww1G9Mf4s2GbhRahIG0.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joWTEQMXshE2ZB0zHijPqCwMhLa.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjwYxuNhvkxourHGtazQ7zoL0Qt.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285898.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/279458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E02
@@ -73283,6 +73301,156 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/43970.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/43971.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hijo bastardo y el mismísimo diablo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAUP3qN61FfdgwfgJwOU2ZLClMd.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",El hijo bastardo y el mismísimo diablo S01 E08
 http://23.153.217.158:8080/series/995431461tv/7ct525/43972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ppEotl1YMs1adTscDdMoLhQaQ3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEX0cNZhtRdvXkqalV3cg1yiJhB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBvtNJypYY0Jm2nb3B9K7IAC5N2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4guXoOOo3DEN4OkSdlC5Cf6EZey.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/597gzJBK4A8tbDX4KZKrK9hmJQG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU4qeE9kQXtVDHnp2vgzxjOycsG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onvHNXtp3JICmWJmT8ETFtiIkep.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj2RJGWOjtR9t903J3jXesPGEe3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAqMF73lJBtNPkyoZHOgpEJwL5E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwZQOYXqojkNzVIa23t6kY3QBoJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDlwi2JQREzRF7eyqCXQJmLWCvA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CjSlm1zoWsFcvBNRds8ilZueWF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gDyN4qfTUXotm5HqdMsrjxvJv8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCFO7q6Xu0vFGE9XyzDxK7jcPoL.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwQGJWECo9pcMNOiWcNfZZqYUyj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipiSa3T8dTKUN2ONfcRRasL1Yj3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNsFQC2NKUubt5tXo0RTM7NkA6W.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJZkqcrHpmZHxegZ78LzDfcOmuX.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/285935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dDeKMK7zSvwPmqfJx8QIysbxvP.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/285936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VYMQ43P7EBd4r4bAzDXZyYkhcX.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/285937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CsJO8Br1cUWYyw3khMXQxNsQFE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E21
+http://23.153.217.158:8080/series/995431461tv/7ct525/285938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd8uxgVRtEhrQh4Qntv9qBHAuaI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E22
+http://23.153.217.158:8080/series/995431461tv/7ct525/285939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubAClUC0YLOcXVTAZBe7Ifc7NcS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E23
+http://23.153.217.158:8080/series/995431461tv/7ct525/285940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9dLM01DTcBvNKkkzG7VKrBRwQ2.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E24
+http://23.153.217.158:8080/series/995431461tv/7ct525/285941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk0Mv0GuGVjyPF9dvHOY5feL5bo.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E25
+http://23.153.217.158:8080/series/995431461tv/7ct525/285942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ALbyCGQjoYTTTiPOeAANpkXyI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S01 E26
+http://23.153.217.158:8080/series/995431461tv/7ct525/285943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S02 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/285973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/285974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S03 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/285975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/285984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/285985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/285986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/285987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/285988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/285989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/285990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/285991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunter × Hunter S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjbS4twQ2ORRM6AwOHVnkYf9ZtN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Hunter × Hunter S04 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/285992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunters S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYsbiQ9ZrzZbvyCiMWWSrT9c7aT.jpg" group-title="→ SERIES CRIMEN ←",Hunters S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/44121.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunters S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyYZnkIZH3OjvQEizD5iHnRdnt0.jpg" group-title="→ SERIES CRIMEN ←",Hunters S01 E02
@@ -113835,6 +114003,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/285685.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285686.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/p4dKJssjfhiRtXfcAI5K85sxKkg.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E05
 http://23.153.217.158:8080/series/995431461tv/7ct525/285796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/t5ZKBcCpCnXSSvOxOTeMrZTqG4f.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285900.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -129499,6 +129669,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/276361.mp4
 http://23.153.217.158:8080/series/995431461tv/7ct525/285764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtu6NmcqFw6kILEcWicAUCmJBVd.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E02
 http://23.153.217.158:8080/series/995431461tv/7ct525/285765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fpFZuhviZmvvXnR8yaTtigKnb4U.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqGzLA7f25PSxVruft7wyc3NDU.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/272266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwcTUpTUjEemxvLZ34AObukh6n.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E02
@@ -131017,6 +131189,10 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/277883.mp4
 http://23.153.217.158:8080/series/995431461tv/7ct525/278175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mNpZmVC2XEFWTHlFYxF55iBWnsA.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/285762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xYRbNslgnRmVUFT5w5jqEBhVFk.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLWaqhJFp0OYGBSbJXbV4fyMU6i.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285895.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLDT28rK6YwWHwuIQAgEHfgMjEw.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/276968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAYmAPrr8WFUknwVvc2vVSliBtO.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E02
@@ -133569,6 +133745,8 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/281281.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/281892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/afQtT4eDN6TgeX7iJhAIFBEDr83.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S01 E13
 http://23.153.217.158:8080/series/995431461tv/7ct525/281893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/39qjTApZtWeCdSXct670mb2i1Rw.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/286044.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/995431461tv/7ct525/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -138063,3 +138241,151 @@ http://23.153.217.158:8080/series/995431461tv/7ct525/285882.mkv
 http://23.153.217.158:8080/series/995431461tv/7ct525/285883.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5HvKRECh9liJVkQZrnLeU1kY6f.jpg" group-title="→ SERIES MISTERIO ←",Historias de Ultratumba S04 E10
 http://23.153.217.158:8080/series/995431461tv/7ct525/285884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b55U7j1STpQ2bs6eMfkB4G8nqKO.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSVbTcx7UQ2XjdVRAPcOqQNpuSx.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jsqqN7ONmrd6TNIhr5kVJd4VJP.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muzn0Ho2ngbRpu5Sn7VCg6QUEBz.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t76ZTo1gYaREvtDxl0WcBnL3PPM.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmUq2ZSIQoMmxn4JJAo2hj6YTeC.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al este del Eden S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z58idHHuxM5UfLqeZxC9XVE9tGZ.jpg" group-title="→ SERIES DRAMA ←",Al este del Eden S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKxwCRB75MYqtPGbON4WDe2QuTJ.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM9Gjw8tKJpFXtJU4XFNoEBQsbg.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udU14qyyELBOJpLZAS8Vn5T41ly.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf6bnVR8xPmBxEux7F1LfUzte1I.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHDT0AWMZzlmerCWS6PC06pERbn.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAy3iQGvPqcwMx6ccckrU5cxywX.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcERwteNx6osbCSMKJEYzOu65oq.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLaX3HY3LOVTXaW4cX618mQajD8.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tinelli S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg" group-title="→ SERIES REALLITY ←",Los Tinelli S02 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/285916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCfre8I8mJFGKKhx0PXK4mN5Gvf.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E01
+http://23.153.217.158:8080/series/995431461tv/7ct525/285993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD5jJfqi4UbFDQ0QRKMCEWOB1Ha.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E02
+http://23.153.217.158:8080/series/995431461tv/7ct525/285994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18YLyeHHobdQzpY7ZJK5nt1VDXD.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E03
+http://23.153.217.158:8080/series/995431461tv/7ct525/285995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRvGjeVOJsi6qad0qxfz4AENd18.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E04
+http://23.153.217.158:8080/series/995431461tv/7ct525/285996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTZe92dlyAGNsMT3HW7El57EKfA.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E05
+http://23.153.217.158:8080/series/995431461tv/7ct525/285997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLYexMS99tMidMtVtYvSFDcAHlX.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E06
+http://23.153.217.158:8080/series/995431461tv/7ct525/285998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13C4oGgOqWjlYBMtoGdeoOYjqG9.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E07
+http://23.153.217.158:8080/series/995431461tv/7ct525/285999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIxQyBus4HXbFOrehtnXMAC1lNo.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E08
+http://23.153.217.158:8080/series/995431461tv/7ct525/286000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLIX9Ow6y8DtxKJnRkKQjZC7gzu.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E09
+http://23.153.217.158:8080/series/995431461tv/7ct525/286001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOEXX3icBwgIk7cUVLrIOSxOQ4y.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E10
+http://23.153.217.158:8080/series/995431461tv/7ct525/286002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbsUgtmdzFtgz2jajYMhlrvVMhS.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E11
+http://23.153.217.158:8080/series/995431461tv/7ct525/286003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dVzKKsuz5QppBHSgy4IT4F5XRL.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E12
+http://23.153.217.158:8080/series/995431461tv/7ct525/286004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYlo3dbk5yS1bb7MAT9LXu7I0IH.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E13
+http://23.153.217.158:8080/series/995431461tv/7ct525/286005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k412DPiuB8NScLiJoI6qhV5Jawv.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E14
+http://23.153.217.158:8080/series/995431461tv/7ct525/286006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wy8GEt8ZcqMYUKFIFf6R9G9Ki.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E15
+http://23.153.217.158:8080/series/995431461tv/7ct525/286007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlZlETlEsvChBdM2bFhCPiEnJmX.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E16
+http://23.153.217.158:8080/series/995431461tv/7ct525/286008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0rtD7ALQlxYYaPL9Ne0cXxUNbM.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E17
+http://23.153.217.158:8080/series/995431461tv/7ct525/286009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65NaoCve5wb6zEQK4nwmk7eaUsJ.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E18
+http://23.153.217.158:8080/series/995431461tv/7ct525/286010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIQKK7KOVe7pVMQWqHksWjpjPSw.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E19
+http://23.153.217.158:8080/series/995431461tv/7ct525/286011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u8J4o5NoZ4hUAl0yVQ7GWIdQsW.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E20
+http://23.153.217.158:8080/series/995431461tv/7ct525/286012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EahcG57KghOzqdCaGOiwgfDktX.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E21
+http://23.153.217.158:8080/series/995431461tv/7ct525/286013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3EbUoTIupvYWmClos4NUVBsILm.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E22
+http://23.153.217.158:8080/series/995431461tv/7ct525/286014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8Qy7YNW8qdOOhxNlTI7MVpEqVW.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E23
+http://23.153.217.158:8080/series/995431461tv/7ct525/286015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPbUpcyzMquVd24r0sGbWhEcIPW.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E24
+http://23.153.217.158:8080/series/995431461tv/7ct525/286016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUqPqts5yDiTNhrz7aQMqHUz2xP.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E25
+http://23.153.217.158:8080/series/995431461tv/7ct525/286017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkxdLToE11LFo45sbt2lLjBXEgh.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E26
+http://23.153.217.158:8080/series/995431461tv/7ct525/286018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PVCD0WyrjHlVhKCt5cACuhPMNZ.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E27
+http://23.153.217.158:8080/series/995431461tv/7ct525/286019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEloDAqsphgHTDKP4o4Oucbn3uq.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E28
+http://23.153.217.158:8080/series/995431461tv/7ct525/286020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/P7JKqzci6rWNSquYYgbhOhOMKC.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E29
+http://23.153.217.158:8080/series/995431461tv/7ct525/286021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6VGqpgXG8S7qzl6hSMpnppNOvx.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E30
+http://23.153.217.158:8080/series/995431461tv/7ct525/286022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueV8kJTxUbuidPgjp0XLP4Y13Af.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E31
+http://23.153.217.158:8080/series/995431461tv/7ct525/286023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OqI1eBDS46OBYlaaZuRFej89CQ.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E32
+http://23.153.217.158:8080/series/995431461tv/7ct525/286024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab9gGTDG2s7sJgTQJnmIyQ6cNUW.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E33
+http://23.153.217.158:8080/series/995431461tv/7ct525/286025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/er4y1KdEzEzBGOpkeLgRJDLAYr4.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E34
+http://23.153.217.158:8080/series/995431461tv/7ct525/286026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc5nithkic4wy0mzfYXMBsbf1kE.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E35
+http://23.153.217.158:8080/series/995431461tv/7ct525/286027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnSqbloiEyCIhbNpV19RayQ90GH.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E36
+http://23.153.217.158:8080/series/995431461tv/7ct525/286028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAPSRCCrsMpQK8glnIFids8hppt.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E37
+http://23.153.217.158:8080/series/995431461tv/7ct525/286029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jravnitIDjVTcMugtI8hMILytM.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E38
+http://23.153.217.158:8080/series/995431461tv/7ct525/286030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecXtfRQyI89I0TeIQBiUafTXZLa.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E39
+http://23.153.217.158:8080/series/995431461tv/7ct525/286031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTWbw7p3i2X4VOETLx0ZQLpfqVV.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E40
+http://23.153.217.158:8080/series/995431461tv/7ct525/286032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJeNOQW4PZalNroe7RxmNI4S3eg.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E41
+http://23.153.217.158:8080/series/995431461tv/7ct525/286033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMv67pzr5TmE3FOnO53UQ6Qw0lz.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E42
+http://23.153.217.158:8080/series/995431461tv/7ct525/286034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPlDFfFV2UDLhua5KclGtL2HYIq.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E43
+http://23.153.217.158:8080/series/995431461tv/7ct525/286035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJSLLT2ycBOULHtnsJP7aPr1ZiH.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E44
+http://23.153.217.158:8080/series/995431461tv/7ct525/286036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni8b0IzKh8hZZJJRupIEepSNze2.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E45
+http://23.153.217.158:8080/series/995431461tv/7ct525/286037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87zDdrB5I6OyhyWfrHg1gp9o65n.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E46
+http://23.153.217.158:8080/series/995431461tv/7ct525/286038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Fp0LgNomQJeM2kyzDsdmZSnDBZ.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E47
+http://23.153.217.158:8080/series/995431461tv/7ct525/286039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VGsh5hPBforcjzYHeT8WOkWrns.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E48
+http://23.153.217.158:8080/series/995431461tv/7ct525/286040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU1dwGv2hrwumeTQSDqDxGVUhaL.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E49
+http://23.153.217.158:8080/series/995431461tv/7ct525/286041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p75UkVHH5bYSZL3gPVWoEMrM4e0.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E50
+http://23.153.217.158:8080/series/995431461tv/7ct525/286042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Remi S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYsR7MZlLdsEC9raPt5Pnpf1yYi.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E51
+http://23.153.217.158:8080/series/995431461tv/7ct525/286043.mkv
