@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Familia al instante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndgZRvynFdrYCjrny2vULiaCpI2.jpg" group-title="→ VOD DRAMA ←",Familia al instante
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/286078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invictus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/874ZGfGPuP83evSErKTwpjzNIi6.jpg" group-title="→ VOD DRAMA ←",Invictus
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/286079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me Llaman Radio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YmK87FddOH4oNxNzNSMiwVCoOA.jpg" group-title="→ VOD DRAMA ←",Me Llaman Radio 
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/286077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="→ VOD 4K ←",Spider-Man: Un nuevo día (2026) 4K
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/286047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Están entre nosotros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg" group-title="→ VOD ESTRENOS 2026 ←",La noche del demonio: Están entre nosotros (2026)
@@ -72764,129 +72770,117 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/43120.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Garcia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7tI4vwLKb5oXgcZTGeobm3b6rh.jpg" group-title="→ SERIES ACCIÓN ←",Garcia S01 E06
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/43121.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFirzr3lHUjTXeACGIWmaahPydo.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43123.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ceGj46UVmG8W9B4Z1oiiIew5w8.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43124.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286081.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAeJOecCqgHHDHQEpNEunHqvjWE.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43125.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286082.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R6zqVb4v3CWCQQmlagFIcLkqqV.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43126.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286083.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpIl5X9JfUvLI01BTzxhx8qCcBJ.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43127.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286084.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6601H35PBPCj1bjSIaEeEAWNb2Y.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43128.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286085.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij9lTHPmVwEaanF1ShN84YY3Z5d.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43129.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUFk2TYXKPZKtbu8vxkYuHqDIFs.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E08
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43130.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286087.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGJKe1YRb4LeHNzZA20ZGObU6kq.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E09
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43131.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286088.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcFmv1Bc40p4mBDO493pHmPwpcx.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E10
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43132.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286089.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VXES8xwUwpf9ChX87dZP02byQR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E11
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43133.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286090.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psks21SgKAHUtaXadRKrrTifctQ.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E12
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43134.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286091.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdbSopVq0BbqfNuVO7S9BDEk0t4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E13
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43135.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286092.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p14Ys9JzA4aYgM7yig7ynjILYkf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E14
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43136.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286093.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNdtzr6t3hNxt7tprgC8uD2cXzj.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E15
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43137.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286094.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVNgieayhYH35RVnNEYhw9EAwBW.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E16
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43138.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286095.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxeYwRWvKa66LFKK5dqj5yPLV0h.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43139.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286096.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prmX51ZHMMoDhKH1t0TEUNjxVGg.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43140.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXVyqFFb4DixdL6PkFxBmSKYwIB.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43141.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvNsTer2CG7OkVDCyNoVru2LnaR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43142.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286099.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzg3q6uIjV1N5ELSTQ2epa7G07u.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43143.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGHHkqSP45GinfwXvfrF9hn8qXM.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43144.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286101.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TQCpmmPbiGUKO4OkEAPhQdd5Bp.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43145.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286102.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QEzv8clMpsrq9HyzzBMFYtpZkE.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E08
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43146.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286103.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhfazUEFaMef7hX8pH28nv9Dbvb.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E09
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43147.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esqGAolgHlsE2PBMqO3qvpeQGK1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E10
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43148.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286105.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRC4UaJIdlZyvM2kkeRtTiFAAs4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E11
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43149.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286106.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQOTkXzI4yBBQexPKqPcz9whFIk.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E12
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43150.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286107.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0QmCpuj133WbgCo9PLUqbqeOfR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E13
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43151.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXwCIgBnpHdmMPu7RIUNwqXQM4v.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43152.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286109.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egN2d0Hf56Kkr430OHbquSXdkag.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43153.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286110.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvYpjbXnJ4fKy8zBH7EY0uHQGxM.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43154.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286111.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSaMUhiih3eR3F2BXv5UgK5jWUU.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43155.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286112.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY3rFSOfFPCZhkALhS0Uvs8pPKX.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43156.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286113.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVIYAHVtaqF783lQ74NDb8Dbx85.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43157.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286114.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lISo7FNzH23f1v6pMLaUGop6YIo.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43158.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIYBXSzpboMrZt7TNVvnW37FHbH.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E08
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43159.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286116.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V57C3B25CXYBk4ZcK7wdpRSeB4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E09
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43160.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfYj7EWei4oW5MieIKAbHJ02cld.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E10
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43161.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286118.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qHleM5ukRCG8tKhXR8QzQXIHf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E11
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43162.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286119.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soRaCSIKg4IGCXxd9h8U8UXfWO1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E12
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43163.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286120.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7VlxcPDdQXzoWZTMOsPWQEMVVf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E13
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6I9hoEfPyBAXkub174yMCyDzwT.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybwiosu2NyMWEB42IRhnOclmV2d.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jNnQbeUJTiShYxfyT6nTwgqXHG.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpDbLqn8HqXpj9QqLbreCuycUNV.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8Wv1VzsRheeUSJKqY654U8mO2L.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kop5fHo5D5BmVdO13D68EzFKsDK.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNg8KRrp5gYWWnwMe56gAOXGV71.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KeTNNz3azU0yLC7b0F6WMbfdbP.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E08
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8wDScH3EsG9YZ7cOwaysiepBps.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E09
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3llnwQyJhKUtiYzGEzoRWyJM4aH.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E10
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43174.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsiLgT4nlmbWSWTRnAWEyjR0uVj.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7csGSaZIlOE110ZrQ1TxkzGuFul.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meVTTGjFnibg5LUKcx6ezniYh4v.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trBdmCgbTcZQEyNOWuo8FZzAcIg.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eocHgYVSUV6ZpJBdag5LBDmFZU.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1diNUSNEEEnK6PWe8NPme8RWG.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKlx0DX9jIDw9guUXSnJwln3ttP.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raOOBuof2XXBT0MMYnlkOEP2cIe.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBruPEVx9WlU2n9HUPa0ItFFT1A.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E09
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPXXnWInFstct823pJOi5sgRp38.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E10
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286131.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjI5At1qCPsqctqO6YirFtuIJL.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E11
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43175.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286132.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ozah5VhFaFK1Q2nIDN5mpIqlsI.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E12
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvFB5BMPPuAcWHzkaQRrlL1e5YX.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E13
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43177.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1KfAVkPm3Kk79SCcpE3hAjBU86.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E13
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286134.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iRwwz9EnsSzQSOQiHudG2oEJM0.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E14
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8GkWSX8zIc0nNVUvJUHBdP0sSD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E15
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6r9IR94tCTxf4QWIPcNaouLKlB.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E16
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaD2qEHJtliETgWenqyFtkmqyNC.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E17
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8A4avwdMjn4nJIKtbXcpSiGoMD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E18
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jGzaF5qUFGEXApneGdCpo2uavD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E19
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqi0LHlmJPOWAdVedTWKM9CYZM1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E20
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/43184.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286135.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WeCrashed S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D0OTf3OotxeROs7dYPswD3FUXQ.jpg" group-title="→ SERIES DRAMA ←",WeCrashed S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/271259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WeCrashed S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lizgs31z2XqOeZfvGlfBkpj2Fz3.jpg" group-title="→ SERIES DRAMA ←",WeCrashed S01 E02
@@ -100963,20 +100957,38 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/75021.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/75022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Echo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45VvSf6PVxvLeVaJM2fwbW4yfAb.jpg" group-title="→ SERIES MARVEL ←",Echo S01 E05
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/75023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmBACM8eaKLEMWD1wlDExKHsTJP.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y6aMmHHgM3x1vR7ILBcSUQV8Qk.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoTs7nM1961mIJBG6lkvXhWQrin.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxPImbleKLJVTMZLi9HcmiBfbb3.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55c1qIZZlOu4a5iSRNkSVZNNTt3.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46WncJekJcxpd7z7zUhgFro3VCC.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LApNVub2MDov5SlkBW9mOfd6W2.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/75030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gu9NYL0uhv0cTOHNCZDTsKG3Q3V.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJEbfkY3Xk3pSgiYD5FRDbtfLOQ.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeOci2K2Pa9AvylqumD1byCowm8.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moZhjmTqAZmfUJDnjmomSEXlJt1.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaSTZ1qHF9ou44B6UJ4bjD9vXoO.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luM9ZleunHo3DT4HzwwojldOmRN.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za4wNfbGBaXpRPOBfSoGMFSKwNq.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPn71YFDENH0JkWUezlsLyWmLfN.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4cvE3i0FYSIVBo1pH3ZP4pQRSp.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCwgZTNuw84xzGgYPCpiepkF38G.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qyohu5hl4N8Kb2VgcKLdSPGZW.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hk5MA4SQ7TxeIZrC2Dk5GUqAHt.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc8YQ6LiCU23WRujM9SzQbGI95H.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tKP8ixZXPoqa0P69cS08KldNBS.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vp7xovhw3Frhjtvr1Atofn56Du.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY4fGqzlKUn7aDGhsycyce1k7tc.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Engaños S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOlZZ0r5uiALxP0vS0mTB126wgf.jpg" group-title="→ SERIES CRIMEN ←",Engaños S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/263782.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Engaños S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIOgAN3vFPk6kr7kIL85UBReKzZ.jpg" group-title="→ SERIES CRIMEN ←",Engaños S01 E02
@@ -138389,3 +138401,105 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/286041.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286042.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remi S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYsR7MZlLdsEC9raPt5Pnpf1yYi.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E51
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdxcESoccmgEooeidN21Iioe62l.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4CS8x5EGU9SfUGpqLkzNdhNoS8.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBwpy0876lXJDZB39DW7pqXeHJt.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSkSS8Z8XCAfwJxl22VKuSDdmGo.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9OrQpANymuHiihZtClHPSoTCj.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9EzMbGFvdPrwdilFpick0DUJq3.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2TdkLmUffIgsqe7eZbwCdSZ0fe.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWW4gx97UUP4OPJyJDbYlRhlkfH.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM6xjNJcswdBqpAO6ctQaSiflZk.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33U6TWpVIuGIpR8gLAf0R8QTe2M.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzvgK3pOYtsOaw5NW03XsePQG7k.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XJJVrpWXw90NnsYP6T7Z4G5OJO.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrncNdrN1iKtDpv9jLg24Ccy4O.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc51kOwtiFCHapbSSOIdoCBngzn.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvSjWShUG1PlkvzkiaVVB1CDwRd.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aGip82ZXopdkey959Ay10n16gn.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UGvHIPPwGOZloUyfMtXNvtqc1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E09
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIT8wp28ysLdOLlsymkjNSecUwF.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E10
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E11
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E12
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E13
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E14
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E15
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E16
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E17
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E18
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E19
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E20
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E21
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7jZsND51grOCtkXMiLvyNR1Ue6.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OakXwrVcz9EfA9O0wSW6BGjf83.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yMl70GufDi19y69fEdYKfKo7wN.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NPEWtVHa0YqdFL8rFt75RKZQm1.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eoSmnHUiEkConnsbimZPbfhGba.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTwvypom5WQB6yKO9DbJkz2rs0N.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6K86iDYMr8G0xQC5OxDHi34OWo.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BAJUukstdRp5JdJL4KgB1oFXEj.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCayKt9PSctLY3Oo85nBvm1ibnq.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br1jADm12G7gdN9rSlj3dn0VB4i.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aosEmangiVoqjUIgCcTz8pEUFuS.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtBh6ZtP3LQL6iHAt3FpT2y0j2.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQRCwK89aL7C0qEfEGrpkqfB2as.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcCBQrz9zvQkaxlfFyClGGJGFEO.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqluf2nyWv2J1t0phYmXI9udmXk.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPQ3g2h14ryupG0M7xKADNBhQ4U.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz3tGge02mw7XT7WX0rvb8mJoaN.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysbZ2UnInSaNtGhivNZ0pMR9w5P.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/px6hdQwaWedIN25IzrY1RneQclt.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIV0u3Xq1S8JtwKFoFjFmWBAX5R.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54kGInWE0WnFM1Fj3ese6TA9RxY.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59UHt6oSykamwv0YdbQtfjClimn.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/286173.mkv
