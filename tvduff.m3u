@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="13 Dias, 13 Noches (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS3UNEPpomerbjJZKdAf33X38Kc.jpg" group-title=" → VOD ESTRENOS 2025 ←",13 Dias, 13 Noches (2025)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matchbox: La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg" group-title="→ VOD ESTRENOS 2026 ←",Matchbox: La película (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhycOr6ji35RMGHnstHN4UKAvR4.jpg" group-title="→ VOD ESTRENOS 2026 ←",Animales (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Familia al instante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndgZRvynFdrYCjrny2vULiaCpI2.jpg" group-title="→ VOD DRAMA ←",Familia al instante
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invictus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/874ZGfGPuP83evSErKTwpjzNIi6.jpg" group-title="→ VOD DRAMA ←",Invictus
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me Llaman Radio " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YmK87FddOH4oNxNzNSMiwVCoOA.jpg" group-title="→ VOD DRAMA ←",Me Llaman Radio 
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286077.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBFjaDWfNslvrs6bJjknmG27wOS.jpg" group-title="→ VOD 4K ←",Spider-Man: Un nuevo día (2026) 4K
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/286047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Están entre nosotros (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg" group-title="→ VOD ESTRENOS 2026 ←",La noche del demonio: Están entre nosotros (2026)
@@ -18202,7 +18214,7 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/46.m3u8
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »3«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/45.m3u8
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »4«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/44.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »1«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/51.m3u8
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »2«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »2«
@@ -18210,7 +18222,7 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/50.m3u8
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »3«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/49.m3u8
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »4«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »4«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/48.m3u8
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="CL• 13C (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png" group-title="→ CHILE ←",CL• 13C (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/57.m3u8
 #EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="CL• 13C (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png" group-title="→ CHILE ←",CL• 13C (HD) »2«
@@ -18222,7 +18234,7 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/57274.m3u8
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL• TV+ (HD) »1«" tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="→ CHILE ←",CL• TV+ (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/62.m3u8
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL• TV+ (HD) »2«" tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="→ CHILE ←",CL• TV+ (HD) »2«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/61.m3u8
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-name="CL• TV+ (HD) »3«" tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="→ CHILE ←",CL• TV+ (HD) »3«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL• TV+ (HD) »4«" tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="→ CHILE ←",CL• TV+ (HD) »4«
@@ -18230,9 +18242,9 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/57262.m3u8
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="CL• 24 HORAS (HD) »1«" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ CHILE ←",CL• 24 HORAS (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/78.m3u8
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="CL• 24 HORAS (HD) »2«" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ CHILE ←",CL• 24 HORAS (HD) »2«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/77.m3u8
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="CL• 24 HORAS (HD) »3«" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ CHILE ←",CL• 24 HORAS (HD) »3«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/32.m3u8
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="CL• 24 HORAS (HD) »4«" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ CHILE ←",CL• 24 HORAS (HD) »4«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/31.m3u8
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-name="CL• CNN CHILE (HD) »1«" tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ CHILE ←",CL• CNN CHILE (HD) »1«
@@ -18280,7 +18292,7 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/55.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »2«" tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="→ CHILE ←",CL• LA RED (HD) »2«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/54.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »3«" tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="→ CHILE ←",CL• LA RED (HD) »3«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/53.m3u8
+https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »4«" tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="→ CHILE ←",CL• LA RED (HD) »4«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/52.m3u8
 #EXTINF:-1 tvg-id="774dtv.co" tvg-name="CL• TV CHILE (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="→ CHILE ←",CL• TV CHILE (HD) »1«
@@ -18294,7 +18306,7 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/57261.m3u8
 #EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="CL• TELETRAK (HD) »1«" tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="→ CHILE ←",CL• TELETRAK (HD) »1«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/68.m3u8
 #EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="CL• TELETRAK (HD) »2«" tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="→ CHILE ←",CL• TELETRAK (HD) »2«
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/67.m3u8
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
 #EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="CL• TELETRAK (HD) »3«" tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="→ CHILE ←",CL• TELETRAK (HD) »3«
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/69.m3u8
 #EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="CL• TELETRAK (HD) »4«" tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="→ CHILE ←",CL• TELETRAK (HD) »4«
@@ -18309,12 +18321,12 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/57275.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/57276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL• 13 CULTURA (HD)" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="→ CHILE ←",CL• 13 CULTURA (HD)
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL• 13 ENTRETENCIÓN (HD)" tvg-logo="https://i.postimg.cc/mktnnqgS/13e.png" group-title="→ CHILE ←",CL• 13 ENTRETENCIÓN (HD)
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL• 13 Realities (HD)" tvg-logo="https://i.postimg.cc/mktnnqgS/13e.png" group-title="→ CHILE ←",CL• 13 Realities (HD)
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CL• 13 TELESERIES (HD)" tvg-logo="https://i.postimg.cc/GhnPVVth/13t.png" group-title="→ CHILE ←",CL• 13 TELESERIES (HD)
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL• 13 PRIME (HD)" tvg-logo="https://i.postimg.cc/YCnWrsrF/13P.png" group-title="→ CHILE ←",CL• 13 PRIME (HD)
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/81.m3u8
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CL• 13 FESTIVAL (HD)" tvg-logo="https://i.postimg.cc/YCnWrsrF/13P.png" group-title="→ CHILE ←",CL• 13 FESTIVAL (HD)
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CL• T13 (HD)" tvg-logo="https://i.postimg.cc/yxQL7N24/t13.png" group-title="→ CHILE ←",CL• T13 (HD)
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/83.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL• T13 RADIO (HD)" tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="→ CHILE ←",CL• T13 RADIO (HD)
@@ -26127,16 +26139,16 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/254787.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/254788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVA Sports ʜᴅ" tvg-logo="http://209.126.82.213/LogosP/Canada/ca_tva_sports.png" group-title="→ CANADÁ ←",TVA Sports ʜᴅ
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/254789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kan 11 ✪ | IL" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png" group-title="→ GEO CHILE (REGIONAL) ←",Kan 11 ✪ | IL
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Rewind ✪ | IL" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png" group-title="→ GEO CHILE (REGIONAL) ←",Rewind ✪ | IL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Palestine TV ✪ | PS" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Palestine TV ✪ | PS
 https://pbc.furrera.ps/palestinehd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="13 Kids | CL" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="→ GEO CHILE (REGIONAL) ←",13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="AnimeStation | AR" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="→ GEO CHILE (REGIONAL) ←",AnimeStation | AR
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="AniRetro | CL" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="→ GEO CHILE (REGIONAL) ←",AniRetro | CL
-https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VClassic TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="→ GEO CHILE (REGIONAL) ←",VClassic TV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Showtime TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="→ GEO CHILE (REGIONAL) ←",Showtime TV | CL
+https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Chiquilines - Freetv.com | US" tvg-logo="https://cdn.m3u.cl/logo/1279_Chiquilines___Freetv_com.png" group-title="→ GEO CHILE (REGIONAL) ←",Chiquilines - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Dreiko TV | PA" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Dreiko TV | PA
@@ -27210,9 +27222,9 @@ https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music Television | CZ" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro Music Television | CZ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV | CL" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro Plus TV | CL
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2 | CL" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro Plus TV Señal 2 | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Ritmo Top Latino | CL" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png" group-title="→ GEO CHILE (REGIONAL) ←",Ritmo Top Latino | CL
 https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Ritmos Peru | PE" tvg-logo="https://cdn.m3u.cl/logo/1471_Ritmos_Peru.png" group-title="→ GEO CHILE (REGIONAL) ←",Ritmos Peru | PE
@@ -27400,7 +27412,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Play TV | CL" tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3 | CL" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro Plus TV Señal 3 | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro TV Palmares | CR" tvg-logo="https://cdn.m3u.cl/logo/479_Retro_TV_Palmares.png" group-title="→ GEO CHILE (REGIONAL) ←",Retro TV Palmares | CR
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Telered | CR" tvg-logo="https://cdn.m3u.cl/logo/477_Telered.png" group-title="→ GEO CHILE (REGIONAL) ←",Telered | CR
@@ -34003,8 +34015,8 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/264678.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/264679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL: MEGATIEMPO YT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Megatiempo.svg" group-title="→ CHILE ←",CL: MEGATIEMPO YT
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/264716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL: DEPORTES 13 (TEST)" tvg-logo="" group-title="→ CHILE ←",CL: DEPORTES 13 (TEST)
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/264717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV DEPORTES" tvg-logo="" group-title="→ CHILE ←",CL: CHV DEPORTES
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="ANGOLA",ABN Africa (480p)
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/264718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="ANGOLA",Africanews
@@ -34555,8 +34567,8 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/265202.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/265203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVE CONCIERTOS RADIO 3" tvg-logo="https://okdiario.com/img/2023/11/11/rtve-play-635x358.jpg" group-title="RTVE",RTVE CONCIERTOS RADIO 3
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/265204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL: Meganoticias YT" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png" group-title="→ CHILE ←",CL: Meganoticias YT
-http://23.153.217.158:8080/live/977899335tv/l8q53zg/265248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV NOTICIAS" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png" group-title="→ CHILE ←",CL: CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="5 ԹԻՎԻ (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/jOGZZDo.png" group-title="ARMENIA",5 ԹԻՎԻ (480p) [Not 24/7]
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]" tvg-logo="" group-title="ARMENIA",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]
@@ -70861,6 +70873,8 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285896.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285897.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjwYxuNhvkxourHGtazQ7zoL0Qt.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E09
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg" group-title="→ SERIES COMEDIA ←",Ted Lasso S04 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/279458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg" group-title="→ SERIES CRIMEN ←",Dexter S01 E02
@@ -72764,129 +72778,117 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/43120.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Garcia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7tI4vwLKb5oXgcZTGeobm3b6rh.jpg" group-title="→ SERIES ACCIÓN ←",Garcia S01 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/43121.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFirzr3lHUjTXeACGIWmaahPydo.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E01
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43123.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ceGj46UVmG8W9B4Z1oiiIew5w8.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E02
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43124.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286081.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAeJOecCqgHHDHQEpNEunHqvjWE.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E03
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43125.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286082.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R6zqVb4v3CWCQQmlagFIcLkqqV.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E04
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43126.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286083.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpIl5X9JfUvLI01BTzxhx8qCcBJ.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E05
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43127.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286084.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6601H35PBPCj1bjSIaEeEAWNb2Y.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43128.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286085.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij9lTHPmVwEaanF1ShN84YY3Z5d.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E07
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43129.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUFk2TYXKPZKtbu8vxkYuHqDIFs.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E08
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43130.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286087.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGJKe1YRb4LeHNzZA20ZGObU6kq.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E09
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43131.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286088.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcFmv1Bc40p4mBDO493pHmPwpcx.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E10
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43132.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286089.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VXES8xwUwpf9ChX87dZP02byQR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E11
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43133.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286090.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psks21SgKAHUtaXadRKrrTifctQ.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E12
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43134.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286091.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdbSopVq0BbqfNuVO7S9BDEk0t4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E13
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43135.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286092.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p14Ys9JzA4aYgM7yig7ynjILYkf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E14
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43136.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286093.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNdtzr6t3hNxt7tprgC8uD2cXzj.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E15
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43137.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286094.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVNgieayhYH35RVnNEYhw9EAwBW.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S01 E16
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43138.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286095.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxeYwRWvKa66LFKK5dqj5yPLV0h.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E01
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43139.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286096.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prmX51ZHMMoDhKH1t0TEUNjxVGg.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E02
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43140.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXVyqFFb4DixdL6PkFxBmSKYwIB.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E03
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43141.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvNsTer2CG7OkVDCyNoVru2LnaR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E04
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43142.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286099.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzg3q6uIjV1N5ELSTQ2epa7G07u.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E05
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43143.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGHHkqSP45GinfwXvfrF9hn8qXM.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43144.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286101.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TQCpmmPbiGUKO4OkEAPhQdd5Bp.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E07
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43145.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286102.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QEzv8clMpsrq9HyzzBMFYtpZkE.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E08
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43146.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286103.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhfazUEFaMef7hX8pH28nv9Dbvb.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E09
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43147.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esqGAolgHlsE2PBMqO3qvpeQGK1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E10
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43148.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286105.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRC4UaJIdlZyvM2kkeRtTiFAAs4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E11
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43149.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286106.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQOTkXzI4yBBQexPKqPcz9whFIk.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E12
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43150.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286107.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0QmCpuj133WbgCo9PLUqbqeOfR.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S02 E13
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43151.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXwCIgBnpHdmMPu7RIUNwqXQM4v.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E01
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43152.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286109.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egN2d0Hf56Kkr430OHbquSXdkag.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E02
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43153.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286110.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvYpjbXnJ4fKy8zBH7EY0uHQGxM.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E03
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43154.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286111.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSaMUhiih3eR3F2BXv5UgK5jWUU.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E04
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43155.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286112.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY3rFSOfFPCZhkALhS0Uvs8pPKX.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E05
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43156.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286113.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVIYAHVtaqF783lQ74NDb8Dbx85.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43157.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286114.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lISo7FNzH23f1v6pMLaUGop6YIo.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E07
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43158.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIYBXSzpboMrZt7TNVvnW37FHbH.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E08
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43159.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286116.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V57C3B25CXYBk4ZcK7wdpRSeB4.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E09
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43160.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfYj7EWei4oW5MieIKAbHJ02cld.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E10
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43161.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286118.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qHleM5ukRCG8tKhXR8QzQXIHf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E11
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43162.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286119.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soRaCSIKg4IGCXxd9h8U8UXfWO1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E12
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43163.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286120.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7VlxcPDdQXzoWZTMOsPWQEMVVf.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S03 E13
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6I9hoEfPyBAXkub174yMCyDzwT.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E01
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybwiosu2NyMWEB42IRhnOclmV2d.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E02
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jNnQbeUJTiShYxfyT6nTwgqXHG.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E03
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpDbLqn8HqXpj9QqLbreCuycUNV.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E04
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8Wv1VzsRheeUSJKqY654U8mO2L.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E05
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kop5fHo5D5BmVdO13D68EzFKsDK.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNg8KRrp5gYWWnwMe56gAOXGV71.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E07
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KeTNNz3azU0yLC7b0F6WMbfdbP.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E08
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8wDScH3EsG9YZ7cOwaysiepBps.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E09
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3llnwQyJhKUtiYzGEzoRWyJM4aH.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E10
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43174.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsiLgT4nlmbWSWTRnAWEyjR0uVj.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7csGSaZIlOE110ZrQ1TxkzGuFul.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meVTTGjFnibg5LUKcx6ezniYh4v.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trBdmCgbTcZQEyNOWuo8FZzAcIg.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eocHgYVSUV6ZpJBdag5LBDmFZU.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1diNUSNEEEnK6PWe8NPme8RWG.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKlx0DX9jIDw9guUXSnJwln3ttP.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raOOBuof2XXBT0MMYnlkOEP2cIe.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBruPEVx9WlU2n9HUPa0ItFFT1A.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPXXnWInFstct823pJOi5sgRp38.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286131.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjI5At1qCPsqctqO6YirFtuIJL.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E11
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43175.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286132.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ozah5VhFaFK1Q2nIDN5mpIqlsI.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E12
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvFB5BMPPuAcWHzkaQRrlL1e5YX.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E13
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43177.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1KfAVkPm3Kk79SCcpE3hAjBU86.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286134.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iRwwz9EnsSzQSOQiHudG2oEJM0.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E14
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8GkWSX8zIc0nNVUvJUHBdP0sSD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E15
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6r9IR94tCTxf4QWIPcNaouLKlB.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E16
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaD2qEHJtliETgWenqyFtkmqyNC.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E17
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8A4avwdMjn4nJIKtbXcpSiGoMD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E18
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jGzaF5qUFGEXApneGdCpo2uavD.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E19
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manifiesto S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqi0LHlmJPOWAdVedTWKM9CYZM1.jpg" group-title="→ SERIES DRAMA ←",Manifiesto S04 E20
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/43184.mkv
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286135.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WeCrashed S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D0OTf3OotxeROs7dYPswD3FUXQ.jpg" group-title="→ SERIES DRAMA ←",WeCrashed S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/271259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WeCrashed S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lizgs31z2XqOeZfvGlfBkpj2Fz3.jpg" group-title="→ SERIES DRAMA ←",WeCrashed S01 E02
@@ -100963,20 +100965,38 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/75021.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/75022.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Echo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45VvSf6PVxvLeVaJM2fwbW4yfAb.jpg" group-title="→ SERIES MARVEL ←",Echo S01 E05
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/75023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmBACM8eaKLEMWD1wlDExKHsTJP.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E01
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y6aMmHHgM3x1vR7ILBcSUQV8Qk.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E02
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoTs7nM1961mIJBG6lkvXhWQrin.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E03
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxPImbleKLJVTMZLi9HcmiBfbb3.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E04
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55c1qIZZlOu4a5iSRNkSVZNNTt3.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E05
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46WncJekJcxpd7z7zUhgFro3VCC.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E06
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LApNVub2MDov5SlkBW9mOfd6W2.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E07
-http://23.153.217.158:8080/series/977899335tv/l8q53zg/75030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gu9NYL0uhv0cTOHNCZDTsKG3Q3V.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJEbfkY3Xk3pSgiYD5FRDbtfLOQ.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeOci2K2Pa9AvylqumD1byCowm8.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moZhjmTqAZmfUJDnjmomSEXlJt1.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaSTZ1qHF9ou44B6UJ4bjD9vXoO.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luM9ZleunHo3DT4HzwwojldOmRN.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za4wNfbGBaXpRPOBfSoGMFSKwNq.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPn71YFDENH0JkWUezlsLyWmLfN.jpg" group-title="→ SERIES COMEDIA ←",Ted S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4cvE3i0FYSIVBo1pH3ZP4pQRSp.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCwgZTNuw84xzGgYPCpiepkF38G.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qyohu5hl4N8Kb2VgcKLdSPGZW.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hk5MA4SQ7TxeIZrC2Dk5GUqAHt.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc8YQ6LiCU23WRujM9SzQbGI95H.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tKP8ixZXPoqa0P69cS08KldNBS.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vp7xovhw3Frhjtvr1Atofn56Du.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY4fGqzlKUn7aDGhsycyce1k7tc.jpg" group-title="→ SERIES COMEDIA ←",Ted S02 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Engaños S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOlZZ0r5uiALxP0vS0mTB126wgf.jpg" group-title="→ SERIES CRIMEN ←",Engaños S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/263782.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Engaños S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIOgAN3vFPk6kr7kIL85UBReKzZ.jpg" group-title="→ SERIES CRIMEN ←",Engaños S01 E02
@@ -114005,6 +114025,8 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285686.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285796.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/t5ZKBcCpCnXSSvOxOTeMrZTqG4f.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/hgf51lWkKYY5eeGne3gM2RzFK59.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286222.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -129671,6 +129693,8 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285764.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fpFZuhviZmvvXnR8yaTtigKnb4U.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/saWgitnp1fkvdkXTIXVcVG3Mj8H.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqGzLA7f25PSxVruft7wyc3NDU.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/272266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwcTUpTUjEemxvLZ34AObukh6n.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E02
@@ -131193,6 +131217,8 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285762.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285894.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLWaqhJFp0OYGBSbJXbV4fyMU6i.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E03
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gfWtRZmdZp2L5PHdIJ1pOK9tfA.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLDT28rK6YwWHwuIQAgEHfgMjEw.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/276968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAYmAPrr8WFUknwVvc2vVSliBtO.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E02
@@ -137217,6 +137243,10 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285659.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lnaPnNgtufzsNjX1V9MbcwlCIqd.jpg" group-title="→ SERIES DC ←",Linternas S01 E06
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/sZNpNcHcTSd9qRD1ig7EmO6SsZ8.jpg" group-title="→ SERIES DC ←",Linternas S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linternas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/wlAMmhDH2MjHpt6d3d4ymEvO3Hd.jpg" group-title="→ SERIES DC ←",Linternas S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286218.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/284892.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aquellos destinados a morir S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" group-title="→ SERIES DRAMA ←",Aquellos destinados a morir S01 E02
@@ -137871,6 +137901,50 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/285575.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285576.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Blacklist S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81U7sX0oDazy7IWeFv5nuO9Vm2g.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S04 E22
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIdVdAPGCLvhnVDbe1ZqMYJKMjI.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l4gspWxQlrmxjST5P3qcfdm5MY.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXpDIatLX1kWpWhbphNF461IkKX.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVe9MIuSGixp7I2y2iwVaRaEZrv.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr7r4GZUocPegqx5zHcMwv5RGgq.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcd3yF7M7zkrNbDpPkb5PQ2rz0.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnsc7eWwabhLaxVkpothQM8uNVs.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6iENt8j49FBRwWhIptGMogfQiz.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jjik2G1pP31blM2li6TKIM6yP0.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CkSTq5cZJtj0wwW89Ds0vGo3re.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lXCoLy8q2aB1hqmNos9dY1md0U.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbvoZCPHVyRAos3Cg6amXULhbQZ.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCSU9nyO2g0oABeT6L2AoxgEW7b.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CrfjSWJNXT51Qj2hHtgLjKUGvI.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYWS3GaHGGFdqXmnQ9dvluPol2i.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUX5ZXLwPF6A6vbWqUuiLCIZ5rJ.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRY8jp1Gk32WfpYkyGI2vTogJAi.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E17
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kqf8VRSJ0Ainn9FE7GDdLdRob8.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E18
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85eiRUzC3n763bGkZQRnv8IBzTJ.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E19
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2AMVnjWJwWhVdlUAsvobUnSaMI.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E20
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eojKsyHxxo2iNPTV2TZ9gZf8H4N.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E21
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPnpFUVkcR5LqdmatsjtjLzMokM.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S05 E22
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286204.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E01
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/285452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWSRDiaxtCuLjlsXAixDrF05c9A.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E02
@@ -138389,3 +138463,141 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/286041.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/286042.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Remi S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYsR7MZlLdsEC9raPt5Pnpf1yYi.jpg" group-title="→ SERIES ANIMADAS DEL RECUERDO ←",Remi S01 E51
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/286043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdxcESoccmgEooeidN21Iioe62l.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4CS8x5EGU9SfUGpqLkzNdhNoS8.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBwpy0876lXJDZB39DW7pqXeHJt.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSkSS8Z8XCAfwJxl22VKuSDdmGo.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9OrQpANymuHiihZtClHPSoTCj.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9EzMbGFvdPrwdilFpick0DUJq3.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2TdkLmUffIgsqe7eZbwCdSZ0fe.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prefiero la muerte S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWW4gx97UUP4OPJyJDbYlRhlkfH.jpg" group-title="→ SERIES COMEDIA ←",Prefiero la muerte S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM6xjNJcswdBqpAO6ctQaSiflZk.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33U6TWpVIuGIpR8gLAf0R8QTe2M.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzvgK3pOYtsOaw5NW03XsePQG7k.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XJJVrpWXw90NnsYP6T7Z4G5OJO.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrncNdrN1iKtDpv9jLg24Ccy4O.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc51kOwtiFCHapbSSOIdoCBngzn.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvSjWShUG1PlkvzkiaVVB1CDwRd.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aGip82ZXopdkey959Ay10n16gn.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UGvHIPPwGOZloUyfMtXNvtqc1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIT8wp28ysLdOLlsymkjNSecUwF.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E14
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E15
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E16
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E17
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E18
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E19
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E20
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coven Academy: El Secreto de las Brujas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d61XSo2lQN18OYQ2HTautxSkSW1.jpg" group-title="→ SERIES MISTERIO ←",Coven Academy: El Secreto de las Brujas S01 E21
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7jZsND51grOCtkXMiLvyNR1Ue6.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OakXwrVcz9EfA9O0wSW6BGjf83.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yMl70GufDi19y69fEdYKfKo7wN.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NPEWtVHa0YqdFL8rFt75RKZQm1.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eoSmnHUiEkConnsbimZPbfhGba.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Superficie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTwvypom5WQB6yKO9DbJkz2rs0N.jpg" group-title="→ SERIES MISTERIO ←",Bajo la Superficie S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6K86iDYMr8G0xQC5OxDHi34OWo.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BAJUukstdRp5JdJL4KgB1oFXEj.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCayKt9PSctLY3Oo85nBvm1ibnq.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br1jADm12G7gdN9rSlj3dn0VB4i.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aosEmangiVoqjUIgCcTz8pEUFuS.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtBh6ZtP3LQL6iHAt3FpT2y0j2.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQRCwK89aL7C0qEfEGrpkqfB2as.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcCBQrz9zvQkaxlfFyClGGJGFEO.jpg" group-title="→ SERIES MISTERIO ←",Carrie S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqluf2nyWv2J1t0phYmXI9udmXk.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPQ3g2h14ryupG0M7xKADNBhQ4U.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz3tGge02mw7XT7WX0rvb8mJoaN.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysbZ2UnInSaNtGhivNZ0pMR9w5P.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/px6hdQwaWedIN25IzrY1RneQclt.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIV0u3Xq1S8JtwKFoFjFmWBAX5R.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54kGInWE0WnFM1Fj3ese6TA9RxY.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Círculo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59UHt6oSykamwv0YdbQtfjClimn.jpg" group-title="→ SERIES CRIMEN ←",El Círculo S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fEln7Xp26DXiuddBVb9diuFulJ.jpg" group-title="→ SERIES DRAMA ←",Aquel S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8gItmVRaX6ubHUST5rLjB39kle.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15SvsQc146hzybGvR4b4KLfBmvD.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gj2JlGZJqGhcGogXDVmB0YfgPk.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSODVIPNlSDRFZdjQFORyZo4zE9.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBYa55pGjM59fv659DV2i8U1KFr.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzrUSAQzCcD9nJXkpYNfNs3jjtF.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1MxNEH1jvLAiD9tnmiz9xQfIKH.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5JdRzsYpTJ70LDYcbp6Ukz8vgn.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5t95ObrkraFD6SjyXld6kNgy0l.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dNq5zF8oqNkv0zZSIr1fAvLG7d.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/286216.mkv
