@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Yo, Robot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV5K0s9stnKIoxERAONegjRHTKz.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Yo, Robot
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2012 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWE2GIrIqqf1OLV2Talxph11MC.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",2012 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Tormenta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Tormenta (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Masterplan (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLLvKhqTngUispTyDofvoEDKrxa.jpg" group-title="→ VOD ESTRENOS 2026 ←",Masterplan (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenzing: Conquistando el Everest (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg" group-title="→ VOD ESTRENOS 2026 ←",Tenzing: Conquistando el Everest (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy presenta: Hogar, dulce hogar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4yUl1kF9CvC5izhDAPEeBqrd9C.jpg" group-title="→ VOD ESTRENOS 2026 ←",Snoopy presenta: Hogar, dulce hogar (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cadaver de la novia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nf58Ni0DPP9KY5tEMo2lAyUIYU3.jpg" group-title="→ VOD FANTASÍA ←",El cadaver de la novia
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calor Mortal " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKPVrBoO8JBRH8vw1wVFX93iMS2.jpg" group-title="→ VOD ACCIÓN ←",Calor Mortal 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rescate suicida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VzpKL8v5vFQsf00CKJ0dTfimJ8.jpg" group-title="→ VOD WESTERN ←",Rescate suicida
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo los valientes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzMqa8qzcHg1qC1mAGttbwtiFui.jpg" group-title="→ VOD DRAMA ←",Solo los valientes
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tormenta acida " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF7uDFO5KSstsSKJfIOqcUoknn2.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Tormenta acida 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286223.mkv
 #EXTINF:-1 tvg-id="" tvg-name="13 Dias, 13 Noches (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS3UNEPpomerbjJZKdAf33X38Kc.jpg" group-title=" → VOD ESTRENOS 2025 ←",13 Dias, 13 Noches (2025)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286206.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Matchbox: La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg" group-title="→ VOD ESTRENOS 2026 ←",Matchbox: La película (2026)
@@ -182,7 +204,7 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2VzQmZufeY3BPH0zWtIyr07Z7w.jpg" group-title="→ VOD ESTRENOS 2026 ←",Avatar: Aang, El último Maestro Aire (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Evil Dead: En llamas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg" group-title="→ VOD ESTRENOS 2026 ←",Evil Dead: En llamas (2026)
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283645.mp4
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283645.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eliminar Amigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0a7YYs8V71EjdYxbG87vQRgKDX.jpg" group-title="→ VOD TERROR ←",Eliminar Amigo
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/283275.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ten cuidado a quien llamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r34HRvpgkuszOB2mLgd0iplZ7fC.jpg" group-title="→ VOD TERROR ←",Ten cuidado a quien llamas
@@ -2383,8 +2405,6 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268173.mp4
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kate " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="→ VOD ACCIÓN ←",Kate 
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heroes en el Infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzMqa8qzcHg1qC1mAGttbwtiFui.jpg" group-title="→ VOD DRAMA ←",Heroes en el Infierno
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Un Novato en Apuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UN0Bc7g3uQI2Ms0kvCPPEzyvnF.jpg" group-title="→ VOD COMEDIA ←",Un Novato en Apuros
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/268167.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Desnudo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV95cXcHhmuUAW8bjAayPynf7Lf.jpg" group-title="→ VOD COMEDIA ←",Desnudo 
@@ -4849,8 +4869,8 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75739.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75651.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024) CAM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yISZvHNKXs7vg9gFanOC7G4WU6X.jpg" group-title="→ VOD CAM 2025 ←",Bob Marley: One Love (2024) CAM
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Madame Web (2024) CAM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4gCwRJWKG7PnEVtCxgKymF9kKxO.jpg" group-title="→ VOD CAM 2025 ←",Madame Web (2024) CAM
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg" group-title="→ VOD CAM 2025 ←",Proyecto Fin del Mundo 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75612.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title=" → VOD ESTRENOS 2024 ←",Suncoast (2024)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/75608.mkv
 #EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" group-title="→ VOD ESTRENOS 2023 ←",65 (2023)
@@ -81179,6 +81199,8 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278455.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278587.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tulsa King S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/Oh98KtsKtLDMRELDCo8YS3VaQQ.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S03 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/dv1ugBImKdBFYAcp2GO7MNaSvyW.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286278.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/273881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E02
@@ -127423,6 +127445,30 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270177.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medusa S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siQbr9apeJObQNRKqo9Qqi4Xl2g.jpg" group-title="→ SERIES DRAMA ←",Medusa S01 E12
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xSkhUcHsdi6Lk7x2RXxDJQVF71.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLjyayLy0dtJNaOfNfPqK7eRb2S.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1y4KdbCVoyec3HZihPNJUSUxWr.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt2iSmHMxF8mmoyJhLF4fgdOZ8J.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3b9c1JLle7hFxI2jmqABC8ydzl.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XbQjBbUMnkHjF2wJUaSZO2VptM.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9AGlUVe5aB7nQpXNXbEAz16sVw.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K8AareAVBUOag3BpjkN0zgpwDo.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xERANlj0DzzB9zEiBIJQSZ6GZeF.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHxmyngtqA97EX1lHEKdUeAezZu.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GT8kHx8T3Z6jyX8SO83QADaVCy.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medusa S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB4INrINxuD7KrvKN1vWHaqZB5F.jpg" group-title="→ SERIES DRAMA ←",Medusa S02 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286276.mkv
 #EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S9RDiSixGe2miORi1fakQwZhjS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/270201.mp4
 #EXTINF:-1 tvg-id="" tvg-name="INVENCIBLE S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxbaf98mNpxyoZAiNmJo8vHoDD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",INVENCIBLE S01 E02
@@ -138601,3 +138647,135 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286214.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286215.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stuart no logra salvar el Universo S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dNq5zF8oqNkv0zZSIr1fAvLG7d.jpg" group-title="→ SERIES COMEDIA ←",Stuart no logra salvar el Universo S01 E10
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xxAiGiQVJqJtqSbdQIAGIFPIvSD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNV1OOF71fzTYand5duFx3uaWlE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy8LgZXwLhf2mAGv195RmXN7ViQ.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kpdRVYN2ITr0ZjddaPuE5CNL8I.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nOowa2Gup0smsGs7u8c7XNBAsI.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcqWetZNg2NkCQi7rgEVWcALxZ5.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyBJA9aaU8fXGOzc9X2IC2PeCxP.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DMrvs8LWHPqfBf2X54lzwImUu8.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEMqhY9IcPJ3cuCjHdJJoJKd9fF.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TuExgZJyraYpv7PnTnNasi32F.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmpuJhDIJFIFCzYj8YuNkxHb000.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtU1rKEQwQyiKf5nmPGBGMeDlwK.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZhsF62z1eKg7QCetQ5J6FYdDY6.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irV3yolWahrwCgw5f7RVllgxudN.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH0VpA8zVuoVHeLGKAo6zamc4NR.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZe8t2rU37lLe8xdRlkHIEUVjE.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtxOxkUOlK2kthjyqmPjMN0TLG8.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Arts S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXbwVezGGhL8QSXvN6NRezDagEf.jpg" group-title="→ SERIES COMEDIA ←",Hollywood Arts S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E01" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E02" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E03" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E04" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E05" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E06" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E07" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Socorro  S01 E08" tvg-logo="https://occ-0-2219-2218.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABVFIkNnDbM_r_pOi496JoWpA6SP3p3-MCYcxgmpWRHBmq2Pw_VD2ntnB9LS-s0nAQgRpViexYBcKIDFuK4m06cftNjTToSKLc28urRKLNwwba1tjoD3P9Y5dRQ.jpg?r=f51" group-title="→ SERIES MISTERIO ←",Socorro  S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndGKadK9nUP1dg39xk13rn5DdPu.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l40MHXPj2NHyNyaaVsL24p8Ihz.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81t0vps6KE8Ori2kS9XBUh3mwda.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sSkvzO13ZMi4BowsWVRqdhN4KH.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0H03Hb7zaKrWlNdNRk3k83PcZ0.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrUXm6jn338ltR2lQtBrRogqBX.jpg" group-title="→ SERIES MISTERIO ←",La Trampa S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detras de la Mascara: Aileen Wuornos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47rUHKiqy22z5MCf6VfdCp7UqA1.jpg" group-title="→ SERIES DOCUMENTALES ←",Detras de la Mascara: Aileen Wuornos S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detras de la Mascara: Aileen Wuornos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSB3tH0R7s48sa9tGnXTnUkgUaJ.jpg" group-title="→ SERIES DOCUMENTALES ←",Detras de la Mascara: Aileen Wuornos S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detras de la Mascara: Aileen Wuornos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkZ33T8MkTYGQ2PfJKbAyQhnv9o.jpg" group-title="→ SERIES DOCUMENTALES ←",Detras de la Mascara: Aileen Wuornos S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dA2K8rt6qwpeUmLYNPj8rP3zPqe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWz0iKyh1Vwp5sA3dzk4YsUUzr9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XMmJdJpZoTYFzSGJuHchWHLMDe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uQWnIEI5aWEhTs4lHXwz6kAhby.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ME8j4eEgyMI3e1UAJyeIWYeMI6.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJZDZyoGmBa3KyvKmS1DzhVZHjN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVfG5S92XCczQMUxT3OLpqrHZ6p.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DZlO1kzeyec2hKTUt5W4VvvC8w.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmpB2aONpMy7Fx3hlSaad9KBxEh.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTNoTutrXYnQWaOc91elXN6Unkk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSsqE1CS1PNs7rqUFM7djwomuPM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luK8z32y4M5pvu0h3t4fkdnnrYv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmIgvzjp6qjG3aca4z7SuIvgosq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM31g16AE4c6ZX7hqX1n7yIZvBY.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmRCt6FiAX4GI1CCPLGNwh1XkEd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1DOIw8w3UC0Um2om4MnbeXl2JS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XNQoqFXKNnukitwaHciq9nYthy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6j3C5UGYdvyYwwAI2i1VGHpsJz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nutaUdufcfvl3VFgFg04HDgnCZf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60XqaX2ZkwHuvXjV9FgNb0x7xX7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpmTwqN9YJrIBsaArQN3HcQy5dp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toNXVweOXoOiWKFWFfhIvQbMjjO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeM4BL6mjy1BuPJOx1ph43VM4kQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caMcqz2fxpKwAnOS3VwYPRT5L8f.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWNZnY4bhbBTEAvudCQXYH4biR1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DkGBgJ2BjpPW3diz4sUtGhkuBj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6EA9Z7UIeWatkJJMJYEx6OKwnG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCzcGsUzM9QwLHlHo0U9KPRu5Wh.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uGTk1CmxwzzQc0UyGaXCcIfhjm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E29
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vecinos Green S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7MWt82zyooDAJEzed9xf9Xx4lc.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Los vecinos Green S01 E30
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286311.mkv
