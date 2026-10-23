@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gremlins 2: La nueva generación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4AlCahUDHJItNutBGhAe48Vc.jpg" group-title="→ VOD AVENTURAS ←",Gremlins 2: La nueva generación
+http://23.153.217.158:8080/movie/62274407/X9UP4Hy5X65D/287660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hamnet (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Hamnet (2025)
 http://23.153.217.158:8080/movie/62274407/X9UP4Hy5X65D/287633.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ricky Ricon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnp39mPqGiPTP8jZmfaKrVfalMi.jpg" group-title="→ VOD COMEDIA ←",Ricky Ricon
@@ -34879,12 +34881,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Recuerdos Retro Radio TV ✪ | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Fin Del Mundo TV ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Radio Fin Del Mundo TV ✪ | CL
-https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek FAN ✪ | CL
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek ✪ | CL
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek Radio ✪ | CL
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Opinionsur Cine ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="→ GEO CHILE (REGIONAL) ←",Opinionsur Cine ✪ | CL
@@ -35625,7 +35623,7 @@ http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287579
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287580
 #EXTINF:-1 tvg-id="" tvg-name="ENT | VH1" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_vh1.png" group-title="→ MÚSICA ← ",ENT | VH1
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287581
-#EXTINF:-1 tvg-id="" tvg-name="MX || Teleritmo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjzC6ip0W5pkGXJieY93L8Qw3bFGYANvGepR8rGXFsPd-rsHkO&usqp=CAU" group-title="→ MÚSICA ← ",MX || Teleritmo
+#EXTINF:-1 tvg-id="" tvg-name="ENT | VH1 2" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_vh1.png" group-title="→ MÚSICA ← ",ENT | VH1 2
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287582
 #EXTINF:-1 tvg-id="" tvg-name="Music Choice Hip-Hop Classics" tvg-logo="http://213.145.87.11:90/Logos/musicchoice.png" group-title="→ MÚSICA ← ",Music Choice Hip-Hop Classics
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287583
@@ -35633,7 +35631,7 @@ http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287583
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287584
 #EXTINF:-1 tvg-id="" tvg-name="VEVO Hip-Hop" tvg-logo="https://i.pinimg.com/564x/d5/83/ac/d583acd5de958835f4d3f6f3512bad6c.jpg" group-title="→ MÚSICA ← ",VEVO Hip-Hop
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287585
-#EXTINF:-1 tvg-id="" tvg-name="ENT | Concert Channe FHD" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_concert_channel.png" group-title="→ MÚSICA ← ",ENT | Concert Channe FHD
+#EXTINF:-1 tvg-id="" tvg-name="ENT | TeleHit Musica" tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÚSICA ← ",ENT | TeleHit Musica
 http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/287586
 #EXTINF:-1 tvg-id="" tvg-name="Rewind  | CL" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="→ MÚSICA ← ",Rewind  | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
@@ -132599,6 +132597,10 @@ http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/281892.mkv
 http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/281893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/39qjTApZtWeCdSXct670mb2i1Rw.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E01
 http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/286044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQfp7uP5M6R7uxYErLD0sPvztWj.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E02
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni9rjBS4OknioqcvXmg74TN5bFD.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E03
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287659.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -137643,3 +137645,141 @@ http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287558.mkv
 http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="encuentros con extraterrestres realidad o ficcion S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itFZ3wgZH8pQvaYHdg1zKNXRSye.jpg" group-title="→ SERIES DOCUMENTALES ←",encuentros con extraterrestres realidad o ficcion S01 E07
 http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPPhhXyGckpmN1T8hGPBT8rW4cC.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E01
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKWvc2mPoeEdYQkMxGm9cogyBKA.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E02
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUSYVrjVJxmP0tiITd0dJpTJaMf.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E03
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz6cImScGBzh1vXZ21J8oyzo8b2.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E04
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLGuPKTH8qsgmFRg6aUhQoMQY4X.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E05
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8aLZX0YNcB2NTewjBxdBE79iJU.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E06
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5tOD8mWcSHQ4rGyvE0sUdsb0pV.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E07
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJlkFWxbGrvxBONmTxaZ7aYXk1h.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E08
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euoQ7PUQUkSItf6iyfFUqxIAsls.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E09
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSgSIapxYf8gn2HsPRQ0ySDPqb.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E10
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H6eY2Hva48thbTsvcw0NjsppnK.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E11
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNf2VQDo3YtmGFKgV1Z5yRQmur2.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E12
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrAgxjCEMeLy98KuPB9SadaRRo.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E13
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4gPr3e145xFS4zk7KPlICduROG.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E14
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IGeJ4qYBkSs9d3bvM7ZSzr9YW.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E15
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE9hDVfi8U0Ah5jjxKlbMJs6Tlh.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E16
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY8atqKvMPoFSfJplzsxknMmTzp.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E01
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91oyNYU4YySirJojEEEdVWxcUAM.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E02
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGfQPX15JR9rYa0ctg1nevj9mJo.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E03
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTziHNExVH1OnFX2Dc7NTu755sT.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E04
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbwqMGOh56lwAqB52PEjNVf1W1T.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E05
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/femoyNcUDFG1jCmMq7sucfIcrs2.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E06
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmtEwJXkoeG9lUtUn9A4ff3Nd8k.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E07
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9UOBV0CYO56q0j8Gm5cRO88p0P.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E08
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jywlRLjanh7Y3gIsOxvGTk8iJ2P.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E09
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wJKdGGWe4NbD1CbHD6mgzHCmQX.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E10
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/movFJrjuwjzZ13N2yjUFgoZ31p5.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E11
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0oaZIWvjYovTOXTZY9VKnmYXpB.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E12
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFcE134tzUBex3zQu0LXbvdjE6f.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E13
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GDmGl06dYG0Mwj9e1ZPgRY2I7t.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E14
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRAWY1yNzl1h9xuIkAXlHt994xL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E15
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LAD7wGFEiChWI2AGi43KlE5MX8.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E16
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqWkeMnVfFGF9gUVNpWo4Vdgvun.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E17
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLFFEMxMdOhXvqHp8CQaC3TLDBz.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E18
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3uhVwQcEl2cYhY8BsEoFrF0kxS.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E19
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r7AAfRdon9BaooNvsu44jVnLJW.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E20
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pS0hNW9Sux72lN65x3JNMnLGiL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E21
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgdIx3ZSULCdSIESmO3rmLgY14s.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E22
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWzdkqN9EVSNlfyHg0gogl4GNP.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E23
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzoafqte0TxOOCR2vVb6tMJee1d.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E24
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8geYuBno7NUrLAYBrYhyUuE0z5I.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E25
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHKYn6RXWj6sJ5IVcaBzkOdXl0W.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E26
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTjWKcO82SG6pyYsRJWFGaH0Qfr.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E27
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHegq1aH7NSVyrZEnqOFXLT63t.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E28
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRlZBwboSg6Fu0ioVLceSInCPii.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E29
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWStfRdMF7jIWObMwvoK0Pc056V.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E30
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/st2brSVL1cOxR9HhacFoede3k7H.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E31
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukm9D3ZfGQ3f1HeZAWhxA3EdvJ2.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E32
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa05gbHwXtqefNO8prWxNikNQeL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E33
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nqFo4Pa29juO9nOWXuRlVCe96x.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E34
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GfIDJi5dkJquVDgK2R2wL37UGf.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E35
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytgrCFEQo3cnX2GqHkCnPDLb0sk.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E36
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO0za8Fg5jve1BlQtAuWT0QTdDl.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E37
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SOueG3EYDgKcCaRoYUlFdGBJOE.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E38
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zA6WiPfA1iDptvdFVTgQtFgZ3jH.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E39
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPm57UoXmsiFjxOOeQEOGTKcbXZ.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E40
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vca8m5gJeU2cyRrKmgZmmvFyfi.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E01
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBzB6j9oyGkH6yTby4uyNrTtiuC.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E02
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwo89lMIE2mCrxCpbdrtvvgG5Ia.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E03
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZJ1LVUiVHs5qG943i5C80eaihP.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E04
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFeCj7tTvYt2X0eGRXP6lmsNRw3.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E05
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecstsGOTzZ4G1hDED79CoVnUH8V.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E06
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIuKGzOrwpmWIi6Q7IGvh4r57HT.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E07
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtb5qkDt8HMK2QDGYfaJBmV6MLR.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E08
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ4vEkWJiGF79eaXSLwno2peuOt.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E09
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYiZDaqAceLW0E5KTAmRMv4xSo6.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E10
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCUtAUtoOAAp6yWVUoKoDhExLOP.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E11
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Canh3YYjvJ6IN9hKhtC99OXGmB.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E12
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1NVDQvRsKhF79YWpewKi8NKSCo.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E13
+http://23.153.217.158:8080/series/62274407/X9UP4Hy5X65D/287713.mkv
