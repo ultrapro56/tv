@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gremlins 2: La nueva generación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4AlCahUDHJItNutBGhAe48Vc.jpg" group-title="→ VOD AVENTURAS ←",Gremlins 2: La nueva generación
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/287660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hamnet (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Hamnet (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/287633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Ricon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnp39mPqGiPTP8jZmfaKrVfalMi.jpg" group-title="→ VOD COMEDIA ←",Ricky Ricon
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/287624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Expedientes X: La película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/petUmvnTv5gIPJtZm2RnJGBJfV4.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Los Expedientes X: La película
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/287623.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yo, Robot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV5K0s9stnKIoxERAONegjRHTKz.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Yo, Robot
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/286312.mkv
 #EXTINF:-1 tvg-id="" tvg-name="2012 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWE2GIrIqqf1OLV2Talxph11MC.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",2012 
@@ -5955,8 +5963,6 @@ http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/1786.mkv
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/1787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fierce (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYZafUrWu2Oj6gOMa4b6mzg0blp.jpg" group-title="→ VOD ESTRENOS 2020 ←",Fierce (2020)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/1788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jiu Jitsu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg" group-title="→ VOD ESTRENOS 2020 ←",Jiu Jitsu (2020)
-http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/1789.mkv
 #EXTINF:-1 tvg-id="" tvg-name="JL Family Ranch: El regalo de bodas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TMsoF6mSUSaQUtcdA7UUAIbQIW.jpg" group-title="→ VOD ESTRENOS 2020 ←",JL Family Ranch: El regalo de bodas (2020)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/1790.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ritmo de la Selva: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6IjiO9J0QtbN6O5VCwhCXxlR01.jpg" group-title="→ VOD ESTRENOS 2020 ←",El Ritmo de la Selva: La película (2020)
@@ -18748,7 +18754,7 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/273
 #EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »3«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="→ PERÚ ←",PE• PANAMERICANA (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/291
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »1«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »1«
-http://23.153.217.158:8080/935917692tv/a4gqcz4/267
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »3«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »3«
 http://23.153.217.158:8080/935917692tv/a4gqcz4/269
 #EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »4«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="→ PERÚ ←",PE• LATINA TV (HD) »4«
@@ -19939,64 +19945,6 @@ http://23.153.217.158:8080/935917692tv/a4gqcz4/23063
 http://23.153.217.158:8080/935917692tv/a4gqcz4/23064
 #EXTINF:-1 tvg-id="" tvg-name="Galavision San Francisco (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←",Galavision San Francisco (us_lat)
 http://23.153.217.158:8080/935917692tv/a4gqcz4/23065
-#EXTINF:-1 tvg-id="" tvg-name="retro" tvg-logo="" group-title="→ MÚSICA ← ",retro
-http://23.153.217.158:8080/935917692tv/a4gqcz4/14310
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '70s" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo '70s
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47247
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo '80s
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47248
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo '90s
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47249
-#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo 2K
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47250
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Country" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo Country
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47251
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Latino" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo Latino
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47252
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo Pop
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47253
-#EXTINF:-1 tvg-id="" tvg-name="Vevo R&B" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo R&B
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47254
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ← ",Vevo Reggaetón & Trap
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47255
-#EXTINF:-1 tvg-id="" tvg-name="US | BET" tvg-logo="http://51.222.43.170:36995/images/82a314b708652ce01d2b5916ffcee75a.png" group-title="→ MÚSICA ← ",US | BET
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47256
-#EXTINF:-1 tvg-id="" tvg-name="US | BET Her" tvg-logo="http://51.222.43.170:36995/images/5875c143144283b8794f1c50931c666f.png" group-title="→ MÚSICA ← ",US | BET Her
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47257
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV" tvg-logo="http://51.222.43.170:8001/images/af5e50b40cca424d0b7a94dd1396e765.png" group-title="→ MÚSICA ← ",US | MTV
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47258
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV 2" tvg-logo="http://51.222.43.170:8001/images/60d49b81612a945497688bed45f1a567.png" group-title="→ MÚSICA ← ",US | MTV 2
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47259
-#EXTINF:-1 tvg-id="" tvg-name="US | Mtv Live" tvg-logo="http://51.222.43.170:36995/images/1d5288594747ab7bc87ae79442422726.png" group-title="→ MÚSICA ← ",US | Mtv Live
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47260
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV 80´s" tvg-logo="https://yt3.ggpht.com/qP3S5XaYrI9GmUqwiabT3ETLBYIqalIb2QaZ7d5Z7cDCMuB1tIQhqF2nK9CsL3OHK4ogzi8LUQ=s900-c-k-c0x00ffffff-no-rj" group-title="→ MÚSICA ← ",US | MTV 80´s
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47261
-#EXTINF:-1 tvg-id="" tvg-name="US | VH1" tvg-logo="http://51.222.43.170:36995/images/f206137df2297b6ac4aa1bbc3792068e.png" group-title="→ MÚSICA ← ",US | VH1
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47262
-#EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax" tvg-logo="http://51.222.43.170:8001/images/cdffee5bd2dec34279b05391fb6a4e7e.png" group-title="→ MÚSICA ← ",MX | Bandamax
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47263
-#EXTINF:-1 tvg-id="" tvg-name="MX | MTV" tvg-logo="http://51.222.43.170:36995/images/af5e50b40cca424d0b7a94dd1396e765.png" group-title="→ MÚSICA ← ",MX | MTV
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47264
-#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Live" tvg-logo="http://51.222.43.170:8001/images/1d5288594747ab7bc87ae79442422726.png" group-title="→ MÚSICA ← ",MX | MTV Live
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47265
-#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Hits" tvg-logo="http://51.222.43.170:36995/images/edcea732d2d2b21734c42162e7ecb152.png" group-title="→ MÚSICA ← ",MX | MTV Hits
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Classics" tvg-logo="http://51.222.43.170:36995/images/1a6b08b672357c90d94036cf9d3a3bee.png" group-title="→ MÚSICA ← ",MX | MTV Classics
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47267
-#EXTINF:-1 tvg-id="" tvg-name="MX | Telehit" tvg-logo="http://51.222.43.170:36995/images/5825f3b2cd0eedb0fc8ff03f93d58143.jpg" group-title="→ MÚSICA ← ",MX | Telehit
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47268
-#EXTINF:-1 tvg-id="" tvg-name="MX | Telehit Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlTavOHhIWYulRIU5hAchLOgSKXSHuEeK5URGF5qCJoehVcgf&s" group-title="→ MÚSICA ← ",MX | Telehit Musica
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47269
-#EXTINF:-1 tvg-id="" tvg-name="MX | Concert Channel" tvg-logo="http://51.222.43.170:8001/images/ec9fea4dc767664e26d9e19193605853.png" group-title="→ MÚSICA ← ",MX | Concert Channel
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47270
-#EXTINF:-1 tvg-id="" tvg-name="MX | VH1" tvg-logo="http://51.222.43.170:36995/images/f206137df2297b6ac4aa1bbc3792068e.png" group-title="→ MÚSICA ← ",MX | VH1
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47271
-#EXTINF:-1 tvg-id="" tvg-name="MX | VH1 Classics" tvg-logo="http://51.222.43.170:36995/images/3d7341a927bee12b184c9e54e8b000e9.png" group-title="→ MÚSICA ← ",MX | VH1 Classics
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47272
-#EXTINF:-1 tvg-id="" tvg-name="Baneador TV" tvg-logo="http://51.222.43.170:36995/images/201b2dda22b9e2e5655891c933b5600a.png" group-title="→ MÚSICA ← ",Baneador TV
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47273
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV Classics" tvg-logo="http://51.222.43.170:8001/images/6e4d0275afb3b6a807270bfc6e6ee916.jpg" group-title="→ MÚSICA ← ",US | MTV Classics
-http://23.153.217.158:8080/935917692tv/a4gqcz4/47274
 #EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:ESPN+" tvg-logo="https://static.epg.best/mx/ESPNplus.mx.png" group-title="→ ARGENTINA ←",*ARG_HD:ESPN+
 http://23.153.217.158:8080/935917692tv/a4gqcz4/15262
 #EXTINF:-1 tvg-id="" tvg-name="Argentina - 13 Max HD" tvg-logo="https://i.ytimg.com/vi/2MFLdAw56JM/hqdefault.jpg" group-title="→ ARGENTINA ←",Argentina - 13 Max HD
@@ -26249,10 +26197,6 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-name="RED BULL TV DASH" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png" group-title="→ DEPORTES LATINOS ←",RED BULL TV DASH
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOW 80" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="→ MÚSICA ← ",NOW 80
-https://bit.ly/42sWhyD?/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOW ROCK" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png" group-title="→ MÚSICA ← ",NOW ROCK
-https://bit.ly/3B1M54o?/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarity TV 4K" tvg-logo="https://pictr.com/images/2023/05/26/EMkiKU.png" group-title="→ USA ←",Clarity TV 4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png" group-title="→ USA ←",Love Nature 4K
@@ -34937,12 +34881,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Recuerdos Retro Radio TV ✪ | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Fin Del Mundo TV ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Radio Fin Del Mundo TV ✪ | CL
-https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek FAN ✪ | CL
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek ✪ | CL
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="→ GEO CHILE (REGIONAL) ←",EnerGeek Radio ✪ | CL
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Opinionsur Cine ✪ | CL" tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="→ GEO CHILE (REGIONAL) ←",Opinionsur Cine ✪ | CL
@@ -35667,6 +35607,52 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Top TV | BR" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="→ GEO CHILE (REGIONAL) ←",Top TV | BR
 https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="ENT | HTV" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_htv.png" group-title="→ MÚSICA ← ",ENT | HTV
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287574
+#EXTINF:-1 tvg-id="" tvg-name="SD | Bandamax" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYabdMuoeZ0-nFUIjoUmULAOyCxF-DYqsL9ie8iHjTFV2oVuIQd5HNs70gMwOU-y_I.png" group-title="→ MÚSICA ← ",SD | Bandamax
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287575
+#EXTINF:-1 tvg-id="" tvg-name="BR | BIS HD" tvg-logo="" group-title="→ MÚSICA ← ",BR | BIS HD
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287576
+#EXTINF:-1 tvg-id="" tvg-name="ARG_HD:MTV" tvg-logo="" group-title="→ MÚSICA ← ",ARG_HD:MTV
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287577
+#EXTINF:-1 tvg-id="" tvg-name="ARG_HD:MTV 00s" tvg-logo="" group-title="→ MÚSICA ← ",ARG_HD:MTV 00s
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287578
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Classic HD" tvg-logo="http://209.126.82.213/MX/mtvclassic_mx.png" group-title="→ MÚSICA ← ",MX | MTV Classic HD
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287579
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Live" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBi6bZ_B0sdrpUGR9BJdTBXiGMf8BTwriubAKlfupIHZmahlrmdubmeedsAIxpE5Uek.png" group-title="→ MÚSICA ← ",MX | MTV Live
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287580
+#EXTINF:-1 tvg-id="" tvg-name="ENT | VH1" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_vh1.png" group-title="→ MÚSICA ← ",ENT | VH1
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287581
+#EXTINF:-1 tvg-id="" tvg-name="ENT | VH1 2" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_vh1.png" group-title="→ MÚSICA ← ",ENT | VH1 2
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287582
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice Hip-Hop Classics" tvg-logo="http://213.145.87.11:90/Logos/musicchoice.png" group-title="→ MÚSICA ← ",Music Choice Hip-Hop Classics
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287583
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Latin Pop" tvg-logo="https://i.pinimg.com/564x/d5/83/ac/d583acd5de958835f4d3f6f3512bad6c.jpg" group-title="→ MÚSICA ← ",VEVO Latin Pop
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287584
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Hip-Hop" tvg-logo="https://i.pinimg.com/564x/d5/83/ac/d583acd5de958835f4d3f6f3512bad6c.jpg" group-title="→ MÚSICA ← ",VEVO Hip-Hop
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287585
+#EXTINF:-1 tvg-id="" tvg-name="ENT | TeleHit Musica" tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÚSICA ← ",ENT | TeleHit Musica
+http://23.153.217.158:8080/935917692tv/a4gqcz4/287586
+#EXTINF:-1 tvg-id="" tvg-name="Rewind  | CL" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="→ MÚSICA ← ",Rewind  | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV | CL" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="→ MÚSICA ← ",Retro Plus TV | CL
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2 | CL" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="→ MÚSICA ← ",Retro Plus TV Señal 2 | CL
+https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV | CL" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="→ MÚSICA ← ",VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical | CL" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="→ MÚSICA ← ",VClassicTV Tropical | CL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro TV | CL" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="→ MÚSICA ← ",Recuerdos Retro TV | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Music PUQ | CL" tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="→ MÚSICA ← ",Music PUQ | CL
+https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TeleZeta Tropical | CL" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png" group-title="→ MÚSICA ← ",TeleZeta Tropical | CL
+https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="M Music. TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" group-title="→ MÚSICA ← ",M Music. TV | CL
+https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Nina. TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" group-title="→ MÚSICA ← ",Nina. TV | CL
+https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/935917692tv/a4gqcz4/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -64747,6 +64733,22 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278377.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278378.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La lista final S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkEaP6MzheZndrdBYS8gxKym23x.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S01 E08
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/278379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la4SHCxng0nXytEEbEm51oy1jqT.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugOz3QTseoMftDsAMVoq14yxmGp.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46griO1ASjJY8unCCQYdEQrRBtS.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w7H9uOGw0WSQ7NA72g5k1VnbZq.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRKkbjZwxp1YOJxdYXcg9lLs9XC.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zv19daiVRxxeBiMEEePl2PWw9hJ.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI18oAQc8ZyWEexkzJMqPzwJxqr.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG1TTLBTTveYbc2mnPbhIAvwtGe.jpg" group-title="→ SERIES ACCIÓN ←",La lista final S02 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El General Naranjo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEy2KooH6wzWTfyqf5coLJxlW1h.jpg" group-title="→ SERIES CRIMEN ←",El General Naranjo S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/30993.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El General Naranjo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsemWXjAsSPkYASjlIoTNP5awW4.jpg" group-title="→ SERIES CRIMEN ←",El General Naranjo S01 E02
@@ -130493,6 +130495,58 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/277533.mp4
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/277534.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9inOYUdqx7OQtPvxkpdQXuiIYc.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S02 E31
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/277535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLsJg0ddty9wdErvb4EnCWcDunm.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYmwRwHFy47KmtMxPD1gK8Sx3cz.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NUHz94RVQw6dhkCaLSEmqNFfF5.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zhsXSSzfrxpyFqN7G2jr6v3wRG.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MHlWrRZrrc1Uv46TKJ21Go0Ber.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUYUua2oN6CtkOlZCIxQeOc6CRR.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmfkWMcxoFh6cRiYBKo1b98BvwE.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYdo4DSX1y0D15TyTBCzymImPY3.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRKfcIA2Q2UKgyF6MW187Cfm0LG.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN5TUgXX0ATJ73S3MzmIKEyvCpi.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgEQbLWTy0XrFDlpamZAPO1yeLf.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tc2MtUBpzRIColv2h79rjmo5nkJ.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNkmDUw9fux4Rll9U49nTcIKFSL.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bg48CQijprc4ItIQKUw0or7UKn.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iatc8vgBYgXihWaejwdodKVmBaG.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiAS2oNSJVj2rBLTVZjWzrriFX4.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EHkV1CEd8GHRzpL7lyXibnnC7i.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i82A8VWZZLCbYzzeWcLtwkaBVm6.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfzkWFTKLxk81pTwH0tpjQfoqtf.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhVwHEZ0TYu4BcSRkYySgef4Dym.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amUdr9dwvvIed1lIQ58hCSXLuhT.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFvIj5L9VRruCZYh3BAZkHpSIzh.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfwZWUxWKEW70IeNxEshYCq2hIT.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aalA86JUcnWVk3HLVcQydZTQKkA.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kaA9KaOkwmlrqWM6OJrYv9lBQx.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoIobaavqKmVuoFX0v7IqKbr5tr.jpg" group-title="→ SERIES RETRO ←",Mi Bella Genio S03 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Gigantes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fkrWrXXvRwmoL35u9B3Jz8UFsT.jpg" group-title="→ SERIES RETRO ←",Tierra de Gigantes S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/277597.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Gigantes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4NswkSg51HKiIlR5e5GAdEJNBc.jpg" group-title="→ SERIES RETRO ←",Tierra de Gigantes S01 E02
@@ -132543,6 +132597,10 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281892.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/281893.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/39qjTApZtWeCdSXct670mb2i1Rw.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/286044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQfp7uP5M6R7uxYErLD0sPvztWj.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni9rjBS4OknioqcvXmg74TN5bFD.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287659.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -137587,3 +137645,141 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287558.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="encuentros con extraterrestres realidad o ficcion S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itFZ3wgZH8pQvaYHdg1zKNXRSye.jpg" group-title="→ SERIES DOCUMENTALES ←",encuentros con extraterrestres realidad o ficcion S01 E07
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPPhhXyGckpmN1T8hGPBT8rW4cC.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKWvc2mPoeEdYQkMxGm9cogyBKA.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUSYVrjVJxmP0tiITd0dJpTJaMf.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz6cImScGBzh1vXZ21J8oyzo8b2.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLGuPKTH8qsgmFRg6aUhQoMQY4X.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8aLZX0YNcB2NTewjBxdBE79iJU.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5tOD8mWcSHQ4rGyvE0sUdsb0pV.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJlkFWxbGrvxBONmTxaZ7aYXk1h.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euoQ7PUQUkSItf6iyfFUqxIAsls.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSgSIapxYf8gn2HsPRQ0ySDPqb.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H6eY2Hva48thbTsvcw0NjsppnK.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNf2VQDo3YtmGFKgV1Z5yRQmur2.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrAgxjCEMeLy98KuPB9SadaRRo.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4gPr3e145xFS4zk7KPlICduROG.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IGeJ4qYBkSs9d3bvM7ZSzr9YW.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La infiltrada Srta. Hong S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE9hDVfi8U0Ah5jjxKlbMJs6Tlh.jpg" group-title="→ DORAMAS ←",La infiltrada Srta. Hong S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY8atqKvMPoFSfJplzsxknMmTzp.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91oyNYU4YySirJojEEEdVWxcUAM.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGfQPX15JR9rYa0ctg1nevj9mJo.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTziHNExVH1OnFX2Dc7NTu755sT.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbwqMGOh56lwAqB52PEjNVf1W1T.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/femoyNcUDFG1jCmMq7sucfIcrs2.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmtEwJXkoeG9lUtUn9A4ff3Nd8k.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9UOBV0CYO56q0j8Gm5cRO88p0P.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jywlRLjanh7Y3gIsOxvGTk8iJ2P.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wJKdGGWe4NbD1CbHD6mgzHCmQX.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/movFJrjuwjzZ13N2yjUFgoZ31p5.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0oaZIWvjYovTOXTZY9VKnmYXpB.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFcE134tzUBex3zQu0LXbvdjE6f.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GDmGl06dYG0Mwj9e1ZPgRY2I7t.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRAWY1yNzl1h9xuIkAXlHt994xL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LAD7wGFEiChWI2AGi43KlE5MX8.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqWkeMnVfFGF9gUVNpWo4Vdgvun.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLFFEMxMdOhXvqHp8CQaC3TLDBz.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3uhVwQcEl2cYhY8BsEoFrF0kxS.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r7AAfRdon9BaooNvsu44jVnLJW.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E20
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pS0hNW9Sux72lN65x3JNMnLGiL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E21
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgdIx3ZSULCdSIESmO3rmLgY14s.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E22
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWzdkqN9EVSNlfyHg0gogl4GNP.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E23
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzoafqte0TxOOCR2vVb6tMJee1d.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E24
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8geYuBno7NUrLAYBrYhyUuE0z5I.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E25
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHKYn6RXWj6sJ5IVcaBzkOdXl0W.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E26
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTjWKcO82SG6pyYsRJWFGaH0Qfr.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E27
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHegq1aH7NSVyrZEnqOFXLT63t.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E28
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRlZBwboSg6Fu0ioVLceSInCPii.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E29
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWStfRdMF7jIWObMwvoK0Pc056V.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E30
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/st2brSVL1cOxR9HhacFoede3k7H.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E31
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukm9D3ZfGQ3f1HeZAWhxA3EdvJ2.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E32
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa05gbHwXtqefNO8prWxNikNQeL.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E33
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nqFo4Pa29juO9nOWXuRlVCe96x.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E34
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GfIDJi5dkJquVDgK2R2wL37UGf.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E35
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytgrCFEQo3cnX2GqHkCnPDLb0sk.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E36
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO0za8Fg5jve1BlQtAuWT0QTdDl.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E37
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SOueG3EYDgKcCaRoYUlFdGBJOE.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E38
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zA6WiPfA1iDptvdFVTgQtFgZ3jH.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E39
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPm57UoXmsiFjxOOeQEOGTKcbXZ.jpg" group-title="→ SERIES INFANTILES ←",Los Pitufos S01 E40
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vca8m5gJeU2cyRrKmgZmmvFyfi.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBzB6j9oyGkH6yTby4uyNrTtiuC.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwo89lMIE2mCrxCpbdrtvvgG5Ia.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZJ1LVUiVHs5qG943i5C80eaihP.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFeCj7tTvYt2X0eGRXP6lmsNRw3.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecstsGOTzZ4G1hDED79CoVnUH8V.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIuKGzOrwpmWIi6Q7IGvh4r57HT.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtb5qkDt8HMK2QDGYfaJBmV6MLR.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ4vEkWJiGF79eaXSLwno2peuOt.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYiZDaqAceLW0E5KTAmRMv4xSo6.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCUtAUtoOAAp6yWVUoKoDhExLOP.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Canh3YYjvJ6IN9hKhtC99OXGmB.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1NVDQvRsKhF79YWpewKi8NKSCo.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/287713.mkv
