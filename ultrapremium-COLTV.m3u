@@ -19,15 +19,17 @@ http://181.78.79.131:8000/play/a0sc
 http://fivetv.org:25461/JoseIzquie0404/7456343/186534
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN INTERNACIONAL (HD)" tvg-logo="https://i.postimg.cc/KjMXVJwS/Nuestra-Tele-Internacional2019.png" group-title="CANALES",COL• RCN INTERNACIONAL (HD)
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/347
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/347
 
 #EXTINF:0 group-title="CANALES",RCN Novelas
 #EXTGRP:CANALES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sk
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | CABLENOTICIAS" tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="CANALES",COL | CABLENOTICIAS
-http://fivetv.org:25461/JoseIzquie0404/7456343/187003
+#EXTINF:0 group-title="CANALES",CABLE NOTICIAS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="CANALES",COL | CANAL UNO
 http://fivetv.org:25461/JoseIzquie0404/7456343/173269
@@ -46,7 +48,7 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="CANALES",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/680
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/680
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="CANALES",COL | TELEANTIOQUIA
 http://fivetv.org:25461/JoseIzquie0404/7456343/186536
@@ -74,91 +76,91 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/187006
 http://fivetv.org:25461/JoseIzquie0404/7456343/187030
 
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="CANALES",ENT| Pasiones
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/590
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/590
 #EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="CANALES",ENT| El GOURMET
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/596
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/596
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="CANALES",ENT| Telemundo Internacional
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/604
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/604
 
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »1«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="CANALES",INF• DISCOVERY KIDS (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/376
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/376
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »2«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="CANALES",INF• DISCOVERY KIDS (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/377
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/377
 #EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »1«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="CANALES",INF• NICK JR. (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/393
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/393
 #EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »2«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="CANALES",INF• NICK JR. (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/394
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/394
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »1«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="CANALES",INF• DISNEY JR (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/385
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/385
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »2«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="CANALES",INF• DISNEY JR (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/386
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/386
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »1«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="CANALES",INF• CARTOONITO (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/61600
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/61600
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="CANALES",CUL• EL GOURMET (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/427
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/427
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CANALES",CUL• TLC (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/448
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/448
 #EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »1«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="CANALES",CUL• ANIMAL PLANET (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/402
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/402
 #EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="CANALES",CUL• HISTORY CHANNEL (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/431
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/431
 #EXTINF:-1 tvg-id="" tvg-name="CUL• H2 (HD) »1«" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="CANALES",CUL• H2 (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/429
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/429
 #EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »1«" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="CANALES",CUL• NAT GEO (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/440
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/440
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="CANALES",CUL• DISCOVERY CHANNEL (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/406
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/406
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="CANALES",CUL• DISCOVERY TURBO (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/420
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/420
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="CANALES",CUL• DISCOVERY WORLD (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/423
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/423
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="CANALES",CUL• DISCOVERY INVESTIGATION (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/437
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/437
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="CANALES",CUL• DISCOVERY SCIENCE (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/414
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/414
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »1«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/359
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/359
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »3«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="CANALES",COL• WIN SPORTS+ (HD) »3«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/361
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/361
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="CANALES",WIN SPORTS +
 http://fivetv.org:25461/JoseIzquie0404/7456343/92646
 
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="CANALES",COL• WIN SPORTS (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/362
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/362
 #EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »6«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="CANALES",COL• WIN SPORTS (HD) »6«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/367
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/367
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://i.ibb.co/SxSKDkc/WINS-SPORTS.jpg" group-title="CANALES",WIN SPORTS
 http://fivetv.org:25461/JoseIzquie0404/7456343/92645
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES",DEP• DIRECTV SPORTS AR (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/480
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/480
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="CANALES",DEP• DIRECTV SPORTS 2 AR (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/473
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/473
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="CANALES",DEP• DIRECTV SPORTS+ AR (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/466
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/466
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »1«" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="CANALES",DEP• DIRECTV SPORTS+ CL (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/472
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/472
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN AR (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CANALES",DEP• ESPN AR (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/518
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/518
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 AR (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="CANALES",DEP• ESPN 2 AR (HD) »2«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/507
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/507
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="CANALES",DEP• ESPN 3 MX (HD)
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/511
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/511
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="CANALES",DEP• ESPN 4 LAT (HD)
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/517
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/517
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 5 (HD) »1«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="CANALES",DEP• ESPN 5 (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/526
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/526
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 6 (HD) »1«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="CANALES",DEP• ESPN 6 (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/539
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/539
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 7 (HD) »1«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="CANALES",DEP• ESPN 7 (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/453
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/530
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="CANALES",DEP• ESPN PREMIUM (HD) »3«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/544
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/544
 
 #EXTINF:-1 tvg-id="" tvg-name="TENIS• CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="CANALES",TENIS• CHANNEL (HD) »1«
-http://23.153.217.158:8080/24114Propio@Reseam/CHUPACULIAO**/57053
+http://23.153.217.158:8080/62274407/X9UP4Hy5X65D/57053
 
 
 
