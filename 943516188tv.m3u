@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Papi Ricky: La Película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg" group-title="→ VOD ESTRENOS 2026 ←",Papi Ricky: La Película (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Codigo: Venganza (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHPYm59D7kF8yQr03hewusoyNET.jpg" group-title="→ VOD ESTRENOS 2026 ←",Codigo: Venganza (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bola negra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg" group-title="→ VOD ESTRENOS 2026 ←",La bola negra (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gremlins 2: La nueva generación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4AlCahUDHJItNutBGhAe48Vc.jpg" group-title="→ VOD AVENTURAS ←",Gremlins 2: La nueva generación
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hamnet (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg" group-title=" → VOD ESTRENOS 2025 ←",Hamnet (2025)
@@ -53178,25 +53184,25 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/234292.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Channel Zero S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2KjZsB3TiRgSLNFsLS13ZQrpKi.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Channel Zero S04 E06
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/234293.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydfBQIzGBsyQAEI3E4oSuoosHTL.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240219.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287730.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4Lht6OthyW6PdsPmEeC9ffhq75.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240220.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287731.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rE7YHQq90BGMb3hFO4ekPAiw3gL.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240221.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xciaJwTC6sW9jyupylRAStfPTZT.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E04
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44MLNt8OaYjgtujzRdR6ZodyfZC.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E05
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240223.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KC0TO0Q3fTpkm5bjS5C3GZSA1S.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287734.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xj1oWg80sU2PwUoa2kNg5LnpBL.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E06
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240224.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287735.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2liGoYZFPnbp3OgfsPwBO4uGBv.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E07
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240225.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loxYdKBZyFAjIaSQypI0NGfaX0.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E08
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240226.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287737.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1Cg5SiBrwnjIRT3UPUXgKhVP9W.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E09
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240227.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chapelwaite S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LWss4zSQ3AvVTXJntcNNvYLlq4.jpg" group-title="→ SERIES TERROR-THRILLER-SUSPENSO ←",Chapelwaite S01 E10
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/240228.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287739.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chapulín Colorado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifWSQQ60YEp0FQX5KKcegBunfjG.jpg" group-title="→ SERIES RETRO ←",El Chapulín Colorado S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/254790.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Chapulín Colorado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eph9tpOOKIdzxPUTL6YSKglmDtC.jpg" group-title="→ SERIES RETRO ←",El Chapulín Colorado S01 E02
@@ -137431,6 +137437,8 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/286215.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286216.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xxAiGiQVJqJtqSbdQIAGIFPIvSD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9R8Y054E9rede6q7t4coUuIzwCv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287729.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNV1OOF71fzTYand5duFx3uaWlE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E02
@@ -137783,3 +137791,33 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/287711.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1NVDQvRsKhF79YWpewKi8NKSCo.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S01 E13
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl4saxox0m3oYvyWWseXYjK49tk.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGLGe91Ba3D5f32mmxGJS17ZQUY.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svRNvngJOtlo4bPMDuP3QSeR3TB.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/G39iIGIAkB5War5nAm5GPuLc1X.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCimkS0lX54b8tuxohyHrO9hG5Y.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBEfNbe6eMpgbUQvPxzJ4AUSrMu.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipZ0BxGdcYQ1m0YMwg6GBXtSfDk.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDtbNensaFfHyCezL4Ieu2lRYC6.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8nBr8f515k1m3K7iq6wPHETneA.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E09
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAGxWgJn3KIWn3LBFtvsEBzcjpk.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E10
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj3V89CfQUMV9arp9y5zSlFEnPj.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E11
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tv16B802ifVWCInX0pu0p4yUen.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E12
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDwkTVWWABXjntvSB0iDYcZDSgV.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E13
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLzvXW5xNKVyJ3ZruWqzDfNXWhA.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E14
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nip Tuck S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbIhF0X3RU80065vnORqOo0G5pj.jpg" group-title="→ SERIES DRAMA ←",Nip Tuck S02 E15
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287728.mkv
