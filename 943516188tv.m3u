@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Velocidad y Deseo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSvA1Xat045jh8ck7U626PPkzH1.jpg" group-title="→ VOD ESTRENOS 2026 ←",Velocidad y Deseo (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali G: Who Iz I? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg" group-title="→ VOD ESTRENOS 2026 ←",Ali G: Who Iz I? (2026)
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La caida de la ballena (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d8BZCZQaO3gCdP9JaA5B5qGFsH.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",La caida de la ballena (2026) SUB
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2073 SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg" group-title=" → VOD ESTRENOS 2024 ←",2073 SUB
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En La Boca Del Miedo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBcKsjV9eEGj1m9dA7P4vwrnoA.jpg" group-title="→ VOD SUSPENSO ←",En La Boca Del Miedo
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hope: El primer impacto (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPIefotew38oJm3YCJPAzpi26c.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Hope: El primer impacto (2026) SUB
+http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287851.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tortugas Ninja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdNy1nz9HeaHoxPhbmamZ6psXKz.jpg" group-title="→ VOD ACCIÓN ←",Tortugas Ninja
 http://23.153.217.158:8080/movie/957767437tv/dh34sq9/287810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bajo anestesia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCfVv40XBQ7SEUibGARr5AR9QtT.jpg" group-title="→ VOD CRIMEN ←",Bajo anestesia
@@ -34559,66 +34571,6 @@ http://23.153.217.158:8080/957767437tv/dh34sq9/279301
 http://23.153.217.158:8080/957767437tv/dh34sq9/279302
 #EXTINF:-1 tvg-id="" tvg-name="LIGA ENDESA 5" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 5
 http://23.153.217.158:8080/957767437tv/dh34sq9/279303
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Atlanta Hawks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Atlanta Hawks
-http://23.153.217.158:8080/957767437tv/dh34sq9/280732
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Boston Celtics" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Boston Celtics
-http://23.153.217.158:8080/957767437tv/dh34sq9/280733
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Brooklyn Nets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Brooklyn Nets
-http://23.153.217.158:8080/957767437tv/dh34sq9/280734
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Charlotte Hornets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Charlotte Hornets
-http://23.153.217.158:8080/957767437tv/dh34sq9/280735
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Chicago Bulls" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Chicago Bulls
-http://23.153.217.158:8080/957767437tv/dh34sq9/280736
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Cleveland Cavaliers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Cleveland Cavaliers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280737
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Dallas Mavericks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Dallas Mavericks
-http://23.153.217.158:8080/957767437tv/dh34sq9/280738
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Denver Nuggets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Denver Nuggets
-http://23.153.217.158:8080/957767437tv/dh34sq9/280739
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Detroit Pistons" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Detroit Pistons
-http://23.153.217.158:8080/957767437tv/dh34sq9/280740
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Golden State Warriors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Golden State Warriors
-http://23.153.217.158:8080/957767437tv/dh34sq9/280741
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Houston Rockets" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Houston Rockets
-http://23.153.217.158:8080/957767437tv/dh34sq9/280742
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Indiana Pacers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Indiana Pacers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280743
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Clippers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Clippers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280744
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Los Angeles Lakers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Los Angeles Lakers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280745
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Memphis Grizzlies" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Memphis Grizzlies
-http://23.153.217.158:8080/957767437tv/dh34sq9/280746
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Miami Heat" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Miami Heat
-http://23.153.217.158:8080/957767437tv/dh34sq9/280747
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Milwaukee Bucks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Milwaukee Bucks
-http://23.153.217.158:8080/957767437tv/dh34sq9/280748
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Minnesota Timberwolves" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Minnesota Timberwolves
-http://23.153.217.158:8080/957767437tv/dh34sq9/280749
-#EXTINF:-1 tvg-id="" tvg-name="NBA | New Orleans Pelicans" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New Orleans Pelicans
-http://23.153.217.158:8080/957767437tv/dh34sq9/280750
-#EXTINF:-1 tvg-id="" tvg-name="NBA | New York Knicks" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | New York Knicks
-http://23.153.217.158:8080/957767437tv/dh34sq9/280751
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Oklahoma City Thunder" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Oklahoma City Thunder
-http://23.153.217.158:8080/957767437tv/dh34sq9/280752
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Orlando Magic" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Orlando Magic
-http://23.153.217.158:8080/957767437tv/dh34sq9/280753
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Philadelphia 76ers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Philadelphia 76ers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280754
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Phoenix Suns" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Phoenix Suns
-http://23.153.217.158:8080/957767437tv/dh34sq9/280755
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Portland Trail Blazers" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Portland Trail Blazers
-http://23.153.217.158:8080/957767437tv/dh34sq9/280756
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Sacramento Kings" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Sacramento Kings
-http://23.153.217.158:8080/957767437tv/dh34sq9/280757
-#EXTINF:-1 tvg-id="" tvg-name="NBA | San Antonio Spurs" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | San Antonio Spurs
-http://23.153.217.158:8080/957767437tv/dh34sq9/280758
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Toronto Raptors" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Toronto Raptors
-http://23.153.217.158:8080/957767437tv/dh34sq9/280759
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Utah Jazz" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Utah Jazz
-http://23.153.217.158:8080/957767437tv/dh34sq9/280760
-#EXTINF:-1 tvg-id="" tvg-name="NBA | Washington Wizards" tvg-logo="" group-title="→ NBA (EVENTOS) ←",NBA | Washington Wizards
-http://23.153.217.158:8080/957767437tv/dh34sq9/280761
 #EXTINF:-1 tvg-id="" tvg-name="US | NBA Channel" tvg-logo="http://209.126.82.213/US_Sports/nba_us.png" group-title="→ NBA (EVENTOS) ←",US | NBA Channel
 http://23.153.217.158:8080/957767437tv/dh34sq9/280762
 #EXTINF:-1 tvg-id="" tvg-name="CA | NBA TV" tvg-logo="/logos/ENG_Canada/nba.png" group-title="→ NBA (EVENTOS) ←",CA | NBA TV
@@ -35649,7 +35601,7 @@ http://23.153.217.158:8080/957767437tv/dh34sq9/287580
 http://23.153.217.158:8080/957767437tv/dh34sq9/287581
 #EXTINF:-1 tvg-id="" tvg-name="ENT | VH1 2" tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_vh1.png" group-title="→ MÚSICA ← ",ENT | VH1 2
 http://23.153.217.158:8080/957767437tv/dh34sq9/287582
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice Hip-Hop Classics" tvg-logo="http://213.145.87.11:90/Logos/musicchoice.png" group-title="→ MÚSICA ← ",Music Choice Hip-Hop Classics
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts" tvg-logo="http://213.145.87.11:90/Logos/musicchoice.png" group-title="→ MÚSICA ← ",Stingray Concerts
 http://23.153.217.158:8080/957767437tv/dh34sq9/287583
 #EXTINF:-1 tvg-id="" tvg-name="VEVO Latin Pop" tvg-logo="https://i.pinimg.com/564x/d5/83/ac/d583acd5de958835f4d3f6f3512bad6c.jpg" group-title="→ MÚSICA ← ",VEVO Latin Pop
 http://23.153.217.158:8080/957767437tv/dh34sq9/287584
@@ -35657,26 +35609,54 @@ http://23.153.217.158:8080/957767437tv/dh34sq9/287584
 http://23.153.217.158:8080/957767437tv/dh34sq9/287585
 #EXTINF:-1 tvg-id="" tvg-name="ENT | TeleHit Musica" tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÚSICA ← ",ENT | TeleHit Musica
 http://23.153.217.158:8080/957767437tv/dh34sq9/287586
-#EXTINF:-1 tvg-id="" tvg-name="Rewind  | CL" tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="→ MÚSICA ← ",Rewind  | CL
+#EXTINF:-1 tvg-id="" tvg-name="Rewind  " tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" group-title="→ MÚSICA ← ",Rewind  
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV | CL" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="→ MÚSICA ← ",Retro Plus TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="→ MÚSICA ← ",Retro Plus TV
 https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2 | CL" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="→ MÚSICA ← ",Retro Plus TV Señal 2 | CL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="→ MÚSICA ← ",Retro Plus TV Señal 2
 https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="VClassicTV | CL" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="→ MÚSICA ← ",VClassicTV | CL
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="→ MÚSICA ← ",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical | CL" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="→ MÚSICA ← ",VClassicTV Tropical | CL
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="→ MÚSICA ← ",VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro TV | CL" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="→ MÚSICA ← ",Recuerdos Retro TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="→ MÚSICA ← ",Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Music PUQ | CL" tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="→ MÚSICA ← ",Music PUQ | CL
+#EXTINF:-1 tvg-id="" tvg-name="Music PUQ" tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png" group-title="→ MÚSICA ← ",Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TeleZeta Tropical | CL" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png" group-title="→ MÚSICA ← ",TeleZeta Tropical | CL
+#EXTINF:-1 tvg-id="" tvg-name="TeleZeta Tropical" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png" group-title="→ MÚSICA ← ",TeleZeta Tropical
 https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="M Music. TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" group-title="→ MÚSICA ← ",M Music. TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="M Music. TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" group-title="→ MÚSICA ← ",M Music. TV
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Nina. TV | CL" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" group-title="→ MÚSICA ← ",Nina. TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="Nina. TV " tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" group-title="→ MÚSICA ← ",Nina. TV 
 https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" group-title="→ NBA (EVENTOS) ←",NBA | League Pass 03
+http://23.153.217.158:8080/957767437tv/dh34sq9/287828
+#EXTINF:-1 tvg-id="" tvg-name="28/10 17:00 CDMX. NBA. Charlotte Hornets @ Detroit Pistons (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 17:00 CDMX. NBA. Charlotte Hornets @ Detroit Pistons (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287839
+#EXTINF:-1 tvg-id="" tvg-name="28/10 17:00 CDMX. NBA. Miami Heat @ Atlanta Hawks (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 17:00 CDMX. NBA. Miami Heat @ Atlanta Hawks (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287840
+#EXTINF:-1 tvg-id="" tvg-name="28/10 17:00 CDMX. NBA. Philadelphia 76ers @ Indiana Pacers (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 17:00 CDMX. NBA. Philadelphia 76ers @ Indiana Pacers (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287841
+#EXTINF:-1 tvg-id="" tvg-name="28/10 17:00 CDMX. NBA. Washington Wizards @ Cleveland Cavaliers (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 17:00 CDMX. NBA. Washington Wizards @ Cleveland Cavaliers (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287842
+#EXTINF:-1 tvg-id="" tvg-name="28/10 17:30 CDMX. NBA. Orlando Magic @ Toronto Raptors (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 17:30 CDMX. NBA. Orlando Magic @ Toronto Raptors (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287843
+#EXTINF:-1 tvg-id="" tvg-name="28/10 18:00 CDMX. NBA. Denver Nuggets @ New Orleans Pelicans (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 18:00 CDMX. NBA. Denver Nuggets @ New Orleans Pelicans (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287844
+#EXTINF:-1 tvg-id="" tvg-name="28/10 18:00 CDMX. NBA. Golden State Warriors @ Minnesota Timberwolves (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 18:00 CDMX. NBA. Golden State Warriors @ Minnesota Timberwolves (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287845
+#EXTINF:-1 tvg-id="" tvg-name="28/10 18:00 CDMX. NBA. Houston Rockets @ Milwaukee Bucks (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 18:00 CDMX. NBA. Houston Rockets @ Milwaukee Bucks (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287846
+#EXTINF:-1 tvg-id="" tvg-name="28/10 18:00 CDMX. NBA. New York Knicks @ Chicago Bulls (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 18:00 CDMX. NBA. New York Knicks @ Chicago Bulls (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287847
+#EXTINF:-1 tvg-id="" tvg-name="28/10 19:00 CDMX. NBA. San Antonio Spurs @ Utah Jazz (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 19:00 CDMX. NBA. San Antonio Spurs @ Utah Jazz (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287848
+#EXTINF:-1 tvg-id="" tvg-name="28/10 19:30 CDMX. NBA. Oklahoma City Thunder @ Dallas Mavericks (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 19:30 CDMX. NBA. Oklahoma City Thunder @ Dallas Mavericks (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287849
+#EXTINF:-1 tvg-id="" tvg-name="28/10 20:30 CDMX. NBA. Los Angeles Lakers @ LA Clippers (HD)" tvg-logo="https://i.pinimg.com/736x/f7/f0/37/f7f03781c285402cc3601ef3c68fd598.jpg" group-title="→ NBA (EVENTOS) ←",28/10 20:30 CDMX. NBA. Los Angeles Lakers @ LA Clippers (HD)
+http://23.153.217.158:8080/957767437tv/dh34sq9/287850
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts 2" tvg-logo="http://213.145.87.11:90/Logos/musicchannel.png" group-title="→ MÚSICA ← ",Stingray Concerts 2
+http://23.153.217.158:8080/957767437tv/dh34sq9/287880
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/957767437tv/dh34sq9/14107
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -132681,6 +132661,8 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/286044.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ni9rjBS4OknioqcvXmg74TN5bFD.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E03
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/60N2eEbU3B4Q0uuFcRzXIuWnNMj.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287875.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -137513,6 +137495,8 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/286216.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286224.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9R8Y054E9rede6q7t4coUuIzwCv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E02
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lxXkbQpm3nRS7eQJqqhRl6Ypp1n.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287852.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNV1OOF71fzTYand5duFx3uaWlE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E02
@@ -137521,6 +137505,10 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/286226.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287770.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eVHqUOPEe1CIbvg4Dx6H4awFBR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E04
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aBaiK5WPQrJ5L5cyBXJQwu4iGE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R8uiUzWH4ht7EFhDgwH4u0wZxc.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy8LgZXwLhf2mAGv195RmXN7ViQ.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/286227.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kpdRVYN2ITr0ZjddaPuE5CNL8I.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E02
@@ -137934,11 +137922,11 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/287784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Phony: La otra madre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/d7FRLt0FwRPvcgreNmK0KbBM9J2.jpg" group-title="→ SERIES MISTERIO ←",Phony: La otra madre S01 E03
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287796.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHU0DiZCLECD6YAlCeCOxkQIJhT.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/287785.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287853.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkSnVMwWPMM2WCPUkyMjo6ByyY2.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/287786.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287854.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52yDUwui3JAhxZw6122HOK74hOV.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E03
-http://23.153.217.158:8080/series/957767437tv/dh34sq9/287787.mkv
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Secretos de la NASA S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elez6NIaKrOHebfGudrKgurbIMR.jpg" group-title="→ SERIES DOCUMENTALES ←",Secretos de la NASA S01 E01
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Secretos de la NASA S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP3nKAMT6PK7Ers8cxk9B4VSrlB.jpg" group-title="→ SERIES DOCUMENTALES ←",Secretos de la NASA S01 E02
@@ -137955,3 +137943,79 @@ http://23.153.217.158:8080/series/957767437tv/dh34sq9/287793.mkv
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287794.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Secretos de la NASA S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w5zVDc6YyiSQZPtJXnboZ2lKfq.jpg" group-title="→ SERIES DOCUMENTALES ←",Secretos de la NASA S01 E08
 http://23.153.217.158:8080/series/957767437tv/dh34sq9/287795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poeta Caníbal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg" group-title="→ SERIES DOCUMENTALES ←",Poeta Caníbal S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poeta Caníbal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg" group-title="→ SERIES DOCUMENTALES ←",Poeta Caníbal S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poeta Caníbal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg" group-title="→ SERIES DOCUMENTALES ←",Poeta Caníbal S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O0o0qi5BIXaHhZ4XQqOwl4H5LM.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luRGEuPVVRskuIUDCrKvvrO2V3p.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n71w3OKpOblbbwOsn8DwPe6oB9y.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1MhIaoHHSVDtA2ImAZ3eNbIxKu.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etTVuRkMBsVc4wy0jg442BrDrXt.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaraw S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsc9YVvg1qViSLDwi6JBw9FInua.jpg" group-title="→ SERIES MISTERIO ←",Balaraw S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhsYQZ0DRCQFd8m9AxmF6wwdXXW.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFxDhh64kvG0opvrJPOvqoofzia.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVVoSxRhxeU0FLspxdRQjqh4QSd.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQKspEW1rQ6uXVhhO9v18eFeCaR.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44mX9sUtEvwlNPNbiFI6A0oWLM8.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnppcNnvQJ6h5Qr0dNsEn2seqYk.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU1s9PeSeFKrGUh4oXRysEkMdGQ.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6LaDnJGu1r7q5DFTslSNAKxQql.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qOFFNsIv3TuKNuVWWM9I0K9Stz.jpg" group-title="→ SERIES MISTERIO ←",Fragmentos S01 E09
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI3LPYnXih5bniF7dJIPQEUH4H6.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E01
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcQIaO9ZlLGwDOIuNlxZx7v19YY.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E02
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7ArQA9FzphtLgr3hFILBSrv6wy.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E03
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLdlQ3SeaVRD1lnxQb7lkY2xo7.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E04
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqSToX9rGvVeg6aovfM1klb8Uib.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E05
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F2LBWpXisVTAe0cgLSPvfAi0na.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E06
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YwnOh6tb1HNN0fctnpHLU7jgj5.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E07
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsLeoyFCRZE64nkQIuIOMNsHarr.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E08
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSfV3KQ4jhSRkVLUAckuMIpnb8r.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E09
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vitVRqJSlFf5VS2kIUHXY4Iq1eR.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E10
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjRfjGlMWp0TjQLbl2Nf3ILeHmi.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E11
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l19j3cE5UNXqvUtooELn0TUne81.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E12
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGs0GnGRsKKNNLwlvCP7Y0qIMvY.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E13
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/212Bl7jNBP4SGIpCH9x8ENd53YT.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E14
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVA6YrWwfdE4FOva6Z0XNL068Sq.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E15
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z78LGndptnk5r1GammoEQPzBmgr.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E16
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzw19P5EpHtLOXOYZQ2P3DWqpgq.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E17
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrKngO7Y9sGo6Vydb4hWoawkFaW.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E18
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xh8Btos5GtHBAXsrH7THkOBdaJT.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E19
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT9twL6u4lD6pTdqls4S4wOSUib.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E20
+http://23.153.217.158:8080/series/957767437tv/dh34sq9/287902.mkv
