@@ -1,9 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Herencia Siniestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFhz88v5bGzojDdzb4Nuh9d6oes.jpg" group-title="→ VOD TERROR ←",Herencia Siniestra
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosario: Herencia Maldita " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg" group-title="→ VOD TERROR ←",Rosario: Herencia Maldita 
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baghead: Contacto Con La Muerte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64g021dx46bKaUW9lMnrLk2dj7L.jpg" group-title="→ VOD TERROR ←",Baghead: Contacto Con La Muerte 
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipsis Z: Nuevo mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5LakPnLfzydW4YFUKfPeiODiWu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apocalipsis Z: Nuevo mundo (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colision (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg" group-title="→ VOD ESTRENOS 2026 ←",Colision (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devorador de Almas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rbcPfN9nOWMCTbeIJvTed5prBi.jpg" group-title="→ VOD ESTRENOS 2026 ←",Devorador de Almas (2026)
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter (2026)  CAM SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg" group-title="→ VOD CAM 2026 ←",Street Fighter (2026)  CAM SUB
+http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velocidad y Deseo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSvA1Xat045jh8ck7U626PPkzH1.jpg" group-title="→ VOD ESTRENOS 2026 ←",Velocidad y Deseo (2026)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ali G: Who Iz I? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg" group-title="→ VOD ESTRENOS 2026 ←",Ali G: Who Iz I? (2026)
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caida de la ballena (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d8BZCZQaO3gCdP9JaA5B5qGFsH.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",La caida de la ballena (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="La caida de la ballena (2026)  CAM SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d8BZCZQaO3gCdP9JaA5B5qGFsH.jpg" group-title="→ VOD CAM 2026 ←",La caida de la ballena (2026)  CAM SUB
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="2073 SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg" group-title=" → VOD ESTRENOS 2024 ←",2073 SUB
 http://23.153.217.158:8080/movie/977899335tv/l8q53zg/287878.mkv
@@ -35657,6 +35671,214 @@ http://23.153.217.158:8080/live/977899335tv/l8q53zg/287849.m3u8
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/287850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts 2" tvg-logo="http://213.145.87.11:90/Logos/musicchannel.png" group-title="→ MÚSICA ← ",Stingray Concerts 2
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/287880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP1" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP2" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP2
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS VARIOS 1" tvg-logo="https://i.ibb.co/xKt0bzCH/Eventos-VIP4.png" group-title="EVENTOS HOY VARIOS (solo eventos)",EVENTOS VARIOS 1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS VARIOS 2" tvg-logo="https://i.ibb.co/xKt0bzCH/Eventos-VIP4.png" group-title="EVENTOS HOY VARIOS (solo eventos)",EVENTOS VARIOS 2
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP CAST 1" tvg-logo="https://i.ibb.co/Y404ZZRK/Eventos-VIP3.png" group-title="EVENTOS HOY VARIOS (solo eventos)",VIP CAST 1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="05:00 - Erste Bank Open / #glaubandich Court (Doubles Semifinals) - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",05:00 - Erste Bank Open / #glaubandich Court (Doubles Semifinals) - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="06:00 - Swiss Indoors Basel / Center Court (Doubles Semifinals) - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",06:00 - Swiss Indoors Basel / Center Court (Doubles Semifinals) - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="06:30 - EPL - Chelsea vs. Manchester United" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",06:30 - EPL - Chelsea vs. Manchester United
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="07:00 - Kuwait Major | Centre Court (Final) - Premier Padel" tvg-logo="https://d1f00kj7ad54bu.cloudfront.net/Pictures/2000xAny/1/4/4/14144_premierpadel2_680106.png" group-title="EVENTOS HOY VARIOS (solo eventos)",07:00 - Kuwait Major | Centre Court (Final) - Premier Padel
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="07:00 - LES - Levante vs. Atlético Madrid" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="EVENTOS HOY VARIOS (solo eventos)",07:00 - LES - Levante vs. Atlético Madrid
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="07:00 - Rugby - World Rugby: South Africa vs. Ireland" tvg-logo="https://cf-images.us-east-1.prod.boltdns.net/v1/static/6068525061001/5945dd9b-ca39-499e-910c-0707bf350662/5bade8a0-d47e-41e4-8d34-4bb91b9b74a3/1280x720/match/image.jpg" group-title="EVENTOS HOY VARIOS (solo eventos)",07:00 - Rugby - World Rugby: South Africa vs. Ireland
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="07:00 - Segunda España - Real Sociedad B vs. Girona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS (solo eventos)",07:00 - Segunda España - Real Sociedad B vs. Girona
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - ATP 500: Basel & Vienna (Semifinal) - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:00 - ATP 500: Basel & Vienna (Semifinal) - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Erste Bank Open (Semifinal) - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:00 - Erste Bank Open (Semifinal) - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Serie A - Bologna vs. Monza" tvg-logo="https://i.imgur.com/BIKyYvb.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:00 - Serie A - Bologna vs. Monza
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 - Swiss Indoors Basel (Semifinal) - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:00 - Swiss Indoors Basel (Semifinal) - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:30 - Bundesliga - Augsburg vs. Freiburg" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:30 - Bundesliga - Augsburg vs. Freiburg
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:30 - Bundesliga - Bayer Leverkusen vs. VfB Stuttgart" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:30 - Bundesliga - Bayer Leverkusen vs. VfB Stuttgart
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:30 - Bundesliga - Borussia Mönchengladbach vs. Paderborn" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:30 - Bundesliga - Borussia Mönchengladbach vs. Paderborn
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:30 - Bundesliga - Schalke vs. RB Leipzig" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:30 - Bundesliga - Schalke vs. RB Leipzig
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:30 - Bundesliga - Werder Bremen vs. Hoffenheim" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",08:30 - Bundesliga - Werder Bremen vs. Hoffenheim
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:00 - Bournemouth v. Leeds United - EPL" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:00 - Bournemouth v. Leeds United - EPL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:00 - Coventry City v. Sunderland - EPL" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:00 - Coventry City v. Sunderland - EPL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:00 - EPL - Brentford vs. Nottingham Forest" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:00 - EPL - Brentford vs. Nottingham Forest
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:00 - Hull City v. Ipswich Town - EPL" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:00 - Hull City v. Ipswich Town - EPL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:00 - Man City v. Brighton - EPL" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:00 - Man City v. Brighton - EPL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:15 - LES - Rayo vs. Celta de Vigo" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:15 - LES - Rayo vs. Celta de Vigo
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="09:15 - Segunda España - Eibar vs. Almeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png" group-title="EVENTOS HOY VARIOS (solo eventos)",09:15 - Segunda España - Eibar vs. Almeria
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 - Turquía - Fenerbahce vs. Goztepe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/330px-S%C3%BCper_Lig_logo.svg.png" group-title="EVENTOS HOY VARIOS (solo eventos)",10:00 - Turquía - Fenerbahce vs. Goztepe
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:30 - Polonia - Lech Poznań vs Wisła Kraków" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_ekstraklasa.png" group-title="EVENTOS HOY VARIOS (solo eventos)",10:30 - Polonia - Lech Poznań vs Wisła Kraków
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - Maple Leaf Pro Wrestling - MMA" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - Maple Leaf Pro Wrestling - MMA
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - MLS 01 - Charlotte vs. Orlando" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - MLS 01 - Charlotte vs. Orlando
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - MMA - OKTAGON 96: Gogoladze vs. Ayari" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - MMA - OKTAGON 96: Gogoladze vs. Ayari
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - NHL 01 - Chicago Blackhawks vs. Boston Bruins" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - NHL 01 - Chicago Blackhawks vs. Boston Bruins
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - NHL 02 - St. Louis Blues vs. Detroit Red Wings" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - NHL 02 - St. Louis Blues vs. Detroit Red Wings
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - Serie A - Udinese vs. Roma" tvg-logo="https://i.imgur.com/BIKyYvb.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - Serie A - Udinese vs. Roma
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:00 - Simmons Bank Championship Second Round - PGA Tour" tvg-logo="https://contentmasters.app/logos/golf-eventos.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:00 - Simmons Bank Championship Second Round - PGA Tour
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - Bundesliga - Bayern Munich vs. Borussia Dortmund" tvg-logo="https://i.imgur.com/X62e9qL.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:30 - Bundesliga - Bayern Munich vs. Borussia Dortmund
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - EPL - Tottenham Hotspur vs. Crystal Palace" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:30 - EPL - Tottenham Hotspur vs. Crystal Palace
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - Escocia League Cup - Rangers vs. Aberdeen" tvg-logo="https://www.pngkey.com/png/full/986-9867889_scottish-cup-logo-emblem.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:30 - Escocia League Cup - Rangers vs. Aberdeen
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - Grand Prix Mexico: Practice 3 - F1" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:30 - Grand Prix Mexico: Practice 3 - F1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - LES - Betis vs. Malaga" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="EVENTOS HOY VARIOS (solo eventos)",11:30 - LES - Betis vs. Malaga
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Liga Saudi - Al Hilal vs Al Fateh" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - Liga Saudi - Al Hilal vs Al Fateh
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - MLS 02 - Cincinnati vs. Philadelphia" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - MLS 02 - Cincinnati vs. Philadelphia
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - MLS 03 - Columbus vs. D.C." tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - MLS 03 - Columbus vs. D.C.
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - MLS 04 - New York City vs. Montréal" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - MLS 04 - New York City vs. Montréal
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - NHL 03 - Tampa Bay Lightning vs. Nashville Predators" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - NHL 03 - Tampa Bay Lightning vs. Nashville Predators
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - NHL 04 - Edmonton Oilers vs. New York Islanders" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",12:00 - NHL 04 - Edmonton Oilers vs. New York Islanders
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Brasileirao - Coritiba vs Vitória" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Campeonato-Brasileiro-S%C3%A9rie-A-logo.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - Brasileirao - Coritiba vs Vitória
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Challenger Ciudad de Guayaquil Copa Banco Guayaquil - ATP" tvg-logo="https://generador.nubservices.com/logos/library/atp-mv6ttisd.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - Challenger Ciudad de Guayaquil Copa Banco Guayaquil - ATP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Day 1: UCI BMX Racing World Cup Sarasota - Ciclismo" tvg-logo="https://i.imgur.com/DIYepmY.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - Day 1: UCI BMX Racing World Cup Sarasota - Ciclismo
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Ligue 2 - Guingamp vs Saint-Étienne" tvg-logo="https://tiermaker.com/images/media/hero_images/2024/17200865/ligue-2-2024-2025-17200865/172008651717433398.jpg" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - Ligue 2 - Guingamp vs Saint-Étienne
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - Maple Leaf Pro Wrestling - PELEAS" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - Maple Leaf Pro Wrestling - PELEAS
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - MLS 05 - Kansas City vs. Dallas" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - MLS 05 - Kansas City vs. Dallas
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - MLS 06 - St. Louis vs. San Diego" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - MLS 06 - St. Louis vs. San Diego
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 - NBA 01 - Jazz vs Trail Blazers" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:00 - NBA 01 - Jazz vs Trail Blazers
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:45 - Ligue 1 - Troyes vs Le Mans FC" tvg-logo="https://i.imgur.com/dV3D26E.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:45 - Ligue 1 - Troyes vs Le Mans FC
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:45 - Serie A - AC Milan vs. Inter" tvg-logo="https://i.imgur.com/BIKyYvb.png" group-title="EVENTOS HOY VARIOS (solo eventos)",13:45 - Serie A - AC Milan vs. Inter
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - Arg - Deportivo Riestra vs Talleres de Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:00 - Arg - Deportivo Riestra vs Talleres de Córdoba
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - Aston Villa v. Fulham - EPL" tvg-logo="https://i.imgur.com/VA94PSt.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:00 - Aston Villa v. Fulham - EPL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - LES - Barcelona vs. Alaves" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:00 - LES - Barcelona vs. Alaves
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - NHL 05 - Buffalo Sabres vs. Los Angeles Kings" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:00 - NHL 05 - Buffalo Sabres vs. Los Angeles Kings
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 - NHL 06 - Ottawa Senators vs. San Jose Sharks" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:00 - NHL 06 - Ottawa Senators vs. San Jose Sharks
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:30 - Portugal - Porto vs Estoril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%ADmbolo_da_Liga_Portuguesa_de_Futebol_Profissional.png" group-title="EVENTOS HOY VARIOS (solo eventos)",14:30 - Portugal - Porto vs Estoril
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP1" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/287999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP2" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - BOX - CANELO ÁLVAREZ vs CHRISTIAN MBILLI OP2
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - El Salvador - Cacahuatique vs InCA Aruba" tvg-logo="https://generador.nubservices.com/logos/library/salvador-mvb3xerk.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - El Salvador - Cacahuatique vs InCA Aruba
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - Grand Prix Mexico: Qualifying - F1" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - Grand Prix Mexico: Qualifying - F1
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - Honduras - UPNFM vs Policía Nacional" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - Honduras - UPNFM vs Policía Nacional
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - MLS 07 - LA vs. Austin" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - MLS 07 - LA vs. Austin
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - MLS 08 - San Jose vs. Salt Lake" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - MLS 08 - San Jose vs. Salt Lake
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - UFC - UFC Fight Night: Carneiro vs Nolan English" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - UFC - UFC Fight Night: Carneiro vs Nolan English
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 - UFC - UFC Fight Night: Carneiro vs Nolan Español" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS (solo eventos)",15:00 - UFC - UFC Fight Night: Carneiro vs Nolan Español
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 - NBA 02 - Philadelphia 76ers at Charlotte Hornets" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",16:00 - NBA 02 - Philadelphia 76ers at Charlotte Hornets
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:15 - Arg - Vélez Sarsfield vs San Lorenzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS (solo eventos)",16:15 - Arg - Vélez Sarsfield vs San Lorenzo
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Colombia - Llaneros vs Junior" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - Colombia - Llaneros vs Junior
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Liga MX - Pachuca vs. Tigres UANL" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - Liga MX - Pachuca vs. Tigres UANL
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NBA 03 - Pelicans vs Hawks" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - NBA 03 - Pelicans vs Hawks
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 07 - Pittsburgh Penguins vs. Montreal Canadiens" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - NHL 07 - Pittsburgh Penguins vs. Montreal Canadiens
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - NHL 08 - Toronto Maple Leafs vs. Vancouver Canucks" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - NHL 08 - Toronto Maple Leafs vs. Vancouver Canucks
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Short Course Trials: Day 4 - Natacion" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4383/4383-logo.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:00 - Short Course Trials: Day 4 - Natacion
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:15 - Honduras - Real España vs Juticalpa" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS HOY VARIOS (solo eventos)",17:15 - Honduras - Real España vs Juticalpa
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - NBA 04 - Grizzlies vs Kings" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:00 - NBA 04 - Grizzlies vs Kings
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - NBA 06 - Spurs vs Timberwolves" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:00 - NBA 06 - Spurs vs Timberwolves
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - NHL 09 - Columbus Blue Jackets vs. Dallas Stars" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:00 - NHL 09 - Columbus Blue Jackets vs. Dallas Stars
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - Querétaro Open Presentado por MEXCOVERY (Semifinal) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:00 - Querétaro Open Presentado por MEXCOVERY (Semifinal) - WTA
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - Arg - Estudiantes vs Instituto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:30 - Arg - Estudiantes vs Instituto
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 - NBA 07 - Rockets vs Thunder" tvg-logo="https://i.imgur.com/BZFABCj.png" group-title="EVENTOS HOY VARIOS (solo eventos)",18:30 - NBA 07 - Rockets vs Thunder
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Asia-Pacific Amateur Championship (Ronda Final) - Golf" tvg-logo="https://i.imgur.com/Cw8x5qs.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:00 - Asia-Pacific Amateur Championship (Ronda Final) - Golf
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - El Salvador - Isidro Metapán vs Municipal Limeño" tvg-logo="https://generador.nubservices.com/logos/library/salvador-mvb3xerk.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:00 - El Salvador - Isidro Metapán vs Municipal Limeño
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - UFC - UFC Fight Night: Carneiro vs Nolan Multiview" tvg-logo="https://i.imgur.com/sn1JeH1.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:00 - UFC - UFC Fight Night: Carneiro vs Nolan Multiview
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:05 - Liga MX - Monterrey vs. Club Tijuana" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:05 - Liga MX - Monterrey vs. Club Tijuana
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:07 - Liga MX - Chivas vs. Atlante" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:07 - Liga MX - Chivas vs. Atlante
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 - Honduras - Choloma vs Olimpia" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:30 - Honduras - Choloma vs Olimpia
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 - Maybank Championship Final Round - LPGA Tour" tvg-logo="https://contentmasters.app/logos/golf-eventos.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:30 - Maybank Championship Final Round - LPGA Tour
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 - MLS 09 - Colorado vs. Chicago" tvg-logo="https://generador.nubservices.com/logos/library/mls-mv8at83s.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:30 - MLS 09 - Colorado vs. Chicago
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:40 - MotoGP Asia Talent Cup | Grand Prix of Malaysia (Carrera 2) - MotoGP" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS (solo eventos)",19:40 - MotoGP Asia Talent Cup | Grand Prix of Malaysia (Carrera 2) - MotoGP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - NHL 10 - Calgary Flames vs. Colorado Avalanche" tvg-logo="https://i.imgur.com/4vSU2dU.png" group-title="EVENTOS HOY VARIOS (solo eventos)",20:00 - NHL 10 - Calgary Flames vs. Colorado Avalanche
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 - Toray Pan Pacific Open Tennis (Final) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS (solo eventos)",21:00 - Toray Pan Pacific Open Tennis (Final) - WTA
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:10 - Liga MX -érica vs. Toluca" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS (solo eventos)",21:10 - Liga MX -érica vs. Toluca
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:10 - Liga MX Fem - Necaxa vs Santos" tvg-logo="https://i.imgur.com/G5O5Eny.png" group-title="EVENTOS HOY VARIOS (solo eventos)",21:10 - Liga MX Fem - Necaxa vs Santos
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:45 - Races | Petronas Grand Prix of Malaysia - MotoGP" tvg-logo="https://contentmasters.app/logos/motorsportsevents.png" group-title="EVENTOS HOY VARIOS (solo eventos)",21:45 - Races | Petronas Grand Prix of Malaysia - MotoGP
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:00 - Australia - Victory vs. CC Mariners" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/A-League-Logo-2017.png" group-title="EVENTOS HOY VARIOS (solo eventos)",22:00 - Australia - Victory vs. CC Mariners
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:00 - Toray Pan Pacific Open Tennis / Center (Doubles Final) - WTA" tvg-logo="https://contentmasters.app/logos/tennis-events.png" group-title="EVENTOS HOY VARIOS (solo eventos)",22:00 - Toray Pan Pacific Open Tennis / Center (Doubles Final) - WTA
+http://23.153.217.158:8080/live/977899335tv/l8q53zg/288038.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
 http://23.153.217.158:8080/live/977899335tv/l8q53zg/14107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
@@ -138019,3 +138241,53 @@ http://23.153.217.158:8080/series/977899335tv/l8q53zg/287900.mkv
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/287901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT9twL6u4lD6pTdqls4S4wOSUib.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E20
 http://23.153.217.158:8080/series/977899335tv/l8q53zg/287902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUaLpR1IbbgPkKz1zg1ZaChZtPy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HJWVFR8VW5k2wHaRYyOTJqXieT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mDwOsOfCmkLx4YTWqoovnNActE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u6jKsi8Ji3ADeZirJjsp2hGxAk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c67WgteMzY7i9Viz4SDsM3KaSYq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC3KBGWJq1si92nngwiY8te8KG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFYxfzNvMEtflYJBG6VSBfgPVQF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azQBjHiZ8Nw4Vf7CXhYzXzLw8bR.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Gtxm3bSFTVdOCGVikpJQcC9jG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E09
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Uu0oBZzCdMTfNKwcnqf0YuHbly.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E10
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wucu7hYb06YwoMgqmqa9AOoXZl0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E11
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56ji8OMkYOeBboe6zcBWi3gdwWx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E12
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciHPwF8H49Cl01KW8LwlPOJFCtU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E13
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsHmET7A8YGXH0M1ucyDOOTvpg2.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E01
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6NzUAnYJHAAmlk5oc1qSx7bhGh.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E02
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkNaIJc7zhKwXlRi2axH3b91wC9.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E03
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiBNCi1V5xXHpmJ4hPduMobjRlc.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E04
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6jehgEbKZWzwIUwZeT9Gh1L5Z7.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E05
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNeFcGGf82NJy1O0G6GYhh40eVI.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E06
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7GaFjnTL0euMbNuWf1RpFgF2Y0.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E07
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2L3Aw9RDmpMcruij7tODi8mGnq.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E08
+http://23.153.217.158:8080/series/977899335tv/l8q53zg/287934.mkv
