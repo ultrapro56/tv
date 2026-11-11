@@ -1,9 +1,93 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="3000 Años esperandote" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edbQazMpjkp0iQZjvvQWVb3IstJ.jpg" group-title="→ VOD FANTASÍA ←",3000 Años esperandote
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La conspiracion de Noviembre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PdQXe2OW32jcESTl3ZSB7ZpUBq.jpg" group-title="→ VOD ACCIÓN ←",La conspiracion de Noviembre
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hechizo del tiempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1PbnXSlG4e0VYAvqTYzgV9TLso.jpg" group-title="→ VOD COMEDIA ←",Hechizo del tiempo
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heroe por accidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOFzuImoIv19T8lUi9hiUe5HRp9.jpg" group-title="→ VOD COMEDIA ←",Heroe por accidente
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angeles caidos Guerreros de la paz " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO8aJ4RO4CbQfhbd1EGWQ9hX5tx.jpg" group-title="→ VOD ACCIÓN ←",Angeles caidos Guerreros de la paz 
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amor de tu vida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg" group-title="→ VOD ESTRENOS 2026 ←",El amor de tu vida (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insaciable (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMYFsfuHttGtHnXquWkIWI9Min8.jpg" group-title="→ VOD ESTRENOS 2026 ←",Insaciable (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13 Vidas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggeL3pdF7FGyRARcCXYBwM87J4h.jpg" group-title="→ VOD DRAMA ←",13 Vidas 
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hazte el muerto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhHDhqLU4817cPc6crmc45vCK55.jpg" group-title="→ VOD ESTRENOS 2026 ←",Hazte el muerto (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El vestido (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg" group-title="→ VOD ESTRENOS 2026 ←",El vestido (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Policias en actuacion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg" group-title="→ VOD ESTRENOS 2026 ←",Policias en actuacion (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alta gama: El caso relojes (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PpaTlM3cgjfGZJi0Trefjax01L.jpg" group-title="→ VOD DOCUMENTALES ←",Alta gama: El caso relojes (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad real" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lD6xv3dz6AStcYsrDk6sqHKMgxD.jpg" group-title="→ VOD NAVIDAD ←",Navidad real
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi amigo Fluke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cdyiQQK4JwghWVWWB6hEqx4okB.jpg" group-title="→ VOD DRAMA ←",Mi amigo Fluke
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Mangosta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Mangosta (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros, Pero Un Poco Mejor (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg" group-title="→ VOD ESTRENOS 2026 ←",Nosotros, Pero Un Poco Mejor (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Dogs Perfect Christmas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg" group-title="→ VOD NAVIDAD ←",A Dogs Perfect Christmas (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primetime (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmrulvLbmaejTix1YaMxo1oGhH1.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Primetime (2026) SUB
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La isla olvidada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg" group-title="→ VOD ESTRENOS 2026 ←",La isla olvidada (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrega al limite (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg" group-title="→ VOD ESTRENOS 2026 ←",Entrega al limite (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la Ruta del Crimen (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMkO644Zqi4O4aPYCpCq3YMpr2C.jpg" group-title=" → VOD ESTRENOS 2025 ←",En la Ruta del Crimen (2025)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ultimo invierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlH6zZZR7joehD5plDEVFDSww8Z.jpg" group-title="→ VOD ESTRENOS 2026 ←",El ultimo invierno (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verity: La sombra de un engaño (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5j1YUuamobLACkzlkzvWfNuzFNg.jpg" group-title="→ VOD ESTRENOS 2026 ←",Verity: La sombra de un engaño (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Rocky (2026) (CAM) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Yo Soy Rocky (2026) (CAM) SUB
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asesino serial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9GQ9n95BdVE8Uv1ZKNS1bSwCf.jpg" group-title="→ VOD TERROR ←",Asesino serial
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Caceria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lDIdAJb1IaC6qA48sTv62HlZZM.jpg" group-title="→ VOD DRAMA ←",La Caceria
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Otra Tierra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQLQE2p91XWS8YVjX6rxtNXKvd2.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Otra Tierra
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Maquina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36AUzO9b7RFB0OG4b184rG8X3KJ.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",Ex-Maquina
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clayface (2026)  (CAM) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCm6vJzdIz9SCIZJ2CuBupGWDQ.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",Clayface (2026)  (CAM) SUB
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enterrado Vivo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecUjyPn3MtcDb4JMVLoefpDdsU8.jpg" group-title="→ VOD ESTRENOS 2026 ←",Enterrado Vivo (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esto no es un simulacro (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9hlWR9jOVQPiWuMrWqDBirkfmI.jpg" group-title="→ VOD ESTRENOS 2026 ←",Esto no es un simulacro (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Regalo De Cumpleaños (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg" group-title="→ VOD ESTRENOS 2026 ←",El Regalo De Cumpleaños (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de Derry (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmhkSZYcSMVw8IWiNROyWaD3Sal.jpg" group-title="→ VOD ESTRENOS 2026 ←",Una historia de Derry (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buena suerte, diviértete, no mueras (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blfTYXDP1luoeku48pVkrZ6Zjwv.jpg" group-title="→ VOD ESTRENOS 2026 ←",Buena suerte, diviértete, no mueras (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Elegido del Mal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BSDrV3NJRXf00sQDclPlLwwK26.jpg" group-title=" → VOD ESTRENOS 2025 ←",El Elegido del Mal (2025)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herencia Siniestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFhz88v5bGzojDdzb4Nuh9d6oes.jpg" group-title="→ VOD TERROR ←",Herencia Siniestra
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosario: Herencia Maldita " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg" group-title="→ VOD TERROR ←",Rosario: Herencia Maldita 
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baghead: Contacto Con La Muerte " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64g021dx46bKaUW9lMnrLk2dj7L.jpg" group-title="→ VOD TERROR ←",Baghead: Contacto Con La Muerte 
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipsis Z: Nuevo mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5LakPnLfzydW4YFUKfPeiODiWu.jpg" group-title="→ VOD ESTRENOS 2026 ←",Apocalipsis Z: Nuevo mundo (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colision (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg" group-title="→ VOD ESTRENOS 2026 ←",Colision (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devorador de Almas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rbcPfN9nOWMCTbeIJvTed5prBi.jpg" group-title="→ VOD ESTRENOS 2026 ←",Devorador de Almas (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter (2026)  CAM SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg" group-title="→ VOD CAM 2026 ←",Street Fighter (2026)  CAM SUB
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velocidad y Deseo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSvA1Xat045jh8ck7U626PPkzH1.jpg" group-title="→ VOD ESTRENOS 2026 ←",Velocidad y Deseo (2026)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ali G: Who Iz I? (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg" group-title="→ VOD ESTRENOS 2026 ←",Ali G: Who Iz I? (2026)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caida de la ballena (2026) SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d8BZCZQaO3gCdP9JaA5B5qGFsH.jpg" group-title="→ VOD ESTRENOS SUBTITULADOS ←",La caida de la ballena (2026) SUB
+#EXTINF:-1 tvg-id="" tvg-name="La caida de la ballena (2026)  CAM SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d8BZCZQaO3gCdP9JaA5B5qGFsH.jpg" group-title="→ VOD CAM 2026 ←",La caida de la ballena (2026)  CAM SUB
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="2073 SUB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg" group-title=" → VOD ESTRENOS 2024 ←",2073 SUB
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/287878.mkv
@@ -7221,8 +7305,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/72728.mkv
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/72729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vacaciones de verano (2023) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" group-title="→ VOD CASTELLANO 2023 ←",Vacaciones de verano (2023) CAST
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/72730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="12 Horas para el Fin del Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/839G44WzStzDTp5Q8rz2GFZ7TNC.jpg" group-title="→ VOD CIENCIA FICCIÓN ←",12 Horas para el Fin del Mundo (2022)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/72732.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mi Pobre Diablillo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg" group-title="→ VOD COMEDIA ←",Mi Pobre Diablillo (1990)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/72733.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi Probre Diablillo 2 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdu25FhRDZJA8xGGvIdQlcHa82m.jpg" group-title="→ VOD COMEDIA ←",Mi Probre Diablillo 2 (1991)
@@ -8131,8 +8213,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/7655.mp4
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/7656.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El tesoro de Sierra Madre (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K9oljorPmH0UVxUdACazNBuAlg.jpg" group-title="→ VOD WESTERN ←",El tesoro de Sierra Madre (1948)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/7657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en el Oeste (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upiek8u4rHTrOJW9B0woXe4A4h7.jpg" group-title="→ VOD WESTERN ←",Érase una vez en el Oeste (1968)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/7658.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Revenant: El renacido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg" group-title="→ VOD WESTERN ←",Revenant: El renacido (2015)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/7659.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A la hora señalada (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gS5rwd1oyZgzEvBfuVlVbU5M2Qt.jpg" group-title="→ VOD WESTERN ←",A la hora señalada (1952)
@@ -12189,8 +12269,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/6172.mkv
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/6173.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Déjalo ir (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMAeMVNJTlNG06zuKDe5KqArPhu.jpg" group-title="→ VOD DRAMA ←",Déjalo ir (2020)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/6175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi amigo Fluke (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg" group-title="→ VOD DRAMA ←",Mi amigo Fluke (1995)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/6176.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Belly (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4aTsOd0X2080Pluv665D2okZj7.jpg" group-title="→ VOD DRAMA ←",Belly (1998)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/6177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La costa de los mosquitos (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5MgZ6e71HrQtS3hZTK7NQYUC5o.jpg" group-title="→ VOD DRAMA ←",La costa de los mosquitos (1986)
@@ -12349,8 +12427,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3896.mkv
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3898.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hook: El regreso del Capitán Garfio (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cB9JjO3IU2s3ZBj1fK3baTCigVW.jpg" group-title="→ VOD AVENTURAS ←",Hook: El regreso del Capitán Garfio (1991)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hostiles: Violencia americana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="→ VOD AVENTURAS ←",Hostiles: Violencia americana (2017)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como Entrenar A Tu Dragon 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg" group-title="→ VOD INFANTILES ←",Como Entrenar A Tu Dragon 3 (2019)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3904.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Abuelo Que Saltó Por La Ventana Y Se Largó (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLspQ1VFWeR4tFPnXCZwih2qjBv.jpg" group-title="→ VOD AVENTURAS ←",El Abuelo Que Saltó Por La Ventana Y Se Largó (2013)
@@ -12957,8 +13033,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4223.mkv
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4224.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tigre y dragón 2: La espada del destino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csF5RxcW0EYojn8P8gOj9Yf5Fmo.jpg" group-title="→ VOD AVENTURAS ←",Tigre y dragón 2: La espada del destino (2016)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Time Trap (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w0hBC9kLy56F7rjwGIe8JtIrHS.jpg" group-title="→ VOD AVENTURAS ←",Time Trap (2017)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4226.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Titan A.E. (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFtHKAqpxRmwyaJydZ7YyK1dzP0.jpg" group-title="→ VOD AVENTURAS ←",Titan A.E. (2000)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4227.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Titanic (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkMvazIj6s8eQAFCQTenl3OILU6.jpg" group-title="→ VOD CLÁSICAS ←",Titanic (1943)
@@ -13617,8 +13691,6 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4602.mp4
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4603.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Papicha: Niña hermosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz0ILgqlxQaLaIlIY3h2Qvi7WUD.jpg" group-title="→ VOD CASTELLANO ←",Papicha: Niña hermosa (2019)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El color del espacio exterior (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBXxjWhKUtMbB7NT0vHb3MkUmMA.jpg" group-title="→ VOD CASTELLANO ←",El color del espacio exterior (2019)
-http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4605.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shepherd: The Hero Dog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmvy6eQQSI15yhxcCZ63GqAXOoO.jpg" group-title="→ VOD CASTELLANO ←",Shepherd: The Hero Dog (2020)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/4606.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superinteligencia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/podzoGfamoxObotrMMoH2WIc8nj.jpg" group-title="→ VOD CASTELLANO ←",Superinteligencia (2020)
@@ -15595,7 +15667,7 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3555.mp4
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3556.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe: En mareas misteriosas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oOARbiV871kCC27FyKBmYwOM3G.jpg" group-title="→ VOD ACCIÓN ←",Piratas del Caribe: En mareas misteriosas (2011)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="→ VOD ACCIÓN ←",Hostiles (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Hostiles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="→ VOD WESTERN ←",Hostiles
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3558.mp4
 #EXTINF:-1 tvg-id="" tvg-name="V de Vendetta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg" group-title="→ VOD ACCIÓN ←",V de Vendetta (2006)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/3559.mp4
@@ -18255,6 +18327,10 @@ http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/268637.mp4
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/268788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noches de encanto (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAQmt9lp4y9xPr9pvpDW1gCmdK.jpg" group-title="→ VOD DRAMA ←",Noches de encanto (2010)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/281289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una vida a lo grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpOWb2nUHno4FBzpl6UWo0M1tFK.jpg" group-title="→ VOD COMEDIA ←",Una vida a lo grande
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justicia para todos (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNEaRi4Vsh0Fkk3CuweY5oue0Bp.jpg" group-title="→ VOD CLÁSICAS ←",Justicia para todos (1979)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288262.mkv
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »1«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »1«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/38
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »2«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »2«
@@ -18262,7 +18338,7 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/37
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="CL• TVN (HD) »3«" tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="→ CHILE ←",CL• TVN (HD) »3«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/35
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL• MEGA (HD) »1«" tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="→ CHILE ←",CL• MEGA (HD) »1«
-http://23.153.217.158:8080/89822485/9eur9j49u3y/43
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL• MEGA (HD) »2«" tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="→ CHILE ←",CL• MEGA (HD) »2«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/42
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL• MEGA (HD) »3«" tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="→ CHILE ←",CL• MEGA (HD) »3«
@@ -18270,7 +18346,7 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/41
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CL• MEGA (HD) »4«" tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="→ CHILE ←",CL• MEGA (HD) »4«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/40
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »1«
-http://23.153.217.158:8080/89822485/9eur9j49u3y/47
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »2«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/46
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »3«
@@ -18278,7 +18354,7 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/45
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »4«
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »1«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »1«
-http://23.153.217.158:8080/89822485/9eur9j49u3y/51
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »2«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »2«
 http://23.153.217.158:8080/89822485/9eur9j49u3y/50
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-name="CL• CANAL 13 (HD) »3«" tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="→ CHILE ←",CL• CANAL 13 (HD) »3«
@@ -25705,21 +25781,21 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/247846
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248281
 #EXTINF:-1 tvg-id="" tvg-name="US: Sportsnet East HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABAlBMVEX//////PwAAABcZm/V1NbKyMhSXmdYY2x3f4esqqpVYGn8+fnIycvFHDSAiI9daHDOz9FOWmTDACYaUor39PTY19m9vcHv7Oy/vb2cmpp2dXUbGxtnZmZWVVVGRUXz8PDk4eFmb3cAQYGFg4N8e3unpaUuLS21s7NBQEBPTk4lJCSWm6BfXl6mqa2OjY2MkZc1NTVudn4UFBT25ObDCirekpnstrvb5OwASoZ5lLSnus+hpKqsr7SUmJxATln43uHxztHtwcXhoKjXeYPNVWTJOU3IIzzIP1DYg47Wb3rNTVvCABrBABLmq7HQY3IdXZJAcJ3R2eOSo7y8ydlefqSVq8SdedkdAAAJhklEQVR4nO2Z+1vayBrHJxAIJDQEmwsgklBAVOSqVhFaL1tt1e1q193//185884lN5DT85znWco57+cXJ5MwM9/Me5tICIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIJsBuV/HFS4/aDC7QcVbj+ocPv5f1O4XO2sK4GWu1eXTG8UUv+mJz7gyiFWjbpiw+JdxPDUWrtT32vW651azqO37FwKxw9/6Dtd/nCnXQ0MNo6aetoK6CAkSA+SswyYzILfNw7q9TadjP7adtSIgL0bj7UdI36H4/lLXaphB55tvK2QBO1mJkazahA1k6bRtdnDdu041jtuw4rsZvrp6V7RJvWlQfYUog734j2H9DmnXMlLKgWmcA49lZHfyqeouKXP6b488b2F87ZC0jtIL69KekuLy2TaYA3Wcaq3mSNEHa94vEumS311Uj1K91VJKRtDZwszNWi6gZZNorWcgZ7uKxBD8X3lLYWhmL1arbPLmw2js2LJGZuQomwf7cvWrhP1TvfHYf9BsDxCryoajWGtI58ki/iaKxZdmVdgCgM3L7vLnKzpmRr8jfVr85VRM9pD8aY7dP2kxtv7Xmh27V6v2BBth+REa1zLWb1D+QgZhntkqbleQyrsAcImm9AuBsIC6hAfuuJHfj+uUKfrJVYLmi1vLu5Q2xRYtgV/5kIj6/PWKgwXXYRJLd4+9MK37tHeQOh1PCHqwIGHHdG9Gzlcj/VPhUIW5xryNbBb4rkaXMiZ/QK3RY390UxbIS40tZEh7mS1dCh1NWGfUfh9U2H4/g9zgRdFaWG7U/A9KcyTb52/NLnjGYPYQmsVHhcyGj6LYk2pHa6kkWaOe4EfTWaBMWoTbq0tlSispS9oXGKbqY2SuUSx+bbn3TVZPVQol0k52htWA3FDCG/AO6vyTZl6wuKGImdJwbbcjibsuMJ3dDfHNOVEZOFJQG4bTNYY9ugbZQNxQfOAeZ3mEn+k8YbYK72vWpyAT839NKtbP6MwMkim4qBRhVt2PTQnuytibUfYcEZNKQz9d1yr1YbC1RoseodxjEsJkpG02SiydTBBedebsPgyNwLuhhYxhCOWW5wsl0S8Fu8OfkIhnbW+n5iWOVCQziAQfrrhTrFfGmKfDwhJp5DMQSf5zDGRk+0mH2zCZEyZFihMj9bynApzMo94hUS60CbCP6wKN96lFLFKIW3lavVE6mqsyvjUx0TQqNti94WuIfEPUw835cuNbCGarJF4tG5zZ4PVC5t0SswvTYPwzcxq+Qpn4vFReE7UB+ksv9JKGXbQa0Qix2pogCFHjkIOkgql0eaIlbKCzL5wECLTTi5Wf9pOrh0bOBCR0/SJI8z0E/vTp6UE90yzJNxQFC7E5K9isUagVGirFhR2lk9n9oa7oUKR8Q8anBoEICJWu+fxsnocboJ4H1M6iLDKoZF4C7tsT+VkkHn92lQq5MYJyzX4ynnaoKlf7BWEnEQoVbh3ttYFGqEwTFAszCsiVh7acruK8aGJfPMs6/kiukxzJHJIRTrwmJspibsuUcVWW+wwICY79m0WaLIloiSqmwoNzPwOzR/Jg0fA3bCwLtBIhdLfuiwFi0hHA6h49dXEoUlms6OuE9Rk/VyjxXjM2aTaIh9fvJS2ocQUDmEyGcNrhIdQSINErcSKG/oLXrm0Bq5A5QHazcva4Of3MNOpyvoqsxfWHmMn8ZLs5cPCtE2iHABZRCZPkR72Y3qJIwv0erUoo2/Dp4FRp0zYhkShUzPpWxCCdXmw4I4nA01/7Sle+uFyid3xwgL7OPWbIJ0VDqtK5GxHsMawiGE+YiRsYfkNHdXpZM58MJ+bfTbDKDTT/IKQUj6boFxi4wh3rax1Q6mQeO3knE3HprsiAnojNQTxh/Fnx0Uec0RW3+d1Sz36rTTFXZGo/ShR7HeKlurQA7TAttmf0oSeFXUINZUS4afE2NmwzGyK5k/W/3mtG8ayhdHriIhZH+Z4v1EtAt2lIcBZh3X2cLtrCM8nVpc9bomN5lc9O2pXw58b1TadpwvVnXFycnJ1fXNze3Z29vHm+vqKXoNMz52PJmUd6hW1lMTiGd63+OW6bJg84ye+eCS6Vv5w6WayI361PA6/vrr5ePvbl7u7+52I+7uvf3y7/XhzQu8Hpfkn7+2PRW+vbrXCfxBmjzffHr7evzs9PX2Xhvbd3z8+nF1DNjLe/uIVXiiGbRsK/xSVfngTCgk5ub69e3ra2Tk9pZsWkwY9kcydp3dfb+lWOmZB0mcWac/ZxYJdGEG/wKo5feLapBAxKZENKbRvbh93fn86fXf/9csf385uv38MOTt7eLwHnaHMne9wdKKwevQzSwy0IIAevQDVqeG2dE2fmC0tq+muQTOOxm7qemVTCsn3HepptzdXVzSmQBgi5wLC487V9dmX+yexm3fXRGFpj8WUKk9ENMRq4tBEgrJGM6Lne6DJdAoFs8zqd7MgDyCb8MPQUYzZ84eLD5KLi/fvX2aXP85pdXzy/bfHO+qPjyfsHAx5X7gWga8d+idxtCeDPNTovkEWg8HchbgO5W3Z26gfRtiXl3/OXl4uQJuAtp+pzNdzcNaHuweFHQ41U5VHe2MAZQyUeNqEKpzzLx9917G5JgJ3Cl44x4b/b0Gnt73zH6+z54sPoUrY1Yvnv2bnYLPcKGlRStGgKreogFZgwBeaPI2faraigQtqLbNvsyReYd8H4lNsGmGwr7OX90zky+zvy8u/Z3+9XDz/+YNKKlWEwFYroIWArkHVRha83lGIURpNWlD9aPkC+x9ChZ2zYsNvUFsCuvjX2fuLl8tzIfn89XL27CvgV9qk5DiO6hiEfV2DQwYcqGjNbRgGzReqa7J61RInr/iJ8ddRCGuxX2devGKxz6kd0jygz/lO0wMTeJ1ODxnsU07BHxRM8xONTMxZ2blkpItGOMxGxLxFugajVz5Y3chdUEqGQ3ND2RwB7NNNaZSnBrrwggXNEZUBPA5SR4n68B/W8J9C/QoSOEv4fbuQ13QeUGgQ1bS861Ygw0+yNOuX6V7CgUPX8p+2SmGJ2qHAdWl7JD6MqNA/8EvmBIy2XBjAeY92096Cu00KV/6rN+qXdh1L8Knjxq+v8L8FFW4/qHD7QYXbDyrcflDh9rNc9SEIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiC/Av8CpuEBU7AUTKsAAAAASUVORK5CYII=" group-title="→ USA ←",US: Sportsnet East HD
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248282
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »1«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »1«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM CHILE" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ ESPN ←",ESPN PREMIUM CHILE
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248464
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »2«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »2«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="→ ESPN ←",ESPN PREMIUM ARGENTINA
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248465
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »3«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »3«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="→ ESPN ←",ESPN 1
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248466
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »4«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »4«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813" group-title="→ ESPN ←",ESPN 2
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248467
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »5«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »5«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="→ ESPN ←",ESPN 3
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248468
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »6«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »6«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="→ ESPN ←",ESPN 4
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248469
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »7«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »7«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="→ ESPN ←",ESPN 5
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248470
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »8«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »8«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/3840px-ESPN_6_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="→ ESPN ←",ESPN 6
 http://23.153.217.158:8080/89822485/9eur9j49u3y/248471
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Ecuador TV" tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←",ECU | Ecuador TV
 http://23.153.217.158:8080/89822485/9eur9j49u3y/250858
@@ -25775,7 +25851,7 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/250882
 http://23.153.217.158:8080/89822485/9eur9j49u3y/250885
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | IVC" tvg-logo="https://logo.iptveditor.com/ivc.png" group-title=" → VENEZUELA 2  ←",VENEZUELA | IVC
 http://23.153.217.158:8080/89822485/9eur9j49u3y/250998
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »9«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »9«
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/3840px-ESPN_7_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="→ ESPN ←",ESPN 7
 http://23.153.217.158:8080/89822485/9eur9j49u3y/252707
 #EXTINF:-1 tvg-id="" tvg-name="ZCL• TIGO SPORTS (HD)" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/tigo_sports_logo_2.jpg" group-title="→ ZAPPING CHILE ←",ZCL• TIGO SPORTS (HD)
 http://23.153.217.158:8080/89822485/9eur9j49u3y/253657
@@ -35657,7 +35733,6 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/287849
 http://23.153.217.158:8080/89822485/9eur9j49u3y/287850
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts 2" tvg-logo="http://213.145.87.11:90/Logos/musicchannel.png" group-title="→ MÚSICA ← ",Stingray Concerts 2
 http://23.153.217.158:8080/89822485/9eur9j49u3y/287880
-
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E01" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/1199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como la vida misma / Mega S01 E02" tvg-logo="http://tv.streamid.tv:8080/images/68a940228b776cfdea6f66df17fe7d67.jpg" group-title="→ TELENOVELAS ←",Como la vida misma / Mega S01 E02
@@ -41006,219 +41081,217 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8144.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8145.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHEpanuPhhbROwpDBJ1XTggLGi.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E24
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfPxYWp72708zzFiChEM7FIzXIQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E25
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagNMQQ8OcxthDA19Y7TsxARVrx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E26
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagNMQQ8OcxthDA19Y7TsxARVrx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E25
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDP92xVoaiUJwP2KSzZgcrT6mAD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E27
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDP92xVoaiUJwP2KSzZgcrT6mAD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E26
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E28
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E27
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5AVUZh6TKJcdmGoxPmbYl4YKjI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E29
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5AVUZh6TKJcdmGoxPmbYl4YKjI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E28
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E30
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E29
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnQ1cZ7kh5P9WT51GfCAEUYoyB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E31
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnQ1cZ7kh5P9WT51GfCAEUYoyB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E30
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSPgr3pQZNGgSo8MhLep3Mz03vA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E32
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSPgr3pQZNGgSo8MhLep3Mz03vA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E31
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E33
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E32
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIT8zCnnDCnXETgFa1LeDaHAaJb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E34
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIT8zCnnDCnXETgFa1LeDaHAaJb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E33
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtGwQgwcWQswclO4VMRTp8Bojye.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E35
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtGwQgwcWQswclO4VMRTp8Bojye.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E34
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivdbd7RaT7sYuwDvToQiTVajCen.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E36
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivdbd7RaT7sYuwDvToQiTVajCen.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E35
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRi2euYlrFdOcgroS1mBxaZQ8yW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E37
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRi2euYlrFdOcgroS1mBxaZQ8yW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E36
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E38
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E37
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYKm51Fy6XMEIL3x6JhZX0qYysf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E39
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYKm51Fy6XMEIL3x6JhZX0qYysf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E38
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euuQ78mxzJPg1GrldmgdHvJUmWt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E40
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euuQ78mxzJPg1GrldmgdHvJUmWt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E39
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRNQWj9r9onDDmvGCSawMqVRA4Q.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E41
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRNQWj9r9onDDmvGCSawMqVRA4Q.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E40
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHOEgVjfxHUpL507FXnAuItKZ3e.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E42
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHOEgVjfxHUpL507FXnAuItKZ3e.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E41
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AolzwKsxt9QEWszPXOab8BRYJyh.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E43
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AolzwKsxt9QEWszPXOab8BRYJyh.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E42
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUojyq7KQ8eLNTRcu7JEvSFwyAA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E44
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUojyq7KQ8eLNTRcu7JEvSFwyAA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E43
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64bwNZQ2bGy0FUPam80YJmto9yV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E45
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64bwNZQ2bGy0FUPam80YJmto9yV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E44
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BJsw5HLiuFDB2DIVvSEAYalne3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E46
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BJsw5HLiuFDB2DIVvSEAYalne3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E45
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqqiWjgabh44xeBXP5CkMzLinEU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E47
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqqiWjgabh44xeBXP5CkMzLinEU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E46
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bql4sIf6cPjHm7hDHiIHJmsgpq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E48
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bql4sIf6cPjHm7hDHiIHJmsgpq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E47
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3MOckWRrbjVVPbGBgcBjUtTG5R.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E49
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3MOckWRrbjVVPbGBgcBjUtTG5R.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E48
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E50
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E49
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLYvVzEvuRkW2hTVW8CxC0QpyLd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E51
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLYvVzEvuRkW2hTVW8CxC0QpyLd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E50
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH9DKGGZCfgHiEZ9sxPqc5NsO1L.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E52
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH9DKGGZCfgHiEZ9sxPqc5NsO1L.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E51
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgQW1zSIKciE71YFLXnMGtqYmul.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E53
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgQW1zSIKciE71YFLXnMGtqYmul.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E52
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCFOybog7z2HwxTLBrXj51YBLW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E54
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCFOybog7z2HwxTLBrXj51YBLW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E53
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeSBWMqPIud5z2eed4zZEaWRgQs.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E55
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeSBWMqPIud5z2eed4zZEaWRgQs.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E54
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emcQ2oX4sjYCkVuztSZykym79vH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E56
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emcQ2oX4sjYCkVuztSZykym79vH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E55
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axMneVWzdKg7VxAHaJsB7V36RHw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E57
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axMneVWzdKg7VxAHaJsB7V36RHw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E56
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu3MOamiU5v6QGrp6uB52SK51nn.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E58
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu3MOamiU5v6QGrp6uB52SK51nn.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E57
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av5BdUkgp6SWxv8fuy72YqxALA3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E59
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av5BdUkgp6SWxv8fuy72YqxALA3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E58
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mVxEPOPzHDJpcgNt2PiLV58ybD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E60
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mVxEPOPzHDJpcgNt2PiLV58ybD.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E59
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E61
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E60
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72we90g6fQZJTCvnZ7vNRgc6Kjt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E62
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72we90g6fQZJTCvnZ7vNRgc6Kjt.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E61
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXlGtmGGFlvbuTW65d6H8ea8a57.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E63
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXlGtmGGFlvbuTW65d6H8ea8a57.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E62
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjHN21nQ8Ryu4Y3Bc2TrVa95iAr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E64
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjHN21nQ8Ryu4Y3Bc2TrVa95iAr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E63
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eASKXzLkUArLS36FMkxWozIBHBu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E65
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eASKXzLkUArLS36FMkxWozIBHBu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E64
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oShiyZ5wPFgxKlxq2ASqsbBPmjH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E66
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oShiyZ5wPFgxKlxq2ASqsbBPmjH.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E65
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E67
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E66
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt90JqLL1r3bx7aiOXQttfbkHsU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E68
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt90JqLL1r3bx7aiOXQttfbkHsU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E67
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnGgyBiC0Sbgq3Gh1JlvtSNzC68.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E69
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnGgyBiC0Sbgq3Gh1JlvtSNzC68.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E68
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNaqeypPrXqx3z08Qht3P3jgML9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E70
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNaqeypPrXqx3z08Qht3P3jgML9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E69
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OPpa9widO9AfI0sIFrszrFlx8P.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E71
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OPpa9widO9AfI0sIFrszrFlx8P.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E70
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E72
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E71
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bXI7KMhg2GM0HBVnKiZDpplgXO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E73
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bXI7KMhg2GM0HBVnKiZDpplgXO.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E72
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md4r1B7BrxOomUXWOptDk5KCeV9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E74
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md4r1B7BrxOomUXWOptDk5KCeV9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E73
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5L5bR8l6CsCwImtiyZqVyDI4EL.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E75
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5L5bR8l6CsCwImtiyZqVyDI4EL.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E74
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E76
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E75
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E77
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E76
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BCjHqvlujJAUOeq64P9dwgxfuW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E78
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BCjHqvlujJAUOeq64P9dwgxfuW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E77
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL8YKGhVXcJLiblflz0bYnNsRgl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E79
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL8YKGhVXcJLiblflz0bYnNsRgl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E78
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAdLqsS6EGeyNUJf6htx4EULCa.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E80
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAdLqsS6EGeyNUJf6htx4EULCa.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E79
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kc8vONRAjna47TDqWKiGQ2L5hv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E81
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kc8vONRAjna47TDqWKiGQ2L5hv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E80
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E82
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E81
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA0TLxx39HIsspG1JBcuQGyXLz1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E83
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA0TLxx39HIsspG1JBcuQGyXLz1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E82
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwhZ2hFWTtSQG3YyywukqiAFOS1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E84
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwhZ2hFWTtSQG3YyywukqiAFOS1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E83
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLcSDEpMXqyPaOzvtgX8dvMvvVJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E85
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLcSDEpMXqyPaOzvtgX8dvMvvVJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E84
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJWz4LD3BpHlt4prFSPTL7gCBWZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E86
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJWz4LD3BpHlt4prFSPTL7gCBWZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E85
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq1ubz2mgSXZPOLbXGLPl8XL9k8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E87
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq1ubz2mgSXZPOLbXGLPl8XL9k8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E86
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8209.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E88
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E87
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Rome8Nbv1YoaYCUUp9KzF1M6K8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E89
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Rome8Nbv1YoaYCUUp9KzF1M6K8.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E88
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVFlLs1H32Tkbnn0yrE9v5sroOq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E90
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVFlLs1H32Tkbnn0yrE9v5sroOq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E89
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ya0FGIsjoDXdxQMPID8Q5FUBOw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E91
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ya0FGIsjoDXdxQMPID8Q5FUBOw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E90
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIX6S5TMwV9gndf1Yct84B8Gdl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E92
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIX6S5TMwV9gndf1Yct84B8Gdl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E91
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3WWHHygNxyyvWu0IUjlkfeJiSi.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E93
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3WWHHygNxyyvWu0IUjlkfeJiSi.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E92
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyYMG6NIwtVOS5oDWXWqHU5DCFC.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E94
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyYMG6NIwtVOS5oDWXWqHU5DCFC.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E93
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRvwNWwkFHqInIZAvgtMQ8n3XE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E95
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRvwNWwkFHqInIZAvgtMQ8n3XE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E94
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebY34YteL3ziMxqKyRaLRYnX6Gz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E96
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebY34YteL3ziMxqKyRaLRYnX6Gz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E95
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIQsAM5nkbNmI5OnvGlB3lY4r3w.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E97
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIQsAM5nkbNmI5OnvGlB3lY4r3w.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E96
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lep2tZlqKsF7Yt7hOU7uTAnvWK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E98
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lep2tZlqKsF7Yt7hOU7uTAnvWK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E97
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPFWOxv43Mj5WfVRT1UHPAm28jz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E99
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPFWOxv43Mj5WfVRT1UHPAm28jz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E98
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WOXfmR6JjtTnLsrQH98MBoqYgQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E100
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WOXfmR6JjtTnLsrQH98MBoqYgQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E99
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ry76L4RkyeOtMAveIVNRtON91Ve.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E101
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ry76L4RkyeOtMAveIVNRtON91Ve.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E100
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptp2bxOhupl2rzbkpYEVqP985PQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E102
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptp2bxOhupl2rzbkpYEVqP985PQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E101
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQapkPUZhxWA8qC2vHPg3jzGx0R.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E103
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQapkPUZhxWA8qC2vHPg3jzGx0R.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E102
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eX0Cn224hyJZtMzBQJKvFupQYUg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E104
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eX0Cn224hyJZtMzBQJKvFupQYUg.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E103
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KnuMATqxrgoSbQaQ1S8Ov3vS7h.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E105
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KnuMATqxrgoSbQaQ1S8Ov3vS7h.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E104
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDsJwd6FhyS5I7ylinALeYIceCZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E106
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDsJwd6FhyS5I7ylinALeYIceCZ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E105
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gc7Ood1kqq0eyGy4tPLziTTOAp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E107
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gc7Ood1kqq0eyGy4tPLziTTOAp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E106
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4REl0pg5fGBsoCEna70dWPxh6Ob.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E108
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4REl0pg5fGBsoCEna70dWPxh6Ob.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E107
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAxuDsiQ2ORT0a10XseqP5zcLIb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E109
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAxuDsiQ2ORT0a10XseqP5zcLIb.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E108
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ztdp4838lSsJcpeY09SLH0IOnE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E110
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ztdp4838lSsJcpeY09SLH0IOnE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E109
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNHs7L1tjpchqzg5k9scd45BDM4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E111
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNHs7L1tjpchqzg5k9scd45BDM4.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E110
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zt1BcEqZyVuy9ygBCHJYR2Z72i.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E112
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zt1BcEqZyVuy9ygBCHJYR2Z72i.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E111
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRTDYvcwsyspRLE9IVLOXpn2MHL.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E113
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRTDYvcwsyspRLE9IVLOXpn2MHL.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E112
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRapGRLPhmYbRngHVwjFKe9h6Bj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E114
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRapGRLPhmYbRngHVwjFKe9h6Bj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E113
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vIF3koAMyJ6kr8mCvQzw4KpgDw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E115
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vIF3koAMyJ6kr8mCvQzw4KpgDw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E114
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpafjoFXrtrxnhQcWBfN0pzSnTe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E116
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpafjoFXrtrxnhQcWBfN0pzSnTe.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E115
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj13OO0upX8M8kQh34Ssq5hVEBz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E117
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj13OO0upX8M8kQh34Ssq5hVEBz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E116
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E118
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E117
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOdVxSI7spAKfROo89w7sru9Twq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E119
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOdVxSI7spAKfROo89w7sru9Twq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E118
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucQOHxMVheMrfbL5eYYZNU52kam.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E120
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucQOHxMVheMrfbL5eYYZNU52kam.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E119
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyc3iF3arzhBYPWzIG1riEunMGS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E121
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyc3iF3arzhBYPWzIG1riEunMGS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E120
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wu0kMb5iv05wq7TBiUTnclYQ2t.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E122
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wu0kMb5iv05wq7TBiUTnclYQ2t.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E121
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFavGtDQfvEAcqAabZvcI45EJga.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E123
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFavGtDQfvEAcqAabZvcI45EJga.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E122
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ia1tXZVa0pWBzphdHI0bBljeq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E124
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ia1tXZVa0pWBzphdHI0bBljeq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E123
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDozprtR37alSI7iSgoNKBgPXSq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E125
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDozprtR37alSI7iSgoNKBgPXSq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E124
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpvlKU3R63NOu4n3qf5RkdoA2N5.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E126
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpvlKU3R63NOu4n3qf5RkdoA2N5.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E125
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KdBdOoWc2vPRpSiklgHktFtJMp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E127
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KdBdOoWc2vPRpSiklgHktFtJMp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E126
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h31kX3q0gguusHacmLgdEZESbsu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E128
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h31kX3q0gguusHacmLgdEZESbsu.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E127
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pKowZkQBolsVnWJ8qSGrIuwZ11.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E129
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pKowZkQBolsVnWJ8qSGrIuwZ11.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E128
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E130
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E129
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtyMLDoFwnCURfGLZ3WMDk9Seur.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E131
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtyMLDoFwnCURfGLZ3WMDk9Seur.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super S01 E130
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/8253.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El joven Wallander S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYfZTf0q525EsEdO9aYT59xieLR.jpg" group-title="→ SERIES CRIMEN ←",El joven Wallander S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/246379.mp4
@@ -42829,13 +42902,55 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10062.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Justice League Action S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nNtndBQXrh6v7Gx5XJJlRrP8hy.jpg" group-title="→ SERIES INFANTILES ←",Justice League Action S01 E52
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10063.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qr4GsMOTCZ1EfCEx6Rj3Z2HW8n.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E01
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10110.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288231.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKLiv68O1l7iNq8xVH2TXadAtH5.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E02
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10111.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288232.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pacg09G75R17wpUsy8o0l5zmKz.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E03
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10112.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288233.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB3h5QEMkJ0i230l6TJEtZXK7tH.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E04
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10113.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPdABoe2XarDS5CF7X4F7DTso99.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7N4sNojblfpceN47vks3111Plx.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upAJNjYbDPUp1k3OdGm5DhqCwH.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBgD0FLD9FVghw5FLT2jJDcmjyQ.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpuBPRXAnlAV9aAdA2aIm1vgUX.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S01 E09
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yAtOKwgUi2oRFBoMb0denyqugk.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzUkJaAxZgvyAsJD4NB0k1HvOrh.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fml8XGNgXYilsMhcCdJzQb8JlO3.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l66eYRyPbUqz7bH0fV36LjnP8fm.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcqLkPpHXiXu2EAVjcHRe8bBMQW.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i04azl6atnU2OnVlrGAIS7A2HHj.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86NFu63AWGm2Nz1fo9rlvinvEsP.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK8Qj4kUPSfAZOn7iCy4OBwIC9v.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S02 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odOex54dxS2x5pTQPUFECpUhMkq.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/439s3VJNrzFUvnQ4qEkXOQgScpI.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GPPssw2Jq6fdxoK6a7OBHFDaBp.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx3TKJXWaVNNS6FxChZAOrBdcni.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3kBBhRrUpxvwtwmv9dmWOkc0UX.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye8JuHQt8XRHN7G7BvlCSUCUsSp.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQqYGdOLqim3tX42XcMqIa682Um.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La edad dorada S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVwGNKIu2o3JHDT4klfkWVKeyuz.jpg" group-title="→ SERIES DRAMA ←",La edad dorada S03 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288255.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Montaña De La Muerte: El Incidente del Paso Dyatlov S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzvLgNVB97fbpUBE5mOAybjZ0YX.jpg" group-title="→ SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/10153.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Montaña De La Muerte: El Incidente del Paso Dyatlov S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vizuBLil9oqN4w0SsG6LiVXiY9e.jpg" group-title="→ SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov S01 E02
@@ -71636,208 +71751,6 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44136.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44137.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hunters S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBt2UBr9qB8my2er8sumYGdp39H.jpg" group-title="→ SERIES CRIMEN ←",Hunters S02 E08
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dClQ5Xtgpn6hydgdhYYbQO5p2aB.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E01
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8HAQTe5PAx229ogemX4X9zOGPB.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E02
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK8DjhuqlX9p39BSrAGDvonEJeH.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E03
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ysX0XR33xEM4QzY0KttdgOIb2y.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E04
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/punyzOGxvOpDvGvYhiMKfGv4Xm.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E05
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E06
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E07
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E08
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E09
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E10
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E11
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E12
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E13
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E14
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E15
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E16
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E17
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E18
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E19
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E20
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E21
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E22
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E23
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E24
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E25
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E26
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E27
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E28
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E29
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E30
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E31
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E32
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E33
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E34
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E35
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E36
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E37
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E38
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E39
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E40
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E41
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E42
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E43
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E44
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E45
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E46
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E47
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E48
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E49
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E50
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E51
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E52
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E53
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E54
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E55
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E56
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E57
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E58
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E59
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E60
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E61
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E62
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E63
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E64
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E65
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E66
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E67
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E68
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E69
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E70
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E71
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E72
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E73
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E74
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E75
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E76
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E77
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E78
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E79
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E80
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E81
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E82
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E83
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E84
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E85
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E86
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E87
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E88
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E89
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E90
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E91
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E92
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E93
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E94
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E95
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E96
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E97
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E98
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E99
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E100
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icerde S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwtOUPG5mOdZjx1uuCiUQRAmgl2.jpg" group-title="→ TELENOVELAS ←",Icerde S01 E101
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/44239.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Imperio de la Mafia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mav2rDhy0Bb7SuAcBxCYQkEiiXK.jpg" group-title="→ SERIES CRIMEN ←",El Imperio de la Mafia S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/278480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Imperio de la Mafia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcG2tBqq76QQqHUhrKRgxqxw1cU.jpg" group-title="→ SERIES CRIMEN ←",El Imperio de la Mafia S01 E02
@@ -77506,24 +77419,24 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/278573.mp4
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/278574.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marvel - The Punisher S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqu7NwokmhEQRCplas6wixHJ9H2.jpg" group-title="→ SERIES MARVEL ←",Marvel - The Punisher S02 E13
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/278575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E01
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbe8l0Hnbvu07ePgoOopyWYrcdL.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E02
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E03
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46585.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUyNXvZQ4FKBT6T5nOVhF255GlU.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288151.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E04
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E05
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E06
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E07
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46589.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43wMXcFfFsV50UBvcvPACeu9015.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgEQGtjqy2ykz2C0VOu6x56wIn.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp8MVmQrdBafZ6H85jDfDx6HMQP.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288155.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E08
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46590.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288156.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="→ SERIES MARVEL ←",WandaVision S01 E09
-http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46591.mkv
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="What If? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg" group-title="→ SERIES MARVEL ←",What If? S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/46592.mkv
 #EXTINF:-1 tvg-id="" tvg-name="What If? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="→ SERIES MARVEL ←",What If? S01 E02
@@ -79226,6 +79139,10 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/278654.mp4
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286278.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fARP0KCN1dygMoWepGmJLa7FkAj.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E02
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5QrA5SeIsOIzDTOqbLADqymT7gz.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/505bDYzfILnGh9EYvlEffyqdhRt.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/273881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E02
@@ -112126,6 +112043,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286222.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287418.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gKv3DXk2oksZCxy1aQaozBL7N6Q.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E09
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Materia oscura S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/7xpffs8Bb514duYm3sA2wHGJzPn.jpg" group-title="→ SERIES DRAMA ←",Materia oscura S02 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288087.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/244956.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Silo S01 E02
@@ -123740,6 +123659,18 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/267653.mp4
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/267654.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpOGtvNoPNfn8DO69RIiPiZhuRn.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S01 E06
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/267655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3nsWrRaokBXlUICqLKUEfR0ZDj.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE9pu8icYRPkgEo6iN9v7KcpU3I.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11oYUL5WR71XBxILuPCioVC1L3K.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DqDmMavYKw12MGBvM0McrnjJWS.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1D76dBINJvYOlSeGOG8RVZxPfqV.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palomas Negras S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3miVXRkKFLDYBQd9sej2xn2R1EI.jpg" group-title="→ SERIES CRIMEN ←",Palomas Negras S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288141.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DAN DA DAN S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmVsa3oLgAd26YNJOPjJ4QgWY08.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",DAN DA DAN S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/267712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DAN DA DAN S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",DAN DA DAN S01 E02
@@ -127822,6 +127753,10 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286221.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287417.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/n6u9ZRpbT1nw6YcMi9nlJlu2FdT.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E06
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5H7l8sPbgxVVJZCN5GZ5o2hlxzy.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/3GMU8dG1J5ZMjARy2xo7IXQhg0Q.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqGzLA7f25PSxVruft7wyc3NDU.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/272266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwcTUpTUjEemxvLZ34AObukh6n.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E02
@@ -129350,6 +129285,10 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286219.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287416.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7q69MfBVa3dGcedRl63Gr4H5cxF.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E06
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/h3RBsyLutGAv6I2L2vH13JMAXSs.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Sangre de mi Sangre S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2OPy7p9Qs9NR8lMeU0E0407suqr.jpg" group-title="→ SERIES DRAMA ←",Outlander: Sangre de mi Sangre S02 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLDT28rK6YwWHwuIQAgEHfgMjEw.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/276968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Slow Horses S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAYmAPrr8WFUknwVvc2vVSliBtO.jpg" group-title="→ SERIES CRIMEN ←",Slow Horses S01 E02
@@ -131962,6 +131901,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287658.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287659.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/60N2eEbU3B4Q0uuFcRzXIuWnNMj.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E04
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3KJT1qYaYCuRY8q1H3nDziv4q2a.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288088.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -132180,6 +132121,32 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/282712.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/282713.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTg8q8GjzuV01Y6dFCiYelun3l1.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S03 E12
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/282714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BtV58Q6VtnJYWwM8sltfDrcCxB.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKrj8FTmSBEI9P03CuvfUpkC1JH.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WQBlhc7bzCeR3KHeAtGehwan4G.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWndHJMgFbPdwz6fseRikh1etfZ.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW7Shfu9ESkRntBDsbfJ11aGQGd.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KoL2DEIRiLux6xy6vRagNDjOIW.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuspOuzGLHlJueJAAYS6hq0D86.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhB0dtDxL6xPo1xwXO63mZ5ADoG.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VtrOdzcnerDS3qEEQE6OpEW85P.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E09
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phYYxLDMWTsd4XuDV3oaA0EGpdv.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFYJC73EPiPUWFghk5IENgp5dWv.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E11
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzz3B8WrRc8KDwxHlxfYyXbRhPs.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E12
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venganza de los Ex VIP S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZGYeA6PXdzo6nicrsvmftQxz43.jpg" group-title="→ SERIES REALLITY ←",La Venganza de los Ex VIP S04 E13
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288170.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZoGEhwIQzAIZeJ7XlgjV9LAuRO.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/280486.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Emergencia Radiactiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qicUJJUptke2GqvPsCIPpkhGeQJ.jpg" group-title="→ SERIES DRAMA ←",Emergencia Radiactiva S01 E02
@@ -136796,6 +136763,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286224.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287729.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lxXkbQpm3nRS7eQJqqhRl6Ypp1n.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E03
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ul49AO72NaVyBag1wGrKDLADkLT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNV1OOF71fzTYand5duFx3uaWlE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E02
@@ -136808,6 +136777,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287771.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287876.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R8uiUzWH4ht7EFhDgwH4u0wZxc.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E06
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xesTTPkIZoKYAMT0PH0jl49hMaK.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288218.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy8LgZXwLhf2mAGv195RmXN7ViQ.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286227.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cautiva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kpdRVYN2ITr0ZjddaPuE5CNL8I.jpg" group-title="→ SERIES CRIMEN ←",Cautiva S01 E02
@@ -137220,6 +137191,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287783.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Phony: La otra madre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/d7FRLt0FwRPvcgreNmK0KbBM9J2.jpg" group-title="→ SERIES MISTERIO ←",Phony: La otra madre S01 E03
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phony: La otra madre S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9krpPLG4uUS8tvIYfRtECqUGBrA.jpg" group-title="→ SERIES MISTERIO ←",Phony: La otra madre S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288116.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHU0DiZCLECD6YAlCeCOxkQIJhT.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287853.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkSnVMwWPMM2WCPUkyMjo6ByyY2.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02
@@ -137318,3 +137291,281 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287900.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sheriff Country S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT9twL6u4lD6pTdqls4S4wOSUib.jpg" group-title="→ SERIES CRIMEN ←",Sheriff Country S01 E20
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUaLpR1IbbgPkKz1zg1ZaChZtPy.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HJWVFR8VW5k2wHaRYyOTJqXieT.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mDwOsOfCmkLx4YTWqoovnNActE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u6jKsi8Ji3ADeZirJjsp2hGxAk.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c67WgteMzY7i9Viz4SDsM3KaSYq.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC3KBGWJq1si92nngwiY8te8KG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFYxfzNvMEtflYJBG6VSBfgPVQF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azQBjHiZ8Nw4Vf7CXhYzXzLw8bR.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Gtxm3bSFTVdOCGVikpJQcC9jG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E09
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Uu0oBZzCdMTfNKwcnqf0YuHbly.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wucu7hYb06YwoMgqmqa9AOoXZl0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E11
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56ji8OMkYOeBboe6zcBWi3gdwWx.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E12
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Los Siete Refugios S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciHPwF8H49Cl01KW8LwlPOJFCtU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Avatar: Los Siete Refugios S01 E13
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alma intranquila S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg" group-title="→ SERIES MISTERIO ←",El Alma intranquila S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsHmET7A8YGXH0M1ucyDOOTvpg2.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6NzUAnYJHAAmlk5oc1qSx7bhGh.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkNaIJc7zhKwXlRi2axH3b91wC9.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiBNCi1V5xXHpmJ4hPduMobjRlc.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6jehgEbKZWzwIUwZeT9Gh1L5Z7.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNeFcGGf82NJy1O0G6GYhh40eVI.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7GaFjnTL0euMbNuWf1RpFgF2Y0.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens In Alaska S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2L3Aw9RDmpMcruij7tODi8mGnq.jpg" group-title="→ SERIES DOCUMENTALES ←",Aliens In Alaska S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historia de dos ciudades S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLPtyPV5uofHkBKLZ4VXVgG6zGR.jpg" group-title="→ SERIES DRAMA ←",Historia de dos ciudades S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historia de dos ciudades S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Dli5ahxNIjTzLcxe0YPBhYlg.jpg" group-title="→ SERIES DRAMA ←",Historia de dos ciudades S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historia de dos ciudades S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrsNaTqO9M0avPhWCjneMq02d75.jpg" group-title="→ SERIES DRAMA ←",Historia de dos ciudades S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historia de dos ciudades S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNKWPkNXdnJKBcb3GrQsCYQ5MFu.jpg" group-title="→ SERIES DRAMA ←",Historia de dos ciudades S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0z4gcI4VB9PWek8BAY0eREmr4.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85govEmGpVS5e37idn63AiQ6Lu8.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaaNwAwKnYkBmAvYOOJTxKTykTr.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jku8rIieWlgQ7Ydf7Fn4qfARpEy.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YIjYTSwGOaqkiDjrp9iexUeMgF.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDLEBhdDtLRGqtQuPp2HZIcdNy3.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIxhkFcQbz1vswVnju53KHPCKrL.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los del lado oeste S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKmEpgXFugg3lvTNF6HVjgQiDZZ.jpg" group-title="→ SERIES CRIMEN ←",Los del lado oeste S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRpUqMoNdtNJJCP1yVlyjB0VyV9.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhEYa9oNQDhHpLfoOStSnsIIWb.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSxKHoDDSNZgSmloobxVrWwWNkQ.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffQqDSsbLPLTsDNGMDzKfTJb9Lz.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRsOYSzs8eeNVYDvqGefxUIEtJU.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyMi8LZr64pFSpLCYbexMwRpkh6.jpg" group-title="→ SERIES DRAMA ←",Manes S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daks4b2x1tj0c0BTRKqji20gWjm.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bny0abWDmb1A7dxZQLdci6IPSxi.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHjNDttrEgGqDd63US3rJ6aG59Z.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91RcwxcSn1bQZcY8q9Y0RU5nHpt.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndhAYAfVoluhnKimOuiuivYwfo0.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tXLsclkjoVlA6ehcqmA4S1nxmk.jpg" group-title="→ SERIES DRAMA ←",Manes S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baK8mQu9unnPJ7n1IWvYkM5IBri.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r70dvCdaWzsJZW6Da2fixiTWlnV.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWOnTzC19WmfuchYJUUNePxcerZ.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6gboOhSyl1B6VIzvPym3wAcvS.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3jIAEnlON3U6CCzIcYHrO6GN89.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manes S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4IbPC5n6UdPjkZZyAu21VJ25c1.jpg" group-title="→ SERIES DRAMA ←",Manes S03 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hilos del miedo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nVL1C737WQpoJp1SNTKqdnI4gy.jpg" group-title="→ SERIES MISTERIO ←",Los hilos del miedo S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hilos del miedo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXHKwhzWJ6hngvsRsTWda3Zkb8X.jpg" group-title="→ SERIES MISTERIO ←",Los hilos del miedo S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hilos del miedo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDhtYLJpN69liz09bmniIscgjWk.jpg" group-title="→ SERIES MISTERIO ←",Los hilos del miedo S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hilos del miedo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0pEW3JVhDaP6IHnZZd7scR0B6K.jpg" group-title="→ SERIES MISTERIO ←",Los hilos del miedo S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hilos del miedo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrToyCDKS6OxtG7Fd42Bcvuwwv.jpg" group-title="→ SERIES MISTERIO ←",Los hilos del miedo S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2O7FQMY4xTiihG2mUWmR8RI1Kz.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCJ0yfn7roK0Mniop8jVqzcxuL.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXfSz8razLRylVNeECiMm9sxMAg.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axIKIcmnWG1upBGxKRZ73CjO9qD.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tf5Gy7rANjPcae1vNCDT5sn3rU.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUcD3sWbMzEGoRhDiJeKeDMuIFB.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A0q3zPFkiE4sBX4hPYUhXRcBcq.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un trabajo maldito S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0LN2ZtxqokcsVLrk2b4XrgURuT.jpg" group-title="→ SERIES MISTERIO ←",Un trabajo maldito S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2sFFTLF3SKnIteR4qvE5BTdmjd.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NRv72luvLMXiYuBnwztUSVnG0n.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF05vGgfK4U9NE0fSGv7EXXU7Ex.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZvyE96u4rChXu4dPqrZ1M3Tg0C.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwyYwjrC6MJ4jHUxpldUk3ReH1Z.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG8O3pyWEaBzoPKAxWEmL330q0M.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hatDf12fxDDUPaudHWMVuJAsSs.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Class of 07 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOMkvI2fiudzoPJlAbK7BwH7Tah.jpg" group-title="→ SERIES COMEDIA ←",Class of 07 S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnDQi9BEmpkOsU0LnxWKdBbFt6D.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAflnwnz6Y7CORIErZwi1KuaS3q.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPHuWZEKApf4GS2xWAE9Tl3lVaT.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP5CJnemjFBbfZE5eZoLbWPFLtc.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xqRTlKooZWZjgg2X8qSWxNaqqM.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zafQ5wm7d5yz3G4IuEcCG6jTkFh.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roEUKJZrD3OhCWhggmmRMmGruXw.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhammad Ali: El más grande S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa1W09cdRoZr4PtVxAZBS2IksnS.jpg" group-title="→ SERIES DRAMA ←",Muhammad Ali: El más grande S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nocturno S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x74TmfI68ZgYePLQQ4HVuawGMAi.jpg" group-title="→ SERIES CRIMEN ←",Nocturno S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nocturno S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7INUYmf1ZXQwYiH77orh2h09BQ.jpg" group-title="→ SERIES CRIMEN ←",Nocturno S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nocturno S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zb9wrAzO5GV8Cx62Mi95K91VoOE.jpg" group-title="→ SERIES CRIMEN ←",Nocturno S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ItvtlpBA2ni5E4uuUnljB4jxf.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29c8d8oL1RqyXZ8zBpwWFbLQY6w.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Qcfj915LuyUMJOYjgdPLDmon8C.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldaqA6OMYZ9HMwjKwdTHTNVTHvk.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6oOY1FdWS0wQBCjBoodtgJl3FH.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQNtcd6WT9k4RmN5g0yDenKgfQm.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTtQBqGCXFN73RKVq0mLN7ulj3Q.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUuOXE2Rd9Qbwo9yhR43QXZ6f3.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmVWncrNzBWqFh8o6f88QMD8fCQ.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywaKNIfm8J7Co34Z2MMcEpNQlnk.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwvuP8IZuZAEH0xmVuqVZ4OgIZp.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/An8XZdG5jtkUxeMH00Kpa7UL7og.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUgCc2tJ7fMIowPwZUNQ1DKNEav.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aao4g4qgyQXUeriTp8xJUhe4rLn.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quedate cerca S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHLV0DavrI9BWXd98cQZzPTNhQD.jpg" group-title="→ SERIES MISTERIO ←",Quedate cerca S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me haces falta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkQGFXFyxF28PoSTrCYMUw2B1fT.jpg" group-title="→ SERIES MISTERIO ←",Me haces falta S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me haces falta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whbB7dr6oXkDOv2VAf7i4ztCA56.jpg" group-title="→ SERIES MISTERIO ←",Me haces falta S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me haces falta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UbQXukUupt8rd5IK0m7jrXTR35.jpg" group-title="→ SERIES MISTERIO ←",Me haces falta S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me haces falta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWxE3FKMghI5MRzruUUlHUKuQN2.jpg" group-title="→ SERIES MISTERIO ←",Me haces falta S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me haces falta S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixmds63ik3qjMgL7avgc7IzboRZ.jpg" group-title="→ SERIES MISTERIO ←",Me haces falta S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por siempre jamas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eYVdYwNiPfqu4tZCSMrPKOieJ9.jpg" group-title="→ SERIES MISTERIO ←",Por siempre jamas S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por siempre jamas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFib3mQaOwiFx4L0hkSQCnkWQHu.jpg" group-title="→ SERIES MISTERIO ←",Por siempre jamas S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por siempre jamas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgBPvdNScU8oJjAwllXNzO3RUB2.jpg" group-title="→ SERIES MISTERIO ←",Por siempre jamas S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por siempre jamas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYfql3ZBoqtfC0ENNvN9PbzWECA.jpg" group-title="→ SERIES MISTERIO ←",Por siempre jamas S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por siempre jamas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLqDxu15KnKZJTRF0ITmirYzhH.jpg" group-title="→ SERIES MISTERIO ←",Por siempre jamas S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHZ0kovtYxGr2QANL7nVhAOyHP0.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMqzxWFS7y8of9HhCRja8qEMYs1.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KguoYBcgdMQiMgMnaOpkgMzF1O.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1QHgKO6dV8zLZMzgmu5w36aaEj.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmqY4oa2BZ5u0BsHTCI9eQF3JIs.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHoOhs2hDswV9O2xwcvz0l4G04H.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIeuSImRxMIMoakBqw0N1uqpZVH.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hables con extraños S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osvM2mNfDYcz59vb8UwZZ7fAzHv.jpg" group-title="→ SERIES MISTERIO ←",No hables con extraños S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfZKT7hmQri7pvn1oH5aIviMlf2.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fTmRgccfzgC66Ra0hu1kuHeQZb.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PMH6qhf40GimCdVLYoOXx82Tra.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMaJcV99iLaQyWsrW9uXuerJLG.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzu6U8edl8ftH1rOQXsUpi9bB1u.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRC5E2hQAPX9AVvPD6BJygUtZZe.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a02ZFxni78ikj0ZMA0NEgZYzHSX.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Safe S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xypZGCbKbGzzF2dmjjtqhgxnpH8.jpg" group-title="→ SERIES MISTERIO ←",Safe S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDJVd7nuO9GvFsl3QEG5jTeZjrJ.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Fd5N1Zvh8EXV52ka6vrRQlSaxR.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHvNGegL7MIxl7E2F3Rya8JOsCR.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD8p2sOW1PYySB15hdYKqAR14fD.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eINTiEo1jaXYGSocwNG37geCVe.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campus Drivers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3S0IoOkWq2DAOxOBzIBAYD8UHE.jpg" group-title="→ SERIES DRAMA ←",Campus Drivers S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Del Tesoro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72JK3w67KpJkSeEFsHUQzz9yY3x.jpg" group-title="→ SERIES ACCIÓN ←",La Isla Del Tesoro S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Del Tesoro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAUIKPwoX7PVTNpzpKrXPiWJFWn.jpg" group-title="→ SERIES ACCIÓN ←",La Isla Del Tesoro S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Del Tesoro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24cxbvEbn8xKSUNNW1Zc1rNEQ9x.jpg" group-title="→ SERIES ACCIÓN ←",La Isla Del Tesoro S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Del Tesoro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEPJ9aUD8qFOpiwhNpbvWOoReJa.jpg" group-title="→ SERIES ACCIÓN ←",La Isla Del Tesoro S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Isla Del Tesoro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc6UgNmdva5ymmqA6vvRlx0DVLT.jpg" group-title="→ SERIES ACCIÓN ←",La Isla Del Tesoro S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288230.mkv
