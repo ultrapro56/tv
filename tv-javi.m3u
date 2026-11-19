@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Angel y El Pistolero (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7k8kcBWZT2Vr9utq0f99BiLPG5.jpg" group-title="→ VOD ESTRENOS 2026 ←",Angel y El Pistolero (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus Zero (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VKjocpP0EiUiUzTPWwz7TV2kWP.jpg" group-title="→ VOD CAM 2026 ←",Godzilla Minus Zero (2026) CAM
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como proteger a una estrella (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg" group-title="→ VOD ESTRENOS 2026 ←",Como proteger a una estrella (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madden (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg" group-title="→ VOD ESTRENOS 2026 ←",Madden (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insecta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FzjY7P79R5sb3hCQUWEy7MT6Fs.jpg" group-title="→ VOD ESTRENOS 2026 ←",Insecta (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Día Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V3gfgFsD98TwJwQtW3w6Uelung.jpg" group-title="→ VOD TERROR ←",El Día Final
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z Infinito " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94YCFvoTf2Se9h5c8QMNailwDfs.jpg" group-title="→ VOD ANIME ←",Mazinger Z Infinito 
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288409.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Chacal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxfWi0GCG6Jj6aTN9iEQuCRkK26.jpg" group-title="→ VOD ACCIÓN ←",El Chacal
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288408.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A.J y Su Extraño Colegio (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0rRAxg4WBC91IKRAaGckQysrG0.jpg" group-title=" → VOD ESTRENOS 2025 ←",A.J y Su Extraño Colegio (2025)
@@ -136877,6 +136891,44 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288288.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288289.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Blacklist S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgRgZhDFmAGbQUu5O1EomD256NL.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S06 E22
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38XlNvTMfo90cWU1zpTQq47l77H.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eibJdsPVOJ1s07n2x8nneGMKfDf.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LK0zZCg9caFu61nj94qTouKuhX.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QPryHcHgE83Ofgn7nKD7mt7kYo.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7opDL2QXxG34Yjvyc4J8bnKQKQ.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E05
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R0rrjnBrJur8FLpG6i3MKYOuE.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E06
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJomG3ePCFSveuzGZsDGem0nowq.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E07
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04DMX4s7tqKyTi1Eq6JEaOo5pU.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E08
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfsJJ2VBLK66q2HEkcNkfA72aTB.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E09
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSIMlx8REOOPwqy1V1wPCU7gNlk.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E10
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlklaPsQ1QHAJrtXgYuf3V0LMFW.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E11
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWCZlRy5GsKvSf1IftstheRhXMl.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E12
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbCQduaWXbGOFtCxshK68x7csRn.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E13
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmigo6tSm2DRvf7t4ykj4nSMTMW.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E14
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2ygkifhs4C0hPncgedlyFMaf77.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E15
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKmVAVhEFyM0CWhgYiDKFQpDrWm.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E16
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcT8PranESnzOOXftvyinlbTcj7.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E17
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmZePy7ZPJwsx8c8RknV0jThfI9.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E18
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRWIqQIMVVKEcc1IS8LB83yAlTf.jpg" group-title="→ SERIES CRIMEN ←",The Blacklist S07 E19
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E01
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/285452.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWSRDiaxtCuLjlsXAixDrF05c9A.jpg" group-title="→ DORAMAS ←",Acaramelados S01 E02
@@ -138513,3 +138565,11 @@ http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288396.mkv
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288397.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El crimen de Pazos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGl2hqXSq51y5r3LamFYtpBvLyS.jpg" group-title="→ SERIES CRIMEN ←",El crimen de Pazos S01 E03
 http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ley de las bestias S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN34GYLGTTH0grQUERNPHpfiVab.jpg" group-title="→ SERIES CRIMEN ←",La ley de las bestias S01 E01
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ley de las bestias S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90TKW7ATuezwnbUXvUUvlLcBWY4.jpg" group-title="→ SERIES CRIMEN ←",La ley de las bestias S01 E02
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ley de las bestias S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMPGPkuYA4oYAtubHd7KhuHNnGc.jpg" group-title="→ SERIES CRIMEN ←",La ley de las bestias S01 E03
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ley de las bestias S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkAx5hLm6rZjT5Oj4DB5jQ8CcbX.jpg" group-title="→ SERIES CRIMEN ←",La ley de las bestias S01 E04
+http://23.153.217.158:8080/series/935917692tv/a4gqcz4/288434.mkv
