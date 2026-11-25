@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="CANALES",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:0 group-title="CANALES",Canal Caracol
+#EXTINF:0 group-title="CANALES",CARACOL TV HD
 #EXTGRP:CANALES
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sb
+http://190.60.46.228:8888/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="002" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="CANALES",COL | CARACOL HD
 http://fivetv.org:25461/JoseIzquie0404/7456343/186530
@@ -13,7 +13,7 @@ http://fivetv.org:25461/JoseIzquie0404/7456343/186530
 #EXTINF:0 group-title="CANALES",Canal RCN
 #EXTGRP:CANALES
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sc
+http://190.60.46.228:8888/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD*" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="CANALES",COL | RCN HD*
 http://fivetv.org:25461/JoseIzquie0404/7456343/186534
@@ -24,15 +24,17 @@ http://23.153.217.158:8080/89822485/9eur9j49u3y/347
 #EXTINF:0 group-title="CANALES",RCN Novelas
 #EXTGRP:CANALES
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sk
+http://23.153.217.158:8080/89822485/9eur9j49u3y/348
 
 #EXTINF:0 group-title="CANALES",CABLE NOTICIAS
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="CANALES",COL | CANAL UNO
-http://fivetv.org:25461/JoseIzquie0404/7456343/173269
+#EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cz/index.m3u8
 
 #EXTINF:0 group-title="CANALES",CANAL CAPITAL 
 #EXTGRP:CANALES
