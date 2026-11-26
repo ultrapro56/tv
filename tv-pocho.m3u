@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The Mosquito Bowl (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg" group-title="→ VOD ESTRENOS 2026 ←",The Mosquito Bowl (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacifico (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cyYr8nWZ4CaWhpDttOm82ghr9M.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pacifico (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La negociación (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3jwAo3eqhfjcqwaztGXUfRk8aJ.jpg" group-title="→ VOD ESTRENOS 2026 ←",La negociación (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ultima semana de Jesús (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyydLcjP4KJqeQENYmcajZ2bfIN.jpg" group-title="→ VOD ESTRENOS 2026 ←",La ultima semana de Jesús (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rivales en la nieve (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg" group-title="→ VOD ESTRENOS 2026 ←",Rivales en la nieve (2026)
+http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288519.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En Ruta de Escape (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lqV0i0bRFfgpxEmkCH54787Y6J.jpg" group-title="→ VOD ESTRENOS 2026 ←",En Ruta de Escape (2026)
 http://23.153.217.158:8080/movie/89822485/9eur9j49u3y/288481.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame  Bonus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBz81BGHTeU-KkKUNvaFH5a_cy9Y5BTgCo9Z5DRwqnDtBWDhXx3N6bBE&s=10" group-title="→ VOD ESTRENOS 2026 ←",Avengers: Endgame  Bonus
@@ -79903,6 +79913,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288085.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rkaxaVOrOnw1ke66ioo3SofXOXC.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E05
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/buQLdkJbt2DTUHiJ0qDRTbZkaIP.jpg" group-title="→ SERIES CRIMEN ←",Tulsa King S04 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288513.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/273881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="→ SERIES ACCIÓN ←",Vikingos S01 E02
@@ -87465,6 +87477,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288484.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288485.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Chosen S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bOjrN7GQHF3E8Y8BEzC9kq0taH.jpg" group-title="→ SERIES DRAMA ←",The Chosen S06 E03
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S06 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ua4PG30UUSgp6qQJ6kf4S5VzoMQ.jpg" group-title="→ SERIES DRAMA ←",The Chosen S06 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288518.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invisible S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O80FUkR8q0igcJMHvvDWCLtFLC.jpg" group-title="→ SERIES CRIMEN ←",Invisible S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/55415.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invisible S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZVQ4DrybgaiiB5znk1d3Q9RsF7.jpg" group-title="→ SERIES CRIMEN ←",Invisible S01 E02
@@ -128525,6 +128539,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288084.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/rRMfPMExTyHhQxKPaCydpDyqVHX.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E09
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Mafia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/h8SkZGUipXUPuCrHTeIn1A1ff0f.jpg" group-title="→ SERIES CRIMEN ←",Tierra de Mafia S02 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288514.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqGzLA7f25PSxVruft7wyc3NDU.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/272266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Careme, chef de reyes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCwcTUpTUjEemxvLZ34AObukh6n.jpg" group-title="→ SERIES DRAMA ←",Careme, chef de reyes S01 E02
@@ -132671,6 +132687,10 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287659.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287875.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3KJT1qYaYCuRY8q1H3nDziv4q2a.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E05
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmudf2JwlRSi0f8pbEM8M3nvcIC.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marshals: Una historia de Yellowstone S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl7eP6XOtQ8D3vtZGjUr7MdCdxh.jpg" group-title="→ SERIES DRAMA ←",Marshals: Una historia de Yellowstone S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhexpLezkqu1BSemG8ZK3yXpUux.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/280394.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Madison S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hwfnPYxNm4GY3WbNa6U9oOJKFl.jpg" group-title="→ SERIES DRAMA ←",The Madison S01 E02
@@ -137661,6 +137681,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287852.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/k03YIUb6yTqCgA2YT0G2PP6w9oN.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E05
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Beerus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/HRUpfmOQxRyJKKjFQQ2OI8piJp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Super: Beerus S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288511.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNV1OOF71fzTYand5duFx3uaWlE.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/286225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VisionQuest S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg" group-title="→ SERIES MARVEL ←",VisionQuest S01 E02
@@ -138093,6 +138115,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287796.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288116.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Phony: La otra madre S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rpzSSm8o6uMF4X8atsrcyGbZDzE.jpg" group-title="→ SERIES MISTERIO ←",Phony: La otra madre S01 E05
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phony: La otra madre S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/bTiA0vsdQI7CLGBjZi6bV9ynl4F.jpg" group-title="→ SERIES MISTERIO ←",Phony: La otra madre S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288512.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHU0DiZCLECD6YAlCeCOxkQIJhT.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/287853.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkSnVMwWPMM2WCPUkyMjo6ByyY2.jpg" group-title="→ SERIES DOCUMENTALES ←",Los Crímenes Del Cementerio De Animales - Una Historia De Terror S01 E02
@@ -138367,6 +138391,8 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288129.mp4
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288222.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nocturno S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6IhSuY2UYUMgMUYDi3vuqeiZdg5.jpg" group-title="→ SERIES CRIMEN ←",Nocturno S01 E04
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nocturno S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jGR7CA15Vwx9W84iBWf9CuVLx6J.jpg" group-title="→ SERIES CRIMEN ←",Nocturno S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288517.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ItvtlpBA2ni5E4uuUnljB4jxf.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E01
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288142.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un reves inesperado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29c8d8oL1RqyXZ8zBpwWFbLQY6w.jpg" group-title="→ SERIES MISTERIO ←",Un reves inesperado S01 E02
@@ -138717,3 +138743,181 @@ http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288508.mkv
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288509.mkv
 #EXTINF:-1 tvg-id="" tvg-name="vidas paralelas S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgJb3GfQo0gKdVfYR7bFoIV45eM.jpg" group-title="→ SERIES DRAMA ←",vidas paralelas S02 E10
 http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90UkqbmRYDjz9aRBWUjEkMICeJK.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lVsytT21IPrhnZZZFRK9JLQdr6.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nk9faoVuAxBjMZjGy8aYkEZedRX.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA3JXRgTe90tvFrVwejXWi3qu4M.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqYqC7PAAlXYl9eSzK5zpboRqBZ.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG665lywJsbyvHUpncH5GR4NxyR.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51DVrWjnkUfkmNwW1kLb7PZX08d.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrJ8uUjLHoVuC9e77Kp3YYJL8YG.jpg" group-title="→ SERIES DRAMA ←",Industry S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YOafwAKSSylyIr4pRY9s616OXS.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLpdxwre6PdNXFV7p3gekOrJRx5.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7dPjZAw3BZXvve0cPyrgby1oKD.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drCiYOKCjIBVrCmPTLfZwSBz9Wg.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvQIK6lhTIEzgirOrA9D4nZqCj8.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZS7QDtYDiE4H6IGhaQytGxlBqJ.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bymbqTSjSAAiwFKRGZtfnl9CdF1.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMm2BMoN7QLSlm0a4n23PleksZf.jpg" group-title="→ SERIES DRAMA ←",Industry S02 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLqzXtu2625L8K1OHalT7PO5acx.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdV6T2LZsjhIdr05aGRL54i3efv.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2sWCAbp8SuSFpTd7x4GWNXhIPN.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gRRD8ubJR1mcVHL8ovPFPmlbAQ.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pmtjHLk5hSxwSWPzdeYKnGrFJW.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFmda78dHFITn5UO20CGRK1vOUK.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5hlFkOHdKUkuFZPpQCF0BDHc6Q.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Industry S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/P1d7nsSX8eQN2b3fBkXmSElpub.jpg" group-title="→ SERIES DRAMA ←",Industry S03 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbikvQwSl0iJGrvWCw9iDnYB6Ou.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2Za3oQNWNGmoLwtttvxImsoDT7.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPMVbaBdlJJUemgbtqgNPw0fND2.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKL8hSFm0gQgt5IqVZdZojlPmk2.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHGW8ZuEJDKq08Cmv9vqTTdzOLT.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unIgMzKE0oacBQqfRIujvbPNGwq.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myFIt9QjWW9BWShwNFVXPxipv7X.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Blocks Zero S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsu17Ko165wKiwhnVkGc7UcRHWt.jpg" group-title="→ SERIES CRIMEN ←",4 Blocks Zero S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2099 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg" group-title="→ SERIES CIENCIA FICCIÓN ←",Blade Runner 2099 S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wokec1ewZhYNMLcKuK01H09i2pB.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiBynS5SFi0ltxFsaYtq39C9k76.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxBO1gp72V4uBWLSACzL3RvEjQ9.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg8AqSOPUaEJvaG8GcdPsCIT2MI.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r89kn8VYl2NahtGAOS1V552w71.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zz9Zw04cvobbS5Bf9MYKxptk9aQ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWGUPY39gmNrMmKAfkP8dalEVyz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2GBif2MdqYhZvQx755Y9xunQkF.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E09
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tULdNWI4qoToSyO5PUEiwRWncAh.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E11
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8rzVr0A4jtsskjRMLEM5NNlqfr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E12
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooI4fJvu4eUZgvRTQx1v3uzUTLU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E13
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E14
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMmzH8KpSNV9dGEQ3LP1Xzeokfo.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E15
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grHJC5Gk7fuk8jywVhs7UYXLiLG.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E16
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b702zYjB82kk0APiyCCYBn7fGJU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E17
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E18
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMcIqPhChoBMpzqXG4CIUuEjKR3.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E19
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E20
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E21
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3Bl4GEYdM6rLO2BYoNz2esIAD7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E22
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E23
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hdDhZFnQ524Tjs5ehiyrDzXJjA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E24
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPuUnWxMttvfVXv99aVgXO3qxpV.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S01 E25
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OUSXOcIs9nzdLmLz0Bwdfhrm85.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E01
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sCbBCi1nxPqVhowB4PvH9SJPZr.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E02
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYykJcutnYPW8O7LAs0T7MvjXS7.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E03
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJjflgwMR7kcUTOrolwqAlppb4f.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E04
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ9RjaDYoyky1neZvAWQRZLPA9E.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E05
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q0KetmCeYoWSimDuRp5aQ1jWEJ.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E06
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Woe1gkRDZtZztJu1Spai6dUqDU.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E07
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3htNh1oP2IZjXTf2ej2H4ZynxKW.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E08
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueDp5eL3maMX8ZzTcHUcOeccnbv.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E09
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs3DpifrmbTGuEEzLDSXAqlhAtS.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E10
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chqwmSxOydZpXiad2BMCsYrtUK0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E11
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH9uKZtzgbsTcIUcjlSOuNCVIoM.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E12
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZCPOKK3iWsROkGe66IideIFYSl.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E13
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMF65VcMIJiUBaJnb0Flq6CZroz.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E14
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2e9oCP375GrV99oioySGjl5CVz0.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E15
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E16
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIqsyFzN4IPJF0xTbmfB3hIYK7d.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E17
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AVzrSS0syPcLXakRPROGF2REOA.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E18
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQZ4OVlfnc1tp1EZrysc7XiA29r.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E19
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qwzt6MCPEDZxBbY1DIG8rcOqyp.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E20
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifdlJmiQmUelFhTDvl56ur4QpyP.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E21
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwKmF4mpen4czxhWoUDEfJCrbSm.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E22
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elqZmxx3KnUFRvzeXJ1Z1iMeABE.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E23
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt2yB4qmF96FQHSwbBEuYwTUon1.jpg" group-title="→ SERIES ANIME Y ANIMACIÓN ←",Sword Art Online S02 E24
+http://23.153.217.158:8080/series/89822485/9eur9j49u3y/288612.mkv
