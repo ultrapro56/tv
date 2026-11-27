@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The JLO Show (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uc4X6ytnytrZ9cWP9NI6mihqdb.jpg" group-title="→ VOD CONCIERTOS ←",The JLO Show (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maldita Trinidad (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyE4XUQLlApI0sqfbrY9i5zgFs8.jpg" group-title=" → VOD ESTRENOS 2025 ←",Maldita Trinidad (2025)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El niño (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wLVChqjN2qsZ3uolEmetkCuzeO.jpg" group-title="→ VOD ESTRENOS 2026 ←",El niño (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quasimodo, l'âme de Paris (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EEuqprSmPmQhgRfGlqzlL97R2b.jpg" group-title="→ VOD ESTRENOS 2026 ←",Quasimodo, l'âme de Paris (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predicadores Mediaticos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnMVyfJevpBCpElzKglYb8pD3hf.jpg" group-title="→ VOD DOCUMENTALES ←",Predicadores Mediaticos (2026)
+http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288615.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Mosquito Bowl (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg" group-title="→ VOD ESTRENOS 2026 ←",The Mosquito Bowl (2026)
 http://23.153.217.158:8080/movie/935917692tv/a4gqcz4/288563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pacifico (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cyYr8nWZ4CaWhpDttOm82ghr9M.jpg" group-title="→ VOD ESTRENOS 2026 ←",Pacifico (2026)
